@@ -5,11 +5,23 @@
 
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
   <bibinfo>
-  
+
     <author>
-      <personname>You</personname>
-      <department>Your department</department>
-      <institution>Your institution</institution>
+      <personname>MARAGIA RODGERS</personname>
+      <department>MATHEMATICS | IT DEPARTMENT</department>
+      <institution>INNODEMS</institution>
+      <email>maragiarodgers254@gmail.com</email>
+    </author>
+    <author>
+      <personname>ONYIMBO MICHAEL</personname>
+      <department>MATHEMATICS</department>
+      <institution>INNODEMS</institution>
+      <email>onyimbomichael02@gmail.com</email>
+    </author>
+    <author>
+      <personname>ISDORA OCHIENG</personname>
+      <department>Pure and Applied Mathematics</department>
+      <institution>INNODEMS</institution>
     </author>
     <date>
       <today />
@@ -20,12 +32,13 @@
     </website>
 
     <copyright>
-      <year>2020<ndash />2024</year>
-      <holder>You</holder>
+      <year>2020-2024</year>
+      <holder>MARAGIA RODGERS</holder>
+      <minilicense>ONYIMBO MICHAEL</minilicense>
       <shortlicense> This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <url href="http://creativecommons.org/licenses/by-sa/4.0/" visual="creativecommons.org/licenses/by-sa/4.0"> CreativeCommons.org</url>
       </shortlicense>
     </copyright>
-  
+
   </bibinfo>
 
   <titlepage>
