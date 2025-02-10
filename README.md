@@ -1,19 +1,10 @@
-# PreTeXt Codespace
+## To Do
 
-Use this template repository to quickly start a new [PreTeXt](https://pretextbook.org) project entirely in the cloud, using GitHub Codespaces.  
+* (Important but not top priority) License: What license do we want? By default the repo has MIT license in the license file. In the front matter, we have Creative Commons Attribution-ShareAlike 4.0 (I don't think that's what we want). Discuss with Mike, Zach and others what license is the best, how to reference it and how to set it up in the repository and in the frontmatter.ptx file.
+* In the frointmatter.ptx, we need to decide what to include, how and make details complete and consistent.
+* Naming Convention: What do you want the chapter and section files to be called? You need consistency in naming files, eg chapters and sections.
+* Very Important: Try not to overlap work. Who is doing what? How are you distributing the work?
+* Very Important: Organise your files carefully in folders and sub-folders.
+* Very important: Anything that you have not worked on, delete from your source folder. We need one folder in one repo for each chapter, any chapters that are not relevant to what you are doing should be deleted.
+* Very important: If multiple repos contain content from the same chapter, make sure you know what this is.
 
-## Instructions
-
-Look for the green button at the top right of this page.  If the button says `Use this template`, then you are ready to create a new repository for your project.  Click on the button and select "Create a new repository".  On the next page, give your project a name, select public or private (this can be changed later), and click the "Create repository from template" button.
-
-You now have a GitHub repository saved in your account.  You can come back to that page any time you want to work on your project (note the URL or else find it in the list of your repositories when you log in to GitHub).
-
-To start work on your project, go to the green button at the top of *your* repository's page, which will say `<> Code`.  
-
-1. Click on this button.
-2. Click on the tab that says "Codespaces."
-3. Click "Create codespace on main."
-
-This take a minute or two (just the first time; later this will be much faster) and then open a browser version of VS Code with everything set up to start working.  It will generate a new pretext book (and replace this README with one you can edit for your project). 
-
-Next time you want to work on your book, return to your newly created repository, go to the green `<> Code` button, and select the codespace you previously created.  If you don't see that codespace (perhaps you deleted it to save space), you can always create a new codespace.

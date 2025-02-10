@@ -13,7 +13,7 @@
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-Measurements.ptx" />
+    <xi:include href="measurements/ch-Measurements.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
