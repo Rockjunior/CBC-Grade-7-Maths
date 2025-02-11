@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-section-Area" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Area</title>
+  <introduction>
+    <p>
+      Why area?
+    </p>
+    <p>
+      Area is the region bounded by the shape of an object.
+    </p>
+    <p>
+      We  calculate areas of different objects eg. triangle, rectangle, squre,circle, and many more.
+    </p>
+
+  </introduction>
+  
+  <subsection xml:id="subsec-Square-metres-acres-and-hectares">
+    <title>Square metres<m>(m^2)</m>,acres and hectares</title>
+    
+    
+    <subsubsection xml:id="subsubsec-Square-metres">
+      <title>Square metres<m>(m^2)</m></title>
+  
+      <p>
+        Check the illustration below explaining more about Area(<m>m^2</m>).
+      </p>
+      <sidebyside>
+        <image width="20%">
+        <latex-image>
+          \begin{tikzpicture}
+            \draw(0,0) coordinate (A)-- (0,4) coordinate (B)-- (4,4) coordinate (C)-- (4,0)coordinate (D) --(0,0)coordinate (A);
+            \node at (4.5,2){ 1m};
+            \node at (2,-0.5){1m};
+            \draw(0,0) coordinate (A)-- (0,0.5) coordinate (B)-- (0.5,0.5) coordinate (C)-- (0.5,0)
+            coordinate(D)-- (0,0) coordinate (A);
+            \draw(0,3.5) coordinate (A)-- (0,4) coordinate (B)-- (0.5,4) coordinate (C)-- (0.5,3.5)
+            coordinate(D)-- (0,3.5) coordinate (A);
+            \draw(3.5,3.5) coordinate (A)-- (3.5,4) coordinate (B)-- (4,4) coordinate (C)-- (4,3.5)
+            coordinate(D)-- (3.5,3.5) coordinate (A);
+            \draw(3.5,0) coordinate (A)-- (3.5,0.5) coordinate (B)-- (4,0.5) coordinate (C)-- (4,0)
+            coordinate(D)-- (3.5,0) coordinate (A);
+          \end{tikzpicture}
+        </latex-image>
+          
+        </image>
+        <p>
+          <ul>
+            <li>
+              <p>
+                This is a square.
+              </p>
+            </li>
+            <li>
+              <p>
+                Its side measures <m>1m</m> by <m>1m</m>
+                as shown on the left.
+
+              </p>
+            </li>
+            <li>
+              <p>
+                Area of the square is  <md>
+                 <mrow> A=\amp1m \times 1m </mrow>
+                 <mrow> =\amp 1m^2 </mrow>
+                </md>
+
+              </p>
+            </li>
+          </ul>
+        </p>
+      
+      </sidebyside>
+      <activity>
+        <p>
+          Fill in the table below
+        </p>
+        <tabular halign="center"  top="medium" left="medium" bottom="medium" right="medium">
+          <row header="yes" bottom="medium">
+            <cell>Lenght of square</cell>
+            <cell>area</cell>
+          </row>
+          <row>
+            <cell><m>1m</m></cell>
+            <cell></cell>
+          </row>
+          <row>
+            <cell><m>10m</m></cell>
+            <cell></cell>
+          </row>
+          <row>
+            <cell><m>25m</m></cell>
+            <cell></cell>
+          </row>
+        </tabular>
+      </activity>
+      <example>
+        <statement>
+          <p>
+            Fill in the table below
+          </p>
+          <tabular halign="center"  top="medium" left="medium" bottom="medium" right="medium">
+            <row header="yes" bottom="medium">
+              <cell>Length of square</cell>
+              <cell>area</cell>
+            </row>
+            <row>
+              <cell><m>1m</m></cell>
+              <cell></cell>
+            </row>
+            <row>
+              <cell><m>10m</m></cell>
+              <cell></cell>
+            </row>
+            <row>
+              <cell><m>25m</m></cell>
+              <cell></cell>
+            </row>
+          </tabular>
+        </statement>
+        <hint>
+          <p>
+            Use the rule that outlines <me>A= 1m\times 1m</me>
+          </p>
+        </hint>
+        
+        <solution>
+            <p>
+              The required solution is as follows;
+            </p>
+            <tabular halign="center"  top="medium" left="medium" bottom="medium" right="medium">
+              <row header="yes" bottom="medium">
+                <cell>Length of square</cell>
+                <cell>area</cell>
+              </row>
+              <row>
+                <cell><m>1m</m></cell>
+                <cell><m>1m \times 1m= 1m^2</m></cell>
+              </row>
+              <row>
+                <cell><m>10m</m></cell>
+                <cell><m>10m \times 10m = 100m^2</m></cell>
+              </row>
+              <row>
+                <cell><m>25m</m></cell>
+                <cell><m>25m \times 25m=625m^2</m></cell>
+              </row>
+            </tabular>
+        </solution>
+      </example>
+    
+     
+      
+    </subsubsection>
+
+
+    <subsubsection xml:id="subsubsec-Acres">
+      <title>Acres</title>
+      <p>
+        <ul>
+          <li>
+            <p>
+              Note that:
+            </p>
+          </li>
+          <li>
+            <p>
+              Another unit of measurering area is <m>are</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              Therefore;🎸
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>4046.86m^2=1 \text{are}</m>
+            </p>
+          </li>
+        </ul>
+      </p>
+
+      
+    </subsubsection>
+    <subsubsection xml:id="subsubsec-Hectares">
+      <title>Hectares</title>
+      <p>
+        A hectare is a unit of measuring large areas.
+      </p>
+      <p>
+        One hectare is equal to <m>10000 m^2</m>
+      </p>
+      <p>
+        Therefore,
+      </p>
+      <p>
+        <m>1 \text{hectare}(ha) = 10000m^2</m>
+      </p>
+      <p>
+        <m>1 \text{hectare}(ha) = 2.47 \text{acre}</m>
+      </p>
+      <example>
+      <statement>
+        <p>
+          Convert <m>25 \text{ha}</m> into <m>\text{ares}</m>
+        </p>
+      </statement>
+      <hint>
+        <p>
+          Use <m>1 hectare(ha) = 2.47 acre</m>
+        </p>
+      </hint>
+      <solution>
+        <p>
+          <md>
+            <mrow>  1ha=\amp 2.47 \text{acre} </mrow>
+            <mrow> 25 ha=\amp (2.47 \times 25) \text{acres}</mrow>
+            <mrow> =\amp 61.75 acres</mrow>
+          </md>
+        </p>
+      </solution>
+      </example>
+      <example>
+        <statement>
+          <p>
+            find the area of the figure below in hectares.
+          </p>
+          <image width="30%">
+          <latex-image>
+            \begin{tikzpicture}
+              \draw(0,0) coordinate (A)-- (0,4) coordinate (B)-- (4,4) coordinate (C)-- (4,0)coordinate (D) --(0,0)coordinate (A);
+              \node at (4.5,2){600 m};
+              \node at (2,-0.5){600 m};
+              \draw(0,0) coordinate (A)-- (0,0.5) coordinate (B)-- (0.5,0.5) coordinate (C)-- (0.5,0)
+              coordinate(D)-- (0,0) coordinate (A);
+              \draw(0,3.5) coordinate (A)-- (0,4) coordinate (B)-- (0.5,4) coordinate (C)-- (0.5,3.5)
+              coordinate(D)-- (0,3.5) coordinate (A);
+              \draw(3.5,3.5) coordinate (A)-- (3.5,4) coordinate (B)-- (4,4) coordinate (C)-- (4,3.5)
+              coordinate(D)-- (3.5,3.5) coordinate (A);
+              \draw(3.5,0) coordinate (A)-- (3.5,0.5) coordinate (B)-- (4,0.5) coordinate (C)-- (4,0)
+              coordinate(D)-- (3.5,0) coordinate (A);
+            \end{tikzpicture}
+          </latex-image>
+              
+          </image>
+
+        </statement>
+        <solution>
+          <p>
+            Find the area of a square.
+          </p>
+          <p>
+            Area of a square <md>
+            <mrow> =\amp \text{side} \times \text{side}  </mrow>
+            <mrow> =\amp 600m \times 600m</mrow>
+            <mrow> =\amp 360000m^2</mrow>
+            </md>
+
+          </p>
+          <p>
+            Convert <m>360000 m^2</m> to hectares.
+          </p>
+          <p>
+            <md>
+              <mrow> 10 000m^2=\amp 1 ha</mrow>
+              <mrow> 360000 m^2=\amp (360000 \div 10000) \text{hectares} </mrow>
+              <mrow> =\amp 36 \text{hectares}</mrow>
+            </md>
+
+          </p>
+          <p>
+            The area of the figure is <m>36 </m> hectares
+          </p>
+        </solution>
+
+
+
+      </example>
+      
+    </subsubsection>
+    
+    
+
+
+  </subsection>
+  <subsection xml:id="subsec-Area-of-a-rectangle">
+    <title>Area of a rectangle</title>
+    <p>
+      Area of a rectangle <m>=</m> length <m>\times</m> width
+    </p>
+    <p>
+      length <m>=</m> Area <m>\div</m> width
+    </p>
+    <p>
+      width <m>=</m> Area <m>\div</m> length
+    </p>
+    <example>
+      <statement>
+        <p>
+          Find the area of a rectangle whose length is <m>12 cm</m> 
+          and width is <m>8cm</m>.
+        </p>
+      </statement>
+      <hint>
+        <p>
+          Use Area <m>= \text{length} \times \text{width}</m>
+        </p>
+      </hint>
+      <solution>
+        <p>
+          <md>
+            <mrow> \text{Area of a rectangle}=\amp \text{length}\times \text{width} </mrow>
+            <mrow>= \amp 12cm \times 8cm</mrow>
+            <mrow> =\amp 96 cm^2 </mrow>
+          </md>
+        </p>
+      </solution>
+    </example>
+    <activity>
+      <statement>
+        <p>
+          A rectangular plot is of length <m>300m</m> 
+          and width <m>100m</m>. Find its area in;
+        </p>
+        <p>
+          <ol>
+            <li>
+              <p>
+                <m>m^2</m>
+              </p>
+            </li>
+            <li>
+              <p>
+                <m>ha</m>
+              </p>
+            </li>
+          </ol>
+        </p>
+      </statement>
+      <solution>
+        <p>
+          1.Find the area in <m>m^2</m> that is
+        </p>
+        <p>
+          <md>
+            <mrow>\text{Area}= \amp \text{length}\times \text{width}</mrow>
+            <mrow> =\amp 300m \times 100m</mrow>
+            <mrow> =\amp 30000m^2</mrow>
+          </md>
+        </p>
+        <p>
+          2. Converting to <m>ha</m>
+        </p>
+        <p>
+          <md>
+            <mrow> \text{if} 1 \text{ha}=\amp 10000m^2</mrow>
+            <mrow> 30000m^2=\amp \frac{30000m^2 \times 1 ha }{10000m^2} </mrow>
+            <mrow> =\amp 3ha</mrow>
+          </md>
+        </p>
+      </solution>
+    </activity>
+    <activity>
+      <statement>
+        <p>
+          Work out the area of the figure below.
+        </p>
+        <image width="40%">
+        <latex-image>
+          \begin{tikzpicture}
+            \draw(0,0) coordinate (A)-- (0,4) coordinate (B)-- (5,4) coordinate (C)-- (5,0)coordinate (D) --(0,0)coordinate (A);
+            \node at (2.5,4.1){ 16cm};
+            \node at (5.2,2){7cm};
+            \draw(0,0) coordinate (A)-- (0,0.5) coordinate (B)-- (0.5,0.5) coordinate (C)-- (0.5,0)
+            coordinate(D)-- (0,0) coordinate (A);
+            \draw(0,3.5) coordinate (A)-- (0,4) coordinate (B)-- (0.5,4) coordinate (C)-- (0.5,3.5)
+            coordinate(D)-- (0,3.5) coordinate (A);
+            \draw(4.5,3.5) coordinate (A)-- (4.5,4) coordinate (B)-- (5,4) coordinate (C)-- (5,3.5)
+            coordinate(D)-- (4.5,3.5) coordinate (A);
+            \draw(4.5,0) coordinate (A)-- (4.5,0.5) coordinate (B)-- (5,0.5) coordinate (C)-- (5,0)
+            coordinate(D)-- (4.5,0) coordinate (A);
+          \end{tikzpicture}
+        </latex-image>
+          
+        </image>
+      </statement>
+      <solution>
+        <p>
+          <md>
+            <mrow>\text{Area} = \amp \text{Length} \times \text{Width} </mrow>
+            <mrow>= \amp16cm \times 7cm </mrow>
+            <mrow>= \amp 112 cm^2 </mrow>
+          </md>
+        </p>
+        <p>
+          The area is :<m>112 cm^2</m> 
+        </p>
+      </solution>
+    </activity>
+   
+  
+    
+  </subsection>
+  <subsection xml:id="subsec-Area-of-a-parallelogram">
+    <title>Area of a parallelogram</title>
+    <p>
+      <ul>
+        <li>
+          <p>
+            Rectangle is a type of parallelogram where all the angles are 90°
+          </p>
+        </li>
+        <li>
+          <p>
+            All rectangles are parallelograms, but not all parallelograms are rectangles.
+          </p>
+        </li>
+      </ul>
+    </p>
+    <p>
+      <md>
+        <mrow>\text{Area of a parallelogram} = \amp \text{base} \times \text{height}</mrow>
+        <mrow>= \amp bh </mrow>
+      </md>
+    </p>
+    <p>
+      The figure below shows a parallelogram with base and height labeled. 
+    </p>
+    <image width="40%">
+    <latex-image>
+      \begin{tikzpicture}
+        \draw [very thick,fill=white](2,4) coordinate (D)-- (0,0) coordinate (A)-- (6,0) coordinate (B);
+        \draw [very thick,fill=white](6,0) coordinate (B)-- (8,4) coordinate (C)-- (2,4) coordinate (D);
+        \node at (3,2){height(h)};
+        \node at (3,-0.5){base(b)};
+        \draw [dashed] (2,4) --(2,0);
+        \draw(2,0) coordinate (A)-- (2,0.5) coordinate (B)-- (2.5,0.5) coordinate (C)--  (2.5,0) coordinate(D)-- (2,0) coordinate (A);
+      \end{tikzpicture}
+    </latex-image>
+     
+    </image>
+    <activity>
+      <statement>
+        <p>
+          Muchemi's piece of land is in the shape below.
+        </p>
+        <image source="/parallelogram.png" width="40%">
+          <shortdescription>Parallelogram</shortdescription>
+        </image>
+        <p>
+          What is the area of the piece of land?
+        </p>
+      </statement>
+      <solution>
+        <p>
+          <md>
+            <mrow> \text{Area of a parallelogram}=\amp \text{base length} \times \text{Perpendicular height}</mrow>
+            <mrow> =\amp 120m \times 40m</mrow>
+            <mrow> =\amp 4800m^2 </mrow>
+          </md>
+        </p>
+        <p>
+          The area of the piece of land is <m>4800m^2</m>.
+        </p>
+      </solution>
+      
+    </activity>
+    <p>
+      NOTE:
+    </p>
+    <p>
+      <ul>
+        <li>
+          <p>
+            When calculating the area of a parallelogram 
+            ensure you use the formula Area <m>= base \times height</m>
+          </p>
+        </li>
+        <li>
+          <p>
+            For any drawn figure ensure you've obtaine both the <em>base</em> and 
+            <em>height</em> before incoopereting the formula.
+          </p>
+        </li>
+      </ul>
+    </p>
+    
+  </subsection>
+  <subsection xml:id="subsec-Area-of-a-rhombus">
+    <title>Area of a rhombus</title>
+    <p>
+      A rhombus is a type of quadrilateral that is a special kind of parallelogram. The key characteristics of a rhombus are:
+    </p>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Opposite sides are parallel.
+          </p>
+        </li>
+        <li>
+          <p>
+            All sides have equal length.
+          </p>
+        </li>
+        <li>
+          <p>
+            Opposite angles are equal, and adjacent angles are supplementary (they add up to 180°).
+          </p>
+        </li>
+        <li>
+          <p>
+            The diagonals of a rhombus bisect each other at right angles (90°), meaning they intersect at 
+            a right angle and divide each other into two equal parts.
+          </p>
+        </li>
+      </ol>
+    </p>
+    <p>
+      The formula for the area <m>A</m> of a rhombus can be given in two common ways:
+    </p>
+    <p>
+      <ul>
+        <li>
+          <p>
+            Using the diagonals: <me>A=\frac{1}{2}\times d_1 \times d_2</me>
+          </p>
+          <p>
+            where:
+          </p>
+          <p>
+            <m>d_1 </m>and <m>d_2</m> are the lengths of the two diagonals.
+          </p>
+        </li>
+        <li>
+          <p>
+            Using the base and height: <me>A= \text{base} \times \text{height}</me>
+          </p>
+          <p>
+            Where the base is the length of any side (since all sides are equal) and the 
+            height is the perpendicular distance between opposite sides.
+          </p>
+        </li>
+      </ul>
+    </p>
+    <activity>
+      <statement>
+        <p>
+          Calculate the area of the figure given it's 
+          diagonals are <m>6cm</m> and <m>8cm</m>.
+        </p>
+        <image source="/Rhombus.png" width="40%">
+          <shortdescription>Rhombus</shortdescription>
+        </image>
+      </statement>
+      <solution>
+        <p>
+          Area of a rhombus <m>= \frac{1}{2}</m> short diagonals <m>\times</m> long diagonal.
+        </p>
+        <p>
+          <md>
+            <mrow> A=\amp \frac{1}{2}d_1 d_2</mrow>
+            <mrow> A=\amp \frac{1}{2} (6 \times 8)cm^2 </mrow>
+            <mrow> A=\amp 24 cm^2 </mrow>
+          </md>
+        </p>
+      </solution>
+    </activity>
+    <example>
+      <statement>
+        <p>
+          Calculate the area of each rhombus
+        </p>
+        <sidebyside>
+           
+          <image width="40%">
+          <latex-image>
+            \begin{tikzpicture}
+              \draw [thick,fill=yellow](0,0) coordinate (A)-- (4,4) coordinate (B)-- (8,4) coordinate (C)--(4,0) coordinate (D)-- (0,0) coordinate (A);
+              \node at (4,5){(a)};
+              \node at (4.5,2){4m};
+              \node at (2,-0.7){5m};
+              \draw [dashed,fill=black] (4,4) --(4,0);
+              \draw(3.5,0) coordinate (A)-- (3.5,0.5) coordinate (B)-- (4,0.5) coordinate (C)--  (4,0) coordinate(D)-- (3.5,0) coordinate (A);
+            \end{tikzpicture}
+          </latex-image>
+            
+          </image>
+          <image width="40%">
+            <latex-image>
+              \begin{tikzpicture}
+                \draw [thick,fill=white](0,0) coordinate (A)-- (4,4) coordinate (B)-- (8,4) coordinate (C)--(4,0) coordinate (D)-- (0,0) coordinate (A);
+                \node at (4,5){(b)};
+                \node at (6,4.3){9cm};
+                \node at (4.5,2){7cm};
+                \draw [dashed,fill=black] (4,0) --(4,4);
+                \draw(4,3.5) coordinate (A)-- (4,4) coordinate (B)-- (4.5,4) coordinate (C)--  (4.5,3.5) coordinate(D)-- (4,3.5) coordinate (A);
+              \end{tikzpicture}
+            </latex-image>
+          </image>
+        </sidebyside>
+      </statement>
+      <solution>
+        <p>
+          (a)
+        </p>
+        <p>
+          Area of a rhombus by the base and height: <m>A= \text{base} \times \text{height}{}</m>.
+        </p>
+        <p>
+          <md>
+            <mrow> A= \amp \text{base} \times \text{height}</mrow>
+            <mrow> =\amp 5m \times 4m </mrow>
+            <mrow>= \amp 20m^2 </mrow>
+          </md>
+        </p>
+        <p>
+          (b)
+        </p>
+        <p>
+          <md>
+            <mrow> A= \amp \text{base} \times \text{height} </mrow>
+            <mrow> =\amp 9cm \times 7cm  </mrow>
+            <mrow> = \amp 63cm^2 </mrow>
+          </md>
+        </p>
+      </solution>
+    </example>
+    
+    
+  </subsection>
+  <subsection xml:id="subsec-Area-of-trapeziam">
+    <title>Area of trapeziam</title>
+    <p>
+      Learning point 
+    </p>
+    <p>
+      <ul>
+        <li>
+          <p>
+            The area of a trapezium <m>= \frac{1}{2} (a+b)h</m>
+          </p>
+          <p>
+            where: <m>(a+b)</m> is the sum of the parallel sides and <m>h</m> is the perpendicular 
+            height of the trapezium.
+          </p>
+        </li>
+      </ul>
+    </p>
+    <activity>
+      <statement>
+        <p>
+          Harriate's plot is in the shape of the figure below.
+        </p>
+        <image source="/Trapezium.png" width="40%">
+          <shortdescription>trapezium</shortdescription>
+        </image>
+        <p>
+          What is the area of the plot of land?
+        </p>
+      </statement>
+      <solution>
+        <p>
+          <md>
+            <mrow> \text{Area of trapezium}=\amp \frac{1}{2} (a+b)h</mrow>
+            <mrow> =\amp\frac{1}{2} (160m+200m) \times 50m</mrow>
+            <mrow> =\amp \frac{1}{2} \times 360m \times 50m </mrow>
+            <mrow> =\amp 9000m^2</mrow>
+          </md>
+        </p>
+      </solution>
+    </activity>
+    <example>
+      <statement>
+        <p>
+          Calculate the area of a trapezium whose parallel sides are <m>9cm</m> 
+          and <m>11cm</m> and the vertical height is <m>5cm</m>
+        </p>
+      </statement>
+      <solution>
+        <p>
+          <md>
+            <mrow> \text{Area of a trapezium}=\amp \frac{1}{2}(9+11)cm \times 5cm </mrow>
+            <mrow> =\amp \frac{1}{2} \times 20cm \times 5cm</mrow>
+            <mrow> =\amp 50cm^2</mrow>
+          </md>
+        </p>
+      </solution>
+    </example>
+    <example>
+      <statement>
+        <p>
+          Find the length marked <m>h</m> in the figure.
+        </p>
+        <image width="50%">
+        <latex-image>
+          \begin{tikzpicture}
+            \draw [thick,fill=white](0,0) coordinate (S)-- (2,4) coordinate (P)-- (7,4) coordinate (Q)-- (10,0) 
+            coordinate (R)-- (7,0) coordinate (T)-- (0,0) coordinate (S);
+            \node at (0,-0.5){S};
+            \node at (2,4.5){P};
+            \node at (7,4.5){Q};
+            \node at (10,-0.5){R};
+            \node at (7,-0.5){T};
+            \node at (7.5,2){h};
+            \node at (5,4.5){32m};
+            \node at (5,-0.7){48m};
+            \node at (4,2){$A=400m^2$};
+
+            \draw [dashed,fill=red] (7,4) --(7,0);
+            \draw(7,0) coordinate (A)-- (7,0.5) coordinate (B)-- (7.5,0.5) coordinate (C)-- (7.5,0) coordinate(D)-- (7,0) coordinate (A);
+          \end{tikzpicture}
+        </latex-image>
+         
+        </image>
+      </statement>
+      <solution>
+        <p>
+          <md>
+            <mrow> \frac{1}{2}(a+b)h=\amp \text{Area of a trapezium} </mrow>
+            <mrow> \frac{1}{2}(48m+32m)h=\amp 400m^2 </mrow>
+            <mrow>\frac{1}{2}(80)h= \amp 400m^2  </mrow>
+            <mrow> 40h=\amp 400m^2 </mrow>
+            <mrow> h=\amp\frac{400m^2 }{40} </mrow>
+            <mrow> h=\amp 10m</mrow>
+          </md>
+        </p>
+      </solution>
+    </example>
+    
+  </subsection>
+  <subsection xml:id="subsec-Area-of-a-circle">
+    <title>Area of a circle</title>
+    <p>
+      Learning point.
+    </p>
+    <image width="40%">
+    <latex-image >
+      \begin{tikzpicture}
+        \draw[very thick,fill=white](0,0) circle(5);
+        \draw[thick,fill=black](0,0) -- (5,0);
+        \node [very thick]at (2.5,0.5){$r$};
+        \node at (0,0){.};
+      \end{tikzpicture}
+    </latex-image>
+      
+    </image>
+    <p>
+      <ul>
+        <li>
+          <p>
+            The area of a circle <me>= \pi r \times r</me>
+          </p>
+          <p>
+            <me>=\pi r^2</me>
+          </p>
+          <p>
+            where:
+          </p>
+          <p>
+            <m>r</m> is the radius of the circle and <m>\pi=\frac{22}{7} \text{or} 3.142 </m>.
+          </p>
+        </li>
+      </ul>
+    </p>
+    <activity>
+      <statement>
+        <p>
+          Find the area of the circle below.
+        </p>
+        <image width="40%">
+        <latex-image>
+          \begin{tikzpicture}
+            \draw[very thick,fill=green](0,0) circle(5);
+            \draw[thick,fill=black](0,0) -- (5,0);
+            \node [very thick]at (1,0.5){$14cm$};
+            \node at (0,0){.};
+          \end{tikzpicture}
+        </latex-image>
+          
+        </image>
+      </statement>
+      <solution>
+        <p>
+          <md>
+            <mrow> \text{Area of a circle}=\amp \pi r^2 </mrow>
+            <mrow> =\amp\frac{22}{7} \times r \times r </mrow>
+            <mrow> =\amp \frac{22}{7} \times 14 \times 14 cm^2 </mrow>
+            <mrow> =\amp \frac{22}{7} \times 196 cm^2</mrow>
+            <mrow> =\amp 616 cm^2</mrow>
+          </md>
+        </p>
+      </solution>
+    </activity>
+    <example>
+      <statement>
+        <p>
+          Calculate the area of a circle whose diameter is <m>10 cm</m> 
+          <m>(\text{take} \pi=3.142)</m>
+        </p>
+      </statement>
+      <solution>
+        <p>
+          <md>
+            <mrow>\text{radius} =\amp \frac{\text{diameter}}{2}</mrow>
+            <mrow> r= \amp \frac{10cm}{2}</mrow>
+            <mrow> = \amp 5cm</mrow>
+          </md>
+        </p>
+        <p>
+          Therefore,
+        </p>
+        <p>
+          <md>
+            <mrow> \text{Area of a circle}=\amp 3.142 \times r \times r </mrow>
+            <mrow> =\amp 3.142 \times5cm \times 5cm </mrow>
+            <mrow> =\amp 78.5cm^2</mrow>
+          </md>
+        </p>
+      </solution>
+    </example>
+    <activity>
+      <statement>
+        <p>
+          Fill in the table bellow. <m>(\text{Take} \pi = \frac{22}{7})</m>
+        </p>
+        <tabular halign="center"  top="medium" left="medium" bottom="medium" right="medium">
+          <row header="yes" bottom="medium">
+            <cell>Circle</cell>
+            <cell>Diameter</cell>
+            <cell>Radius</cell>
+            <cell>Area</cell>
+            
+          </row>
+          <row>
+            <cell>a)</cell>
+            <cell></cell>
+            <cell>49cm</cell>
+            <cell></cell>
+          </row>
+          <row>
+            <cell>b)</cell>
+            <cell>7cm</cell>
+            <cell></cell>
+            <cell></cell>
+          </row>
+          <row>
+            <cell>c)</cell>
+            <cell>21cm</cell>
+            <cell></cell>
+            <cell></cell>
+          </row>
+          <row>
+            <cell>d)</cell>
+            <cell></cell>
+            <cell>35cm</cell>
+            <cell></cell>
+          </row>
+        </tabular>
+      </statement>
+      <solution>
+        <p>
+          The solution is as below:
+        </p>
+        <tabular halign="center"  top="medium" left="medium" bottom="medium" right="medium">
+            <row header="yes" bottom="medium">
+              <cell>Circle</cell>
+              <cell>Diameter</cell>
+              <cell>Radius</cell>
+              <cell>Area</cell>
+              
+            </row>
+            <row>
+              <cell>a)</cell>
+              <cell><m>49 \times 2=98cm </m></cell>
+              <cell>49cm</cell>
+              <cell><m>\frac{22}{7} \times 49^2cm^2=7546cm^2</m></cell>
+            </row>
+            <row>
+              <cell>b)</cell>
+              <cell>7cm</cell>
+              <cell><m>\frac{7}{2}=3.5cm</m></cell>
+              <cell><m>\frac{22}{7} \times 3.5^2cm^2=39.28cm^2</m></cell>
+            </row>
+            <row>
+              <cell>c)</cell>
+              <cell>21cm</cell>
+              <cell><m>\frac{21}{2}=10.5cm</m></cell>
+              <cell><m>\frac{22}{7} \times 10.5^2cm^2=3465cm^2</m></cell>
+            </row>
+            <row>
+              <cell>d)</cell>
+              <cell><m>35 \times 2=70cm</m></cell>
+              <cell>35cm</cell>
+              <cell><m>\frac{22}{7} \times 35^2cm^2=3850cm^2</m></cell>
+            </row>
+         </tabular>
+        
+      </solution>
+    </activity>
+
+
+    
+  </subsection>
+  <subsection xml:id="subsec-Area-of-a-semicircle">
+    <title>Area of a semicircle</title>
+    <p>
+      A semicircle is a circle divided into two equal parts.
+    </p>
+    <p>
+      Since we now know the area of a circle, the area of 
+      a semicircle is the area of a circle divided by two as shown bellow;
+    </p>
+    <p>
+      <m>\text{Area of semicircle}=\frac{1}{2} \times \pi r^2</m>.
+    </p>
+    <activity>
+      <statement>
+        <p>
+          Find the area of the semicircle given below.
+        </p>
+        <image width="40%">
+        <latex-image>
+          \begin{tikzpicture}
+          \draw[very thick,fill=white](0,0)  arc[start angle=0,end angle=180,radius=5cm];
+          \draw [thick,fill=black](0,0) --(-10,0);
+          \node at (-5,0.5){$28cm$};
+          
+          \end{tikzpicture}
+        </latex-image>
+          
+        </image>
+      </statement>
+      <solution>
+        <p>
+          <md>
+            <mrow> \text{radius} =\amp \frac{\text{diameter}}{2} </mrow>
+            <mrow> r=\amp \frac{28}{2}cm </mrow>
+            <mrow> r=\amp 14cm </mrow>
+          </md>
+        </p>
+        <p>
+          <md>
+            <mrow> \text{Area of semicircle}=\amp \frac{1}{2} \pi \times r^2 </mrow>
+            <mrow> =\amp \frac{1}{2} \pi \times r \times r</mrow>
+            <mrow> =\amp\frac{1}{2}\times\frac{22}{7} \times 14^2cm^2 </mrow>
+            <mrow> =\amp \frac{1}{2} \times\frac{22}{7} \times 196 cm^2</mrow>
+            <mrow> =\amp\frac{1}{2} \times 616cm^2 </mrow>
+            <mrow> =\amp 308cm^2</mrow>
+          </md>
+          
+        </p>
+      </solution>
+    </activity>
+    
+  </subsection>
+
+
+
+
+  <subsection xml:id="subsec-Area-of-borders-and-combined-shapes">
+    <title>Area of borders and combined shapes</title>
+    <p>
+      This section combines all the figures we have done and 
+      its requred that you are in a position to calculate areas of any figure given.
+    </p>
+    <p>
+      <ul>
+        <li>
+          <p>
+            Combine figures can either be circle inside a circle, 
+            rectangle inside a rectangle, circle inside a trapezium and many more.
+          </p>
+        </li>
+        <li>
+          <p>
+            Its requred to calculate areas acording to the instractions given in 
+            an equation.
+          </p>
+        </li>
+      </ul>
+    </p>
+    <p>
+      Some worked examples are as below.
+    </p>
+    <activity>
+      <statement>
+        <p>
+          Work out the area of the figure bellow
+        </p>
+        <image width="50%">
+        <latex-image>
+          \begin{tikzpicture}
+            \draw[very thick,fill=white] (0,0) --(5,0) --(8,0) --(5,3) --(0,3);
+            \draw [very thick,fill=white]   (0,3) arc[start angle=90,end angle=270,radius=1.5cm] ;
+            \draw [dashed,fill=black] (0,0) --(0,3);
+            \draw [dashed,fill=black] (5,0) --(5,3);
+            \draw [very thick, &lt;-&gt;] (0,-0.5) --(5,-0.5);
+            \draw [very thick, &lt;-&gt;] (5,-0.5) --(8,-0.5) ;
+            \node at (2.5,-1){$20cm$};
+            \node at (6,-1){$18cm$};
+            \node at (0.5,1.5){$14cm$};
+          \end{tikzpicture}
+        </latex-image>
+          
+        </image>
+      </statement>
+      <solution>
+       <p>
+          <md>
+            <mrow> \text{Area of the rectangle}=\amp l \times w </mrow>
+            <mrow> =\amp 20cm \times 14cm </mrow>
+            <mrow> =\amp280 cm^2 </mrow>
+          </md>
+       </p>
+       <p>
+          <md>
+            <mrow> \text{Area of the triangle}=\amp \frac{1}{2} bh </mrow>
+            <mrow> =\amp  \frac{1}{2} \times 18cm \times 14cm  </mrow>
+            <mrow>= \amp 126cm^2</mrow>
+          </md>
+        </p>
+       <p>
+          <md>
+            <mrow> \text{Area of the semicircle}=\amp \frac{1}{2} \pi r^2 </mrow>
+            <mrow> =\amp \frac{1}{2} \frac{22}{7} \times 7cm \times 7cm</mrow>
+            <mrow> =\amp77cm^2 </mrow>
+          </md>
+       </p>
+       <p>
+          <md>
+            <mrow> \text{Area of the combined shapes}=\amp \text{area of all the three figures calculated} </mrow>
+            <mrow> =\amp 280cm^2 +126cm^2+77cm^2 </mrow>
+            <mrow> =\amp 483cm^2</mrow>
+          </md>
+       </p>
+       <p>
+         <m>Alternatively:</m> add up the area of the trapezium and the semicircle.
+       </p>
+       <p>
+          <md>
+            <mrow> \text{Area of the trapezium}=\amp \frac{1}{2} h(a+b)  </mrow>
+              <mrow> =\amp  \frac{1}{2} \times 14(20+18+20) </mrow>
+              <mrow> = \amp 7cm \times 58cm </mrow>
+              <mrow> = \amp406cm^2 </mrow>
+          </md>
+       </p>
+       <p>
+         Area of the semi circle <m>=77cm^2</m>
+       </p>
+       <p>
+          <md>
+            <mrow>\text{Area of the combined shape} =\amp \text{Area of the two figure} </mrow>
+            <mrow> = \amp 406cm^2+77cm^2 </mrow>
+            <mrow> =\amp 483cm^2 </mrow>
+          </md>
+       </p>
+
+        
+      </solution>
+    </activity>
+    
+  </subsection>
+
+ 
+
+</section>

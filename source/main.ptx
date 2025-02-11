@@ -13,8 +13,10 @@
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="numbers/ch-numbers.ptx" />
+    <xi:include href="measurements/ch-chapter-Measurements.ptx" />
 
+    <xi:include href="numbers/ch-numbers.ptx" />
+    
     <!-- Include chapters -->
     <xi:include href="geometry/ch-geometry.ptx" />
 
