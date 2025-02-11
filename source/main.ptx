@@ -15,6 +15,9 @@
     <!-- Include chapters -->
     <xi:include href="./numbers/ch-numbers.ptx" />
 
+    <!-- Include chapters -->
+    <xi:include href="./Algebra/ch-chapter-TWO.ptx" />
+
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
 
