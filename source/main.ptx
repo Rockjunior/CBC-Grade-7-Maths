@@ -17,7 +17,7 @@
     <xi:include href="numbers/ch-numbers.ptx" />
 
     <!-- Include chapters-->
-    <xi:include href="algebra/ch-algebra.ptx" />
+    <xi:include href="Algebra/ch-algebra.ptx" />
 
     <!-- Include chapters -->
     <xi:include href="measurements/ch-chapter-Measurements.ptx" />
