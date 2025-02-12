@@ -663,6 +663,12 @@
                                 \draw[&lt;-&gt;] (0,-0.3) -- (4,-0.3) node[midway, below] {7 m};
                                 \node at (2,1) {$A = 1.12 m^2$};
                                 \draw[&lt;-&gt;] (-0.3,0) -- (-0.3,2) node[midway, left] { ?m};
+
+                                \node at (2,1) {$A = 1.12 (m^2)$};
+                                \draw[&lt;-&gt;] (-0.3,0) -- (-0.3,2) node[midway, left] { ? m};
+                                
+
+
                         \end{tikzpicture}
                     </latex-image>
                 </image>
@@ -673,7 +679,11 @@
                    2. Discuss how you can divide a decimal number by a whole number.
                 </p>
                 <p>
+
+                    3. Share your work with other learners.
+
                     3. Share your work with other learners in the classroom .
+
                 </p>
                 
             </statement>
@@ -749,7 +759,11 @@
                 <ol>
                     <li>
                         <p>
+
+                        <m>\textbf{ Take one piece of paper after you find it and hide the rest around that place}</m>
+
                         \textbf{ Take one piece of paper after you find it and hide the rest around that place}
+
                         </p>
                         <p>
                           5.6 ÷ 0.7 = ? ( Find it on the classroom corner)  
@@ -757,7 +771,11 @@
                     </li>
                     <li>
                         <p>
+
+                        <m>\textbf{ Take one piece of paper after you find it and hide the rest around that place}</m>
+
                         \textbf{ Take one piece of paper after you find it and hide the rest around that place}
+
                         </p>
                         <p>
                             12.04 ÷ 1.3 = ? ( Go to assembly ground near flagpole)
@@ -765,7 +783,11 @@
                     </li>
                     <li>
                         <p>
+
+                        <m>\textbf{ Take one piece of paper after you find it and hide the rest around that place}</m>
+
                         \textbf{ Take one piece of paper after you find it and hide the rest around that place}
+
                         </p>
                         <p>
                             9.9 ÷ 3.3 = ? (next station is near the school entrance )
@@ -774,7 +796,11 @@
                     </li>
                     <li>
                         <p>
+
+                       <m>\textbf{ Take one piece of paper after you find it and hide the rest around that place}</m>
+
                         \textbf{ Take one piece of paper after you find it and hide the rest around that place}
+
                         </p>
                         <p>
                             18.75 ÷ 2.5 = ? ( The final challenge is at the back of the class)
@@ -782,7 +808,11 @@
                     </li>
                     <li>
                         <p>
+
+                        <m>\textbf{ Take one piece of paper after you find it and hide the rest around that place}</m>
+
                         \textbf{ Take one piece of paper after you find it and hide the rest around that place}
+
                         </p>
                         <p>
                             7.92 ÷ 1.2 = ? (Return to the teacher/ team leader for the last answer check!)
@@ -794,7 +824,11 @@
                 <p>
                 2.Hide decimal division question papers around the specified areas on each questions. 
                 </p>
+
+                <p><m>\textbf{For students}</m></p>
+
                 <p>\textbf{For students}</p>
+
                  <p>
                 3. Working in groups of <m>5</m>, each group to choose a team captain responsible for reading questions and keeping the team organized.
                 </p>
