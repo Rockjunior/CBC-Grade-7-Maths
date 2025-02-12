@@ -2,6 +2,7 @@
 
 <section xml:id="sec-Data-handling" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Data handling</title>
+  
   <subsection xml:id="subsec-Meaning-of-data">
     <title>Meaning of data</title>
        <p>
@@ -52,6 +53,7 @@
    <p>
     Learning point
    </p>
+
    <p>
     <ul>
         <li>
@@ -61,6 +63,7 @@
         </li>
     </ul>
    </p>
+
    <subsection xml:id="subsec-Collection-of-data">
     <title>Collection of data</title>
     <p>
