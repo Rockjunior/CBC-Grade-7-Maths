@@ -7,80 +7,79 @@
   </p>
 
          
-  <p>
-    <term>Formation of Algebraic Expression from  real  life  situations</term>
-  </p>
-  <p>
-    In algebra, we use letters to form algebraic expressions.
-  </p>
-  <p>
-    <term>Why letters?</term>
-  </p>
-  <p>
-    Watch this!
-  </p>
-
-  <video youtube="Tm98lnrlbMA" width="60%" margins="5% 35%"/>
-              
-  
-  <activity>
-    <title> <term>Work in groups</term> </title>
         <p>
-          <ol>
-            <li>
+          <term>Formation of Algebraic Expression from  real  life  situations</term>
+        </p>
+        <p>
+          In algebra, we use letters to form algebraic expressions.
+        </p>
+        <p>
+          <term>Why letters?</term>
+        </p>
+        <p>
+          Watch this!
+        </p>
+
+        <video youtube="Tm98lnrlbMA" width="60%" margins="5% 35%"/>
+                    
+        
+          <activity>
+          <title> <term>Work in groups</term> </title>
               <p>
-                Identify and form four groups of objects according to their similarities.
-              </p>
-            </li>
+                <ol>
+                  <li>
+                    <p>
+                      Identify and form four groups of objects according to their similarities.
+                    </p>
+                  </li>
 
-                <li>
-                  <p>
-                    To each group add or subtract a number of items.
-                  </p>
-                </li>
+                      <li>
+                        <p>
+                          To each group add or subtract a number of items.
+                        </p>
+                      </li>
 
-                <li>
-                  <p>
-                    Form and write expressions to represent the new number of items in each group.
-                  </p>
-                </li>
+                      <li>
+                        <p>
+                          Form and write expressions to represent the new number of items in each group.
+                        </p>
+                      </li>
 
-                <li>
-                  <p>
-                      Discuss and share with other groups.
+                      <li>
+                        <p>
+                            Discuss and share with other groups.
+                        </p>
+                      </li>
+                      
+                    </ol>
                   </p>
-                </li>
-                
-              </ol>
-            </p>
-  </activity>
+        </activity>
        
 
-  <example>
-      <statement>
-        <p>
-          In a classroom of <m>30</m> learners there are <m>n</m> boys. Form an expression for the number of girls.
-        </p>
-      </statement>
+          <example>
+              <statement>
+                <p>
+                  In a classroom of <m>30</m> learners there are <m>n</m> boys. Form an expression for the number of girls.
+                </p>
+              </statement>
 
-      <solution>
-          <p>
-              The number of girls is <m>30 - n</m>
-          </p>
-      </solution>
-  </example>
+              <solution>
+                  <p>
+                      The number of girls is <m>30 - n</m>
+                  </p>
+              </solution>
+          </example>
 
-  <example>
-      <statement>
-        <p>
-          There are <m>x</m> mangoes and <m>y</m> oranges a farm.  Form an expression for the total number of mango and orange trees in the farm.
-        </p>
-      </statement>
-      <solution>
-        <p>
-          The total number of mango and orange trees are <m>x + y.</m>
-        </p>
-      </solution>
-  </example>
-
+          <example>
+              <statement>
+                <p>
+                  There are <m>x</m> mangoes and <m>y</m> oranges a farm.  Form an expression for the total number of mango and orange trees in the farm.
+                </p>
+              </statement>
+              <solution>
+                <p>
+                  The total number of mango and orange trees are <m>x + y.</m>
+                </p>
+              </solution>
+          </example>
 </section>                                                                                                                    
