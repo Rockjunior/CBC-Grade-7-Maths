@@ -2,13 +2,8 @@
 
 <chapter xml:id="ch-chapter-two" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Algebra</title>
-</chapter>
-
   <introduction>
-  
-
     <p> <em>Introduction </em></p>
-
     <p> Algebra is a part of mathematics in which letters and other general symbols are used to represent numbers and quantities in formulae and equations.</p>
 
       <p>
@@ -27,36 +22,17 @@
 
          Watch this! 
       </p>
-      
       <video xml:id="yt-list-vars" youtube="H4g0GZsgq0I" width="60%" margins="5% 35%"/>
 
   </introduction>
 
-  <!-- include sections -->
-  <xi:include href="Sections/sec-Algebraic-expressions.ptx" />
+    <!-- include sections -->
+    <xi:include href="./Sections/sec-Algebraic-expressions.ptx" />
 
-  <!-- include sections -->
-  <xi:include href="Sections/sec-Linear-equations.ptx" />
+    <!-- include sections -->
+    <xi:include href="./Sections/sec-Linear-equations.ptx" />
 
-<!-- include sections -->
-  <xi:include href="Sections/sec-Linear-inequalities.ptx" />
-  
+    <!-- include sections -->
+    <xi:include href="./Sections/sec-Linear-inequalities.ptx" />
 
-
-
-
-         Watch this! <video xml:id="yt-list-vars" youtube="H4g0GZsgq0I" width="60%" margins="5% 35%"/>
-      </p>
-
-  </introduction>
-
-<!-- include sections -->
-<xi:include href="sections/sec-Algebraic-expressions.ptx" />
-
-<!-- include sections -->
-<xi:include href="sections/sec-Linear-equations.ptx" />
-
-<!-- include sections -->
-  <xi:include href="sections/sec-Linear-inequalities.ptx" />
-
-
+</chapter>
