@@ -5,7 +5,11 @@
 
   <introduction>
   
+
     <p> <em>Introduction </em></p>
+
+    <p> Algebra is a part of mathematics in which letters and other general symbols are used to represent numbers and quantities in formulae and equations.</p>
+
       <p>
         Algebra is a branch of math where we use letters (like <m>a</m>, <m>b</m>, <m>x</m>, <m>y</m>... ) to stand for numbers that we don't know yet.
       </p>
@@ -19,6 +23,7 @@
         The goal in algebra is to find out what number the letter (variable) represents by solving a problem or equation.
       </p>
       <p>
+
          Watch this! 
       </p>
       
@@ -38,3 +43,20 @@
 
 
 </chapter>
+
+         Watch this! <video xml:id="yt-list-vars" youtube="H4g0GZsgq0I" width="60%" margins="5% 35%"/>
+      </p>
+
+  </introduction>
+
+<!-- include sections -->
+<xi:include href="sections/sec-Algebraic-expressions.ptx" />
+
+<!-- include sections -->
+<xi:include href="sections/sec-Linear-equations.ptx" />
+
+<!-- include sections -->
+  <xi:include href="sections/sec-Linear-inequalities.ptx" />
+
+</chapter>
+
