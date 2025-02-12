@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-section-Temperature" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Temperature</title>
+  <p>
+     Why Temperature?
+  </p>
+  <p>
+      Uwera wakes up in the morning and checks the weather, and it's cold and it's cold and foggy with temperatures around 9°C. What does that mean? Will he wear a T-shirt or a warm jacket? 
+      Understanding temperature in math helps us make these decisions! It teaches us how to read thermometers, work with negative numbers, and even 
+      convert between Degrees Celsius and kelvins. 
+  </p>
+  <p>Have you ever wondered why some countries use different temperature units? Or why water freezes at 0°C but boils at 100°C?
+    Learning about temperature isn’t just about numbers—it helps us understand the world around us. 
+    So, next time you check the weather, think about how math is helping you plan your day!
+  </p>
+  <activity>
+  <statement>
+    <p>
+     Walk outside your classroom early in the morning before the midday. What are your observations? Record them in the table below repeat the process during midday and in the evening as you're almost departing to go back home.
+    </p>
+    <p>
+     Observe the temperature conditions of the environment as either warm, hot or cold.
+      </p>
+      <p>
+        Record the temperature changes of the day in the table below using either warm, hot or cold at the given time below.
+      </p>
+      <table>
+        <title></title>
+        <tabular halign="center" bottom="medium" top="medium" left="medium" right="medium">
+          <row>
+            <cell>Time of the day</cell>
+            <cell>Temperature</cell>
+          </row>
+          <row>
+            <cell>Morning 7:00am</cell>
+            <cell></cell>
+          </row>
+          <row>
+            <cell>Noon 12:00 noon</cell>
+            <cell></cell>
+          </row>
+          <row>
+            <cell>Afternoon 2:00 pm</cell>
+            <cell></cell>
+          </row>
+          <row>
+            <cell>Evening 6:00 pm</cell>
+            <cell></cell>
+          </row>
+        </tabular>
+      </table>
+    </statement>
+   </activity>
+     <activity>
+        <p>
+          Why do we say it’s ‘as cold as ice’ but never ‘as hot as fire’? Maybe because no one wants to compare themselves to burnt toast!
+        </p>
+          <p>
+            Make observation in the following pictures and tell me something about temperature.
+          </p>
+          <sidebyside>
+            <figure xml:id="yespic">
+              <caption>A</caption>
+              <image source="/schoolboy.png">
+              <shortdescription>(Temperature)</shortdescription>
+            </image>
+            </figure>
+            <figure xml:id="nopic">
+              <caption>B</caption>
+              <image source="/winter.png">
+                <shortdescription>(Temperature-1)</shortdescription>
+              </image>
+            </figure>
+          </sidebyside>
+     </activity>
+
+</section>

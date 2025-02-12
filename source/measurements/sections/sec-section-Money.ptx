@@ -1,0 +1,1909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-section-Money" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Money</title>
+    <introduction>
+      <p>
+        Money is anything that is generally accepted as a medium of exchange for goods and services. 
+        It is the medium in which prices and values are
+        expressed. Money circulates anonymously from person to person and
+        country to country, thus facilitating trade, and it is the principal measure
+        of wealth.
+      </p>
+      <p>
+        Money can be expressed in diffrent currencies eg
+      </p>
+      <p>
+        <ul>
+          <li>
+            <p>
+              kenyan currency that is <m>Ksh.</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              United state currency that is <m>dollars ($)</m> and many more.
+            </p>
+          </li>
+        </ul>
+      </p>
+      <p>
+        In your school,church, home and the market places people use money to;
+      </p>
+      <p>
+        Buy clothes, Pay school fees, buy food, pay expences at home and many more. Therefore money has a broad usein the 
+        environment you are situated.
+      </p>
+      <p>
+        When bying or selling of any comodity losses and profits may acrue and it is important to be in a position to find and calculate
+        such loses and profits.
+      </p>
+      <p>
+        In this topic will concentrate on how we can calculate transactions made by  the use of money.
+      </p>
+  </introduction>
+
+
+  <subsection xml:id="subsec-Profit">
+    <title>Profit</title>
+    <introduction>
+    <p>
+      Businesses can make profits or losses. To understand the concepts of
+      profit and loss, we will define some terms.
+    </p>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Cost price (<m>C.P</m>) or Buying price (<m>B.P</m>). This is the price at which the business
+            man/woman buys an item.
+          </p>
+        </li>
+        <li>Selling price (S.P). This is the price at which a business man sells
+        an item. </li>
+      </ol>
+    </p>
+    <p>
+      If the selling price is greater than the buying price, the business makes
+      profit.
+    </p>
+    <p>
+      Therefore,
+    </p>
+    <p>
+      <m>Profit =Selling\,price (S.P)−Buying \,price(C.P)</m>.
+    </p>
+
+    <activity>
+      <p>
+        <m>{\color{Magenta}1.\text{ Work as a class. }}</m>
+      </p>
+      <p>
+        <ol>
+          <li>
+            <p>
+              Role-play shopping activities 
+              using the classroom shop.
+            </p>
+          </li>
+          <li>One learner to be the seller while 
+          the rest be the buyers.</li>
+          <li>Take turns for each learner to role-play 
+          as the shopkeeper.</li>
+          <li>Buy and sell items from the clasroom 
+          shop using paper money.</li>
+          <li>Work out the profit made on the sale 
+          of each item.</li>
+        </ol>
+      </p>
+
+    </activity>
+    <activity>
+      <p>
+        <m>{\color{Magenta}2. \text{ Work as a class. }}</m>
+      </p>
+      <p>
+        <ol>
+          <li>
+            <p>
+              Ekadeli owns a shop in Lusweti town. The table below 
+              shows the buying price and selling price in her shop.
+            </p>
+            <tabular halign="left" bottom="medium" top="medium" left="medium" right="medium">
+              <row header="yes">
+                <cell>Items</cell>
+                <cell>Buying Price (<m>BP</m>)</cell>
+                <cell>Selling Price  (<m>SP</m>)</cell>
+                <cell>Profit <m>= (SP-BP)</m></cell>
+              </row>
+              <row>
+                <cell>Tea leavs</cell>
+                <cell><m>Sh\, 100</m></cell>
+                <cell><m>Sh\, 120</m></cell>
+                <cell></cell>
+              </row>
+              <row>
+                <cell><m>1\,kg</m> of rice</cell>
+                <cell><m>Sh\, 120</m></cell>
+                <cell><m>Sh\, 150</m></cell>
+                <cell></cell>
+              </row>
+              <row>
+                <cell><m>1\,kg</m> of sugar</cell>
+                <cell><m>Sh\, 110</m></cell>
+                <cell><m>Sh\, 125</m></cell>
+                <cell></cell>
+              </row>
+              <row>
+                <cell><m>200</m> pages exercise book</cell>
+                <cell><m>Sh\, 80</m></cell>
+                <cell><m>Sh\, 100</m></cell>
+                <cell></cell>
+              </row>
+            </tabular>
+          </li>
+          <li> Compare the buying and the selling price 
+          of each item. Which one is higher?</li>
+          <li>Complete the table by working out the profit.</li>
+          <li>Share your work with other learners in your class.</li>
+        </ol>
+      </p>
+      <p>
+        <ul>
+          <li>
+            <p>
+              <m>{\color{Magenta}\text{ Learning point}}</m>
+            </p>
+            <p>
+              Profit is made when the selling price is heigher than the buying 
+              price.
+            </p>
+            <p>
+              <md>
+                <mrow>\text{Profit}= \amp \text{Selling price} - \text{Buying price }</mrow>
+                <mrow>\text{Selling price} =\amp \text{Buying price }+ \text{Profit}</mrow>
+                <mrow> \text{Buying price }=\amp  \text{Selling price} -\text{Profit}</mrow>
+              </md>
+            </p>
+          </li>
+        </ul>
+      </p>
+    </activity>
+    <example>
+      <statement>
+        <p>
+          Okoth bought a book for <m>Sh.\, 200.</m> He later sold 
+          the book for <m>Sh.\, 250.</m> How much 
+          profit did she make?
+        </p>
+      </statement>
+      <solution>
+        <p>
+          From the question,
+        </p>
+        <p>
+          Buying price <m>=Sh.\,220</m>
+        </p>
+        <p>
+          Selling price <m>=Sh.\,250</m>
+        </p>
+        <p>
+          <md>
+            <mrow> \text{Profit}=\amp \text{Selling price}- \text{Buying price}</mrow>
+            <mrow>= \amp Sh. \,250 -Sh.\, 220 </mrow>
+            <mrow> =\amp Sh.\, 30 </mrow>
+
+          </md>
+        </p>
+        <p>
+          Okoth  made a profit of <m>Sh.\, 30 </m>.
+        </p>
+      </solution>
+    </example>
+    <example>
+      <statement>
+        <p>
+          Odhiambo bought a goat for <m>Sh.\, 6\, 500</m>. He later 
+          sold the goat, making a profit of <m>Sh.\, 1\,200</m>. 
+          What was the selling price of the goat?
+        </p>
+      </statement>
+      <solution>
+        <p>
+          Buying price <m>= Sh.\, 6\, 500</m>
+        </p>
+        <p>
+          profit <m>= Sh.\, 1\,200</m>
+        </p>
+        <p>
+          <md>
+            <mrow>\text{Selling price} = \amp \text{Buying price}+\text{Profit} </mrow>
+            <mrow> =\amp Sh.\, 6\,500+ Sh.\, 1\,200 </mrow>
+            <mrow> =\amp Sh.\, 7\,700 </mrow>
+          </md>
+        </p>
+        <p>
+          Selling price of the goat is <m>Sh.\, 7\,700</m>
+        </p>
+      </solution>
+    </example>
+    </introduction>
+
+    <subsubsection xml:id="subsec-Percentage-profit">
+      <title>Percentage profit.</title>
+      <p>
+        Percentage profit acrues when the selling price is heigher than the buying 
+        price.
+      </p>
+      <p>
+        It is expressed as a persentage (<m>\%</m>).
+      </p>
+      <p>
+        After the calculation of the profit, the salse person is requred to find the 
+        percentage profit that was established during the buying and selling of a perticular comodity or good.
+      </p>
+      <activity>
+        <p>
+          <m>{\color{Magenta}\text{ Work in groups}}</m>
+        </p>
+        <p>
+          <ol>
+            <li>
+              <p>
+                Draw a table similar to the one shown below.
+              </p>
+              <tabular halign="left" bottom="medium" top="medium" left="medium" right="medium">
+                <row header="yes">
+                  <cell></cell>
+                  <cell>Buying price (BP)</cell>
+                  <cell>Selling price(SP)</cell>
+                  <cell>Profit(P)</cell>
+                  <cell>Percentage profit <m>=\frac{P}{BP} \times 100\%</m></cell>
+                </row>
+                <row>
+                  <cell>a)</cell>
+                  <cell><m>Sh. \,800</m></cell>
+                  <cell><m>Sh. \,1\,000</m></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row>
+                  <cell>b)</cell>
+                  <cell><m>Sh. \,300</m></cell>
+                  <cell><m>Sh. \,500</m></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row>
+                  <cell>c)</cell>
+                  <cell><m>Sh. \,625</m></cell>
+                  <cell><m>Sh. \,650</m></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row>
+                  <cell>d)</cell>
+                  <cell><m>Sh. \,1\,200</m></cell>
+                  <cell><m>Sh. \,1\,300</m></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+              </tabular>
+            </li>
+            <li>Work out the difference between the selling price and the 
+            buying price. Fill in the profit column.</li>
+            <li>Work out the percentage profit.</li>
+            <li>Share your work with other leaners in your cclass.</li>
+          </ol>
+        </p>
+        <p>
+          <m>{\color{black}\text{Learning point }}</m>
+          <me>\text{Perenytage profit}= \frac{Profit}{Buying \, price} \times 100\%</me>
+        </p>
+
+      </activity>
+
+      <example>
+        <statement>
+          <p>
+            Ekadeli bought a shirt for <m>sh.\, 1\,500</m>. He later sold the 
+            shirt for <m>sh.\, 1\,800</m>. What percentage profit did Ekadeli make?
+          </p>
+        </statement>
+        <hint>
+          <p>
+            1. Identify the profit first.
+          </p>
+          <p>
+            2. Use the profit to get the percentage profit(<m>\%</m>).
+          </p>
+        </hint>
+        <solution>
+          <p>
+            The buying price <m>= sh.\,1\,500</m>
+          </p>
+          <p>
+            The selling price <m>= sh.\,1\,800</m>
+          </p>
+          <p>
+            <md>
+              <mrow>\text{Profit} =\amp \text{selling price}- \text{Buying price}</mrow>
+              <mrow> =\amp sh.\,1\,800-sh.\, 1\,500 </mrow>
+              <mrow> =\amp sh.\,300</mrow>
+            </md>
+          </p>
+          <p>
+            <md>
+              <mrow>\text{Percentage profit } =\amp \frac{\text{Profit}}{\text{Buying price}} \times 100\% </mrow>
+              <mrow> =\amp(\frac{300}{1\,500} \times 100)\% </mrow>
+              <mrow> =\amp (\frac{30\,000}{1\,500})\%</mrow>
+              <mrow>= \amp 20\%</mrow>
+            </md>
+          </p>
+          <p>
+            She made a percentage profit of <m>20\%</m>.
+          </p>
+        </solution>
+      </example>
+      <example>
+        <statement>
+          <p>
+            Mwai bought a book for <m>sh. 500</m>. He later sold the book 
+            making a <m>10\%</m> profit. How much did he sell the book?
+          </p>
+        </statement>
+        <solution>
+          <p>
+            <m>{\color{blue}\text{Method 1}}</m>
+          </p>
+          <p>
+           The buying price <m>=sh\,500</m> 
+          </p>
+          <p>
+            Perentage profit <m>=10\%</m>
+          </p>
+          <p>
+            Note that, Buying price is equivalent to <m>100\%</m>.
+          </p>
+          <p>
+            Therefor the profit is gotten as,
+          </p>
+          <p>
+            <md>
+              <mrow> =\amp \frac{10}{100} \times sh. \,500 </mrow>
+              <mrow> =\amp  sh. \, 50</mrow>
+            </md>
+          </p>
+          <p>
+            <md>
+              <mrow> \text{Selling price }=\amp \text{Buyting price } + profit </mrow>
+              <mrow> =\amp sh. \, 500 + sh.\, 50 </mrow>
+              <mrow> =\amp sh.\, 550 </mrow>
+            </md>
+          </p>
+          <p>
+            <m>{\color{black}\text{Method 2}}</m>
+          </p>
+          <p>
+            <md>
+              <mrow> \text{Buying price}(100\%)=\amp  sh. \,500</mrow>
+              <mrow> \text{Percentage profit}=\amp 10\% </mrow>
+              <mrow> \text{Selling price}(in \, percentage)=\amp 100\%+10\% </mrow>
+              <mrow> =\amp110\% </mrow>
+              <mrow> Selling\,price =\amp \frac{110}{100} \times sh. \, 500</mrow>
+              <mrow>= \amp sh. 550</mrow>
+            </md>
+          </p>
+          <p>
+            The selling price of the book was <m>sh.\, 550</m>.
+          </p>
+        </solution>
+    
+      </example>
+    
+  </subsubsection>
+  </subsection>
+
+
+  <subsection xml:id="subsec-Loss">
+    <title>Loss.</title>
+   
+    <introduction>
+        <p>
+          If the selling price is lower than the buying price, the business makes a
+          loss.
+        </p>
+        <p>
+          Therefore, <me>Loss= Buying\,\,price - Selling \,\, price</me>
+        </p>
+        <activity>
+          <p>
+            <m>{\color{black}\text{Work in groups}}</m>
+          </p>
+          <p>
+            <ol>
+              <li>
+                <p>
+                  Look at the table below.
+                </p>
+                <tabular halign="center" bottom="medium" right="medium" left="medium" top="medium">
+                  <row header="yes">
+                    <cell>Buying price (<m>BP</m>)</cell>
+                    <cell>Selling price (<m>SP</m>)</cell>
+                    <cell>Loss(<m>BP-SP</m>)</cell>
+                  </row>
+                  <row header="yes">
+                    <cell><m>Sh.\,100</m></cell>
+                    <cell><m>Sh.\,83</m></cell>
+                    <cell></cell>
+                    
+                  </row>
+                  <row header="yes">
+                    <cell><m>Sh.\,55</m></cell>
+                    <cell><m>Sh.\,42</m></cell>
+                    <cell></cell>
+                    
+                  </row>
+                  <row header="yes">
+                    <cell><m>Sh.\,158</m></cell>
+                    <cell><m>Sh.\,140</m></cell>
+                    <cell></cell>
+                  </row>
+                  <row header="yes">
+                    <cell><m>Sh.\,275</m></cell>
+                    <cell><m>Sh.\,220</m></cell>
+                    <cell></cell>
+                  </row>
+                </tabular>
+              </li>
+              <li>Compare the buying and the selling price 
+              in each row. Which one is higher?</li>
+              <li>Complete the table above by working out the difference 
+              between the buying price and the selling price.</li>
+              <li>Discuss what could make the trader sell his or her goods at 
+              a lower price than the buying price. </li>
+              <li>Share your answers with other learners in class.</li>
+            </ol>
+          </p>
+          <p>
+            <m>{\color{blue}\text{Learning point}}</m>
+          </p>
+          <p>
+            <md>
+              <mrow> \text{Loss} =\amp \text{Buying price}- \text{Selling price}</mrow>
+              <mrow> \text{Buying price}= \amp \text{Loss} + \text{Selling price}</mrow>
+              <mrow> \text{Selling price}=\amp \text{Buying price} -\text{Loss} </mrow>
+            </md>
+          </p>
+        </activity>
+            <example>
+              <statement>
+                <p>
+                  Kastro bought a bicycle for <m>sh. \, 8\,000</m>. H leter sold 
+                  it for <m>sh. \, 6\, 500 </m>. How much loss did he make?
+                </p>
+              </statement>
+              <solution>
+                <p>
+                  Buying price of the bicycle  <m>= sh. \, 8\, 000</m>.
+                </p>
+                <p>
+                  Selling price  <m>= sh. \, 6\, 500</m>.
+                </p>
+                <p>
+                  <md>
+                    <mrow> Loss=\amp Buying\,price - Selling \, price </mrow>
+                    <mrow> =\amp sh. \, 8\, 000 - sh. \, 6\, 500</mrow>
+                    <mrow> =\amp sh. 1\,500 </mrow>
+                  </md>
+                </p>
+                <p>
+                  The loss he made was <m>sh. 1\,500</m>.
+                </p>
+              </solution>
+            </example>
+
+            <example>
+              <statement>
+                <p>
+                  Martha bought a Mathematics text book 
+                  for <m>sh. 750</m>. She later sold the textbook making a loss of <m>sh. 150</m>. 
+                  How much did she sell the textbook?
+                </p>
+              </statement>
+              <solution>
+                <p>
+                  The buying price <m>=sh. 750</m>
+                </p>
+                <p>
+                  The loss made <m>=sh. 150</m>
+                </p>
+                <p>
+                  <md>
+                    <mrow> \text{selling price }=\amp \text{Buying price } - \text{Loss} </mrow>
+                    <mrow> =\amp sh. 750-sh. 150</mrow>
+                    <mrow> =\amp {\color{blue}\text{sh. 600}}</mrow>
+                  </md>
+                </p>
+                <p>
+                  The textook was sold for <m>{\color{blue}\text{sh.600}}</m>.
+                </p>
+              </solution>
+            </example>
+    </introduction>
+    <subsubsection xml:id="subsubsec-Percentage-loss">
+      <title>Percentage loss.</title>
+      <p>
+        Percentage loss acrues when the salse person make a loss and may deside 
+        to convert the loss into percentage loss.
+      </p>
+      <p>
+        Percentage loss is that loss divided by the buying price then multiplyed by 
+        <m>100\%</m>.
+      </p>
+      <p>
+        <m>{\color{green}\text{Check the activity below for more illustration}}</m>.
+      </p>
+      <activity>
+        <p>
+          <ol>
+            <li>
+              <p>
+                Draw the table similar to the one
+              </p>
+              <tabular halign="left" bottom="medium" top="medium" left="medium" right="medium">
+                <row header="yes">
+                  <cell></cell>
+                  <cell>Buying price (BP)</cell>
+                  <cell>Selling price(SP)</cell>
+                  <cell>Loss(L)</cell>
+                  <cell>Percentage loss <m>=\frac{L}{BP} \times 100\%</m></cell>
+                </row>
+                <row>
+                  <cell>a)</cell>
+                  <cell><m>Sh. \,250</m></cell>
+                  <cell><m>Sh. \,200</m></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row>
+                  <cell>b)</cell>
+                  <cell><m>Sh. \,800</m></cell>
+                  <cell><m>Sh. \,680</m></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row>
+                  <cell>c)</cell>
+                  <cell><m>Sh. \,1\,000</m></cell>
+                  <cell><m>Sh. \,750</m></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row>
+                  <cell>d)</cell>
+                  <cell><m>Sh. \,600</m></cell>
+                  <cell><m>Sh. \,450</m></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+              </tabular>
+            </li>
+            <li>Work out the difference between the buying price and the 
+            selling price. Fill in the loss column.</li>
+            <li>Work out the percentage loss.</li>
+            <li>Share your work with other learners in class.</li>
+          </ol>
+        </p>
+        <p>
+         <m>{\color{blue}\text{Learning point}}</m>
+        </p>
+        <p>
+          <me>\text{Percentage loss}= \frac{Loss}{Buying \, price} \times 100\%</me>
+        </p>
+      </activity>
+      <example>
+        <statement>
+          <p>
+            Jerald bought a matress for <m>sh. \, 8\,000</m>. She later sold 
+            the matress for <m>sh. \, 7\,000</m>. What percentage loss did she make?
+          </p>
+        </statement>
+        <hint>
+          <p>
+            1. find the loss he made when selling the matress.
+          </p>
+          <p>
+            2. Use the loss to identify the percentage loss.
+          </p>
+        </hint>
+        <solution>
+          <p>
+            Item bought and sold is <em>matress</em>.
+          </p>
+          <p>
+            The buying price is <m>sh. \,8\,000</m>.
+          </p>
+          <p>
+            The selling price is <m>sh. \,7\,000</m>.
+          </p>
+          <p>
+            <md>
+              <mrow> \text{Loss}=\amp \text{Buying price}-\text{Selling price} </mrow>
+              <mrow> =\amp sh. \,8\,000 -sh. \,7\,000</mrow>
+              <mrow> =\amp {\color{blue}\text{sh.1 000}}</mrow>
+              <mrow> \text{Percentage loss}=\amp \frac{Loss}{Buying\, price} \times 100\% </mrow>
+              <mrow> =\amp (\frac{1\,000}{8\,000} \times 100)\% </mrow>
+              <mrow> =\amp 12\frac{1}{2} \% </mrow>
+            </md>
+          </p>
+          <p>
+            The percentage loss she made was <m>{\color{blue}12\frac{1}{2}\%}</m>.
+          </p>
+        </solution>
+      </example>
+      <example>
+        <statement>
+          <p>
+            Harriet bought a dress for <m>sh. \, 1 \,500</m>. She sold the 
+            dress making a percentage loss of <m>25\%</m>. How much did she sell 
+            the dress?
+
+          </p>
+        </statement>
+        <solution>
+          <p>
+            <m>{\color{blue}\text{Method 1}}</m>
+          </p>
+          <p>
+            The dress was bought for <m>sh. \, 1\,500</m>
+          </p>
+          <p>
+            Making a loss interms of percentage as <m>25\%</m>.
+          </p>
+          <p>
+            Therefore we can obtain loss as,
+          </p>
+          <p>
+            <md>
+              <mrow> Loss=\amp \frac{25}{100} \times sh. \, 1\, 500 </mrow>
+              <mrow> =\amp {\color{blue} sh.\, 375}</mrow>
+            </md>
+          </p>
+          <p>
+            Therefore selling price can be obtained having gotten the loss as <m>sh.\, 375</m>
+          </p>
+          <p>
+            <md>
+              <mrow> \text{Selling price}=\amp \text{Buying price }-\text{Loss}</mrow>
+              <mrow> =\amp  sh. \, 1\, 500 - sh.\, 375</mrow>
+              <mrow> =\amp sh. \, 1\,125</mrow>
+            </md>
+          </p>
+          <p>
+            <m>{\color{blue}\text{Method 2}}</m>
+          </p>
+          <p>
+            <md>
+              <mrow>\text{Buying price}(100\%)= \amp sh. \, 1\, 500   </mrow>
+              <mrow> \text{Percentage loss}=\amp 25\%</mrow>
+              <mrow> \text{Selling price}(in\, \%)=\amp 100\%-25\% </mrow>
+              <mrow> =\amp 75\% </mrow>
+              <mrow> \text{Selling price}=\amp \frac{75}{100} \times sh. \, 1\, 500  </mrow>
+              <mrow> =\amp sh. \, 1\,125 </mrow>
+              </md>
+          </p>
+          <p>
+            The selling price of the dress was <m>{\color{green} sh.\, 1\,125}</m>
+          </p>
+        </solution>
+      </example>
+      
+    </subsubsection>
+    
+  </subsection>
+ 
+
+  <subsection xml:id="subsec-Discount">
+    <title>Discount</title>
+    <introduction>
+      <p>
+        <m>{\color{blue} \text{Discount}} </m> is the amount of money deducted from the marked price.
+      </p>
+      <p>
+        We can also say, a total bill is usually sold at a discount. 
+        Based on the <m>{\color{blue} \text{profit and loss }} </m> concept, the discount is basically the difference 
+        between marked price and the selling price.
+      </p>
+      <p>
+        <m>{\color{green} \text{Marked price  }} </m> is the cost set by the seller as per the market standard, 
+        and <m>{\color{green} \text{selling price }} </m>  is the price at which the product or commodity has been sold. 
+        When the selling price is less than the marked price, 
+        then the buyer has said to be got some discount on it.
+      </p>
+      <activity>
+        <p>
+          <m>{\color{green} \text{Work in groups  }} </m>
+        </p>
+        <p>
+          <ul>
+            <li>
+              <p>
+                Read the story below.
+              </p>
+              <p>
+                Akinyi walked into a shoe shop in Lusweti town. The marked price 
+                of all ladie's show was <m>sh. \,1\,000</m>. Akinyi bargained with 
+                the shop attendant to have the price reduced. She later paid <m>sh. \,900</m> for a 
+                pair of shoes. She walked  happy.
+              </p>
+            </li>
+          </ul>
+        </p>
+        <p>
+          <ol>
+            <li>
+              <p>
+                Talk about the story. Do you bargain for prices 
+                of items to be reduced?
+              </p>
+            </li>
+            <li>What was the marked price of the pair of shoes?</li>
+            <li>How much did Akinyi pay for the pair of shoes?</li>
+            <li>How much money less than the marked price did she pay for the shoes?</li>
+            <li>Buy items from the classroom shop using paper money. 
+            Bargain for the prices to be reduced. How do you feel when 
+            the price is reduced?</li>
+            <li>Share your experience with other learners in class.</li>
+          </ol>
+        </p>
+        <p>
+          <m>{\color{green} \text{Learning point}} </m>
+        </p>
+        <p>
+          Sometimes, traders reduce the prices of items to attract customers. 
+          Discount is the amount of money deducted from the marked price. 
+          When given a discount, the buying price is less than the original 
+          price.
+        </p>
+        <p>
+          The price after the discount is reffered to as the marked price.
+        </p>
+        <p>
+          <md>
+            <mrow> {\color{green} \text{Discount}}=\amp{\color{green} \text{Marked price}}-{\color{green} \text{Selling price}} </mrow>
+            <mrow> {\color{green} \text{Marked price}}=\amp {\color{green} \text{Selling price}}+ {\color{green} \text{Discount}}</mrow>
+            <mrow> {\color{green} \text{Selling price}}=\amp {\color{green} \text{Marked price}}-{\color{green} \text{Discount}} </mrow>
+          </md>
+        </p>
+      </activity>
+
+      <example>
+        <statement>
+          <p>
+            The marked price of a blouse was <m>sh. \, 450</m>. Morara bought 
+            the blouse at <m>sh. \, 400</m>. How much discount was she allowed?
+          </p>
+        </statement>
+        <solution>
+          <p>
+            The marked price <m>= sh.\, 450</m>
+          </p>
+          <p>
+            Selling price <m>= sh.\, 400</m>
+          </p>
+          <p>
+            <md>
+              <mrow> {\color{green} \text{Discount}}=\amp {\color{green} \text{Marked price}}-{\color{green} \text{Selling price}} </mrow>
+              <mrow> =\amp sh.\, 450 - sh.\, 400</mrow>
+              <mrow> =\amp  {\color{blue} sh.\, 50}</mrow>
+            </md>
+          </p>
+        </solution>
+      </example>
+      
+      <example>
+        <statement>
+          <p>
+            Onyimbo bought a blanket for <m>sh. \,2\,700</m> after he 
+            was given a discount of <m>sh. \, 300</m>. What was the marked price 
+            of the blanket?
+          </p>
+        </statement>
+        <solution>
+          <p>
+            The selling price of the blanket <m>= sh. \,2\,700</m>
+          </p>
+          <p>
+            Discount <m>= sh. \, 300</m>
+          </p>
+          <p>
+            <md>
+              <mrow> {\color{green} \text{Marked price}}=\amp {\color{green} \text{Selling price}}+ {\color{green} \text{Discount}}</mrow>
+              <mrow> =\amp sh. \,2\,700 + sh. \, 300</mrow>
+              <mrow> =\amp {\color{blue} sh.\, 3\,000} </mrow>
+            </md>
+          </p>
+        </solution>
+      </example>
+    </introduction>
+
+
+    <subsubsection xml:id="subsubsec-Percentage-discount">
+      <title>Percentage discount.</title>
+      <p>
+        Discounts can also be expressed in percentage. When a discount is expressed 
+        in percentage it is called  <m>{\color{blue} \text{Percentage discount}}</m>.
+      </p>
+      <activity>
+        <p>
+          <m>{\color{blue} \text{Work in pairs}}</m>
+        </p>
+        <p>
+          <ol>
+            <li>
+              <p>
+                Complete the table below.
+              </p>
+              <tabular halign="left" bottom="medium" top="medium" left="medium" right="medium">
+                <row header="yes">
+                  <cell></cell>
+                  <cell>Marked price</cell>
+                  <cell>Selling price</cell>
+                  <cell>Discount</cell>
+                  <cell>Percentage discount <m>\frac{Discount}{Marked \, price} \times 100\%</m></cell>
+                </row>
+                <row>
+                  <cell>a)</cell>
+                  <cell><m>Sh. \,700</m></cell>
+                  <cell><m>Sh. \,620</m></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row>
+                  <cell>b)</cell>
+                  <cell><m>Sh. \,10\, 000</m></cell>
+                  <cell><m>Sh. \,9\,500</m></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row>
+                  <cell>c)</cell>
+                  <cell><m>Sh. \,450</m></cell>
+                  <cell><m>Sh. \,400</m></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row>
+                  <cell>d)</cell>
+                  <cell><m>Sh. \,780</m></cell>
+                  <cell><m>Sh. \,650</m></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+              </tabular>
+            </li>
+            <li>Share your work with other learners in class.</li>
+          </ol>
+        </p>
+        <p>
+          <m>{\color{blue} \text{Learning point}}</m>
+        </p>
+        <p>
+          <me>\text{Percentage discount}= \frac{Discount}{marked \, price} \times 100\%</me>
+        </p>
+      </activity>
+
+      <example>
+        <statement>
+          <p>
+            The marked price of an iron box is <m>sh. \, 2\,000</m>. Ekadeli 
+            paid <m>sh. \, 1\,800</m> for the iron box. What was the percentage discount?
+
+          </p>
+        </statement>
+        <solution>
+          <p>
+            Marked price <m>=sh.\, 2 \,000</m>
+          </p>
+          <p>
+            Selling price <m>=sh.\, 1 \,800</m>
+          </p>
+          <p>
+            <md>
+              <mrow> \text{Discount}=\amp \text{Marked price }- \text{Selling price}</mrow>
+              <mrow> =\amp sh.\, 2 \,000 - sh.\, 1 \,800 </mrow>
+              <mrow> =\amp sh. \, 200</mrow>
+             
+            </md> 
+          </p>
+          <p>
+            Percentage discount <m>= \frac{discount}{marked\, price } \times 100\%</m>
+          </p>
+          <p>
+            <md>
+              <mrow> =\amp \frac{sh. \, 200}{sh. \, 2\, 000}\times 100\% </mrow>
+              <mrow> =\amp 10\% </mrow>
+              
+            </md>
+          </p>
+          <p>
+            The percentage discount of the iron was <m>{\color{blue} 10\%}</m>.
+          </p>
+        </solution>
+      </example>
+      <example>
+        <statement>
+          <p>
+            The marked price of a shirt was <m>sh.\, 500</m>. Mathew bought the 
+            shirt after he was allowed a <m>10\%</m> discount. How much did he pay for 
+            the shirt?
+          </p>
+        </statement>
+        <solution>
+          <p>
+            <m>{\color{blue} \text{Method 1}}</m>
+          </p>
+          <p>
+            marked price <m>= sh. \, 500</m>
+          </p>
+          <p>
+            Percentage discount <m>= 10\%</m>
+          </p>
+          <p>
+            <md>
+              <mrow> Discount=\amp 10\% \text{of}\,  sh.\, 500 </mrow>
+              <mrow> =\amp  \frac{10}{100} \times sh.\, 500 </mrow>
+              <mrow> = \amp  {\color{green} sh. \, 50} </mrow>
+            </md>
+          </p>
+          <p>
+            <md>
+              <mrow> \text{Amount paid}=\amp sh.\, 500- sh. \, 50</mrow>
+              <mrow> =\amp  {\color{blue} sh. \, 450} </mrow>
+            </md>
+          </p>
+          <p>
+            <m>{\color{green} \text{Method 2}}</m>
+          </p>
+          <p>
+            Marked price (<m>100\%</m>) <m>= sh. \, 500</m>
+          </p>
+          <p>
+            Percentage discoiunt <m>=10\%</m>
+          </p>
+          <p>
+            <md>
+              <mrow > \text{Selling price on percentage}=\amp 100\%-10\%</mrow>
+              <mrow> =\amp {\color{green} 90\%} </mrow>
+              <mrow>\text{Selling price } =\amp 90\% \text{of} \, sh. \, 500 </mrow>
+              <mrow> =\amp \frac{90}{100}  \times sh. \, 500</mrow>
+              <mrow> =\amp sh. \, 450</mrow>
+            </md>
+             
+          </p>
+          <p>
+            The percentage discount of the trouser was <m>{\color{blue} sh. \, 450}</m>.
+          </p>
+        </solution>
+      </example>
+      <exploration>
+        <statement>
+          <p>
+            <m>{\color{blue} \text{Extended activity}}</m>.
+          </p>
+          <p>
+            👉🏻<m>{\color{green} \text{Do this activity after class or at home}}</m>.
+          </p>
+          <p>
+            Visit the nearest shopping center. Inquire from the traders whether 
+            they sell goods at a discount and, if so, why they do so.
+          </p>
+          <p>
+            <m>{\color{yellow} \text{Click the link below to explore more about Discount}}</m>.
+          </p>
+          <p>
+            <url href="https://youtu.be/6DzKTKhj7FA" />,
+            <url href="https://youtu.be/hXyAhgNhdDs"></url>
+          </p>
+         
+          
+        </statement>
+      </exploration>
+
+
+     
+        
+     
+      
+    </subsubsection>
+    
+
+  </subsection>
+
+  <subsection xml:id="subsec-Commission-and-percentage-commission">
+    <title>Commission and percentage commission.</title>
+    <p>
+      <m>{\color{blue} \text{Commission}}</m> is the amount of money paid 
+      to a salesperson based on the value of goodsand services he or she sells.
+    </p>
+    <p>
+      <m>{\color{blue} \text{A percentage commission}}</m> is a fee calculated as a fixed percentage of the total 
+      sales or transaction value. 
+      It is commonly used in sales, marketing, and brokerage.
+    </p>
+
+    <activity>
+      <p>
+        <m>{\color{green} \text{Work in groups}}</m>
+      </p>
+      <p>
+        <ul>
+          <li>
+            <p>
+              Read the story below and answer the question that follows.
+            </p>
+            <p>
+              Mzee Morara owns a large motor vehicle firm. He imports cars 
+              and sells them locally. He has employed Zawadi and Onyimbo to sell 
+              the cars on his behalf. The employees have a basic salary of 
+              <m>sh. \, 20 \, 000</m> each. They are also paid an extra amount of money 
+              depending on the value of cars sold. Every month, Zawadi and Onyimbo 
+              earn more money than their basic salary. In July, they earned a total 
+              of <m>sh. \, 30 \, 000</m> each. They walked home happy than everbefore.
+            </p>
+          </li>
+        </ul>
+      </p>
+      <p>
+        <ol>
+          <li>
+            <p>
+              How much extra money did Zawadi and Onyimbo earn in July?
+            </p>
+          </li>
+          <li>What is the name of the extra money they earned?</li>
+          <li>Share your work with other learners in your class.</li>
+          
+        </ol>
+      </p>
+    </activity>
+
+    <activity>
+      <p>
+        <m>{\color{green} \text{Work in pairs}}</m>
+      </p>
+      <p>
+        <ol>
+          <li>
+            <p>
+              Movine is a sales agent in a publising company. The table below 
+              shows the commision he received in one week from the sale of books.
+            </p>
+            <tabular halign="left" bottom="medium" top="medium"  right="medium" left="medium" >
+              <row header="yes">
+                <cell>Weeks</cell>
+                <cell>Value of goods sold</cell>
+                <cell>commission </cell>
+                <cell>Percentage commission <m>(\frac{Commission}{Total \, sales} \times 100\%)</m></cell>
+              </row>
+              <row>
+                <cell>Week 1</cell>
+                <cell><m>sh. \, 80 \, 000</m></cell>
+                <cell><m>sh. \, 8\, 000</m></cell>
+                <cell></cell>
+              </row>
+              <row>
+                <cell>Week 2</cell>
+                <cell><m>sh. \, 75 \, 000</m></cell>
+                <cell><m>sh. \, 7 \, 500</m></cell>
+                <cell></cell>
+              </row>
+              <row>
+                <cell>Week 3</cell>
+                <cell><m>sh. \, 92 \, 000</m></cell>
+                <cell><m>sh. \, 9 \, 200</m></cell>
+                <cell></cell>
+              </row>
+              <row>
+                <cell>Week 4</cell>
+                <cell><m>sh. \, 87 \, 700</m></cell>
+                <cell><m>sh. \, 8 \, 770</m></cell>
+                <cell></cell>
+              </row>
+            </tabular>
+          </li>
+          <li>Complete the table by working out the percentage commission.</li>
+          <li>Share your work with other learners in class.</li>
+        </ol>
+      </p>
+      <p>
+        <m>{\color{green} \text{Learning point}}</m>
+      </p>
+      <p>
+        <em>Most companies employ people to market their goods. 
+        These people are paid some money depending on the value of the 
+        goods sold. This amount of money is called <m>{\color{blue} \text{commission}}</m></em>. 
+        Some salespeople are paid a monthly sallary together with the commision.
+      </p>
+      <p>
+        <me>Percentage\, commision \, = \frac{Comission}{Value \, of \, goods\, sold} \times 100\%</me>
+      </p>
+      <p>
+        Follow this link for more activity <url href="https://youtu.be/YSWpoyEhYzA"></url>
+      </p>
+    </activity>
+    <example>
+      <statement>
+        <p>
+          A certain campany gives its salespeople commission of <m> sh. \, 60</m> for every  <m> sh. \, 800</m> 
+          worth of goods they sell. In two days, Nyakiambi who is an employee in the company sold goods worth  <m> sh. \, 96 \, 000 </m>. 
+          How much commisiion did she earn?
+        </p>
+      </statement>
+      <solution>
+        <p>
+          Total value of goods <m>= sh. \, 96 \, 000</m>
+        </p>
+        <p>
+          Commission on <m> sh. \, 800</m> sale <m> = sh. \, 60</m>
+        </p>
+        <p>
+          Therefore commision on <m>sh. \, 96 \, 000</m> is,
+        </p>
+        <p>
+          <md>
+            <mrow> = \amp \frac{sh. \, 96 \, 000}{sh. \, 800}  \times sh. \, 60</mrow>
+             <mrow> =\amp sh. \,7\, 200 </mrow>
+          </md>
+        </p>
+        <p>
+          The commision that Nyakiambi earned was <m>{\color{blue} sh. \,7\, 200  }</m>
+        </p>
+
+      </solution>
+    </example>
+    <example>
+      <statement>
+        <p>
+          Baya received <m>sh. \, 20\, 000</m> as a commission after selling 
+          a car for <m>sh. \, 400\, 000</m>. What percentage commission was he given?
+        </p>
+      </statement>
+      <hint>
+        <p>
+          Use the formular <m>Percentage \,commission = \frac{Commission}{Value \, of \, goods \, sold} \times 100\%</m>
+        </p>
+      </hint>
+      <solution>
+        <p>
+          The value of goods sold <m>=sh. \, 400\, 000</m>
+        </p>
+        <p>
+          Commission on sale <m>= sh. \, 20\, 000</m>
+        </p>
+        <p>
+          <md>
+            <mrow> percentage \,commission =\amp  \frac{Commission}{Value \, of \, goods \, sold} \times 100\% </mrow>
+            <mrow> =\amp \frac{20 \, 000}{400 \, 000}  \times 100\%</mrow>
+            <mrow> =\amp 5\% </mrow>
+          </md>
+        </p>
+        <p>
+          She was given a percentage commision of <m>{\color{blue} 5\%  }</m>
+        </p>
+      </solution>
+    </example>
+    <example>
+      <statement>
+        <p>
+          Abdi, a salesperson, is paid a commission of <m>10\%</m> of the value 
+          of his sales, In one month, he sold goods worth <m>sh.\, 180 \, 000</m>. 
+          How much commission did he earn?
+        </p>
+      </statement>
+      <hint>
+        <p>
+          Commission=<m>\text{Value of goods sold} \times \text{Commision rate} </m>
+        </p>
+      </hint>
+      <solution>
+        <p>
+          Commision rate on the value of sale <m>= 10\%</m>
+        </p>
+        <p>
+          value of goods sold is worth <m>sh. \, 180\,000</m>
+        </p>
+        <p>
+          <md>
+            <mrow> Commission=\amp \text{Value of goods sold} \times \text{Commision rate} </mrow>
+            <mrow> =\amp \frac{10}{100}  \times sh. \, 180\,000</mrow>
+            <mrow> =\amp sh.\, 18 \, 000 </mrow>
+          </md>
+          
+          
+        </p>
+        <p>
+          Abdi, earned <m>{\color{blue} sh.\, 18 \, 000 }</m> commission.
+        </p>
+
+      </solution>
+
+    </example>
+
+    <example>
+      <statement>
+        <p>
+          A saleslady is paid a basic salary of <m>sh. \,10\,000</m> and 
+          <m>10\%</m> commission of the value of goods sold. In one month, she 
+          sold goods worth <m>sh. \, 200\, 000</m>. What were her total earnings that 
+          month?
+        </p>
+      </statement>
+      <hint>
+        <p>
+          Total earnings is the basic salary together with commission.
+        </p>
+        <p>
+          <m>Total\, earnings= Basic \, salary + Commission </m>
+        </p>
+      </hint>
+      <solution>
+        <p>
+          Commision rate <m>= 10\%</m>
+        </p>
+        <p>
+          Basic salary <m>= sh. \, 10 \, 000</m>
+        </p>
+        <p>
+          Goods sold <m>= sh. \, 200\, 000</m>
+        </p>
+        <p>
+          Commission paid <m>= 10\% \text{of the valu of goods sold}</m>
+        </p>
+        <p>
+          <md>
+            <mrow> =\amp  \frac{10}{100} \times sh . \, 200\, 000</mrow>
+            <mrow> =\amp {\color{green} sh. \,20 \, 000  }</mrow>
+            
+          </md>
+        </p>
+        <p>
+          <md>
+            <mrow> \text{Total earnings} =\amp \text{Basic salary} + \text{commission} </mrow>
+            <mrow> =\amp sh. \, 10 \, 000 + sh.\, 20\, 000 </mrow>
+            <mrow> =\amp {\color{pink} sh. \,30 \, 000  } </mrow>
+          </md>
+          
+        </p>
+        <p>
+          The tatal earnings that month was <m> {\color{blue} sh. \,30 \, 000  }</m>
+        </p>
+      </solution>
+    </example>
+
+  </subsection>
+  
+
+
+  <subsection xml:id="subsec-Bills">
+    <title>Bills</title>
+    <introduction>
+      <p>
+        A bill shows the various items sold, their 
+        quantities, the price per unit item and cost.
+      </p>
+      <p>
+        It acts as a proof of the payment made or 
+        received during a business transaction.
+      </p>
+      <p>
+        There are different types of bills such as; <m> {\color{green} \text{Eectricity bills, telephone bills, 
+        water bills, house bills, hotel bills, among others.}}</m>
+      </p>
+      <p>
+        <m> {\color{black} \text{Components of a bill} }</m>
+      </p>
+      <p>
+        <ol>
+          <li>
+            <p>
+              A bill always has the <m> {\color{green} \text{Name of the shop }}</m> mentioned on top.
+            </p>
+          </li>
+          <li><m> {\color{green}\text{A unique number }}</m> is given to each of the bills. 
+          it is called <m> {\color{green} \text{bill number }}</m> or the <m> {\color{green} \text{serial number }}</m> of a bill. 
+          It help us find that particular bill easily. <m> {\color{black} \text{No two bill of the same 
+          shop will have the same bill number.} }</m></li>
+          <li>The date mentioned on the bill is called the <m> {\color{green} \text{Date of purchase. }}</m></li>
+          <li>The <m> {\color{green} \text{list of items }}</m> purchased are always given under 
+          the item column.</li>
+          <li><m> {\color{green} \text{Quantity }}</m> is the total number of each item bought. 
+          Quantity can either be in <m> {\color{green} \text{numbers}}</m> or <m> {\color{green} \text{weights.}}</m> For example 
+          , one notebook or <m>1</m> kilogram of rice. In this case, the notebook 
+          is quantified in numbers, and rice is quantified in weights.</li>
+          <li>The <m> {\color{green} \text{cost }}</m> of each item or the rate 
+          of each item is the <m> {\color{green} \text{original price }}</m> of each item.</li>
+          <li><m> {\color{green} \text{Amount }}</m> to be paid for each item is 
+          quantity multiplied by the rate of each item.</li>
+          <li>The <m> {\color{green} \text{total amount }}</m> to be paid for the entire purchase is 
+          the <m> {\color{green} \text{addition of amounts to be paid }}</m> for each of the items.</li>
+        </ol>
+      </p>
+    </introduction>
+
+
+
+
+
+
+    <subsubsection xml:id="subsubsec-Interpreting-bills">
+      <title>Interpreting bills.</title>
+      <p>
+        Work in groups
+      </p>
+      <p>
+        <ol>
+          <li>
+            <p>
+              Look at the tables below.
+            </p> 
+            <image source="/Bills.png">
+              <shortdescription>Bills.</shortdescription>
+            </image>
+          </li>
+          <li>What can you see in the tables above?</li>
+          <li>What is a bill?</li>
+          <li>What are the components of a bill?</li>
+          <li>Use a digital device to search for other types of bills.</li>
+          <li>Share your findings with other learners in class.</li>
+        </ol>
+      </p>
+      <p>
+        <m> {\color{blue} \text{Learning point. }}</m>
+      </p>
+      <p>
+        <ul>
+          <li>
+            <p>
+              A bill is a list that contains details of 
+              goods and services, their prices and the total cost.
+            </p>
+          </li>
+          <li>Some of the components of a bill include; the date, the amount of money 
+          and the items purchased or services paid for. </li>
+        </ul>
+      </p>
+      <p>
+        <ul>
+          <li>
+            <p>
+              <m> {\color{blue} \text{Parental engagement activity }}</m>
+            </p>
+            <p>
+              With the help of your parent or quardian, interpret different bills at home.
+            </p>
+          </li>
+        </ul>
+      </p>
+      
+      
+    </subsubsection>
+    
+
+
+    <subsubsection xml:id="subsubsec-Preparing-bills">
+      <title>Preparing bills</title>
+      <activity>
+        <p>
+         Work in groups
+        </p>
+        <p>
+          Read the story below.
+        </p>
+        <p>
+          <ul>
+            <li>
+              <p>
+                Gillian bought the following items from a kiosk:
+              </p>
+              <p><m>2\,kg</m> of sugar at <m>sh\,120</m> per kilogram</p>
+              <p><m>2</m> loaves of bread at <m>sh\, 50</m> per loaf</p>
+              <p><m>5</m> packets of milk at <m>sh\, 50</m> per packet</p>
+              <p><m>3</m> packets of salt at <m>sh\, 20</m> per packet.</p>
+              <p>She paid for the items using a thousand shillings note.</p>
+            </li>
+          </ul>
+        </p>
+        <p>
+          <ol>
+            <li>
+              <p>
+                Prepare Gillian's bill.
+              </p>
+            </li>
+            <li>How much did she pay for the items?</li>
+            <li>How much balance did she get?</li>
+            <li>Share your work with other learners in class.</li>
+          </ol>
+        </p>
+      </activity>
+
+      <p>
+        <m> {\color{blue} \text{Learning point }}</m>
+      </p>
+      <p>
+        <ul >
+          <li>
+            <p>
+              In preparing a bill,
+            </p>
+            <p>the symbol <m> {\color{blue} @ }</m> is used to mean per unit. For example, <m>
+              2</m> loaves of bread @<m>sh\,50</m> means that the cost of each 
+              bread is <m>sh\,50</m>.</p>
+            <p><m>'for'</m> means the total cost for all items bought.</p>
+          </li>
+        </ul>
+      </p>
+
+      <example>
+        <statement>
+          <p>
+            Morara bought the following items from a retail shop: <m>1</m> litre of cooking oil 
+            at <m>sh\, 200</m> per litre, <m>2\, kg</m> of sugar @ <m>sh\,130</m>, 
+            <m>3</m> packets of milk @ <m>sh\,50</m> and five matchboxes at <m>sh\,10</m> each.
+        
+          </p>
+          <p>
+            a) Prepare Morara's bill for the item bought
+          </p>
+          <p>
+            b) If he paid for the items using a one thousand shillings note. 
+            how much balance did he get?
+          </p>
+        </statement>
+        <solution>
+          <p>
+            <m> {\color{blue} \text{a) The bill for the item he bought.}}</m> 
+          </p>
+          <tabular halign="left"  top="medium" right="medium" left="medium" >
+            <row header="yes" bottom="medium">
+              <cell>Items</cell>
+              <cell><m>Sh</m></cell>
+              <cell><m>Cts</m></cell>
+            </row>
+            <row>
+              <cell><m>1</m> litre of cooking oil at <m>sh\, 200</m> per litre</cell>
+              <cell><m>200</m></cell>
+              <cell><m>00</m></cell>
+            </row>
+            <row>
+              <cell><m>2\, kg</m> of sugar @ <m>sh\,130</m></cell>
+              <cell><m>260</m></cell>
+              <cell><m>00</m></cell>
+            </row>
+            <row>
+              <cell><m>3</m> packets of milk @ <m>sh\,50</m></cell>
+              <cell><m>150</m></cell>
+              <cell><m>00</m></cell>
+            </row>
+            <row bottom="medium">
+              <cell><m>5</m> matchboxes at <m>sh\,10</m></cell>
+              <cell><m>50</m></cell>
+              <cell><m>00</m></cell>
+            </row>
+            <row bottom="medium">
+              <cell>Total</cell>
+              <cell><m>660</m></cell>
+              <cell><m>00</m></cell>
+            </row>
+          </tabular>
+          <p>
+            b) If he uses <m>sh\,1000</m>
+          </p>
+          <p>
+            <md>
+              <mrow> \text{Balance} =\amp sh\, 1000- sh\, 660 </mrow>
+              <mrow>= \amp sh\,340 </mrow>
+            </md>
+          </p>
+          <p>
+            The balnce he got was <m> {\color{blue} sh\, 340}</m> .
+          </p>
+        </solution>
+
+      </example>
+      <p>
+        Watch the link below for more information about the bill.
+      </p>
+      <p>
+        <url href="https://youtu.be/x8a62xMzN64" />
+      </p>
+      
+    </subsubsection>
+
+
+
+
+
+
+
+  </subsection>
+  
+  <subsection xml:id="subsec-Postal-charges">
+    <title>Postal charges.</title>
+    <p>
+      These refers to the payments made for the services offered in a post office.
+      In Kenya some of these services include:
+    </p>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Postage of letters and parcels 
+            within the country and abroad.
+          </p>
+        </li>
+        <li>Postage of letters and parcels within the country and abroad.</li>
+        <li>Sending money</li>
+        <li>Banking</li>
+        <li>Rental boxes</li>
+      </ol>
+    </p>
+    <p>
+      This is an example of a post office where the above transactions are done.
+    </p>
+    <sidebyside>
+      <image width="50%">
+      <latex-image>
+        \begin{tikzpicture}
+            % Main post office building
+          \draw[fill=gray!20] (0,0) rectangle (10,6); % Main structure
+
+          % Roof
+          \draw[fill=red!70] (-0.5,6) -- (5,8) -- (10.5,6) -- cycle;
+
+          % Door
+          \draw[fill=brown!50] (4.5,0) rectangle (5.5,2);
+
+          % Windows
+          \foreach \x in {1.5, 7.5} {
+            \draw[fill=blue!30] (\x,3) rectangle (\x+1.5,4.5);
+          }
+
+          % Labels for building sides
+          \node[above] at (5,8) {Roof Side};
+          \node[below] at (5,0) {Front Side};
+          \node[rotate=90, above] at (0,3) {Left Side};
+          \node[rotate=90, above] at (10,3) {Right Side};
+
+          % Ground decoration
+          \draw[thick] (-1,0) -- (11,0);
+
+          % Environment enhancements
+          % Trees on both sides
+          \foreach \x in {-0.8, 10.8} {
+            \draw[fill=green!60] (\x,0) -- (\x-0.5,1) -- (\x+0.5,1) -- cycle;
+            \draw[fill=brown!70] (\x-0.1,0) rectangle (\x+0.1,-0.5);
+          }
+
+          % Post Office Sign
+          \node[draw, fill=yellow!80, text width=3cm, align=center, above] at (5,6.2) {POST OFFICE};
+        \end{tikzpicture}
+      </latex-image>
+      </image>
+
+      <image source="/Post.png" width="50%">
+        <shortdescription>New post office</shortdescription>
+      </image>
+    </sidebyside>
+    <activity>
+      <p>
+        <m> {\color{blue} \text{Work as a class}}</m> 
+      </p>
+      <p>
+        <ol>
+          <li>
+            <p>
+              With the help of your teacher, visit a nearby post office.
+            </p>
+          </li>
+          <li>Gather information about the services offered in the post office.</li>
+          <li>Prepare a chart showing the postal charges.</li>
+          <li>Hang the chart in your classroom for doing exercises given in your clas.</li>
+        </ol>
+      </p>
+    </activity>
+    <activity>
+      <p>
+        <m> {\color{blue} \text{Work in groups}}</m> 
+      </p>
+      <p>
+        <ol>
+          <li>
+            <p>
+              Grade <m>7</m> learners from Myra School visited a 
+              a post office and came up with the table below.
+            </p>
+            <tabular halign="left" top="medium" right="medium" left="medium">
+             <row header="yes" bottom="medium">
+                <cell>Type of article</cell>
+                <cell>Mass limits</cell>
+                <cell><m>Sh</m></cell>
+                <cell><m>Cts</m></cell>
+              </row>
+              <row>
+                <cell>Letters</cell>
+                <cell>Up to <m>20\,g</m></cell>
+                <cell>21</cell>
+                <cell><m>00</m></cell>
+              </row>
+              <row>
+                <cell></cell>
+                <cell>Over <m>20\,g</m> up to <m>50\,g</m></cell>
+                <cell><m>25</m></cell>
+                <cell><m>00</m></cell>
+              </row>
+              <row>
+                <cell></cell>
+                <cell>Over <m>50\,g</m> up to <m>100\,g</m></cell>
+                <cell><m>28</m></cell>
+                <cell><m>00</m></cell>
+              </row>
+              <row>
+                <cell></cell>
+                <cell>Over <m>100\,g</m> up to <m>250\,g</m></cell>
+                <cell><m>42</m></cell>
+                <cell><m>00</m></cell>
+              </row>
+              <row>
+                <cell></cell>
+                <cell>Over <m>250\,g</m> up to <m>500\,g</m></cell>
+                <cell><m>70</m></cell>
+                <cell><m>00</m></cell>
+              </row>
+              <row>
+                <cell></cell>
+                <cell>Over <m>500\,g</m> up to <m>1\,kg</m></cell>
+                <cell><m>113</m></cell>
+                <cell><m>00</m></cell>
+              </row>
+              <row>
+                <cell></cell>
+                <cell>Over <m>1\, kg </m> up to <m>2\,kg</m></cell>
+                <cell><m>160</m></cell>
+                <cell><m>00</m></cell>
+              </row>
+              <row bottom="medium">
+                <cell></cell>
+                <cell>Each additional <m>1 \, kg</m> after <m>2\, kg</m></cell>
+                <cell><m>30</m></cell>
+                <cell><m>00</m></cell>
+              </row>
+              <row bottom="medium">
+                <cell>Aerograms</cell>
+                <cell>Single form each</cell>
+                <cell><m>21</m></cell>
+                <cell><m>00</m></cell>
+              </row>
+              <row bottom="medium">
+                <cell>Postcards</cell>
+                <cell>Each</cell>
+                <cell><m>19</m></cell>
+                <cell><m>00</m></cell>
+              </row>
+            </tabular>
+
+          </li>
+          <li>
+            <p>
+              From the above, discuss the cost of sending the following 
+              items.
+            </p>
+            
+            <p>
+              <m>\text{a) A letter weighing} \,18\,g  \qquad \text{b) A letter weighing} \,150\, g    </m>
+            </p>
+            <p><m> \text{c) A letter weighing}\, 800\,g \qquad \text{d) A letter weighing} \,1.5\,kg</m></p>
+            <p><m>\text{e) A letter weighing} \,3\,kg \qquad \text{f) 3 single from aerograms}</m></p>
+            <p><m>\text{g) 2 postcards}</m></p>
+          </li>
+          
+          <li>Share your answers with other learners in class.</li>
+
+        </ol>
+      </p>
+    </activity>
+    <p>
+      <m> {\color{blue} \text{Learning Point}}</m> 
+    </p>
+    <p>
+      Some of the services offered in a post office include <m> {\color{green} \text{sending}}</m> and 
+      <m> {\color{green} \text{receiving letters,parcels and postcards.}}</m> 
+    </p>
+    <p>
+      The tables below will help when solving question under postal charges.
+    </p>
+    <table>
+      <title><m> {\color{blue} \text{Inland postal charges}}</m> </title>
+      <tabular halign="left" top="medium" right="medium" left="medium">
+        <row  header="yes" bottom="medium">
+          <cell>Type of article</cell>
+          <cell>Mass limits</cell>
+          <cell><m>Sh</m></cell>
+          <cell><m>Cts</m></cell>
+        </row>
+        <row>
+          <cell>Letters</cell>
+          <cell>Up to <m>20\,g</m></cell>
+          <cell><m>25</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>20 \,g </m> up to <m>50\,g</m></cell>
+          <cell><m>30</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>50 \,g </m> up to <m>100\,g</m></cell>
+          <cell><m>32</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>100 \,g </m> up to <m>250\,g</m></cell>
+          <cell><m>46</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>250 \,g </m> up to <m>500\,g</m></cell>
+          <cell><m>70</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>500 \,g </m> up to <m>1\,kg</m></cell>
+          <cell><m>114</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row bottom="medium">
+          <cell></cell>
+          <cell>Over <m>1 \,kg </m> up to <m>2\,kg</m></cell>
+          <cell><m>123</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row bottom="medium">
+          <cell>Aerograms(single form)</cell>
+          <cell>Each</cell>
+          <cell><m>21</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row bottom="medium">
+          <cell>Literature for the blind</cell>
+          <cell> Free postage</cell>
+          <cell></cell>
+          <cell></cell>
+        </row>
+        <row bottom="medium">
+          <cell>Postcards</cell>
+          <cell>Each</cell>
+          <cell><m>15</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell>Printed papers(limit of mass <m>1\,kg</m>)</cell>
+          <cell>Up to <m>20\,g</m></cell>
+          <cell><m>39</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>20 \,g </m> up to <m>50\,g</m></cell>
+          <cell><m>54</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>50 \,g </m> up to <m>100\,g</m></cell>
+          <cell><m>72</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>100 \,g </m> up to <m>250\,g</m></cell>
+          <cell><m>89</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>250 \,g </m> up to <m>500\,g</m></cell>
+          <cell><m>98</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row bottom="medium">
+          <cell></cell>
+          <cell>Over <m>500 \,g </m> up to <m>1\,kg</m></cell>
+          <cell><m>115</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell>Parcels(limit of mass <m>50\,kg</m>)</cell>
+          <cell>Up to <m>5\,kg</m></cell>
+          <cell><m>50</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>5\,kg</m> up to <m>10\,kg</m></cell>
+          <cell><m>89</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>10\,kg</m> up to <m>15\,kg</m></cell>
+          <cell><m>168</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>15\,kg</m> up to <m>20\,kg</m></cell>
+          <cell><m>246</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row bottom="medium">
+          <cell></cell>
+          <cell>For each additional <m>1\,kg </m> or part thereof up to <m>50\, kg</m></cell>
+          <cell><m>9</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+      </tabular>
+    </table>
+    <table>
+      <title> <m>{\color{blue} \text{International Postal Charges}}</m></title>
+      <tabular>
+        <row>
+          <cell></cell>
+        </row>
+      </tabular>
+    </table>
+    <table>
+      <title><m>{\color{blue} \text{International air mail postal charges}}</m></title>
+      <tabular>
+        <row>
+          <cell></cell>
+        </row>
+      </tabular>
+    </table>
+    <table>
+      <title><m>{\color{blue} \text{Surface airlifted postal charges}}</m></title>
+      <tabular>
+        <row>
+          <cell></cell>
+        </row>
+      </tabular>
+    </table>
+    <table>
+      <title><m>{\color{blue} \text{Express Mail Service(EMS) international rates}}</m></title>
+      <tabular>
+        <row>
+          <cell></cell>
+        </row>
+      </tabular>
+    </table>
+
+
+  </subsection>
+
+
+   
+
+
+
+
+
+
+  
+</section>
