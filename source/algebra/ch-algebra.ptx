@@ -18,22 +18,23 @@
       <p>
         The goal in algebra is to find out what number the letter (variable) represents by solving a problem or equation.
       </p>
-
-      <figure>
-        <caption>Watch this.</caption>
-        <video youtube="H4g0GZsgq0I"/>
-      </figure>
+      <p>
+         Watch this! 
+      </p>
+      
+      <video xml:id="yt-list-vars" youtube="H4g0GZsgq0I" width="60%" margins="5% 35%"/>
 
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="Sections/sec-Algebraic-Expressions.ptx" />
+  <xi:include href="Sections/sec-Algebraic-expressions.ptx" />
 
   <!-- include sections -->
-  <xi:include href="Sections/sec-Linear-Equations.ptx" />
+  <xi:include href="Sections/sec-Linear-equations.ptx" />
 
-  <!-- include sections -->
-  <xi:include href="Sections/sec-Linear-Inequalities.ptx" />
+<!-- include sections -->
+  <xi:include href="Sections/sec-Linear-inequalities.ptx" />
+  
 
 
 </chapter>
