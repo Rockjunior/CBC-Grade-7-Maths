@@ -3,31 +3,33 @@
 <section xml:id="sec-section-Volume-and-Capacity" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Volume and Capacity</title>
   <introduction>
+    <p>
+      <m>{\color{Magenta} \text{Need for learning volume and capacity.}}</m>
+    </p>
   <sidebyside>
     <p>
-      Need for learning volume and capacity.
+        Did you take tea in the morning? Was it packed and labelled e.g 1 litre or 500ml? Now let's explore to understand why we learn volume and capacity.
+        The Importance of Volume and Capacity in the Milk Industry. The milk industry relies heavily on volume and capacity calculations at every stage—from production and storage to packaging and distribution. 
+        Understanding these concepts ensures efficiency, accuracy, and cost-effectiveness in the industry.
     </p>
-    <p>
-      To determine the amount of liquids we consume, amount of fuel we use in cars or lamps and the amount of water and milk we use to cook, we apply the knowledge of volume and capacity.
-    </p>
-    <image source="/volume.png">
+    <image source="/milkey.png">
       <shortdescription>volume</shortdescription>
     </image>
   </sidebyside>  
   </introduction>
   <subsection xml:id="subsec-cubic-metre-as-a-unit-of-measuing-volume">
-    <title>Cubic metre as a unit of measuing volume</title>
+    <title>Cubic metre as a unit of measuring volume</title>
     <activity>
      <sidebyside>
       <ul>
         <li>
           <p>
-           what you need: Twelve sticks of length <m>1\text{m}</m>
+           <m>\textbf{What you need:}</m>
           </p>
         </li>
         <li>
           <p>
-            Old pieces of paper 
+             A box 
           </p>
         </li>
         <li>
@@ -42,13 +44,14 @@
         </li>
         <li>
           <p>
-            Pieces of string.
+            Cello tape or glue.
           </p>
         </li>
           <li>
             <p>
-              Join the twelve sticks to form a cube like the one shown on the right.
-              use the pieces of paper to cover it to make a closed cube.
+              Cut six pieces square shaped with equal length of 30cm wide and long.
+              Mount them together to form a cube as shown alongside.
+              use the cut pieces of box to cover it all around to make a closed cube.
             </p>
           </li>
           <li>
@@ -58,38 +61,543 @@
           </li>
           <li>
             <p>
-              The cube you have made is called a cubic metre. It's sides are <m>1\text{m}</m> long.
+              The cube you have made is called a <m>{\color{Magenta} \text{20cm cube.}}</m>. It's sides are <m>20\text{cm}</m> long.
             </p>
             <p>
-              The volume of the cube is <m>1\text{m} \times 1\text{m} \times 1\text{m} = 1\text{m^3}</m>
+              The volume of the cube is <m>20\text{cm} \times 20\text{cm} \times 20\text{cm} = 1\text{cm}^3</m>
             </p>
           </li>
         </ul>
-      <image source="/cube.png">
+      <image source="/cuboid_sliding_lid_animation.gif">
         <shortdescription>making cubes</shortdescription>
       </image>
      </sidebyside>
      <p>
-      Conversion of cubic metres to cubic centimetres.
+      <m>{\color{Magenta} \text{Conversion of cubic metres to cubic centimetres.}}</m>
      </p>
      <p>
-      Measure the length, the width and the height of the cube in metres .
+      Suppose you have a cube with the length, the width and the height of 1 metre.
       Work out it's volume in cubic metres.
-       <m>1\text{m} /times 1\text{m} /times 1\text{m} = 1\text{m^3}</m>
+       <m>1\text{m} \times 1\text{m} \times 1\text{m} = 1\text{m}^3</m>
      </p>
      <p>
       Measure the length, the width and the height of the cube in centimetres.
       Work out it's volume in cubic centimetres.
-       <m>100\text{cm} \times 100\text{cm} \times 100\text{cm} = 1,000,000\text{cm^3}</m>
+       <m>100\text{cm} \times 100\text{cm} \times 100\text{cm} = 1,000,000\text{cm}^3</m>
      </p>
      <p>
-      How many cubic centimetres is one cubic metre? <m>1,000,000\text{cm^3}</m>
+      How many cubic centimetres is one cubic metre? <m>1,000,000\text{cm}^3</m>
       How can you convert the volume you got in cubic metres to cubic centimetres? 
-      Since <m>1\text{m^3} = 1,000,000\text{cm^3}</m>
+      Since <m>1\text{m}^3 = 1,000,000\text{cm}^3</m>
      </p>
      <p>
       Therefore to convert volume from cubic metres to cubic centimetres, we multiply the volume by 1,000,000.
      </p>
     </activity>
+    <example>
+      <statement>
+          <sidebyside>
+            <p>
+              A Rectangular tank has a volume of <m>\text{12m}^3.</m>What is it's volume in cubic centimetres?
+            </p>
+            <image source="/rectangular tank.png">
+              <shortdescription>(Reactangular tank)</shortdescription>
+            </image>
+          </sidebyside>
+      </statement>
+
+          <solution>
+            <p>
+              <md>
+              <mrow> 1 \text{m}^3= \amp 1000000\text{cm}^3 </mrow>
+              <mrow> 12 \text{m}^3= \amp ? </mrow>
+              <mrow> \frac {12 \cancel{{m}^3}}{1\cancel{\text{m}^3}}\times  1000000 \text{cm}^3 = \amp 12 \times  1000000 \text{cm}^3 </mrow>
+              <mrow> =\amp 12,000,000\text{cm}^3 </mrow>
+            </md>
+            </p>
+          </solution>
+           </example>
   </subsection>
+<subsection xml:id="subsec-volume-of-cubes">
+  <title>Volume of cubes.</title>
+  <activity>
+    <statement>
+      <p>
+        <ul>
+          <li>
+            <p>
+              Grade 7 learners intended to purchase a gift for their mathematics teacher. 
+            </p>
+          </li>
+          <li>
+            <p>
+              Make a cubic gift box like the one shown below and measure the length, width and height to get it's volume.
+            </p>
+          </li>
+          <li>
+            <p>
+              Thereafter, sketch the cube in your exercise book and work out the volume and convert the volume from 
+              <m>cm^3</m> to <m>m^3.</m>
+            </p>
+          </li>
+        </ul>
+      </p>
+      <sidebyside>
+        <image source="/GIFT.png" width="20%">
+          <shortdescription>(gift)</shortdescription>
+        </image>
+        <image width="20%">
+        <latex-image >
+          \begin{tikzpicture}
+            \coordinate (A) at (0,0);
+            \coordinate (B) at (3,0);
+            \coordinate (C) at (3,3);
+            \coordinate (D) at (0,3);
+            \coordinate (E) at (1,1);
+            \coordinate (F) at (4,1);
+            \coordinate (G) at (4,4);
+            \coordinate (H) at (1,4);
+            % Draw the front face
+            \draw[thick] (A) -- (B) -- (C) -- (D) -- cycle;
+
+            % Fill base square with blue color
+            \fill[blue!30] (A) -- (B) -- (F) -- (E) -- cycle;
+            % Draw the front face
+            \draw[thick] (A) -- (B) -- (C) -- (D) -- cycle;
+
+            % Draw the back face
+            \draw[thick] (E) -- (F) -- (G) -- (H) -- cycle;
+
+            % Connect front and back faces
+            \draw[thick] (A) -- (E);
+            \draw[thick] (B) -- (F);
+            \draw[thick] (C) -- (G);
+            \draw[thick] (D) -- (H);
+
+            % Label Base
+            \draw[&lt;-&gt;, red, thick] (A) ++(0,-0.3) -- ++(3,0) node[midway, below, font=\bfseries, red] {Base};
+
+            % Label Height
+            \draw[&lt;-&gt;, blue, thick] (F) ++(0.3,0) -- ++(0,3) node[midway, right, font=\bfseries, blue] {Height};
+
+            % Label Width
+            \draw[&lt;-&gt;, green!70!black, thick] (B) ++(0.2,0) -- ++(1,1) node[midway, below right, font=\bfseries, green!70!black] {Width};
+          \end{tikzpicture}
+        </latex-image>
+        </image>
+      </sidebyside>
+      <p>
+        What is the area of the coloured face?
+      </p>
+      <p>
+        Therefore find the area of the cube.
+      </p>
+    </statement>
+  </activity>
+  <example>
+    <statement>
+      <p>
+        Find the volume of the figure below.
+      </p>
+      <image>
+      <latex-image>
+        \begin{tikzpicture}
+          Define dimensions
+          \def\length{12} % Length of the cuboid
+          \def\height{5}  % Height of the cuboid
+          \def\width{4}   % Width (depth) of the cuboid
+
+          % Define points for the cuboid
+          \coordinate (A) at (0,0);                   % Front bottom-left
+          \coordinate (B) at (\length,0);             % Front bottom-right
+          \coordinate (C) at (\length,\height);       % Front top-right
+          \coordinate (D) at (0,\height);             % Front top-left
+
+          \coordinate (E) at (\width,\width);                   % Back bottom-left
+          \coordinate (F) at (\length+\width,\width);           % Back bottom-right
+          \coordinate (G) at (\length+\width,\height+\width);   % Back top-right
+          \coordinate (H) at (\width,\height+\width);           % Back top-left
+
+          % Fill base rectangle with blue color
+          \fill[blue!30] (A) -- (B) -- (F) -- (E) -- cycle;
+          % Draw the front face
+          \draw[thick] (A) -- (B) -- (C) -- (D) -- cycle;
+
+          % Draw the back face
+          \draw[thick] (E) -- (F) -- (G) -- (H) -- cycle;
+
+          % Connect front and back faces
+          \draw[thick] (A) -- (E);
+          \draw[thick] (B) -- (F);
+          \draw[thick] (C) -- (G);
+          \draw[thick] (D) -- (H);
+
+          % Label Length (front edge)
+          \draw[&lt;-&gt;, red, thick] (A) ++(0,-1) -- ++(\length,0) 
+              node[midway, below, font=\bfseries, red] {Length = 12 cm};
+
+          % Label Height (right edge)
+          \draw[&lt;-&gt;, blue, thick] (F) ++(1,0) -- ++(0,\height)
+          node[midway, right, font=\bfseries, blue] {Height = 5 cm};
+
+          % Label Width (depth)
+          \draw[&lt;-&gt;, green!70!black, thick] (B) ++(0,-1) -- ++(\width,\width)
+              node[midway, below right, font=\bfseries, green!70!black] {Width = 4 cm};
+          \end{tikzpicture}
+        </latex-image>
+        </image>
+      </statement>
+    </example>
+  </subsection>
+  <subsection xml:id="subsec-volume-of-cuboids">
+    <title>volume of cuboids</title>
+    <activity>
+    <statement>
+      <p>
+        <ul>
+          <li>
+            <p>
+              Baya drew the cuboid alongside and coloured it at one face.
+            </p>
+          </li>
+          <li>
+            <p>
+              What is the area of the coloured face?
+            </p>
+          </li>
+          <li>
+            <p>
+              What is the volume of the cuboid?
+            </p>
+          </li>
+        </ul>
+      </p>
+        <image>
+        <latex-image>
+          \begin{tikzpicture}
+            \coordinate (A) at (0,0);
+            \coordinate (B) at (4,0);
+            \coordinate (C) at (4,2);
+            \coordinate (D) at (0,2);
+            \coordinate (E) at (1,1);
+            \coordinate (F) at (5,1);
+            \coordinate (G) at (5,3);
+            \coordinate (H) at (1,3);
+            % Draw the front face
+            \draw[thick] (A) -- (B) -- (C) -- (D) -- cycle;
+
+            % Draw the back face
+            \draw[thick] (E) -- (F) -- (G) -- (H) -- cycle;
+
+            % Fill base rectangle with blue color
+            \fill[blue!30] (A) -- (B) -- (F) -- (E) -- cycle;
+            % Draw the front face
+            \draw[thick] (A) -- (B) -- (C) -- (D) -- cycle;
+
+
+            % Connect front and back faces
+            \draw[thick] (A) -- (E);
+            \draw[thick] (B) -- (F);
+            \draw[thick] (C) -- (G);
+            \draw[thick] (D) -- (H);
+
+            % Label Base
+            \draw[&lt;-&gt;, red, thick] (A) ++(0,-0.3) -- ++(4,0) node[midway, below, font=\bfseries, red] {Base};
+
+            % Label Height
+            \draw[&lt;-&gt;, blue, thick] (F) ++(0.3,0) -- ++(0,2) node[midway, right, font=\bfseries, blue] {Height};
+
+            % Label Width
+            \draw[&lt;-&gt;, green!70!black, thick] (B) ++(0,-0.3) -- ++(1,1) node[midway, below right, font=\bfseries, green!70!black] {Width};
+          \end{tikzpicture}
+      </latex-image>
+      </image>
+  </statement>
+  </activity>
+  <example>
+    <statement>
+      <p>
+        Find the volume of the figure below.
+      </p>
+      <image>
+      <latex-image>
+        \begin{tikzpicture}
+          % Define dimensions
+          \def\length{12} % Length of the cuboid
+          \def\height{5}  % Height of the cuboid
+          \def\width{4}   % Width (depth) of the cuboid
+
+          % Define points for the cuboid
+          \coordinate (A) at (0,0);                   % Front bottom-left
+          \coordinate (B) at (\length,0);             % Front bottom-right
+          \coordinate (C) at (\length,\height);       % Front top-right
+          \coordinate (D) at (0,\height);             % Front top-left
+
+          \coordinate (E) at (\width,\width);                   % Back bottom-left
+          \coordinate (F) at (\length+\width,\width);           % Back bottom-right
+          \coordinate (G) at (\length+\width,\height+\width);   % Back top-right
+          \coordinate (H) at (\width,\height+\width);           % Back top-left
+
+          % Fill base rectangle with blue color
+          \fill[blue!30] (A) -- (B) -- (F) -- (E) -- cycle;
+
+          % Draw the front face
+          \draw[thick] (A) -- (B) -- (C) -- (D) -- cycle;
+
+          % Draw the back face
+          \draw[thick] (E) -- (F) -- (G) -- (H) -- cycle;
+
+          % Connect front and back faces
+          \draw[thick] (A) -- (E);
+          \draw[thick] (B) -- (F);
+          \draw[thick] (C) -- (G);
+          \draw[thick] (D) -- (H);
+
+          % Label Length (front edge)
+          \draw[&lt;-&gt;, red, thick] (A) ++(0,-1) -- ++(\length,0) 
+              node[midway, below, font=\bfseries, red] {Length = 12 cm};
+
+          % Label Height (right edge)
+          \draw[&lt;-&gt;, blue, thick] (B) ++(1,0) -- ++(0,\height)
+              node[midway, right, font=\bfseries, blue] {Height = 5 cm};
+
+          % Label Width (depth)
+          \draw[&lt;-&gt;, green!70!black, thick] (B) ++(0,-1) -- ++(\width,\width)
+              node[midway, below right, font=\bfseries, green!70!black] {Width = 4 cm};
+
+        \end{tikzpicture}
+      </latex-image>
+      </image>
+    </statement>
+    <hint>
+      <p>
+        Volume of the cuboid = length \times width \times height.
+      </p>
+    </hint>
+    <solution>
+      <p>
+        <md>
+          <mrow>\text{volume of a cuboid} = \amp \text {length} \times \text {width} \times \text{height}</mrow>
+          <mrow> = \amp (12 \times 4 \times 5) \text{cm}</mrow>
+          <mrow> = \amp 240 \text{cm}^3</mrow>
+        </md>
+      </p>
+      <p>
+        <m> \text {{\color{Magenta}Volume of the cuboid = 240 {cm}^3}}</m>
+      </p>
+    </solution>
+  </example>
+</subsection>
+<subsection xml:id="subsec-volume-of-cylinders">
+  <title>Volume of cylinders</title>
+  <activity>
+    <statement>
+      <sidebyside>
+      <p>
+        <ol>
+          <li>
+            <p>
+              Arrange a pile of similar coins or round objects to form a cylinder as shown alongside.
+            </p>
+          </li>
+          <li>
+            <p>
+              Measure the diameter of the coin at the top.
+            </p>
+          </li>
+          <li>
+            <p>
+              Find the area of the coin{cross sectional area of the cylinder.}
+            </p>
+          </li>
+          <li>
+            <p>
+              Using a ruler, measure the height of the pile.
+            </p>
+          </li>
+          <li>
+            <p>
+              Multiply the height of the pile by the cross sectional area.
+            </p>
+          </li>
+          <li>
+            <p>
+              Share your answer with other learners.
+            </p>
+          </li>
+        </ol>
+      </p>
+      <image source="/coin.png">
+        <shortdescription>(for accessibility)</shortdescription>
+      </image>
+    </sidebyside>
+    </statement>
+  </activity>
+  <exploration>
+  <statement>
+    <p>
+      What is meant by cross section?
+    </p>
+    <image source="/cross-sec-cyl.png">
+      <shortdescription></shortdescription>
+    </image>
+    <p>
+      
+    </p>
+    <p>
+      <m>  \text {Cross- sectional area } \textbf{A = π × r² = πr²}.</m> 
+    </p>
+    <p>
+      <m> \text{volume of a cylinder} \textbf{ V =cross sectional area × height = πr²h}.</m>
+      
+    </p>
+  </statement>
+  </exploration>
+  <example>
+  <statement>
+    <sidebyside>
+      <p>
+        Find the volume of the cylinder alongside given d = <m>28\text{cm}</m> and h = <m>50\text {cm}</m>
+      </p>
+      <image source="/cyl.png">
+        <shortdescription></shortdescription>
+      </image>
+    </sidebyside>
+  </statement>
+  <hint>
+    <p>
+      volume = <m>\pi \text {r}^2 \text {h}</m>
+    </p>
+    <p>
+      Where d = <m> \frac {1}{2}</m>r
+    </p>
+  </hint>
+    <solution>
+      <p>
+        <md>
+          <mrow> \text {Volume of a cylinder} =\amp \pi r^2 </mrow>
+          <mrow> =\amp \frac {22}{7} \times {14}{2}\text {cm}\times 14 \text {cm}\times 20 \text {cm} </mrow>
+          <mrow> =\amp \frac{22}{7} \times 3920 \text {cm}^2 </mrow>
+          <mrow> =\amp 12,320 \text {cm}^3</mrow>
+        </md>
+      </p>
+    </solution>
+  </example>
+</subsection>
+<subsection xml:id="subsec-relationship-between-cubic-centimetres-cubic-metres-and-litres">
+  <title>Relationship between cubic centimetres(cm³), cubic metres(m³) and Litres</title>
+  <activity>
+    <statement>
+      <sidebyside>
+        <p>
+          <ul>
+            <li>
+              <p>
+                <m>\textbf {You need:} </m>
+              </p>
+            </li>
+            <li>
+              <p>
+                <m>{\color{Cyan} a). A container. b)A basin.}</m>
+              </p>
+            </li>
+            <li>
+              <p>
+                <m>{\color{Cyan}\text{ c) Water. d)A wood saw.}}</m>
+              </p>
+            </li>
+            <li>
+              <p>
+               <m>{\color{Cyan}\text {e)A piece of wood. f) A nail.}}</m>
+              </p>
+            </li>
+            <li>
+              <p>
+                <m>{\color{cyan} \text {h)A measuring cylinder calibrated in litres.}}</m>
+              </p>
+            </li>
+            <li>
+              <p>
+                Make a model of a cube or (cut a cubic piece of wood) measuring <m>10 \text {cm by }10 \text {cm by }10 \text {cm}</m>.
+              </p>
+            </li>
+            <li>
+              <p>
+                What is the volume of the cube?
+                </p>
+            </li>    
+          </ul>
+        </p>
+        <image source="/cyl-box.png">
+          <shortdescription></shortdescription>
+        </image>
+      </sidebyside>
+      <p>
+        <ul>
+            <li>
+              <p>
+                 Fill in the container with water and place it in the basin.
+              </p>
+            </li>
+            <li>
+              <p>
+                Hammer a nail on the cube.
+              </p>
+            </li>
+            <li>
+              <p>
+                Slowly immerse the cube into the water in the container until it is completely covered bt the water.
+              </p>
+            </li>
+          <li>
+            <p>
+              Pour the water that spilled into the water in a measuring cylinder and record the volume of the water.
+            </p>
+          </li>
+          <li>
+            <p>
+              <md>
+                <mrow> \text {a. What is the volume of the water that spilled?} </mrow>
+                <mrow> \text {b.What is the volume of the cube?}</mrow>
+              </md>
+            </p>
+          </li>
+        </ul>
+      </p>
+    </statement>
+  </activity>
+  <exploration>
+    <statement>
+      <p>
+        <m>{\color{magenta} \text{Learning point.}}</m>
+      </p>
+      <p>
+        <m>{\color{cyan}\textbf {Conversion from  cubic centimetres to Litres  }}</m>
+      </p>
+      <p>
+        From our activity above, The volume of water spilled should be <m>1</m> litre.
+        The amount of water spilled in the basin is equivalent to the volume of the cube.
+        <md>
+          <mrow> 10 \text{cm} \times 10 \text{cm} \times 10 \text {cm} =\amp  1000\text {cm}^3</mrow>
+          <mrow> 1000\text {cm}^3 =\amp 1 \text{Litre}</mrow>
+          <mrow> 1 \text{Litre} = \amp 1000\text {cm}^3  </mrow>
+       </md>
+      </p>
+    </statement>
+  </exploration>
+  <activity>
+    <statement>
+      <p>
+        <ol>
+          <li>
+            <p>
+              Learners from Kigali primary school used a 10 litre jerrycan
+            </p>
+          </li>
+        </ol>
+      </p>
+    </statement>
+  </activity>
+  
+</subsection>
 </section>
