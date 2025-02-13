@@ -1482,40 +1482,40 @@
     <subsection xml:id="subsec-Number-sequence-involving-fractions">
         <title>Number sequence involving fractions</title>
         <activity>
-            <statement>
-                <p>
-                    <alert>Work in groups</alert>
-                </p>
-                <p>
-                    <ol marker="a)">
-                        <li>
-                            <p>
-                                Observe the pattern in the following sequence of fractions: <m>\frac{1}{4},\frac{1}{9},\frac{1}{16},\frac{1}{25}</m>
-                            </p>
-                        </li>
-                        <li>
-                            <p>
-                                Identify the pattern in these fractions.
-                            </p>
-                        </li>
-                        <li>
-                            <p>
-                                Determine the next fraction in the sequence.
-                            </p>
-                        </li>
-                        <li>
-                            <p>
-                                Share your findings with your classmates.
-                            </p>
-                        </li>
-                    </ol>
-                </p>
-            </statement>
-            <hint>
-                <p>
-                    Identify the pattern formed by numerators and denominators.
-                </p>
-            </hint>
+            <p>
+                <alert>Work in groups</alert>
+            </p>
+            <p>
+                1. Look at the sticks below. Each stick has blue circles and green circle.
+            </p>
+            <p>
+                2. Count the number of green circles in each stick.
+            </p>
+            <p>
+                3. Count the number of blue circles in each stick.
+            </p>
+            <p>
+                4. Express the number of green circles as numerator of the fraction and the number of blue circles as the denominator of the fraction in each stick.
+            </p>
+            <p>
+                5. Analyze the pattern in the fractions you have formed and discuss any relationships or trends you observe.
+            </p>
+            <image width="60%">
+                <latex-image>
+                    \begin{tikzpicture}
+                        \foreach \x [count=\i] in {3,5,7,8,10,12} {
+                            % Draw sticks
+                            \draw[line width=4pt] (\i*2,0) -- (\i*2,8);
+                            % Draw blue circles (denominators)
+                            \foreach \y in {1,...,\numexpr\x-1} {
+                                \fill[blue] (\i*2,\y*0.6) circle (6pt);
+                            }
+                            % Draw green circle (numerator)
+                            \fill[green] (\i*2,\x*0.6) circle (6pt);
+                        }
+                    \end{tikzpicture}
+                </latex-image>
+            </image>
         </activity>
         <example>
             <statement>
@@ -1605,13 +1605,23 @@
     </subsection>
     <subsection xml:id="subsec-Creating-number-sequences-involving-fractions">
         <title>Creating number sequences involving fractions</title>
-        <!-- <activity>
-            <statement>
-                <p>
-                    Activity on Creating number sequences involving fractions.
-                </p>
-            </statement>
-        </activity> -->
+        <activity>
+            <p>
+                <alert>Work in groups</alert>
+            </p>
+            <p>
+                1. Starting at <m>\frac{3}{5}</m>, create an increasing sequence consisting of 5 terms.
+            </p>
+            <p>
+                2. Write down each term in your sequence as a fraction and explain how you determined the next term.
+            </p>
+            <p>
+                3. Compare your sequence with those of other groups. What similarities or differences do you notice?
+            </p>
+            <p>
+                4. Identify any patterns in the sequences and describe them in words.
+            </p>
+        </activity>
         <example>
             <statement>
                 <p>
