@@ -233,44 +233,39 @@
                 </p>
             </statement>
             <solution>
-                <sidebyside widths="35% 15%">
                     <p>
                         <md>
-                            <mrow> \text{Area } \amp = \text{ Length } \times \text{Length}  </mrow>
+                            <mrow> \text{Area of the square flowerbed} \amp = \text{ Length of the flowerbed } \times \text{Length of the flowerbed}  </mrow>
                             <mrow> \amp = 43 \text{ m } \times 43 \text{ m } </mrow>
                             <mrow> \amp = 1\,849 \text{m}^2 </mrow>
                         </md>
                         
                     </p>
-                    <!-- <table> -->
-                        <!-- <title></title> -->
-                        <tabular>
-                            <row>
-                                <cell halign="right"><m>43</m></cell>
-                                <cell></cell>
-                            </row>
-                            <row halign="right">
-                                <cell halign="right" bottom="medium"><m>\times 43</m></cell>
-                                <cell></cell>
-                            </row>
-                            <row>
-                                <cell halign="right"><m>129</m></cell>
-                                <cell halign="left"><m>43 \times 3</m></cell>
-                            </row>
-                            <row>
-                                <cell bottom="medium" halign="right"><m>+ 1720</m></cell>
-                                <cell><m>43 \times 40</m></cell>
-                            </row>
-                            <row>
-                                <cell halign="right" bottom="medium"><m>1849</m></cell>
-                                <cell></cell>
-                            </row>
-                        </tabular>
-                    <!-- </table> -->
-                </sidebyside>
-                <p>
-                    The area of the flowerbed is <m>1\,849 \text{ m}^2.</m>
-                </p>
+                    <tabular>
+                        <row>
+                            <cell halign="right"><m>43</m></cell>
+                            <cell></cell>
+                        </row>
+                        <row halign="right">
+                            <cell halign="right" bottom="medium"><m>\times 43</m></cell>
+                            <cell></cell>
+                        </row>
+                        <row>
+                            <cell halign="right"><m>129</m></cell>
+                            <cell halign="left"><m>43 \times 3</m></cell>
+                        </row>
+                        <row>
+                            <cell bottom="medium" halign="right"><m>+ 1720</m></cell>
+                            <cell><m>43 \times 40</m></cell>
+                        </row>
+                        <row>
+                            <cell halign="right" bottom="medium"><m>1849</m></cell>
+                            <cell></cell>
+                        </row>
+                    </tabular>
+                    <p>
+                        The area of the flowerbed is <m>1\,849 \text{ m}^2.</m>
+                    </p>
             </solution>
         </example>
         <exercise>
@@ -345,7 +340,7 @@
                     <ol marker="a)">
                         <li>
                             <p>
-                                <m>\frac{3}{4}</m>
+                                <m>\frac{2}{5}</m>
                             </p>
                         </li>
                     </ol>
@@ -355,18 +350,12 @@
                 <p>
                     <ol marker="a)">
                         <li>
-                            <p>
-                                <m>\left( \frac{3}{4} \right)^2</m>
-                            </p>
-                            <p>
-                                Square the numerator and the denominator.
-                            </p>
-                            <p>
-                                <md>
-                                    <mrow>\left( \frac{3}{4} \right)^2 \amp = \frac{3 \times 3}{4 \times 4} </mrow>
-                                    <mrow> \amp = \frac{9}{16} </mrow>
-                                </md>
-                            </p>
+                            <p><m>\left( \frac{2}{5} \right)^2</m></p>
+                            <p>To square a fraction, square both the numerator (top number) and the denominator (bottom number). <m>\left( \frac{2}{5} \right)^2 = \frac{2^2}{5^2}</m></p>
+                            <p>Square the numerator: <m>2^2 = 2 \times 2 = 4</m></p>
+                            <p>Square the denominator: <m>5^2 = 5 \times 5 = 25</m></p>
+                            <p>Combine the squared numerator and denominator to form the new fraction.</p>
+                            <p><m>\left( \frac{2}{5} \right)^2 = \frac{2^2}{5^2} = \frac{4}{25}</m></p>
                         </li>
                     </ol>
                 </p>
@@ -381,7 +370,7 @@
                     <ol marker="a)"> 
                         <li>
                             <p>
-                                <m>\left(1 \frac{1}{2}\right)^2</m>
+                                <m>\left(2 \frac{2}{7}\right)^2</m>
                             </p>
                         </li>
                     </ol>
@@ -389,30 +378,31 @@
             </statement>
             <solution>
                 <p>
-                    <m>\left(1 \frac{1}{2}\right)^2</m>
+                    <m>\left(2 \frac{2}{7}\right)^2</m>
                 </p>
                 <p>
                     Convert the mixed fraction to an improper fraction.
                 </p>
                 <p>
-                    <me>1\frac{1}{2} = \frac{3}{2}</me>
+                    <me>2\frac{2}{7} = \frac{16}{7}</me>
                 </p>
                 <p>
-                    Find the square of the improper fraction.
+                    Find the square of the improper fraction by squaring both the numerator and denominator.
                 </p>
                 <p>
                     <md>
-                        <mrow>\left(1 \frac{1}{2}\right)^2 \amp = \frac{3 \times 3}{2 \times 2}</mrow>
-                        <mrow> \amp = \frac{9}{4} </mrow>
+                        <mrow>\left(\frac{16}{7}\right)^2 = \frac{16^2}{7^2} \amp = \frac{16 \times 16}{7 \times 7}</mrow>
+                        <mrow> \amp = \frac{256}{49} </mrow>
                     </md>
                 </p>
                 <p>
-                    Convert the improper fraction to a mixed fraction.
+                    Convert the improper fraction <m>\frac{256}{49}</m> to a mixed fraction.
                 </p>
                 <p>
                     <md>
-                        <mrow>\frac{9}{4}  \amp = 2 \frac{1}{4} </mrow>
-                        <mrow> \amp = 2 \frac{1}{4} </mrow>
+                        <mrow>\frac{256}{49}  \amp = 5 \frac{11}{49} </mrow>
+                        <mrow></mrow>
+                        <mrow> \amp = 5 \frac{11}{49} </mrow>
                     </md>
                 </p>
             </solution>
@@ -431,11 +421,56 @@
     <subsection xml:id="subsec-Squares-of-decimals">
         <title>Squares of decimals</title>
         <activity>
-            <statement>
                 <p>
-                    Activity for squares of decimals goes here
+                    <alert>Work in groups</alert>
                 </p>
-            </statement>
+                <p>
+                    1. Onyango, a Grade 7, student created the following table.
+                </p>
+                
+                <tabular halign="left" top="medium" right="medium" left="medium" bottom="medium">
+                    <row header="yes">
+                        <cell>Decimal numbers</cell>
+                        <cell>Square of the decimal numbers</cell>
+                        <cell>Answer</cell>
+                    </row>
+                    <row>
+                        <cell><m>0.5^2</m></cell>
+                        <cell><m>\left(\frac{5}{10}\right)^2 \,\, = \frac{5 \times 5}{10 \times 10} \,\, = \frac{25}{100} </m></cell>
+                        <cell><m>0.25</m></cell>
+                    </row>
+                    <row>
+                        <cell><m>0.16^2</m></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row>
+                        <cell><m>0.09^2</m></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row>
+                        <cell><m>1.6^2</m></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row>
+                        <cell><m>0.12^2</m></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row>
+                        <cell><m>1.3^2</m></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                </tabular>
+                <p>
+                    2. Complete the table by filling in blank spaces.
+                </p>
+                <p>
+                    3. Share your work with other learners in class
+                </p>
         </activity>
         <p>
             The square of a decimal number should have double the number of decimal places as the original number.
@@ -446,12 +481,7 @@
                     <ol cols="2" marker="a)">
                         <li>
                             <p>
-                                What is the square of: <m>1.24 </m>?
-                            </p>
-                        </li>
-                        <li>
-                            <p>
-                                What is the value of <m>2.13^2</m>?
+                                What is the square of: <m>1.21</m>?
                             </p>
                         </li>
                     </ol>
@@ -462,55 +492,66 @@
                     <ol cols="2" marker="a)">
                         <li>
                             <p>
-                                <m>1.24</m> ?
+                                <m>1.21^2</m> ?
                             </p>
-                            <p>
-                                <md>
-                                    <mrow>1.24 \amp = \frac{124}{100}</mrow>
-                                    <mrow> 1.24 ^2 \amp = \frac{124}{100} \times \frac{124}{100} </mrow>
-                                    <mrow> \amp = \frac{15\,376}{10\,000} </mrow>
-                                    <mrow> \amp = 1.5376 </mrow>
-                                </md>
-                            </p>
+                            <p>convert the decimal <m>1.21</m> to a fraction.</p>
+                            <p><m>1.21 = \frac{121}{100}</m></p>
+                            <p>To square the fraction <m>\frac{121}{100}</m>, multiply the numerator by itself and the denominator by itself.</p>
+                            <p><m>\frac{121}{100} \times \frac{121}{100} = \frac{121 \times 121}{100 \times 100} = \frac{14641}{10000}</m></p>
+                            <p>Convert the fraction <m>\frac{14641}{10000}</m> to a decimal by dividing the numerator by the denominator.</p>
+                            <p><m>\frac{14641}{10000} = 1.4641</m></p>
                         </li>
+                    </ol>
+                </p>
+            </solution>
+        </example>
+        <example>
+            <statement>
+                <p>
+                    What is the value of <m>2.35^2</m>?
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <ol marker="a)">
                         <li>
                             <p>
-                                <m>2.13^2 = 2.13 \times 2.13</m>
-                            </p>
-                            <!-- <table> -->
-                                <!-- <title></title> -->
-                                <tabular>
-                                    <row>
-                                        <cell halign="right"><m>213</m></cell>
-                                        <cell></cell>
-                                    </row>
-                                    <row>
-                                        <cell halign="right" bottom="medium"><m>\times 213</m></cell>
-                                        <cell></cell>
-                                    </row>
-                                    <row>
-                                        <cell halign="right"><m>639</m></cell>
-                                        <cell halign="left"><m>213 \times 3</m></cell>
-                                    </row>
-                                    <row>
-                                        <cell halign="right"><m>2\,130</m></cell>
-                                        <cell halign="left"><m>213 \times 10</m></cell>
-                                    </row>
-                                    <row>
-                                        <cell halign="right" bottom="medium"><m>+ \, 42\,600</m></cell>
-                                        <cell halign="left"><m> 213 \times 200</m></cell>
-                                    </row>
-                                    <row>
-                                        <cell halign="right" bottom="medium"><m>45\,369</m></cell>
-                                    </row>
-                                </tabular>
-                            <!-- </table> -->
-                            <p>
-                                <m>2.13^2 = 4.5369</m>
+                                <m>2.35^2</m>
                             </p>
                         </li>
                     </ol>
                 </p>
+                <p>To find <m>2.35^2</m> we need to calculate <m>2.35 \times 2.35</m></p>
+                <p>Convert <m>2.35</m> to a whole number by multiplying by 100.</p>
+                <p><m>2.35 \times 100 = 235</m></p>
+                <p>Then, we have: <m>235 \times 235 </m></p>
+                <tabular>
+                    <row>
+                        <cell halign="right"><m>235</m></cell>
+                        <cell></cell>
+                    </row>
+                    <row>
+                        <cell halign="right" bottom="medium"><m>\times 235</m></cell>
+                        <cell></cell>
+                    </row>
+                    <row>
+                        <cell halign="right"><m>1175</m></cell>
+                        <cell halign="left"><m>235 \times 5</m></cell>
+                    </row>
+                    <row>
+                        <cell halign="right"><m>705</m></cell>
+                        <cell halign="left"><m>235 \times 3</m></cell>
+                    </row>
+                    <row>
+                        <cell halign="right" bottom="medium"><m>+ 470</m></cell>
+                        <cell halign="left"><m> 235 \times 2</m></cell>
+                    </row>
+                    <row>
+                        <cell halign="right" bottom="medium"><m>55\,225</m></cell>
+                    </row>
+                </tabular>
+                <p>Since we initially removed two decimal places from each number <m>2.35</m> (multiplying by 100 for both), we must divide the final result by <m>100^2  = 10000</m> to restore the decimal:</p>
+                <p><m>55225 \div 10000 = \frac{55225}{10000} = 5.5225</m></p>
             </solution>
         </example>
         <exercise>
@@ -528,7 +569,7 @@
                 <alert>Work in groups</alert>
             </p>   
             <p>
-                1. Draw the following grid squares in your exercise books or on graph paper as the one shown below.
+                1. Draw the following grid pattern in your exercise books or on graph paper, ensuring they match the examples shown.
             </p> 
             <sidebyside widths="25% 25% 25%">
                 <image>
@@ -572,13 +613,13 @@
                 </image>
             </sidebyside>
             <p>
-                2. Count the total number of small squares in each grid.
+                2. Count all the small squares in each grid.
             </p>
             <p>
-                3. Count the number of squares on the side length of each grid.
+                3. Count all squares along one side of each grid to identify its side length.
             </p>
             <p>
-                4. What do you notice about the relationship between the side length and the total number of squares?
+                4. Analyze the relationship between the side length and the total number of squares in the grid. What pattern do you observe?
             </p>
         </activity>
         <example>
@@ -591,14 +632,14 @@
                 <p>
                     Express <m>324</m> as a product of its prime factors and pair up similar factors together.
                     <md>
-                        <mrow> 324 \amp = 2 \times 2 \times 3 \times 3 \times 3 \times 3</mrow>
-                        <mrow> \sqrt{324} \amp = \sqrt{2 \times 2 \times 3 \times 3 \times 3 \times 3} </mrow>
+                        <mrow> 324 \amp = {\color{Green} 2} \times {\color{Green} 2} \times {\color{blue} 3} \times {\color{blue} 3} \times {\color{red} 3} \times {\color{red} 3}</mrow>
+                        <mrow> \sqrt{324} \amp = \sqrt{{\color{Green} 2} \times {\color{Green} 2} \times {\color{blue} 3} \times {\color{blue} 3} \times {\color{red} 3} \times {\color{red} 3}} </mrow>
                     </md>
-                    select one factor from each pair and multiply the selected factors.
+                    select one factor from each pair and multiply the selected factors. 
                 </p>
                 <p>
                     <md>
-                        <mrow> \amp = 2 \times 3 \times 3 </mrow>
+                        <mrow> \amp = {\color{Green} 2} \times {\color{blue} 3} \times {\color{red} 3} </mrow>
                         <mrow> \amp = 18 </mrow>
                     </md>
                 </p>
@@ -622,7 +663,7 @@
                     <alert>Work in groups</alert>
                 </p>
                 <p>
-                    1. Draw the following grid as the one shown below.
+                    1. Draw the following grids as shown below.
                 </p>
                 <sidebyside widths="25% 25% 25%"> 
                     <image> 
@@ -656,16 +697,28 @@
                     </image>
                 </sidebyside>
                 <p>
-                    2. Count the number of small squares in each colored region:
+                    2. Count and record the number of small squares in each shaded region of the grid.
                 </p>
                 <p>
-                    3. Count the number of all small squares in each grid.
+                    3. Count and record the number of small squares in the shaded (colored) region of each grid.
                 </p>
                 <p>
-                    4. Represent the number of small squares in each colored region as numerator and the number of small squares in each grid as the denominator of the fractions.
+                    4. Express the fraction of the shaded region by using the number of shaded squares as the numerator and the total number of squares in the grid as the denominator.
                 </p>
                 <p>
-                    5. 
+                    5. Identify the side length of each square grid by counting the number of small squares along one side.
+                </p>
+                <p>
+                    6. Identify the side length of the shaded region by counting the number of small squares along one side.
+                </p>
+                <p>
+                    7. Represent the number of small squares of the side length of each colored region in the each square grid as numerator and number of small squares of the side length of each square grid as the denominator of the fractions.
+                </p>
+                <p>
+                    8. Form a fraction using the side length of the shaded region as the numerator and the total side length of the grid as the denominator.
+                </p>
+                <p>
+                    9. Compare the two fractions obtained in steps 4 and 7. What relationship do you observe between them?
                 </p>
             </statement>
         </activity>
@@ -719,11 +772,68 @@
     <subsection xml:id="subsec-Square-roots-of-decimals">
         <title>Square roots of decimals</title>
         <activity>
-            <statement>
                 <p>
-                    Activity for square roots of decimals
+                    <alert>Work in groups</alert>
                 </p>
-            </statement>
+                <p>
+                    1. Draw the following grids as shown below.
+                </p>
+                 <sidebyside widths="25% 25% 25%">
+                <image>
+                    <shortdescription></shortdescription>
+                    <latex-image>
+                        \begin{tikzpicture}
+                            \foreach \x in {0,1,2,3} {
+                                \draw[thick,blue] (\x,0) -- (\x,3);
+                            }
+                            \foreach \y in {0,1,2,3} {
+                                \draw[thick,blue] (0,\y) -- (3,\y);
+                            }
+                        \end{tikzpicture}
+                    </latex-image>
+                </image>
+                <image>
+                    <shortdescription></shortdescription>
+                    <latex-image>
+                        \begin{tikzpicture}
+                            \foreach \x in {0,1,2,3,4} {
+                                \draw[thick,blue] (\x,0) -- (\x,4);
+                            }
+                            \foreach \y in {0,1,2,3,4} {
+                                \draw[thick,blue] (0,\y) -- (4,\y);
+                            }
+                        \end{tikzpicture}
+                    </latex-image>
+                </image>
+                <image>
+                    <shortdescription></shortdescription>
+                    <latex-image>
+                        \begin{tikzpicture}
+                            \foreach \x in {0,1,2,3,4,5} {
+                                \draw[thick,blue] (\x,0) -- (\x,5);
+                            }
+                            \foreach \y in {0,1,2,3,4,5} {
+                                \draw[thick,blue] (0,\y) -- (5,\y);
+                            }
+                        \end{tikzpicture}
+                    </latex-image>
+                </image>
+            </sidebyside>
+            <p>
+                2. Each small square in the grid represents 0.1 unit in length.
+            </p>
+            <p>
+                3. Count the total number of small squares in each grid.
+            </p>
+            <p>
+                4. Determine the side length of each square grid by counting the number of small squares along one side.
+            </p>
+            <p>
+                5. Analyze the relationship between the side length and the total number of squares in the grid. Write down your observations.
+            </p>
+            <p>
+                6. Express both the side length and the total number of squares in fraction form. Observe the relationship between the numerators and denominators.
+            </p>
         </activity>
         <example>
             <statement>
