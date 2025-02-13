@@ -10,18 +10,21 @@
     </p>
 
     <p>
-      Less than <m>\rightarrow</m> (<m>\lt</m>)
+      <me>\text{Less than} \rightarrow \quad (\lt)</me>
     </p>
     
     <p>
-      Greater than <m>\rightarrow</m> (<m>\gt</m>)  
+      <me>\text{Greater than} \rightarrow \, (\gt)</me>
     </p>
+
     <p>
-      Less than or equal to <m>\rightarrow</m> (<m>\le</m>)  
+      <me>\text{Less than or equal to} \rightarrow \, (\le)</me>  
     </p>
+
     <p>
-      Greater than or equal to <m>\rightarrow</m> (<m>\ge</m>)
+      <me>\text{Greater than or equal to} \rightarrow \, (\ge)</me>
     </p>
+
     <p>
     These inequalities express a range of possible values rather than just one specific solution.
     </p>

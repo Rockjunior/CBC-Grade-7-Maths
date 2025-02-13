@@ -15,13 +15,13 @@
                 <ul>
                     <li>
                         <p>
-                            Measuring angles is a significant topic in geometry. An angle can be measured using a protractor. An angle is measured in degrees, hence its called ‘degree measure’. One complete revolution is equal to <m>360</m> degrees, hence it is divided into <m>360</m> parts. Each part of the revolution is a degree. If we know how to measure angle, then it will be very easy to construct an angle using a protractor.
+                            Measuring angles is a significant topic in geometry. An angle can be measured using a protractor. An angle is measured in degrees, hence its called degree measure. One complete revolution is equal to <m>360^\circ</m>, hence it is divided into <m>360</m> parts. Each part of the revolution is a degree. If we know how to measure angle, then it will be very easy to construct an angle using a protractor.
                         </p>
                     </li>
 
                     <li>
                         <p>
-                            A protractor is a semi-circular tool used to draw and measure angles. It is marked with degrees from <m>0</m> to <m>180</m> degrees. It can be directly used to measure any angle from <m>0</m> to <m>360</m> degrees. The markings are made in two ways, <m>0</m> to <m>180</m> degrees from right to left and vice versa.
+                            A protractor is a semi-circular tool used to draw and measure angles. It is marked with degrees from <m>0^\circ</m> to <m>180^\circ</m>. It can be directly used to measure any angle from <m>0^\circ</m> to <m>360^\circ</m> . The markings are made in two ways, <m>0^\circ</m> to <m>180^\circ</m>  from right to left and vice versa.
                         </p>
                     </li>
                 </ul>  
@@ -29,7 +29,6 @@
             </introduction>
 
                 <activity>
-                    <statement>
                         <p>
                             Suppose we have an angle to measure say, <m>\angle ABC</m>. Follow the steps given below to measure the angle.
                         </p>
@@ -50,7 +49,7 @@
 
                                 <li>
                                     <p>
-                                        The protractor has two ‘scales’ marked from <m>0</m> to <m>180</m> degrees on both the ends. Take the reading where <m>BC</m> coincides with the <m>0</m> degree.
+                                        The protractor has two scales marked from <m>0</m> to <m>180</m> degrees on both the ends. Take the reading where <m>BC</m> coincides with the <m>0</m> degree.
                                     </p>
                                 </li>
 
@@ -65,101 +64,20 @@
                     <image source="/measure.png">
                         <shortdescription></shortdescription>
                     </image>
-                    </statement>
                 </activity>
-
-            <example>
-                <p>
-                  Measure <m>\angle AOC</m>.  
-                </p>
-
-                <image source="/a4.png">
-                    <shortdescription></shortdescription>
-                </image>
-            
-            </example>
-        <solution>
-            <p>
-                <ol>
-                <li>
-                    <p>
-                            Align the protractor with the line <m>CO</m> as shown below. Start reading from the <m>0^\circ</m> mark on the bottom-left of the protractor.
-                    </p>
-
-                    <image source="/a5.png">
-                        <shortdescription></shortdescription>
-                    </image>
-                </li>
-
-                <li>
-                    <p>
-                        The number on the protractor that coincides with the second line is the measure of the angle. Measure the angle using the number on the top arc of the protractor.
-                    </p>
-
-                    <image source="/a6.png">
-                        <shortdescription></shortdescription>
-                    </image>
-                </li>
-
-                </ol>  
-            </p>
-
-            <p>
-                Therefore, <m>AOC</m> = <m>120^\circ.</m> Since the measure is greater than <m>90^\circ</m> and lesser than <m>180^\circ</m>, we can say that <m>\angle AOC</m> is an obtuse angle. 
-            </p>
-        </solution>
-
-            <example>
-                <p>
-                    In triangle <m>ABC</m>, use a protractor and measure <m>\angle CAB</m>.
-                </p>
-
-                <image source="/a7.png " width="40%">
-                    <shortdescription></shortdescription>
-                </image>
-            </example>
-
-        <solution>
-            <p>
-                Place the protractor baseline along the line <m>AB</m> and the center of the protractor at vertex <m>A</m>. Observe the reading in the protractor which overlaps with line <m>AC</m>.
-            </p>
-
-            <image source="/a8.png">
-                <shortdescription></shortdescription>
-            </image>
-
-            <p>
-                Answer: Therefore, <me>\angle CAB = 60^\circ</me>
-            </p>
-        </solution>
-
-            <example>
-                    <p>
-                        What is the angle formed at vertex <m>B</m> of the square <m>ABCD</m> ? 
-                    </p>
-
-               Geometry-mankone     <image source="/a9.png" width="40%">
-                        <shortdescription></shortdescription>
-                    </image>
-            </example>
-
-        <solution>
-            <p>
-                Place the protractor center at vertex <m>B</m> of the square and observe the reading.
-            </p>
-
-            <image source="/a10.png" >
-                <shortdescription></shortdescription>
-            </image>
-
-            <p>
-                Answer: <me>\angle B = 90^\circ</me> 
-            </p>
-        </solution>
-
-            <exercise>
-                
-            </exercise>
+                <activity>
+                    <figure>
+        <caption>Determining angle measure</caption>
+        <interactive xml:id="geogebra-determining-angle-measure" geogebra="dffnvrhy" width="100%" aspect="9:5" reset-icon="yes" />
+               </figure>
+                </activity>
+        
+           <exercise>
+            <figure>
+        <caption>measuring angles</caption>
+        <interactive xml:id="geogebra-measuring-angles" geogebra="kaeuyeqb" width="100%" aspect="9:5" reset-icon="yes" />
+           </figure>
+   </exercise>
     </subsection>
 
     <subsection xml:id="subsec-Bisecting-angles">
@@ -277,58 +195,7 @@
             </statement>
         </activity>
 
-         <activity>
-            <statement>
-                <p>
-                    What you need: A ruler, a pair of compasses and a protractor.
-                </p>
-
-                <p>
-                    Explore
-                </p>
-                <sidebyside>
-                    <p>
-                                1.Draw angle ABC of any size. With point B as the centre and
-                                using a suitable radius, make arcs on line AB and BC as shown
-                                on the right. Label the points where the arcs meet lines AB and BC
-                                as M and N respectively.
-                    </p>
-                    
-                    <image source="//a1.png" width="40%">
-                        <shortdescription>explanetion</shortdescription>
-                    </image>
-                </sidebyside>
-                <sidebyside>
-                    <p>
-                        2.Using the same radius and with the points M and N as the centres, make arcs inside angle ABC to meet at point P as shown on the right.
-                    </p>
-                    <image source="/a2.png" width="50%">
-                        <shortdescription></shortdescription>
-                    </image>
-                </sidebyside>
-
-                <sidebyside>
-                    <p>
-                    3.Using a ruler, join B  to P as shown below.
-                </p>
-                </sidebyside>
-                <image source="/a3.png" width="40%">
-                    <shortdescription></shortdescription>
-                </image>
-
-                <p>
-                    4.Measure angle ABP and PBC. What do you notice?
-                </p>
-
-                <p>
-                    Connect.
-                </p>
-
-                <p>
-                    The line that bisects an angle is called an angle bisector.
-                </p>
-             </statement>
-         </activity>
+         
 
             <example>
                 <statement>
@@ -337,11 +204,11 @@
                     </p>
 
                 </statement>
-            </example>
+
 
                 <solution>
                     <p>
-                        Given, a measure of an angle is <m>120</m> degrees
+                        Given, a measure of an angle is <m>120^\circ</m> 
                     </p>
 
                     <p>
@@ -349,7 +216,7 @@
                     </p>
 
                     <p>
-                        Therefore, <m>120</m> degrees is divided into equal two parts, say <m>x</m>.
+                        Therefore, <m>120^\circ</m>  is divided into equal two parts, say <m>x</m>.
                     </p>
 
                     <p>
@@ -358,19 +225,19 @@
 
                     <p>
                         <me>
-                            x + x = 120°
+                            x^\circ + x^\circ = 120^\circ
                         </me>    
                     </p>
 
                     <p>
                         <me>
-                            2x = 120°
+                            2x = 120^\circ
                         </me>  
                     </p>
 
                     <p>
                         <me>
-                            x = \frac{120^}{2}
+                            x = \frac{120^\circ}{2}
                         </me>     
                     </p>
 
@@ -380,17 +247,28 @@
                         </me>      
                     </p>
                 </solution>
-
-        <exercise>
-                <p>
-                Exercise. 
-                </p>
-        </exercise>
+            </example>
     </subsection>
-
+        
     <subsection xml:id="subsec-Constucting-angle-90">
-        <title>Constucting <m>90^\circ</m></title>
-        <activity>
+        <title>Geometrical construction of <m>90^\circ, 45^\circ, 22.5^\circ</m></title>
+        <subsubsection xml:id="subsubsec-angle-game">
+            <title>Drawing Angles Game</title>
+            <activity>
+              <figure>
+        <caption>Draw angles as accurately as you can and improve your angle sense in this interactive game. </caption>
+        <interactive xml:id="geogebra-angle-game" geogebra="afjpb5ch" width="100%" aspect="9:5" reset-icon="yes" />
+             </figure>
+
+             <p>
+                Which angles were the easiest for you to draw?  Why do you think so?
+             </p>
+                </activity>
+            
+        </subsubsection>
+        <subsubsection xml:id="subsubsec-Constucting-90">
+            <title>Constucting <m>90^\circ</m></title>
+             <activity>
             <statement>
                 <p>
                     Work in pairs.
@@ -432,10 +310,15 @@
                 </p>
             </statement>
         </activity>
+        </subsubsection>
+       
     </subsection>
 
     <subsection xml:id="subsec-Constructing-angle-60">
-        <title>Constructing <m>60^\circ</m></title>
+        <title>Geometrical construction of <m>60^\circ, 30^\circ, 15^\circ, 7.5^\circ</m></title>
+
+        <subsubsection xml:id="subsubsec-60">
+            <title>constructing <m>60^\circ</m></title>
             <activity>
                 <statement>
                     <p>
@@ -486,11 +369,12 @@
                         <me>\angle AOB = 60^\circ</me>
                     </p>
                 </statement>
-            </activity> 
-    </subsection>
+            </activity>
+        </subsubsection>
+        
+        <subsubsection xml:id="subsubsec-Constructing-angle-30">
+            <title>Constructing <m>30^\circ</m></title>
 
-    <subsection xml:id="subsec-Constructing-angle-30">
-        <title>Constructing <m>30^\circ</m></title>
         <activity>
             <statement>
                 <p>
@@ -537,9 +421,9 @@
                     <me>\angle AOC = 30^\circ</me>
                 </p>
             </statement>
-        </activity>
-        
-    </subsection>
+        </activity>      
+   </subsubsection>
+ </subsection>
 
     <subsection xml:id="subsec-Constructing-angle-120">
         <title>Constructing <m>\angle 120^\circ</m></title>
@@ -591,9 +475,6 @@
             </statement>
         </activity>
 
-        <exercise>
-            
-        </exercise>
         
     </subsection>
 
@@ -603,7 +484,10 @@
                     <p>
                     A triangle is a basic shape with three sides and three angles. The three sides of a triangle can have different lengths, and the angles can vary in size, but the sum of the angles in any triangle is always  <m>180^\circ</m>.    
                     </p>
-
+              <figure>
+        <caption>Determine whether three segments can form a triangle</caption>
+        <interactive xml:id="triangle" geogebra="vtgbmpak" width="100%" aspect="9:5" reset-icon="yes" />
+            </figure>
                     <p>
                         Types of Triangles
                     </p>
@@ -612,10 +496,6 @@
                         Triangles can be classified based on angles and sides. 
                     </p>
                                            
-                    <p>
-                      (i) Classification of triangles Based on Sides
-                    </p>
-                       <sidebyside>
                     <p>
                         <ol>
                             <li>
@@ -635,21 +515,7 @@
                                     Isosceles Triangle.
                                 </p>
                             </li>
-                        </ol>
-                    </p>
-                    <image source="/tt1.png">
-                        <shortdescription></shortdescription>
-                    </image>
-                     </sidebyside>
-                     
-
-                    <p>
-                        (ii) Classification of triangles Based on angles
-                    </p>
-
-                     <sidebyside>
-                    <p>
-                        <ol>
+                    
                             <li>
                                 <p>
                                     Obtuse Triangle.
@@ -669,10 +535,11 @@
                             </li>
                         </ol>
                     </p>
-                    <image source="/2.png">
-                        <shortdescription></shortdescription>
-                    </image>
-                    </sidebyside>
+                   
+             <figure>
+        <caption>Draw triangles with given characteristics. </caption>
+        <interactive xml:id="geogebra-triangles" geogebra="cwxj7ahk" width="100%" aspect="9:5" reset-icon="yes" />
+           </figure>
 
              </introduction>
 
@@ -694,7 +561,7 @@
                 </p>
 
                 <p>
-                    The shape of an equilateral triangle is regular. The word ‘Equilateral’ is formed by the combination of two words, i.e., “Equi” meaning equal and “Lateral” meaning sides. An equilateral triangle is also called a regular polygon or regular triangle since all its sides are equal.
+                    The shape of an equilateral triangle is regular. The word Equilateral is formed by the combination of two words, i.e., “Equi” meaning equal and “Lateral” meaning sides. An equilateral triangle is also called a regular polygon or regular triangle since all its sides are equal.
                 </p>
 
                 <image source="/et.png">
@@ -993,7 +860,8 @@
             </p>
         </statement>
     </activity>
-    
+      
+
 </subsection>
 
 </section>
