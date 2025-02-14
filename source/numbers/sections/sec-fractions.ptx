@@ -1482,25 +1482,18 @@
     <subsection xml:id="subsec-Number-sequence-involving-fractions">
         <title>Number sequence involving fractions</title>
         <activity>
+            <introduction>
             <p>
                 <alert>Work in groups</alert>
             </p>
+            </introduction>
+            
+            <task>
+            <statement>
             <p>
-                1. Look at the sticks below. Each stick has blue circles and green circle.
+                Look at the sticks below. Each stick has blue circles and green circle.
             </p>
-            <p>
-                2. Count the number of green circles in each stick.
-            </p>
-            <p>
-                3. Count the number of blue circles in each stick.
-            </p>
-            <p>
-                4. Express the number of green circles as numerator of the fraction and the number of blue circles as the denominator of the fraction in each stick.
-            </p>
-            <p>
-                5. Analyze the pattern in the fractions you have formed and discuss any relationships or trends you observe.
-            </p>
-            <image width="60%">
+                        <image width="60%">
                 <latex-image>
                     \begin{tikzpicture}
                         \foreach \x [count=\i] in {3,5,7,8,10,12} {
@@ -1516,6 +1509,37 @@
                     \end{tikzpicture}
                 </latex-image>
             </image>
+            </statement>
+            </task>
+            <task>
+            <statement>
+            <p>
+                Count the number of green circles in each stick.
+            </p>
+            </statement>
+            </task>
+            <task>
+            <statement>
+            <p>
+                Count the number of blue circles in each stick.
+            </p>
+            </statement>
+            </task>
+            <task>
+            <statement>
+            <p>
+                Express the number of green circles as numerator of the fraction and the number of blue circles as the denominator of the fraction in each stick.
+            </p>
+            </statement>
+            </task>
+            <task>
+            <statement>
+            <p>
+                Analyze the pattern in the fractions you have formed and discuss any relationships or trends you observe.
+            </p>
+            </statement>
+            </task>
+
         </activity>
         <example>
             <statement>
