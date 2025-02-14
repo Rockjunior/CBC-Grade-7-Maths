@@ -6,9 +6,19 @@
         <p>
         Murunga a grade <m>7</m> student carries a bag weighing <m>450 g</m>. He can convert the mass of his bag to kg i.e <m>\frac{450 g}{1000 g} \times 1 kg  = 0.45 kg</m>. Murunga used decimals to identify the mass of his bag in kg.
         </p>
+        <exploration>
+            <statement>
+                <p>
+               An example of a decimal number is <m> 3.75</m>. The whole number part is 3,the decimal part is 0.75 which represents 75 hundredths.
+                </p>
+            </statement>
+        </exploration>
     </introduction>
     <subsection xml:id="subsec-place-value-of-digits-in-decimals">
         <title>place value of digits in decimals</title>
+        <p>
+        Place value of digits in a decimal number refers to the position of each digit in a decimal number, which determines its value. As we move to the right of the decimal point, each place value is 10 times smaller than the one before it.
+        </p>
         <activity>
             <statement>
                 <p>
@@ -342,6 +352,16 @@
     </subsection>
     <subsection xml:id="subsec-Multiplying-decimals-by-a-whole-number">
         <title>Multiplying decimals by a whole number</title>
+        <sidebyside>
+           <p> Akinyi has a bottle of juice she prepared for her friends. She pours 0.4 liters of juice into each of the <m>5</m> glasses she had and realized all the glasses was filled without any juice remaining in the bottle. We can find out the total amount of juice Akinyi had by applying multiplication of decimals.</p>
+           <p>To find how much juice Akinyi had we multiply the amount amount of juice in each glass with the number of glasses i.e </p>
+            <p>
+                <m>0.4 \times  5 = 2</m>
+            </p>
+            <image source="/Juice.png">
+                <shortdescription></shortdescription>
+            </image>
+        </sidebyside>
         <activity>
             <statement>
                 <p>
@@ -515,6 +535,16 @@
     </subsection>
     <subsection xml:id="subsec-Multiplying-decimals-by-decimals">
         <title>Multiplying decimals by decimals</title>
+        
+            <p>
+                Ekadeli is baking a cake. The recipe says that for every 1 kg of flour, she needs 0.4 kg of sugar. But today, she is using 2.5 kg of flour. For Ekadeli to identify how much sugar she will use she will apply multiplication of decimal number by a decimal number.
+
+To find out the amount of sugar she will use, Ekadeli multiplies: amount of flour she is using by the amount of sugar used per kg. i.e
+            </p>
+            <p>
+              <m> 2.5 \times 0.4 = \frac{25 kg}{10 kg} \times \frac{4 kg}{10 kg} = \frac{100 kg}{100} = 1 kg</m> 
+            </p>
+    
         <activity>
             <statement>
                 <p>
@@ -537,7 +567,7 @@
         <example>
             <statement>
                 <p>
-                    Find the area of the rectagle below.
+                    Find the area of the rectangle below.
                 </p>
                 <image width="40%">
                     <shortdescription>Rectangle image</shortdescription>
@@ -645,6 +675,9 @@
     </subsection>
     <subsection xml:id="subsec-Division-of-a-decimal-by-a-whole-number">
         <title>Division of a decimal by a whole number</title>
+        <p>
+            Moraa has 5.6 kg of sugar and wants to pack it equally into 4 small bags. Moraa can use division of decimal by a whole number to find out how many kilograms of sugar go into each bag.
+        </p>
         <activity>
             <statement>
                 <p>
@@ -659,7 +692,7 @@
                     <latex-image>
                         \begin{tikzpicture}
                                 <!-- \draw[thick] (0,0) rectangle (4,2); -->
-                                \draw[thick] (0,0) -- (4,0)--(4,2)--(0,2) -- (0,0);
+                                \draw[thick = blue] (0,0) -- (4,0)--(4,2)--(0,2) -- (0,0);
                                 \draw[&lt;-&gt;] (0,-0.3) -- (4,-0.3) node[midway, below] {7 m};
                                 \node at (2,1) {$A = 1.12 m^2$};
                                 \draw[&lt;-&gt;] (-0.3,0) -- (-0.3,2) node[midway, left] { ?m};
@@ -707,12 +740,12 @@
                         <ol marker="a)">
                             <li>
                                 <p>
-                                    Make the dividend to a fraction.
+                                    Make <m>4.75</m> a fraction.
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    Multiply the dividend by the reciprocal of the divisor.
+                                    Multiply <m>\frac{475}{100}</m> by the reciprocal of the divisor.
                                 </p>
                             </li>
                         </ol>
@@ -740,45 +773,103 @@
             </statement>
         </example> -->
     </subsection>
-    <subsection xml:id="subsec-Division-of-a-decimal-by-a-decimal">
-        <title>Division of a decimal by a decimal</title>
+    <subsection xml:id="subsec-Division-of-a-decimal-number-by-a-decimal-number">
+        <title>Division of a decimal number by a decimal number</title>
+        <p>
+            To divide decimal numbers you:
+            <ol marker="a)">
+                <li>
+                    <p>
+                      Express the division as a fraction .Example <m>6.3 ÷ 0.7 </m> can be written as 
+                    </p>
+                    <p>
+                        <m>\frac{63}{10} \div \frac{7}{10}</m>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Convert division into multiplication that is instead of dividing, multiply the first fraction by the reciprocal of the second fraction i.e
+                     </p>
+                     <p>
+                        <m>\frac{63}{10} \times \frac{10}{7}</m> = <m>\frac{63}{\cancel{10}} \times \frac{\cancel{10}}{7}</m>
+                     </p>
+                </li>
+                <li>
+                    <p>
+                        Simplify the fraction : <m>\frac{63}{7}</m> = <m>9</m>.
+                    </p>
+                </li>
+            </ol>
+        </p>
+        <exploration>
+            <statement>
+             <sidebyside>
+                    <p>
+                In her daily life, Cherotich often measures milk and juice in liters. Today, she has a 6.3 liter container of milk and wants to pour it into small bottles, each holding 0.7 liters.Therefore, Cherotich uses division of decimal number by a decimal number to find out how many bottles she needs.
+                Just like how we use whole numbers to count objects, Cherotich also uses division of decimals to measure and divide quantities accurately.
+                  </p>
+                  <image source="/Deci.png">
+                  </image>
+           </sidebyside>
+            </statement>
+        </exploration>  
         <activity>
             <statement>
                 <p>
                 
                 </p>
-                <p>\textbf{Instructions for teachers or team leaders}</p>
+                <p><m>\textbf{Instructions for teachers or team leaders}</m></p>
                 <p>
                 1.Teacher or a team leader to write down on piece of paper or print the following questions:
                 <ol marker="a)">
                     <li>
                         <p>
+                            12.4 ÷ 0.2 = ?
+                        </p>
+                        <p>
+                            (Find the next challenge around your classroom door.)
+                        </p>
+                    </li>
+                    <li>
+                        
+                        <p>
+                          5.6 ÷ 0.7 = ?   
+                        </p>
+                        <p>
+                            ( The next station is at the corner of the classroom )
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            12.04 ÷ 1.3 = ? 
+                        </p>
+                        <p>
+                            ( Go to assembly ground near flagpole)
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            9.9 ÷ 3.3 = ? 
+                        </p>
+                        <p>
+                            (Next station is near the school entrance )
 
-                        <m>\textbf{ Take one piece of paper after you find it and hide the rest around that place . It applies to all questions}</m>
-                        </p>
-                        <p>
-                          5.6 ÷ 0.7 = ? ( Find it on the classroom corner)  
                         </p>
                     </li>
                     <li>
                         <p>
-                            12.04 ÷ 1.3 = ? ( Go to assembly ground near flagpole)
+                            18.75 ÷ 2.5 = ? 
+                        </p>
+                        <p>
+                            ( The final challenge is at the back of the class)
                         </p>
                     </li>
                     <li>
                         <p>
-                            9.9 ÷ 3.3 = ? (next station is near the school entrance )
-
+                            7.92 ÷ 1.2 = ? 
                         </p>
-                    </li>
-                    <li>
                         <p>
-                            18.75 ÷ 2.5 = ? ( The final challenge is at the back of the class)
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            7.92 ÷ 1.2 = ? (Return to the teacher/ team leader for the last answer check!)
+                            (Return to the teacher/ team leader for the last answer check)
                         </p>
                     </li>
                 </ol>
@@ -798,14 +889,18 @@
                 <p>
                 4. Each group is given the first piece of paper containing questions and each paper has a problem and a clue leading to the next question.
                 </p>
+                     <p>
+
+                        <m>\textbf{ Take one piece of paper after you find it and hide the rest around that place . This applies to all questions}</m>
+                        </p>
                 <p>
-                4. Each group to start at a different station (e.g., one in class, another at the assembly ground, another near the school entrance) and solves the problem on their question papers together. Correct answers earn the group the next clue to find the next question.
+                5. Each group to start at a different station (e.g., one in class, another at the assembly ground, another near the school entrance) and solves the problem on their question papers together. Correct answers earn the group the next clue to find the next question.
                 </p>
                 <p>
-                  5. The first team to solve all questions correctly wins 🎁.
+                  6. The first team to solve all questions correctly wins 🎁.
                 </p>
                 <p>
-                    6.Each group to create their own decimal division problems for other groups to solve.
+                    7.Each group to create their own decimal division problems for other groups to solve.
                 </p>
             </statement>
         </activity>
