@@ -498,7 +498,7 @@
             </li>
             <li>
               <p>
-                <m>{\color{Cyan} a). A container. b)A basin.}</m>
+                <m>{\color{Cyan} a).\text{A container. b)A basin.}}</m>
               </p>
             </li>
             <li>
@@ -557,8 +557,8 @@
           <li>
             <p>
               <md>
-                <mrow> \text {a. What is the volume of the water that spilled?} </mrow>
-                <mrow> \text {b.What is the volume of the cube?}</mrow>
+                <mrow> \textbf {a. What is the volume of the water that spilled?} </mrow>
+                <mrow> \textbf {b.What is the volume of the cube?}</mrow>
               </md>
             </p>
           </li>
@@ -587,17 +587,145 @@
   </exploration>
   <activity>
     <statement>
-      <p>
+      <sidebyside>
+        <p>
         <ol>
           <li>
             <p>
-              Learners from Kigali primary school used a 10 litre jerrycan
+              Learners from Kigali primary school used a 10 litre jerrycan to fill a <m>1 \text{m}</m> cube container with water.
             </p>
           </li>
+          <li>
+            <p>
+              What is the volume of a  <m>1 \text{m}</m> cube container?
+            </p>
+          </li>
+          <li>
+            <p>
+              How many  <m>10 \text{Litres}</m> container filled the  <m>1 \text{m}</m> cube?
+            </p>
+          </li>
+          <li>
+            <p>
+               Share your findings with other class members.
+            </p>
+          </li >
         </ol>
       </p>
+      <image source="/cubecapacity.png">
+      </image>
+      </sidebyside>
     </statement>
   </activity>
-  
+  <exploration>
+    <statement>
+      <p>
+        <m>{\color{green}\text {A hundred 10 Litres containers were used to fill the 1 m cube container.}}</m>
+      </p>
+      <p>
+        <md>
+          <mrow>100 \times 10 \text{litres} = \amp 1000 \text {Litres} </mrow>
+          <mrow>1000 \text {Litres} = \amp 1\ text{m}^3 </mrow>
+          <mrow>1 \text {m}^3 = \amp 1000 \text {Litres} </mrow>
+        </md>
+      </p>
+      <p>
+        Fill in the tables below to show relationship between <m>\text {cm}^3</m>, <m>\text {m}^3</m> and  <m>\text {Litres}</m> .
+      </p>
+      <table>
+        <title>Relating <m>\text {cm}^3</m>, <m>\text {m}^3</m> and <m>\text {Litres.}</m>  </title>
+        <tabular top="medium" left="medium" right="medium" halign="center" bottom="medium">
+          <row>
+            <cell> <m>\text {m}^3</m> </cell>
+            <cell> <m>\text {Litres}</m> </cell>
+            <cell> <m>\text {cm}^3</m> </cell>
+          </row>
+          <row>
+            <cell>1  <m>\text {m}^3</m> </cell>
+            <cell></cell>
+            <cell></cell>
+          </row>
+        </tabular>
+      </table>
+      <table>
+        <title>Relating <m>\text {cm}^3</m> and <m>\text {Litres.}</m> </title>
+        <tabular halign="center" top="medium" bottom="medium" right="medium" left="medium">
+          <row>
+            <cell><m>\text {Litres}</m></cell>
+            <cell> <m>\text {cm}^3</m></cell>
+          </row>
+          <row>
+            <cell><m>1 \text {litres}</m></cell>
+            <cell></cell>
+          </row>
+        </tabular>
+      </table>
+    </statement>
+  </exploration>
+</subsection>
+<subsection xml:id="subsec-relating-volume-to-capacty">
+  <title>Relating volume to capacity.</title>
+<activity>
+  <statement>
+    <sidebyside>
+      <p>
+        Mohono a grade 7 learner, drew the shapes below in his laptop where <m>\text{H} = 7\text{cm}</m>.
+      </p>
+      <image source="/cyl-cube.png">
+        <!-- <shortdescription>cuboid and cylinder.</shortdescription> -->
+      </image>
+    </sidebyside>
+    <p>
+      Find the capacity of each shape He drew in litres.
+    </p>
+      <p>
+        <m> {\color{cyan} \text{Hint:} } 1 \text{m}^3 = 1000\text {Litres}</m>    
+        </p>
+        <p>
+                                     
+        </p>
+  </statement>
+</activity>  
+<example>
+  <statement>
+    <sidebyside>
+      <p>
+        Find the capacity of the cylinder alongside in Litres.
+      </p>
+      <image source="/example-cyl.png">
+        <shortdescription></shortdescription>
+      </image>
+    </sidebyside>
+  </statement>
+  <solution>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Find the volume of the cylinder.
+            <md>
+              <mrow>\text{Volume of the cylinder } =\amp \pi \text{r}^2\text{h}</mrow>
+              <mrow> =\amp \frac{22}{7}\times 7\text{cm} \times 7\text{cm} \times 20\text{cm}</mrow>
+              <mrow> =\amp \frac{22}{7} \times 980\text{cm}^2</mrow>
+              <mrow> =\amp 3,080\text{cm}^3 </mrow>
+            </md>
+          </p>
+        </li>
+        <li>
+          <p>
+            Convert <m>3,080\text{cm}^3</m> into Litres.
+            <md>
+              <mrow>1000\text{cm}^3 =\amp 1 \text{Litre}</mrow>
+              <mrow> 3,080\text{cm}^3 =\amp (3,080 \div 1000) \text{Litres}</mrow>
+              <mrow> =\amp 3.08 \text{Litres} </mrow>
+            </md>
+          </p>
+        </li>
+      </ol>
+
+              <m>{\color{green}\text {The capacity of the cylinder is } 3.08 \text { Litres. }}</m>
+    </p>
+  </solution>
+</example>
 </subsection>
 </section>
