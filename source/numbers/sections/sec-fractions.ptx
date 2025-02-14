@@ -1529,8 +1529,8 @@
             <p>
                 Look at the sticks below. Each stick has blue circles and green circle.
             </p>
-                        <image width="60%">
-                <latex-image>
+            <image width="60%">
+                <latex-image label="circles-on-sticks">
                     \begin{tikzpicture}
                         \foreach \x [count=\i] in {3,5,7,8,10,12} {
                             % Draw sticks
