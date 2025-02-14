@@ -1026,13 +1026,14 @@
     </subsection>
     <subsection xml:id="subsec-Multiplying-a-fraction-by-a-mixed-number">
         <title>Multiplying a fraction by a mixed number</title>
-        <!-- <activity>
-            <statement>
-                <p>
-                    Activity for Multiplying a fraction by a mixed number goes here
-                </p>
-            </statement>
-        </activity> -->
+        <activity>
+            <p>
+                <alert>Work in groups</alert>
+            </p>
+            <p>
+                
+            </p>
+        </activity>
         <example>
             <statement>
                 <p>
@@ -1092,13 +1093,30 @@
     </subsection>
     <subsection xml:id="subsec-Reciprocal-of-fractions">
         <title>Reciprocal of fractions</title>
-        <!-- <activity>
-            <statement>
-                <p>
-                    Activity for Reciprocal of fractions goes in here.
-                </p>
-            </statement>
-        </activity> -->
+        <activity>
+           <p><alert>Work in groups</alert></p>
+           <p>
+                1. Form groups of at least two learners.
+           </p>
+           <p>
+                2. The first learner selects any number between 1 and 20.
+           </p>
+           <p>
+                3. The second learner selects any number between 2 and 20.
+           </p>
+           <p>
+                4. Write a fraction using the first learner's number as the numerator and the second learner's number as the denominator.
+           </p>
+           <p>
+                5. Now, write another fraction by swapping the positions, use the second learner's number as the numerator and the first learner's number as the denominator.
+           </p>
+           <p>
+                6. Multiply the two fractions and observe the result.
+           </p>
+           <p>
+                7. Discuss with your classmates what you notice about the two fractions and their product.
+           </p>
+        </activity>
         <p>
             <ol>
                 <li>
@@ -1173,13 +1191,31 @@
     </subsection>
     <subsection xml:id="subsec-Division-of-a-fraction-by-a-whole-number">
         <title>Division of a fraction by a whole number</title>
-        <!-- <activity>
+        <activity>
             <statement>
                 <p>
-                    Activity for Division of a fraction by a whole number goes here.
+                   <alert>Work in groups</alert>
+                </p>
+                <p>
+                    Mr. Obiero is a meat seller in Namanga center.He always ensure food safety and hygiene when handling and selling meat.
+                     He is selling <m>\frac{1}{2}</m> kg of meat to four teachers of Seku primary school.
+                </p>
+                <p>
+                    <ol marker="a)">
+                        <li>
+                            <p>  
+                               1. What fraction of the meat will each teacher receive if they share it equally?
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                               2. Share your answer with other learners in your class.
+                            </p>
+                        </li>
+                    </ol>
                 </p>
             </statement>
-        </activity> -->
+        </activity>
         <p>
             When dividing a fraction by a whole number, multiply the fraction by the reciprocal of the whole.
         </p>
@@ -1366,7 +1402,7 @@
     </subsection>
 
     <subsection xml:id="subsec-Division-of-a-whole-number-by-a-fraction">
-        <title>Division of a fraction by a whole number</title>
+        <title>Division of a whole number by a fraction</title>
         <activity>
             <statement>
                 <p>
