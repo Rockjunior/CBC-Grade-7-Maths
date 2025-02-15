@@ -96,7 +96,7 @@
                     </row>
                 </tabular>
                 <p>
-                    3. Shuffle the pieces of paper and in turns, each learner to pick <m>5</m> pieces of paper and form a number using the digits on the pieces of paper.
+                    3. Shuffle the pieces of paper and in turns, each learner in the group to pick a piece of paper and form a number using the digits on the pieces of paper.
                 </p>
                 <p>
                     4. Divide the number formed by the place value of the first digit in the that number. Example: the number formed is <m>35\,791</m> then the place value of <m>3</m> is tens of thousands hence <m>\frac{35 791}{10 000} = 3.5791</m>.  
@@ -264,6 +264,36 @@
     </subsection>
     <subsection xml:id="subsec-Total-value-of-digits-in-decimals">
         <title>Total value of digits in decimals</title>
+        <p>
+            The total value of digits in a decimal is found by multiplying each digit by its place value and summing the results.
+        </p>
+        <p>
+             The place value decreases in powers of 10 as you move right of the decimal point.
+        </p>
+        <p>
+            For example, in <m>2.45</m>, the total value is: each digit multiplied by its place value as below
+        </p>
+        <p>
+          <md>
+    <mrow>
+        2.45 \amp= (2 \times 1) + (4 \times 0.1) + (5 \times 0.01) \\ 
+        </mrow>
+       <mrow> \amp= 2 + 0.4 + 0.05
+    </mrow>
+</md>
+  </p>
+  <p>
+    <m>\textbf{Explore}</m>
+    </p>
+    <sidebyside>
+    <p>
+    In a school race , Tula run 2.45 km—that is 2 full kilometers, 400 meters (4 tenths of a km), and 50 meters (5 hundredths of a km). 
+    We use total value of digits in a decimal to identify the distance Talu ran that could not form a whole number.
+  </p>
+  <image  width="40%" source="/ran.png">
+    <shortdescription></shortdescription>
+  </image>
+  </sidebyside>
         <activity>
             <statement>
                 <p>
@@ -353,12 +383,11 @@
     <subsection xml:id="subsec-Multiplying-decimals-by-a-whole-number">
         <title>Multiplying decimals by a whole number</title>
         <sidebyside>
-           <p> Akinyi has a bottle of juice she prepared for her friends. She pours 0.4 liters of juice into each of the <m>5</m> glasses she had and realized all the glasses was filled without any juice remaining in the bottle. We can find out the total amount of juice Akinyi had by applying multiplication of decimals.</p>
-           <p>To find how much juice Akinyi had we multiply the amount amount of juice in each glass with the number of glasses i.e </p>
-            <p>
-                <m>0.4 \times  5 = 2</m>
-            </p>
-            <image source="/Juice.png">
+        
+           <p> Akinyi has a bottle of juice she prepared for her friends. She pours 0.4 liters of juice into each of the <m>6</m> glasses she had and realized all the glasses was filled without any juice remaining in the bottle. We can find out the total amount of juice Akinyi had by applying multiplication of decimals by whole numbers.
+           To find how much juice Akinyi had we multiply the amount amount of juice in each glass with the number of glasses i.e   <m>0.4 L\times  6 = 2.4 L</m> </p>
+            
+            <image width="40%" source="/Juice.png">
                 <shortdescription></shortdescription>
             </image>
         </sidebyside>
@@ -539,10 +568,10 @@
             <p>
                 Ekadeli is baking a cake. The recipe says that for every 1 kg of flour, she needs 0.4 kg of sugar. But today, she is using 2.5 kg of flour. For Ekadeli to identify how much sugar she will use she will apply multiplication of decimal number by a decimal number.
 
-To find out the amount of sugar she will use, Ekadeli multiplies: amount of flour she is using by the amount of sugar used per kg. i.e
+Therefore, Ekadeli will multiply the amount of flour she is using by the amount of sugar used per kg. i.e
             </p>
             <p>
-              <m> 2.5 \times 0.4 = \frac{25 kg}{10 kg} \times \frac{4 kg}{10 kg} = \frac{100 kg}{100} = 1 kg</m> 
+              <m> 2.5  \times 0.4  = \frac{25 }{10 } \times \frac{4 }{10 }  = \frac{100 }{100}  = 1 kg</m> 
             </p>
     
         <activity>
@@ -718,34 +747,44 @@ To find out the amount of sugar she will use, Ekadeli multiplies: amount of flou
         <example>
             <statement>
                 <p>
-                    Work out: <m>4.75 \div 5</m>
+                    Work out: <m>3.75 \div 5</m>
                 </p>
             </statement>
             <solution>
                 <sidebyside>
                     <p>
                         <md>
-                            <mrow>4.75 \div 5 \amp  = \frac{475}{100} \div 5</mrow>
+                            <mrow>3.75 \div 5 \amp  = \frac{375}{100} \div 5</mrow>
                             <mrow></mrow>
-                            <mrow> \amp = \frac{475}{100} \times \frac{1}{5}</mrow>
+                            <mrow> \amp = \frac{375}{100} \times \frac{1}{5}</mrow>
                             <mrow> \amp </mrow>
-                            <mrow>\amp \qquad 95</mrow>
-                            <mrow> \amp = \frac{\cancel{475}}{\cancel{500}}</mrow>
+                            <mrow>\amp \qquad 75</mrow>
+                            <mrow> \amp = \frac{\cancel{375}}{\cancel{500}}</mrow>
                             <mrow>\amp \qquad 100</mrow>
                             <mrow> \amp </mrow>
-                            <mrow> \amp = 0.95 </mrow>
+                            <mrow> \amp = 0.75 </mrow>
                         </md>
                     </p>
                     <p>
                         <ol marker="a)">
                             <li>
                                 <p>
-                                    Make <m>4.75</m> a fraction.
+                                 Here we make <m>3.75</m> a fraction.
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    Multiply <m>\frac{475}{100}</m> by the reciprocal of the divisor.
+                                    Then we multiply <m>\frac{375}{100}</m> by the reciprocal of <m>\frac{1}{5}</m>.
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    <m>\frac{375}{500}</m> is then simplified to <m>\frac{75}{100}</m>
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    This is a result of converting <m>\frac{75}{100}</m> into a decimal.
                                 </p>
                             </li>
                         </ol>
@@ -912,10 +951,13 @@ To find out the amount of sugar she will use, Ekadeli multiplies: amount of flou
             </statement>
             <solution>
                 <p>
+                    Equal pieces of sugarcane Erick got is given by:
+                </p>
+                <p>
                     <m>6.24 \text{ m } \div 1.04 \text{ m } = \frac{6.24}{1.04}</m>
                 </p>
                 <p>
-                    Multiply by <m>100</m> to make the divisor a whole number.
+                    Multiply both the numerator and the denomenator by <m>100</m> to eliminate the decimals. 
                 </p>
                 <p>
                     <md>
@@ -925,33 +967,33 @@ To find out the amount of sugar she will use, Ekadeli multiplies: amount of flou
                     </md>
                 </p>
                 <p>
-                    Erick got <m>6</m> pieces.
+                  Therefore,  Erick got <m>6</m> pieces of sugarcane.
                 </p>
             </solution>
         </example>
         <example>
             <statement>
                 <p>
-                    Work out: <m>4.75 \div 1.25 = </m>
+                    Work out: <m>5.63 \div 1.42 = </m>
                 </p>
             </statement>
             <solution>
                 <p>
-                    <m>4.75 \div 1.25 = \frac{475}{100} \div \frac{125}{100}</m>
+                    <m>5.63 \div 1.42 = \frac{563}{100} \div \frac{142}{100}</m>
                 </p>
                 <sidebyside>
                 <tabular>
                 <row>
-                    <cell halign="left"><m>19</m></cell>
+                    <cell halign="left"><m>7</m></cell>
                     <cell/>
                     <cell halign="left"><m>1</m></cell>
                     <cell/>
                     
                 </row>
                     <row>
-                        <cell><m>\frac{\cancel{475}}{\cancel{100}}</m></cell>
+                        <cell><m>\frac{\cancel{563}}{\cancel{100}}</m></cell>
                         <cell><m>\times</m></cell>
-                        <cell><m>\frac{\cancel{100}}{\cancel{125}}</m></cell>
+                        <cell><m>\frac{\cancel{100}}{\cancel{142}}</m></cell>
                         <cell><m> = \frac{19}{5}</m></cell>
                     </row>
                     <row>
