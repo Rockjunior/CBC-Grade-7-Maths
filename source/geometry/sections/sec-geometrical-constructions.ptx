@@ -3,11 +3,11 @@
 <section xml:id="sec-Geometrical-constructions" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Geometrical constructions</title>
 
-  <introduction>
-    <p>
-        Geometrical construction is the process of creating geometric shapes, figures, or diagrams using basic tools, like a compass, ruler and protractor. The goal is to draw precise shapes without measurements, relying on rules of geometry. Examples of geometric constructions include drawing a line segment, bisecting an angle, or constructing a perpendicular e.t.c
-    </p>
-  </introduction>
+        <introduction>
+            <p>
+                Geometrical construction is the process of creating geometric shapes, figures, or diagrams using basic tools, like a compass, ruler and protractor. The goal is to draw precise shapes without measurements, relying on rules of geometry. Examples of geometric constructions include drawing a line segment, bisecting an angle, or constructing a perpendicular e.t.c
+            </p>
+        </introduction>
     <subsection xml:id="subsec-Measuring-angles">
         <title>Measuring angles</title>
             <introduction>
@@ -28,7 +28,41 @@
                 </p>
             </introduction>
 
-                <activity>
+                               <activity>
+                    <p>
+                        <ol>
+                            <li>
+                                <p>
+                                     Click on the New Angle button.
+                                </p>
+                            </li>
+
+                            <li>
+                                <p>
+                                    Using the protractor, measure the size of the angle.
+                                </p>
+                            </li>
+
+                            <li>
+                                <p>
+                                    Enter the value and click on Check.
+                                </p>
+                            </li>
+
+                            <li>
+                                <p>
+                                    Repeat the process several times to ensure that you understand how to use a protractor.
+                                </p>
+                            </li>
+                        </ol>
+                    </p>
+                    <figure>
+        <caption></caption>
+        <interactive xml:id="geogebra-determining-angle-measure" geogebra="n3hdkqpr" width="100%" aspect="9:7" reset-icon="yes" />
+               </figure>
+                </activity>
+
+                 <activity>
                         <p>
                             Suppose we have an angle to measure say, <m>\angle ABC</m>. Follow the steps given below to measure the angle.
                         </p>
@@ -49,13 +83,13 @@
 
                                 <li>
                                     <p>
-                                        The protractor has two scales marked from <m>0</m> to <m>180</m> degrees on both the ends. Take the reading where <m>BC</m> coincides with the <m>0</m> degree.
+                                        The protractor has two scales marked from <m>0^\circ</m> to <m>180^\circ</m> on both the ends. Take the reading where <m>BC</m> coincides with the <m>0^\circ</m>.
                                     </p>
                                 </li>
 
                                 <li>
                                     <p>
-                                        Now from <m>0</m> degrees, check the line <m>BA</m> coincides with the curved edges of the protractor. This reading gives us the measure of angle <m>ABC</m>.
+                                        Now from <m>0^\circ</m>, check the line <m>BA</m> coincides with the curved edges of the protractor. This reading gives us the measure of angle <m>ABC</m>.
                                     </p>
                                 </li>
                             </ol>
@@ -65,18 +99,21 @@
                         <shortdescription></shortdescription>
                     </image>
                 </activity>
-                <activity>
-                    <figure>
-        <caption>Determining angle measure</caption>
-        <interactive xml:id="geogebra-determining-angle-measure" geogebra="dffnvrhy" width="100%" aspect="9:5" reset-icon="yes" />
-               </figure>
-                </activity>
+
+
+                <example>
+            <figure>
+        <caption></caption>
+        <interactive xml:id="geogebra-determining-angle-" geogebra="wkgtn6nu" width="100%" aspect="10:8" reset-icon="yes" />
+             </figure>
+                </example>
         
            <exercise>
             <figure>
-        <caption>measuring angles</caption>
+        <caption></caption>
         <interactive xml:id="geogebra-measuring-angles" geogebra="kaeuyeqb" width="100%" aspect="9:5" reset-icon="yes" />
            </figure>
+
    </exercise>
     </subsection>
 
@@ -89,42 +126,21 @@
             </p>
 
             <p>
-                An angle bisector or the bisector of an angle is a line that divides an angle into two equal parts. For example, if a line <m>KM</m> divides an angle of <m>60</m> degrees into two equal parts, then each measure will be equal to <m>30</m> degrees.
-            </p>
-
-            <image source="/a11.png" width="40%">
-                <shortdescription></shortdescription>
-            </image>
-
-            <p>
-                Every angle has an angle bisector. It is also the line of symmetry between the two arms of an angle, the construction of which enables you to construct smaller angles. Say you are required to construct a <m>30°</m> angle. This can be performed by creating a <m>60°</m> angle and then bisecting it. Similarly, 90-degree, 45-degree, 15-degree and other angles are constructed using the concept of an angle bisector.
+                An angle bisector or the bisector of an angle is a line that divides an angle into two equal parts. For example, In the applet below, the blue line is said to be an angle bisector of angle <m>BAC</m>.
             </p>
 
             <p>
-                Properties of Angle Bisector
+            The gray slider adjusts the entire measure of angle <m>BAC</m>. 
             </p>
 
             <p>
-                <ul>
-                    <li>
-                        <p>
-                             All the points of angle bisector are equidistant from both the arms of the angle
-                        </p>
-                    </li>
-
-                    <li>
-                        <p>
-                            An angle bisector can be drawn to any angle, such as acute, obtuse, or right angle
-                        </p>
-                    </li>
-
-                    <li>
-                        <p>
-                            The angle bisector in a triangle divides the opposite side in a ratio that is equal to the ratio of the other two sides
-                        </p>
-                    </li>
-                </ul>
+                The black slider dynamically illustrates what it means for a line to bisect an angle.  
             </p>
+
+            <figure>
+        <caption></caption>
+        <interactive xml:id="geogebra-angle-bisector" geogebra="uawgksk9" width="100%" aspect="9:5" reset-icon="yes" />
+             </figure>
         </introduction>
 
         <activity>
@@ -192,10 +208,23 @@
                 <p>
                     Note: If an angle bisector bisects a line segment at <m>90^\circ</m>, it is known as the perpendicular bisector of that line.
                 </p>
+
+                <p>
+                   The figure below shows a Perpendicular Bisector of a Line Segment
+                </p>
+                 <figure>
+        <caption></caption>
+        <interactive xml:id="geogebra-perpendicular-bisector-1" geogebra="a49vptkn" width="100%" aspect="9:5" reset-icon="yes" />
+             </figure>
             </statement>
         </activity>
 
-         
+        <example>
+              <figure>
+        <caption></caption>
+        <interactive xml:id="geogebra-angle-bisector-1" geogebra="hdn9cw4v" width="100%" aspect="9:5" reset-icon="yes" />
+             </figure>
+        </example>
 
             <example>
                 <statement>
@@ -255,13 +284,28 @@
         <subsubsection xml:id="subsubsec-angle-game">
             <title>Drawing Angles Game</title>
             <activity>
+            <p>
+               <ul>
+                <li>
+                    <p>
+                       Draw angles as accurately as you can and improve your angle sense in this interactive game.(Drawing angles by estimation)  
+                    </p>
+                </li>
+               </ul>
+            </p>
               <figure>
-        <caption>Draw angles as accurately as you can and improve your angle sense in this interactive game. </caption>
+        <caption> </caption>
         <interactive xml:id="geogebra-angle-game" geogebra="afjpb5ch" width="100%" aspect="9:5" reset-icon="yes" />
              </figure>
 
              <p>
-                Which angles were the easiest for you to draw?  Why do you think so?
+                <ul>
+                    <li>
+                        <p>
+                            Which angles were the easiest for you to draw?  Why do you think so?
+                        </p>
+                    </li>
+                </ul>
              </p>
                 </activity>
             
@@ -311,6 +355,21 @@
             </statement>
         </activity>
         </subsubsection>
+
+    <subsubsection xml:id="subsubsec-Constucting-45">
+        <title>Constucting <m>45^\circ</m></title>
+        <activity>
+             <figure>
+        <caption></caption>
+        <interactive xml:id="geogebra-angles-45" geogebra="vjqew3mp" width="100%" aspect="9:7" reset-icon="yes" />
+           </figure>
+
+             <figure>
+            <caption></caption>
+        <interactive xml:id="geogebra-angles-45-2" geogebra="meqbydqc" width="100%" aspect="9:5" reset-icon="yes" />
+           </figure>
+        </activity>   
+    </subsubsection>
        
     </subsection>
 
@@ -376,7 +435,12 @@
             <title>Constructing <m>30^\circ</m></title>
 
         <activity>
-            <statement>
+
+        <figure>
+            <caption></caption>
+        <interactive xml:id="geogebra-angles-30" geogebra="meqbydqc" width="100%" aspect="9:5" reset-icon="yes" />
+           </figure>
+            
                 <p>
                     Work in pairs
                 </p>
@@ -420,10 +484,19 @@
                 <p>
                     <me>\angle AOC = 30^\circ</me>
                 </p>
-            </statement>
+          
         </activity>      
    </subsubsection>
- </subsection>
+
+    <subsubsection xml:id="subsubsec-constucting-angle-15">
+        <title>Constucting angle <m>15^\circ</m></title>
+        <figure>
+            <caption></caption>
+        <interactive xml:id="geogebra-angles-15" geogebra="wpvpj9tg" width="100%" aspect="9:5" reset-icon="yes" />
+           </figure>
+        
+    </subsubsection>
+    </subsection>
 
     <subsection xml:id="subsec-Constructing-angle-120">
         <title>Constructing <m>\angle 120^\circ</m></title>
@@ -475,7 +548,12 @@
             </statement>
         </activity>
 
-        
+        <exercise>
+             <figure>
+        <interactive xml:id="geogebra-constucting-angles-using-protractor" geogebra="hdhq7car" width="100%" aspect="9:5" reset-icon="yes" />
+                </figure>
+        </exercise>
+
     </subsection>
 
     <subsection xml:id="subsec-Constructing-triangles">
@@ -547,27 +625,18 @@
             <title>Constructing equalateral triangles</title>
             <introduction>
                 <p>
-                    An equilateral triangle is a triangle that has all its sides equal in length. Also, the three angles of the equilateral triangle are equal to <m>60</m> degrees. The sum of all three angles of an equilateral triangle is equal to <m>180</m> degrees.  
-                </p>
-
-                <p>
-                   <me>
-                    60^\circ +60^\circ +60^\circ =180^\circ.
-                   </me>
-                </p>
-
-                <p>
-                    Thus, it obeys the angle sum property of triangle. 
-                </p>
-
-                <p>
-                    The shape of an equilateral triangle is regular. The word Equilateral is formed by the combination of two words, i.e., “Equi” meaning equal and “Lateral” meaning sides. An equilateral triangle is also called a regular polygon or regular triangle since all its sides are equal.
+                    An equilateral triangle is a triangle that has all its sides equal in length. Also, the three angles of the equilateral triangle are equal to <m>60^\circ</m>. The sum of all three angles of an equilateral triangle is equal to <m>180^\circ</m> .  
                 </p>
 
                 <image source="/et.png">
                     <shortdescription></shortdescription>
                 </image>
             </introduction>
+            <activity>
+                 <figure>
+        <interactive xml:id="geogebra-equalateral-triangles" geogebra="nyq7tpfh" width="100%" aspect="9:5" reset-icon="yes" />
+                </figure>
+            </activity>
             
             <activity>
                 <statement>
@@ -703,12 +772,57 @@
 
         <introduction>
             <p>
-                A right-angled triangle is a type of triangle that has one of its angles equal to 90 degrees. The other two angles sum up to 90 degrees. The sides that include the right angle are perpendicular and the base of the triangle. The third side is called the hypotenuse, which is the longest side of all three sides. 
+                A right-angled triangle is a type of triangle that has one of its angles equal to <m>90^\circ</m>. The other two angles sum up to <m>90^\circ</m>. The sides that include the right angle are perpendicular and the base of the triangle. The third side is called the hypotenuse, which is the longest side of all three sides. 
             </p>
 
             <p>
                 The three sides of the right triangle are related to each other. This relationship is explained by Pythagorean theorem.
             </p>
+
+            <activity>
+            <p>
+                <ul>
+                    <li>
+                        <p>
+                            Here is an isosceles right-angled triangle.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            Play with the vertices (moving them about the plane).
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            What do you notice?
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            Why is C coloured red, while A and B are green?
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            What movements of the vertices cause the angles to change?
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            What else do you notice?
+                        </p>
+                    </li>
+                </ul>
+            </p>
+                <figure>
+        <interactive xml:id="geogebra-right-angled" geogebra="dskmk68p" width="100%" aspect="9:5" reset-icon="yes" />
+           </figure>
+            </activity>
 
             <image source="/rt.png">
                 <shortdescription></shortdescription>
@@ -759,7 +873,7 @@
     </subsubsection>
 
 <subsubsection xml:id="subsubsec-scalene">
-    <title>Constructing scalene tiangle.</title>
+    <title>Constructing scalene triangle.</title>
 
     <introduction>
         <p>
@@ -767,6 +881,9 @@
         </p>
     </introduction>
 
+             <figure>
+        <interactive xml:id="geogebra-scalene" geogebra="bfjymvpa" width="100%" aspect="9:5" reset-icon="yes" />
+           </figure>
     <activity>
         <statement>
             <p>
@@ -833,35 +950,38 @@
 </subsubsection>
     </subsection>
 
-<subsection xml:id="subsec-Constructing-of-circle">
-    <title>Construction of circle using a ruler and a pair of compasses.</title>
-    <introduction>
-        <p>
+    <subsection xml:id="subsec-Constructing-of-circle">
+        <title>Construction of circle using a ruler and a pair of compasses.</title>
+        <introduction>
+            <p>
+                
+            </p>
+        </introduction>
+
+        <activity>
+            <statement>
+                <p>
+                    Work in groups.
+                </p>
+
+                <p>
+                    (i) mark a point <m>O</m>.
+                </p>
+
+                <p>
+                    (ii) Adjust a pair of compasses to a length of <m>7</m><m>cm</m> from <m>O</m>. Turn the compass arm with the pencil until it get back to the initial point.
+                </p>
+
+                <p>
+                    (iii) Discuss the results and share with other groups
+                </p>
+            </statement>
+        </activity>
+
+        <figure>
+            <interactive xml:id="geogebra-circle" geogebra="ptdqmucd" width="100%" aspect="9:5" reset-icon="yes" />
+            </figure>
             
-        </p>
-    </introduction>
 
-    <activity>
-        <statement>
-            <p>
-                Work in groups.
-            </p>
-
-            <p>
-                (i) mark a point <m>O</m>.
-            </p>
-
-            <p>
-                (ii) Adjust a pair of compasses to a length of <m>7</m><m>cm</m> from <m>O</m>. Turn the compass arm with the pencil until it get back to the initial point.
-            </p>
-
-            <p>
-                (iii) Discuss the results and share with other groups
-            </p>
-        </statement>
-    </activity>
-      
-
-</subsection>
-
+    </subsection>
 </section>
