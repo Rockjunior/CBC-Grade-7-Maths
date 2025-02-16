@@ -1863,36 +1863,226 @@
     </table>
     <table>
       <title> <m>{\color{blue} \text{International Postal Charges}}</m></title>
-      <tabular>
+      <tabular  halign="left" top="medium" left="medium" right="medium">
+        <row  header="yes" bottom="medium">
+          <cell>Type of article</cell>
+          <cell>Mass steps</cell>
+          <cell>Countries within East African Zone.</cell>
+          <cell>Countries within the rest of Africa</cell>
+          <cell>Countries within Europe, Middle and Near East Zone</cell>
+          <cell>Australia, America and the Far East Zone</cell>
+        </row>
+        <row>
+          <cell>Letters</cell>
+          <cell>Not over <m>20\, g</m></cell>
+          <cell><m>60</m></cell>
+          <cell><m>70</m></cell>
+          <cell><m>76</m></cell>
+          <cell><m>98</m></cell>
+        </row>
         <row>
           <cell></cell>
+          <cell>Not over <m>50\, g</m></cell>
+          <cell><m>110</m></cell>
+          <cell><m>120</m></cell>
+          <cell><m>187</m></cell>
+          <cell><m>231</m></cell>
         </row>
-      </tabular>
-    </table>
-    <table>
-      <title><m>{\color{blue} \text{International air mail postal charges}}</m></title>
-      <tabular>
         <row>
           <cell></cell>
+          <cell>Not over <m>100\, g</m></cell>
+          <cell><m>198</m></cell>
+          <cell><m>231</m></cell>
+          <cell><m>323</m></cell>
+          <cell><m>441</m></cell>
         </row>
-      </tabular>
-    </table>
-    <table>
-      <title><m>{\color{blue} \text{Surface airlifted postal charges}}</m></title>
-      <tabular>
         <row>
           <cell></cell>
+          <cell>Not over <m>250\, g</m></cell>
+          <cell><m>463</m></cell>
+          <cell><m>535</m></cell>
+          <cell><m>872</m></cell>
+          <cell><m>1073</m></cell>
         </row>
-      </tabular>
-    </table>
-    <table>
-      <title><m>{\color{blue} \text{Express Mail Service(EMS) international rates}}</m></title>
-      <tabular>
         <row>
           <cell></cell>
+          <cell>Not over <m>350\, g</m></cell>
+          <cell><m>651</m></cell>
+          <cell><m>762</m></cell>
+          <cell><m>1220</m></cell>
+          <cell><m>1535</m></cell>
         </row>
+        <row>
+          <cell></cell>
+          <cell>Not over <m>500\, g</m></cell>
+          <cell><m>928</m></cell>
+          <cell><m>1082</m></cell>
+          <cell><m>1740</m></cell>
+          <cell><m>2189</m></cell>
+        </row>
+        <row >
+          <cell></cell>
+          <cell>Not over <m>1\, kg</m></cell>
+          <cell><m>1382</m></cell>
+          <cell><m>1014</m></cell>
+          <cell><m>2620</m></cell>
+          <cell><m>3279</m></cell>
+        </row>
+        <row bottom="medium">
+          <cell></cell>
+          <cell>Not over <m>2\, kg</m></cell>
+          <cell><m>1824</m></cell>
+          <cell><m>2345</m></cell>
+          <cell><m>3472</m></cell>
+          <cell><m>4345</m></cell>
+
+        </row>
+        <row >
+          <cell>Postcards</cell>
+          <cell>Standard size</cell>
+          <cell><m>26</m></cell>
+          <cell><m>33</m></cell>
+          <cell><m>39</m></cell>
+          <cell><m>66</m></cell>
+        </row>
+        <row bottom="medium">
+          <cell></cell>
+          <cell>Any other size</cell>
+          <cell><m>50</m></cell>
+          <cell><m>61</m></cell>
+          <cell><m>66</m></cell>
+          <cell><m>88</m></cell>
+        </row>
+        <row>
+          <cell>Aerogrammes</cell>
+          <cell><m></m></cell>
+          <cell><m>49</m></cell>
+          <cell><m>54</m></cell>
+          <cell><m>54</m></cell>
+          <cell><m>54</m></cell>
+        </row>
+        <row bottom="medium">
+          <cell>Single form</cell>
+          <cell><m></m></cell>
+          <cell><m></m></cell>
+          <cell><m></m></cell>
+          <cell><m></m></cell>
+          <cell><m></m></cell>
+        </row>
+        <row>
+          <cell>Printed papers</cell>
+          <cell>up to <m>20\,g</m></cell>
+          <cell><m>49.00</m></cell>
+          <cell><m>54.00</m></cell>
+          <cell><m>60.00</m></cell>
+          <cell><m>76.00</m></cell>
+
+        </row>
+        <row>
+          <cell>Small parckts</cell>
+          <cell>Over <m>20\,g\,- \, 100 \,g</m></cell>
+          <cell><m>98.00</m></cell>
+          <cell><m>120.00</m></cell>
+          <cell><m>143.00</m></cell>
+          <cell><m>165.00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>100\,g\,- \, 250 \,g</m></cell>
+          <cell><m>187.00</m></cell>
+          <cell><m>214.00</m></cell>
+          <cell><m>253.00</m></cell>
+          <cell><m>297.00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>250\, g\,- \, 500 \,g</m></cell>
+          <cell><m>319.00</m></cell>
+          <cell><m>375.00</m></cell>
+          <cell><m>441.00</m></cell>
+          <cell><m>530.00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>500g\,- \, 1 \,kg</m></cell>
+          <cell><m>529.00</m></cell>
+          <cell><m>618.00</m></cell>
+          <cell><m>717.00</m></cell>
+          <cell><m>872.00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>1\,kg\,- \, 2 \,kg</m></cell>
+          <cell><m>728.00</m></cell>
+          <cell><m>850.00</m></cell>
+          <cell><m>1095.00</m></cell>
+          <cell><m>1215.00</m></cell>
+        </row>
+        <row bottom="medium">
+          <cell></cell>
+          <cell>Each additional  <m>1\, kg</m> up to <m>5\,kg</m></cell>
+          <cell><m>364.00</m></cell>
+          <cell><m>430.00</m></cell>
+          <cell><m>497.00</m></cell>
+          <cell><m>618.00</m></cell>
+        </row>
+        <row>
+          <cell>Parcels</cell>
+          <cell>Up to <m>5\, kg</m> </cell>
+          <cell><m>1850</m></cell>
+          <cell><m>2550</m></cell>
+          <cell><m>2990</m></cell>
+          <cell><m>3050</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>5\, kg</m> up to <m>10\, kg</m> </cell>
+          <cell><m>2500</m></cell>
+          <cell><m>2830</m></cell>
+          <cell><m>3110</m></cell>
+          <cell><m>3256</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>10\, kg</m> up to <m>15\, kg</m></cell>
+          <cell><m>3260</m></cell>
+          <cell><m>3950</m></cell>
+          <cell><m>4268</m></cell>
+          <cell><m>4530</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>15\, kg</m> up to <m>20\, kg</m></cell>
+          <cell><m>4000</m></cell>
+          <cell><m>4455</m></cell>
+          <cell><m>4712</m></cell>
+          <cell><m>5190</m></cell>
+        </row>
+        <row bottom="medium">
+          <cell></cell>
+          <cell>For each additional <m>1\, kg</m> or part thereof up to <m>50\, kg</m></cell>
+          <cell><m>1250</m></cell>
+          <cell><m>1450</m></cell>
+          <cell><m>1650</m></cell>
+          <cell><m>1800</m></cell>
+        </row>
+        <row bottom="medium">
+          <cell>Literature for the blind</cell>
+          <cell></cell>
+          <cell><m>9.00</m></cell>
+          <cell><m>9.00</m></cell>
+          <cell><m>9.00</m></cell>
+          <cell><m>9.00</m></cell>
+        </row>
+        
       </tabular>
     </table>
+    <example>
+      <p>
+        grt
+      </p>
+    </example>
+
 
 
   </subsection>
