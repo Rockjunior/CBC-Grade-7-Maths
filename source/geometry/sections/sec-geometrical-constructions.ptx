@@ -56,10 +56,10 @@
                             </li>
                         </ol>
                     </p>
-                    <figure>
-        <caption></caption>
-        <interactive xml:id="geogebra-determining-angle-measure" geogebra="n3hdkqpr" width="100%" aspect="9:7" reset-icon="yes" />
-               </figure>
+            <figure>
+                <caption></caption>
+                <interactive xml:id="geogebra-determining-angle-measure" geogebra="n3hdkqpr" width="100%" aspect="9:7" reset-icon="yes" />
+          </figure>
                 </activity>
 
                  <activity>
@@ -354,6 +354,13 @@
                 </p>
             </statement>
         </activity>
+
+        <example>
+            <figure>
+        <caption></caption>
+        <interactive xml:id="geogebra-angle-90" geogebra="a7qgvybf" width="100%" aspect="9:5" reset-icon="yes" />
+             </figure>
+        </example>
         </subsubsection>
 
     <subsubsection xml:id="subsubsec-Constucting-45">
@@ -378,6 +385,18 @@
 
         <subsubsection xml:id="subsubsec-60">
             <title>constructing <m>60^\circ</m></title>
+
+            <activity>
+                <figure>
+        <caption></caption>
+        <interactive xml:id="geogebra-angle-60" geogebra="z5mzq6vz" width="100%" aspect="9:5" reset-icon="yes" />
+             </figure>
+
+             <figure>
+        <caption></caption>
+        <interactive xml:id="geogebra-angle-60-1" geogebra="sa4uv9pg" width="100%" aspect="10:7" reset-icon="yes" />
+             </figure>
+            </activity>
             <activity>
                 <statement>
                     <p>
@@ -429,18 +448,30 @@
                     </p>
                 </statement>
             </activity>
+
+            <example>
+                <figure>
+        <caption></caption>
+        <interactive xml:id="geogebra-angle-60-2" geogebra="v59rdbd7" width="100%" aspect="9:5" reset-icon="yes" />
+             </figure>
+            </example>
+
+            <example>
+                <figure>
+        <caption></caption>
+        <interactive xml:id="geogebra-angle-60-3" geogebra="nrjepwry" width="100%" aspect="9:5" reset-icon="yes" />
+             </figure>
+            </example>
         </subsubsection>
         
         <subsubsection xml:id="subsubsec-Constructing-angle-30">
             <title>Constructing <m>30^\circ</m></title>
 
-        <activity>
-
         <figure>
             <caption></caption>
         <interactive xml:id="geogebra-angles-30" geogebra="meqbydqc" width="100%" aspect="9:5" reset-icon="yes" />
            </figure>
-            
+            <activity>
                 <p>
                     Work in pairs
                 </p>
@@ -703,9 +734,10 @@
                 An Isosceles triangle is a triangle that has two equal sides. Also, the two angles opposite the two equal sides are equal.
             </p>
 
-            <image source="/it.png">
-                <shortdescription></shortdescription>
-            </image>
+             <figure>
+            <caption></caption>
+        <interactive xml:id="geogebra-isosceles-triangle" geogebra="nhz7gu7q" width="100%" aspect="9:6" reset-icon="yes" />
+           </figure>
 
             <p>
                 Properties of isosceles triangle.
