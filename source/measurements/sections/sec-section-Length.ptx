@@ -17,7 +17,6 @@
     </sidebyside>
   </introduction>
   
-  <xi:include href="subsections/length/henry.ptx" />
   <xi:include href="subsections/length/subsec-conversion-of-units-of-length.ptx" />
 
   <xi:include href="subsections/length/subsec-addition-and-subraction-of-units-of-length.ptx" />
