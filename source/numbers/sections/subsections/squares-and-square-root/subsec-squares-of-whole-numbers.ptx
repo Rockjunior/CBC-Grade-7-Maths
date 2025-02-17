@@ -50,16 +50,8 @@
                             \draw[thick,blue] (0,\y) -- (5,\y);
                         }
                     \end{tikzpicture}
-
                 </latex-image>
             </image>
-            <!-- <p>
-                Draw the square grids like the one shown be on the left.
-                Count the number of squares that can be formed inside that one main square
-
-                Share the work with other 
-            </p> -->
-            
         </activity>
         <definition xml:id="def-square-of-a-number">
             <statement>
@@ -98,31 +90,28 @@
                                      <mrow> \amp = 225 </mrow>
                                 </md>
                             </p>
-                            <!-- <table> -->
-                                <!-- <title></title> -->
-                                <tabular>
-                                    <row>
-                                        <cell halign="right"><m>15</m></cell>
-                                        <cell></cell>
-                                    </row>
-                                    <row halign="right">
-                                        <cell bottom="medium"><m>\times \, 15</m></cell>
-                                        <cell></cell>
-                                    </row>
-                                    <row halign="right">
-                                        <cell>75</cell>
-                                        <cell halign="left"><m>15 \times 5</m></cell>
-                                    </row>
-                                    <row halign="right">
-                                        <cell bottom="medium"><m>+ 150</m></cell> 
-                                        <cell halign="left"><m>15 \times 10</m></cell>
-                                    </row>
-                                    <row halign="right">
-                                        <cell bottom="medium"><m>225</m></cell>
-                                        <cell></cell>
-                                    </row>
-                                </tabular>
-                            <!-- </table> -->
+                            <tabular>
+                                <row>
+                                    <cell halign="right"><m>15</m></cell>
+                                    <cell></cell>
+                                </row>
+                                <row halign="right">
+                                    <cell bottom="medium"><m>\times \, 15</m></cell>
+                                    <cell></cell>
+                                </row>
+                                <row halign="right">
+                                    <cell>75</cell>
+                                    <cell halign="left"><m>15 \times 5</m></cell>
+                                </row>
+                                <row halign="right">
+                                    <cell bottom="medium"><m>+ 150</m></cell> 
+                                    <cell halign="left"><m>15 \times 10</m></cell>
+                                </row>
+                                <row halign="right">
+                                    <cell bottom="medium"><m>225</m></cell>
+                                    <cell></cell>
+                                </row>
+                            </tabular>
                         </li>
                         <li>
                             <p>
@@ -131,34 +120,31 @@
                                     <mrow> \amp = 17\,424</mrow>
                                 </md>
                             </p>
-                            <!-- <table> -->
-                                <!-- <title></title> -->
-                                <tabular>
-                                    <row>
-                                        <cell halign="right"><m>132</m></cell>
-                                        <cell></cell>
-                                    </row>
-                                    <row>
-                                        <cell halign="right" bottom="medium"><m>\times 132</m></cell>
-                                        <cell></cell>
-                                    </row>
-                                    <row>
-                                        <cell halign="right"><m>264</m></cell>
-                                        <cell halign="left"> <m>132 \times 2</m></cell>
-                                    </row>
-                                    <row halign="right">
-                                        <cell halign="right"><m>+ 3\,960</m></cell>
-                                        <cell halign="left"><m>132 \times 30</m></cell>
-                                    </row>
-                                    <row>
-                                        <cell halign="right" bottom="medium"><m>13\,200</m></cell>
-                                        <cell halign="left"><m>132 \times 100</m></cell>
-                                    </row>
-                                    <row>
-                                        <cell halign="right" bottom="medium"><m>17\,424</m></cell>
-                                    </row>
-                                </tabular>
-                            <!-- </table> -->
+                            <tabular>
+                                <row>
+                                    <cell halign="right"><m>132</m></cell>
+                                    <cell></cell>
+                                </row>
+                                <row>
+                                    <cell halign="right" bottom="medium"><m>\times 132</m></cell>
+                                    <cell></cell>
+                                </row>
+                                <row>
+                                    <cell halign="right"><m>264</m></cell>
+                                    <cell halign="left"> <m>132 \times 2</m></cell>
+                                </row>
+                                <row halign="right">
+                                    <cell halign="right"><m>+ 3\,960</m></cell>
+                                    <cell halign="left"><m>132 \times 30</m></cell>
+                                </row>
+                                <row>
+                                    <cell halign="right" bottom="medium"><m>13\,200</m></cell>
+                                    <cell halign="left"><m>132 \times 100</m></cell>
+                                </row>
+                                <row>
+                                    <cell halign="right" bottom="medium"><m>17\,424</m></cell>
+                                </row>
+                            </tabular>
                         </li>
                     </ol>
                 </p>
@@ -190,11 +176,11 @@
                         </row>
                         <row>
                             <cell halign="right"><m>129</m></cell>
-                            <cell halign="left"><m>43 \times 3</m></cell>
+                            <cell halign="left"><m>{\color{blue}43} \times {\color{blue}3}</m></cell>
                         </row>
                         <row>
                             <cell bottom="medium" halign="right"><m>+ 1720</m></cell>
-                            <cell><m>43 \times 40</m></cell>
+                            <cell><m>{\color{red}43} \times {\color{red}40}</m></cell>
                         </row>
                         <row>
                             <cell halign="right" bottom="medium"><m>1849</m></cell>
