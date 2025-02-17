@@ -10,23 +10,20 @@
         <p>
             For example, in <m>2.45</m>, the total value is: each digit multiplied by its place value as below
         </p>
-        <p>
-          <md>
-    <mrow>
-        2.45 \amp= (2 \times 1) + (4 \times 0.1) + (5 \times 0.01) \\ 
-        </mrow>
-       <mrow> \amp= 2 + 0.4 + 0.05
-    </mrow>
-</md>
-  </p>
-  <p>
+    <p>
+    <md>
+       <mrow> 2.45 \amp= (2 \times 1) + (4 \times 0.1) + (5 \times 0.01)  </mrow>
+       <mrow> \amp= 2 + 0.4 + 0.05 </mrow>
+    </md>
+    </p>
+    <p>
     <m>\textbf{Explore}</m>
     </p>
     <sidebyside>
     <p>
     In a school race , Tula run 2.45 km—that is 2 full kilometers, 400 meters (4 tenths of a km), and 50 meters (5 hundredths of a km). 
     We use total value of digits in a decimal to identify the distance Talu ran that could not form a whole number.
-  </p>
+    </p>
   <image  width="40%" source="/ran.png">
     <shortdescription></shortdescription>
   </image>
