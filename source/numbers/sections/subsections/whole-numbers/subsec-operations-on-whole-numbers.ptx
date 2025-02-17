@@ -1,0 +1,102 @@
+<subsection xml:id="subsec-Operations-on-whole-numbers">
+  <title>Operations on whole numbers</title>
+     <p>
+   Addition
+     </p> 
+     <p>
+      We use place value of digits to add numbers. Some additions have regrouping and others do not.
+     </p>
+     <activity>
+      <statement>
+        <p>
+          
+        </p>
+        <p>
+          1.(a) Individually, write and work out an addition word question.
+        </p>
+        <p>
+          (b) Write the word question on a blank card.
+        </p>
+        <p>
+          2. Exchange the cards and work out each other's question.
+        </p>
+      </statement>
+     </activity>
+      <example>
+        <statement>
+          <p>
+           A company sold goods worth sh <m>1\,478\,956,</m> in the month of January. In February, the company sold goods worth sh <m>2\,123\,040</m>. What was the total sales in the two months?
+          </p>
+        </statement>
+        <solution>
+          <p>
+            Add the amounts to get the total sales in two months.
+          </p>
+          <tabular>
+            <row bottom="minor">
+              <cell colspan="8"></cell>
+            </row>
+            <row>
+              <cell></cell>
+              <cell>+1</cell>
+              <cell>+1</cell>
+              <cell>+1</cell>
+              <cell>+1</cell>
+              <cell>+1</cell>
+              <cell>+1</cell>
+              <cell></cell>
+            </row>
+            <row>
+              <cell></cell>
+              <cell>1</cell>
+              <cell>4</cell>
+              <cell>7</cell>
+              <cell>8</cell>
+              <cell>9</cell>
+              <cell>5</cell>
+              <cell>6</cell>
+            </row>
+            <row>
+              <cell></cell>
+              <cell>2</cell>
+              <cell>5</cell>
+              <cell>6</cell>
+              <cell>2</cell>
+              <cell>3</cell>
+              <cell>9</cell>
+              <cell>8</cell>
+            </row>
+            <row bottom="minor"> 
+              <cell>+</cell>
+              <cell>2</cell>
+              <cell>1</cell>
+              <cell>2</cell>
+              <cell>3</cell>
+              <cell>0</cell>
+              <cell>4</cell>
+              <cell>0</cell>
+            </row>
+            <row bottom="minor">
+              <cell></cell>
+              <cell>6</cell>
+              <cell>1</cell>
+              <cell>6</cell>
+              <cell>4</cell>
+              <cell>3</cell>
+              <cell>9</cell>
+              <cell>4</cell>
+            </row>
+          </tabular>
+          <p>
+            The total sales was sh <m>6\,164\,394</m>
+          </p>
+        </solution>
+      </example>
+      <exercise>
+        <statement>
+          <p>
+            
+          </p>
+        </statement>
+      </exercise>
+</subsection>
