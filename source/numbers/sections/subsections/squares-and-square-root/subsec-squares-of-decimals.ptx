@@ -1,0 +1,144 @@
+<subsection xml:id="subsec-Squares-of-decimals">
+        <title>Squares of decimals</title>
+        <activity>
+                <p>
+                    <alert>Work in groups</alert>
+                </p>
+                <p>
+                    1. Onyango, a Grade 7, student created the following table.
+                </p>
+                
+                <tabular halign="left" top="medium" right="medium" left="medium" bottom="medium">
+                    <row header="yes">
+                        <cell>Decimal numbers</cell>
+                        <cell>Square of the decimal numbers</cell>
+                        <cell>Answer</cell>
+                    </row>
+                    <row>
+                        <cell><m>0.5^2</m></cell>
+                        <cell><m>\left(\frac{5}{10}\right)^2 \,\, = \frac{5 \times 5}{10 \times 10} \,\, = \frac{25}{100} </m></cell>
+                        <cell><m>0.25</m></cell>
+                    </row>
+                    <row>
+                        <cell><m>0.16^2</m></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row>
+                        <cell><m>0.09^2</m></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row>
+                        <cell><m>1.6^2</m></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row>
+                        <cell><m>0.12^2</m></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row>
+                        <cell><m>1.3^2</m></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                </tabular>
+                <p>
+                    2. Complete the table by filling in blank spaces.
+                </p>
+                <p>
+                    3. Share your work with other learners in class
+                </p>
+        </activity>
+        <p>
+            The square of a decimal number should have double the number of decimal places as the original number.
+        </p>
+        <example>
+            <statement>
+                <p>
+                    <ol cols="2" marker="a)">
+                        <li>
+                            <p>
+                                What is the square of: <m>1.21</m>?
+                            </p>
+                        </li>
+                    </ol>
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <ol cols="2" marker="a)">
+                        <li>
+                            <p>
+                                <m>1.21^2</m> ?
+                            </p>
+                            <p>convert the decimal <m>1.21</m> to a fraction.</p>
+                            <p><m>1.21 = \frac{121}{100}</m></p>
+                            <p>To square the fraction <m>\frac{121}{100}</m>, multiply the numerator by itself and the denominator by itself.</p>
+                            <p><m>\frac{121}{100} \times \frac{121}{100} = \frac{121 \times 121}{100 \times 100} = \frac{14641}{10000}</m></p>
+                            <p>Convert the fraction <m>\frac{14641}{10000}</m> to a decimal by dividing the numerator by the denominator.</p>
+                            <p><m>\frac{14641}{10000} = 1.4641</m></p>
+                        </li>
+                    </ol>
+                </p>
+            </solution>
+        </example>
+        <example>
+            <statement>
+                <p>
+                    What is the value of <m>2.35^2</m>?
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <ol marker="a)">
+                        <li>
+                            <p>
+                                <m>2.35^2</m>
+                            </p>
+                        </li>
+                    </ol>
+                </p>
+                <p>To find <m>2.35^2</m> we need to calculate <m>2.35 \times 2.35</m></p>
+                <p>Convert <m>2.35</m> to a whole number by multiplying by 100.</p>
+                <p><m>2.35 \times 100 = 235</m></p>
+                <p>Then, we have: <m>235 \times 235 </m></p>
+                <tabular>
+                    <row>
+                        <cell halign="right"><m>235</m></cell>
+                        <cell></cell>
+                    </row>
+                    <row>
+                        <cell halign="right" bottom="medium"><m>\times 235</m></cell>
+                        <cell></cell>
+                    </row>
+                    <row>
+                        <cell halign="right"><m>1175</m></cell>
+                        <cell halign="left"><m>235 \times 5</m></cell>
+                    </row>
+                    <row>
+                        <cell halign="right"><m>705</m></cell>
+                        <cell halign="left"><m>235 \times 3</m></cell>
+                    </row>
+                    <row>
+                        <cell halign="right" bottom="medium"><m>+ 470</m></cell>
+                        <cell halign="left"><m> 235 \times 2</m></cell>
+                    </row>
+                    <row>
+                        <cell halign="right" bottom="medium"><m>55\,225</m></cell>
+                    </row>
+                </tabular>
+                <p>Since we initially removed two decimal places from each number <m>2.35</m> (multiplying by 100 for both), we must divide the final result by <m>100^2  = 10000</m> to restore the decimal:</p>
+                <p><m>55225 \div 10000 = \frac{55225}{10000} = 5.5225</m></p>
+            </solution>
+        </example>
+        <exercise>
+            <statement>
+                <p>
+                    Exercise for squares of decimals goes here
+                </p>
+            </statement>
+        </exercise>
+    </subsection>

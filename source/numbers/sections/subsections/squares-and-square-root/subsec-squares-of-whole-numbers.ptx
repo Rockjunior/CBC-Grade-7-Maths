@@ -1,0 +1,217 @@
+<subsection xml:id="subsec-Squares-of-whole-numbers">
+        <title>Squares of whole numbers</title>
+        <activity>
+            <p>
+                <alert>Work in groups</alert>
+            </p>
+            
+            <p>
+                <ol>
+                    <li>
+                        <p>
+                            Draw a grid of squares like the one shown below.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Start by counting all the smallest squares <m>(1 \times 1)</m> in the grid.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Then, identify and count all the larger squares, such as <m>2 \times 2, \,\,</m>  <m>3 \times 3</m>, and so on, until you reach the largest square that fits within the grid.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Write down the number of squares for each size <m> (e.g., 1 \times 1, \,\, 2 \times 2, ...) </m> in a table for better organization. Add them up to find the total number of squares in the grid.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Discuss your findings with a in a small group. Compare how many squares each of you found and check for any missed squares.                      
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Think about the process you used to count the squares. Could there be a quicker way to calculate the total number of squares without counting each one individually?
+                        </p>
+                    </li>
+                </ol>
+            </p>
+            <image width="30%">
+                <shortdescription></shortdescription>
+                <latex-image>
+                    \begin{tikzpicture}
+                        \foreach \x in {0,1,2,3,4,5} {
+                            \draw[thick,blue] (\x,0) -- (\x,5);
+                        }
+                        \foreach \y in {0,1,2,3,4,5} {
+                            \draw[thick,blue] (0,\y) -- (5,\y);
+                        }
+                    \end{tikzpicture}
+
+                </latex-image>
+            </image>
+            <!-- <p>
+                Draw the square grids like the one shown be on the left.
+                Count the number of squares that can be formed inside that one main square
+
+                Share the work with other 
+            </p> -->
+            
+        </activity>
+        <definition xml:id="def-square-of-a-number">
+            <statement>
+                <p>
+                    The square of a number is a product of the number by itself.
+                </p>
+            </statement>
+        </definition>
+        <p>
+            The square of a number is a product of the number by itself.
+        </p>
+        <example>
+            <statement>
+                <p>
+                    <ol cols="2" marker="a)">
+                        <li>
+                            <p>
+                                What is the square of <m>15 </m>?
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Work out: <m>132^2</m>
+                            </p>
+                        </li>
+                    </ol>
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <ol marker="a)" cols="2">
+                        <li>
+                            <p>
+                                <md>
+                                     <mrow>15^2 \amp = 15 \times 15 </mrow>
+                                     <mrow> \amp = 225 </mrow>
+                                </md>
+                            </p>
+                            <!-- <table> -->
+                                <!-- <title></title> -->
+                                <tabular>
+                                    <row>
+                                        <cell halign="right"><m>15</m></cell>
+                                        <cell></cell>
+                                    </row>
+                                    <row halign="right">
+                                        <cell bottom="medium"><m>\times \, 15</m></cell>
+                                        <cell></cell>
+                                    </row>
+                                    <row halign="right">
+                                        <cell>75</cell>
+                                        <cell halign="left"><m>15 \times 5</m></cell>
+                                    </row>
+                                    <row halign="right">
+                                        <cell bottom="medium"><m>+ 150</m></cell> 
+                                        <cell halign="left"><m>15 \times 10</m></cell>
+                                    </row>
+                                    <row halign="right">
+                                        <cell bottom="medium"><m>225</m></cell>
+                                        <cell></cell>
+                                    </row>
+                                </tabular>
+                            <!-- </table> -->
+                        </li>
+                        <li>
+                            <p>
+                                <md>
+                                    <mrow>132^2 \amp = 132 \times 132</mrow>
+                                    <mrow> \amp = 17\,424</mrow>
+                                </md>
+                            </p>
+                            <!-- <table> -->
+                                <!-- <title></title> -->
+                                <tabular>
+                                    <row>
+                                        <cell halign="right"><m>132</m></cell>
+                                        <cell></cell>
+                                    </row>
+                                    <row>
+                                        <cell halign="right" bottom="medium"><m>\times 132</m></cell>
+                                        <cell></cell>
+                                    </row>
+                                    <row>
+                                        <cell halign="right"><m>264</m></cell>
+                                        <cell halign="left"> <m>132 \times 2</m></cell>
+                                    </row>
+                                    <row halign="right">
+                                        <cell halign="right"><m>+ 3\,960</m></cell>
+                                        <cell halign="left"><m>132 \times 30</m></cell>
+                                    </row>
+                                    <row>
+                                        <cell halign="right" bottom="medium"><m>13\,200</m></cell>
+                                        <cell halign="left"><m>132 \times 100</m></cell>
+                                    </row>
+                                    <row>
+                                        <cell halign="right" bottom="medium"><m>17\,424</m></cell>
+                                    </row>
+                                </tabular>
+                            <!-- </table> -->
+                        </li>
+                    </ol>
+                </p>
+            </solution>
+        </example>
+        <example>
+            <statement>
+                <p>
+                    The length of a square flowerbed is <m>43</m> m. What is the area of the flowerbed?
+                </p>
+            </statement>
+            <solution>
+                    <p>
+                        <md>
+                            <mrow> \text{Area of the square flowerbed} \amp = \text{ Length of the flowerbed } \times \text{Length of the flowerbed}  </mrow>
+                            <mrow> \amp = 43 \text{ m } \times 43 \text{ m } </mrow>
+                            <mrow> \amp = 1\,849 \text{m}^2 </mrow>
+                        </md>
+                        
+                    </p>
+                    <tabular>
+                        <row>
+                            <cell halign="right"><m>43</m></cell>
+                            <cell></cell>
+                        </row>
+                        <row halign="right">
+                            <cell halign="right" bottom="medium"><m>\times 43</m></cell>
+                            <cell></cell>
+                        </row>
+                        <row>
+                            <cell halign="right"><m>129</m></cell>
+                            <cell halign="left"><m>43 \times 3</m></cell>
+                        </row>
+                        <row>
+                            <cell bottom="medium" halign="right"><m>+ 1720</m></cell>
+                            <cell><m>43 \times 40</m></cell>
+                        </row>
+                        <row>
+                            <cell halign="right" bottom="medium"><m>1849</m></cell>
+                            <cell></cell>
+                        </row>
+                    </tabular>
+                    <p>
+                        The area of the flowerbed is <m>1\,849 \text{ m}^2.</m>
+                    </p>
+            </solution>
+        </example>
+        <exercise>
+            <statement>
+                <p>
+                    Exercise on squares of whole numbers goes in here.
+                </p>
+            </statement>
+        </exercise>
+
+    </subsection>
