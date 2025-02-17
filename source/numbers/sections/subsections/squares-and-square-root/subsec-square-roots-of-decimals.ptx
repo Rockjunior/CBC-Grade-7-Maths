@@ -49,7 +49,7 @@
             </image>
         </sidebyside>
         <p>
-            2. Each small square in the grid represents 0.1 unit in length.
+            2. Each small square in the grid represents <m>0.1</m> unit in length.
         </p>
         <p>
             3. Count the total number of small squares in each grid.
@@ -70,7 +70,7 @@
                 <ol cols="2" marker="a)">
                     <li>
                         <p>
-                            Work out: <m>\sqrt{12.96}</m>
+                            Work out: <m>\sqrt{0.81}</m>
                         </p>
                     </li>
                     <li>
@@ -86,11 +86,12 @@
                 <ol marker="a)">
                     <li>
                         <p>
-                            <m>\sqrt{12.96}</m>
+                            <m>\sqrt{0.81}</m>
                         </p>
                         <p>
                             <md>
-                                <mrow>\sqrt{12.96} \amp = \sqrt{\frac{1296}{100}} </mrow>
+                                <mrow> \text{Since } 0.81 can be written as the fraction \frac{81}{100}, we take the square root of both the numerator and the denominator separately. \amp </mrow>
+                                <mrow>\sqrt{0.81} \amp = \sqrt{\frac{81}{100}} = \frac{\sqrt{81}}{\sqrt{100}}</mrow>
                                 <mrow> \amp = \sqrt{\frac{2 \times 2 \times 2 \times 2 \times 3 \times 3 \times 3 \times 3}{2 \times 2 \times 5 \times 5}} </mrow>
                                 <mrow> \amp = \frac{2 \times 2 \times 3 \times 3}{2 \times 5} = \frac{36}{10} </mrow>
                                 <mrow> \amp= 3.6 </mrow>
@@ -119,7 +120,7 @@
     <exercise>
         <statement>
             <p>
-                Exercise for square roots of decimals
+                Exercise to be included in here.
             </p>
         </statement>
     </exercise>
