@@ -1,27 +1,26 @@
 <subsection xml:id="subsec-Operations-on-whole-numbers">
   <title>Operations on whole numbers</title>
-     <p>
-   Addition
-     </p> 
-     <p>
-      We use place value of digits to add numbers. Some additions have regrouping and others do not.
-     </p>
-     <activity>
+  <subsubsection xml:id="subsubsec-addition">
+    <title>Addition</title>
+    <p>
+        We use place value of digits to add numbers. Some additions have regrouping and others do not.
+    </p>
+    <activity>
       <statement>
         <p>
           
         </p>
         <p>
-          1.(a) Individually, write and work out an addition word question.
+            1.(a) Individually, write and work out an addition word question.
         </p>
         <p>
-          (b) Write the word question on a blank card.
+            (b) Write the word question on a blank card.
         </p>
         <p>
-          2. Exchange the cards and work out each other's question.
+            2. Exchange the cards and work out each other's question.
         </p>
       </statement>
-     </activity>
+    </activity>
       <example>
         <statement>
           <p>
@@ -99,4 +98,219 @@
           </p>
         </statement>
       </exercise>
+  </subsubsection>  
+  <subsubsection xml:id="subsubsec-subtraction-of-whole-numbers">
+    <title>Subtraction of whole numbers</title>
+    <activity>
+      <p>
+        
+      </p>
+       <p>
+        Kahawa Tea company harvested <m>326\,548\,957</m> kilograms of tea. The company exported <m>128\,349\,263</m> kilograms of coffee.
+       </p>
+       <p>
+        1. Work out the kilograms of tea that remained after the export.
+       </p>
+       <p>
+        Share your work with fellow learners.
+       </p>
+      </activity>
+      <example>
+        <statement>
+          <p>
+          Fishermen across the country exported <m>4\,563\,275</m> kg of fish in the first year. In the second year; the mass of fish decreased by <m>732\,738</m> kg. Work out the mass of fish that the fishermen exported in the second year: 
+          </p>
+        </statement>
+        <solution>
+
+          <p>
+            First, subtract the decrease in mass of fish in the second year from the mass of fish in the first year.
+          </p>
+          <tabular>
+            <row bottom="minor">
+              <cell colspan="8"></cell>
+            </row>
+            <row>
+               <cell></cell>
+              <cell>3</cell>
+              <cell>10</cell>
+              <cell></cell>
+              <cell>2</cell>
+              <cell>10</cell>
+              <cell>6</cell>
+              <cell>10</cell>
+             
+            </row>
+            <row>
+              <cell></cell>
+              <cell><m>\cancel{4}</m></cell>
+              <cell>5</cell>
+              <cell>6</cell>
+              <cell><m>\cancel{3}</m></cell>
+              <cell>2</cell>
+              <cell><m>\cancel{7}</m></cell>
+              <cell>5</cell>
+            </row>
+            <row bottom="minor"> 
+              <cell>-</cell>
+              <cell></cell>
+              <cell>7</cell>
+              <cell>3</cell>
+              <cell>2</cell>
+              <cell>7</cell>
+              <cell>3</cell>
+              <cell>8</cell>
+            </row>
+            <row bottom="minor">
+              <cell></cell>
+              <cell>3</cell>
+              <cell>8</cell>
+              <cell>3</cell>
+              <cell>0</cell>
+              <cell>5</cell>
+              <cell>3</cell>
+              <cell>7</cell>
+            </row>
+          </tabular>
+         <p>
+         If the digits in a column, starting from the right-hand side, result in a negative value when subtracted, you borrow from the first digit in the next column to the left..
+         </p>
+         <p>
+         The digit you borrow from will be reduced by 1, while the digit you borrow to will increase by 10.  See the example above.
+         </p>
+         <p>
+          Therefore, the mass of fish the fisherman exported in the second year was <m>3\,830\,537</m> kg.
+         </p>
+         
+        </solution>
+      </example>
+      <exercise>
+        <statement>
+          <p>
+            
+          </p>
+        </statement>
+      </exercise>
+  </subsubsection>
+  <subsubsection xml:id="subsubsec-multiplication-of-whole-number">
+    <title>Multiplication of whole number</title>
+    <activity>
+        <statement>
+          <p>
+            
+          </p>
+          <p>
+            1. Make tables like the ones shown below.
+          </p>
+          <tabular right="medium" left="medium" bottom="medium" top="medium">
+         
+            <row >
+              <cell>3</cell>
+              <cell>4</cell>
+              <cell>5</cell>
+              <cell>6</cell>
+              <cell>7</cell>
+            </row>
+            <row>
+              <cell>8</cell>
+              <cell>27</cell>
+              <cell>35</cell>
+              <cell>40</cell>
+              <cell>54</cell>
+            </row>
+            <row>
+              <cell>78</cell>
+              <cell>63</cell>
+              <cell>82</cell>
+              <cell>91</cell>
+              <cell>44</cell>
+            </row>
+            <row > 
+              <cell>132</cell>
+              <cell>217</cell>
+              <cell>810</cell>
+              <cell>514</cell>
+              <cell>231</cell>
+            </row>
+          </tabular>
+          <tabular bottom="medium" right="medium" top="medium" left="medium">
+            <row >
+              <cell>72</cell>
+              <cell>60</cell>
+              <cell>42</cell>
+              <cell>56</cell>
+              <cell>79</cell>
+            </row>
+            <row>
+              <cell>852</cell>
+              <cell>147</cell>
+              <cell>320</cell>
+              <cell>560</cell>
+              <cell>801</cell>
+            </row>
+            <row>
+              <cell>332</cell>
+              <cell>133</cell>
+              <cell>249</cell>
+              <cell>900</cell>
+              <cell>448</cell>
+            </row>
+            <row>
+              <cell>5132</cell>
+              <cell>1217</cell>
+              <cell>3810</cell>
+              <cell>4514</cell>
+              <cell>6231</cell>
+            </row>
+          </tabular>
+          <p>
+            2.(a) In turns, choose one number from each table.
+          </p>
+          <p>
+             (b) Multiply the two numbers.
+          </p>
+        </statement>
+      </activity> 
+      <example>
+        <statement>
+          <p>
+            In the first phase of supplying books to schools,  the government supplied <m>723</m> textbooks to each school. The number of schools that received the books was <m>256</m>. How many books did the government supply in the first phase?
+          </p>
+        </statement>
+        <solution>
+          <p>
+            We multiply the number of books by the number of schools. 
+          </p>
+          <tabular>
+          <row>
+            <cell halign="right"><m>723</m></cell>
+             <cell/>
+          </row>
+            <row halign="right">
+              <cell bottom="medium"><m>\times \, 256</m></cell>
+              <cell/>
+            </row>
+            <row>
+               <cell halign="right"><m>4\,338</m></cell>
+               <cell>(multiply 723 by the total value of the ones digit: 723 x 6)</cell>
+            </row>
+            <row>
+              <cell halign="right"><m>36\,150</m></cell>
+              <cell>(multiply 723 by the total value of the tens digit: 723 x 50)</cell>
+            </row>
+            <row > 
+              <cell bottom="medium" halign="right"><m> +\, 144\,600</m></cell>
+              <cell>(multiply 723 by the total value of the hundreds digit: 723 x 200)</cell>
+            </row>
+            <row >
+              <cell halign="right"><m>185\,088</m></cell>
+              <cell/>
+            </row>
+          </tabular>
+         <p>
+          The number of books the government supplied is <m>185\,088</m>.
+         </p>
+        </solution>
+      </example>
+  </subsubsection>
 </subsection>
