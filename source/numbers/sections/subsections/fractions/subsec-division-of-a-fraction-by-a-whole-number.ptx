@@ -1,0 +1,75 @@
+<subsection xml:id="subsec-Division-of-a-fraction-by-a-whole-number">
+        <title>Division of a fraction by a whole number</title>
+        <activity>
+            <statement>
+                <p>
+                   <alert>Work in groups</alert>
+                </p>
+                <p>
+                    Mr. Obiero is a meat seller in Namanga center.He always ensure food safety and hygiene when handling and selling meat.
+                     He is selling <m>\frac{1}{2}</m> kg of meat to four teachers of Seku primary school.
+                </p>
+                <p>
+                    <ol marker="a)">
+                        <li>
+                            <p>  
+                               1. What fraction of the meat will each teacher receive if they share it equally?
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                               2. Share your answer with other learners in your class.
+                            </p>
+                        </li>
+                    </ol>
+                </p>
+            </statement>
+        </activity>
+        <p>
+            When dividing a fraction by a whole number, multiply the fraction by the reciprocal of the whole.
+        </p>
+        <example>
+            <statement>
+                <p>
+                    Work out: <m>\frac{3}{20} \div 6  </m>
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <ol marker="a)">
+                        <li>
+                            <p>
+                                Find the reciprocal of the divisor.
+                            </p>
+                            <p>
+                                The reciprocal of <m>6</m> is <m>\frac{1}{6}.</m>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Multiply.
+                            </p>
+                            <p>
+                                <md>
+                                    <mrow>\frac{3}{20} \times \frac{1}{6} \amp = \frac{3 \times 1}{20 \times 6}</mrow>
+                                    <mrow></mrow>
+                                    <mrow> \amp = \frac{3}{120} </mrow>
+                                    <mrow></mrow>
+                                    <mrow> \frac{3}{120} \amp = \frac{3 \div 3}{120 \div 3} </mrow>
+                                    <mrow></mrow>
+                                    <mrow> \amp = \frac{1}{40}</mrow>
+                                </md>
+                            </p>
+                        </li>
+                    </ol>
+                </p>
+            </solution>
+        </example>
+        <exercise>
+            <statement>
+                <p>
+                    Exercise for Division of a fraction by a whole number
+                </p>
+            </statement>
+        </exercise>
+    </subsection>

@@ -1,0 +1,85 @@
+  <subsection xml:id="subsec-area-of-a-parallelogram">
+    <title>Area of a parallelogram</title>
+    <p>
+      <ul>
+        <li>
+          <p>
+            Rectangle is a type of parallelogram where all the angles are 90°
+          </p>
+        </li>
+        <li>
+          <p>
+            All rectangles are parallelograms, but not all parallelograms are rectangles.
+          </p>
+        </li>
+      </ul>
+    </p>
+    <p>
+      <md>
+        <mrow>\text{Area of a parallelogram} = \amp \text{base} \times \text{height}</mrow>
+        <mrow>= \amp bh </mrow>
+      </md>
+    </p>
+    <p>
+      The figure below shows a parallelogram with base and height labeled. 
+    </p>
+    <image width="40%">
+    <latex-image>
+      \begin{tikzpicture}
+        \draw [very thick,fill=white](2,4) coordinate (D)-- (0,0) coordinate (A)-- (6,0) coordinate (B);
+        \draw [very thick,fill=white](6,0) coordinate (B)-- (8,4) coordinate (C)-- (2,4) coordinate (D);
+        \node at (3,2){height(h)};
+        \node at (3,-0.5){base(b)};
+        \draw [dashed] (2,4) --(2,0);
+        \draw(2,0) coordinate (A)-- (2,0.5) coordinate (B)-- (2.5,0.5) coordinate (C)--  (2.5,0) coordinate(D)-- (2,0) coordinate (A);
+      \end{tikzpicture}
+    </latex-image>
+     
+    </image>
+    <activity>
+      <statement>
+        <p>
+          Muchemi's piece of land is in the shape below.
+        </p>
+        <image source="/parallelogram.png" width="40%">
+          <shortdescription>Parallelogram</shortdescription>
+        </image>
+        <p>
+          What is the area of the piece of land?
+        </p>
+      </statement>
+      <solution>
+        <p>
+          <md>
+            <mrow> \text{Area of a parallelogram}=\amp \text{base length} \times \text{Perpendicular height}</mrow>
+            <mrow> =\amp 120m \times 40m</mrow>
+            <mrow> =\amp 4800m^2 </mrow>
+          </md>
+        </p>
+        <p>
+          The area of the piece of land is <m>4800m^2</m>.
+        </p>
+      </solution>
+      
+    </activity>
+    <p>
+      NOTE:
+    </p>
+    <p>
+      <ul>
+        <li>
+          <p>
+            When calculating the area of a parallelogram 
+            ensure you use the formula Area <m>= base \times height</m>
+          </p>
+        </li>
+        <li>
+          <p>
+            For any drawn figure ensure you've obtaine both the <em>base</em> and 
+            <em>height</em> before incoopereting the formula.
+          </p>
+        </li>
+      </ul>
+    </p>
+    
+  </subsection>

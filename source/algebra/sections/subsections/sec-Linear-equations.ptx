@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-Linear-equations" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Linear Equations</title>
+
+    <introduction>
+
+      <p>
+        Linear equations are straight line equations involving one or two unknowns.
+      </p>
+
+    </introduction>
+
+    <xi:include href="subsections/linear_equations/subsec-Forming_Equations_in_one_Unknown.ptx" />
+
+    <xi:include href="subsections/linear_equations/subsec-Solving_Linear_Equations_in_One_Unknown.ptx" />
+
+    <xi:include href="subsections/linear_equations/subsec-Application_of_Linear_Equations_in_One_Unknown.ptx" />
+
+</section>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <subsection xml:id="subsec-Illustrating_compound_inequalities_on_a_number_line">
+      <title>Illustrating compound inequalities on a number line</title>
+
+      <activity>
+        <title><term>Work in Groups</term></title>
+
+        <p>
+          
+          <ol>
+
+          <li>
+
+            <p>
+              Consider <me>5&lt;x&lt;12.</me>
+            </p>
+
+          </li>
+
+          <li>
+
+            <p>
+              Write down the two simple inequalities from the compound inequality.
+            </p>
+
+          </li>
+
+          <li>
+
+            <p>
+              Draw a number line.
+            </p>
+
+          </li>
+
+          <li>
+
+            <p>
+              Illustrate the two inequalities on the same number line.
+            </p>
+
+          </li>
+
+          <li>
+
+            <p>
+              Discuss and share with other groups.
+            </p>
+
+          </li>
+
+        </ol>
+
+        </p>
+
+      </activity>
+
+      <p>
+        <term>Learning Point.</term>
+      </p>
+
+      <p>
+        Part of a number line that satisfies two linear inequalities is the illustration of a given compound inequality.
+      </p>
+
+      <example>
+
+        <statement>
+
+          <p>
+            Illustrate the compound inequality <m>4 &lt; y &lt; 8</m> on a number line.
+          </p>
+
+        </statement>
+
+        <solution>
+
+          <p>
+            <m>4 &lt; y &lt; 8</m> can also be written as <m>y &gt; 4</m> and <m>y &lt; 8</m>
+          </p>
+
+        <image>
+          <shortdescription>Number line</shortdescription>
+
+            <latex-image>
+              \begin{tikzpicture}
+                    % Draw number line
+                    \draw[thick, ->] (2,0) -- (10,0);
+                    
+                    % Draw open circles at x=4 and x=8
+                    \draw (4,0) circle (3pt);
+                    \draw (8,0) circle (3pt);
+                    
+                    % Draw line segment between 4 and 8
+                    \draw[thick] (4,0) -- (8,0);
+                    
+                    % Label points
+                    \node[below] at (4,0) {4};
+                    \node[below] at (8,0) {8};
+                    
+                    % Optional: Add additional number labels
+                    \foreach \x in {3,5,6,7,9} {
+                        \node[below] at (\x,0) {\x};
+                    }
+                    
+                \end{tikzpicture}
+            </latex-image>
+            
+        </image>
+
+        </solution>
+
+      </example>
+
+      <exercise>
+
+        <p>
+          Exercise here.
+        </p>
+
+      </exercise>
+
+      <activity>
+        <title><term>Work in Groups</term></title>
+        <p>
+
+          <ol>
+            
+            <li>
+
+              <p>
+                Consider <m>3 \le x \le 9</m>.
+              </p>
+
+            </li>
+
+            <li>
+
+              <p>
+                Write down the two simple inequalities from the compound inequality.
+              </p>
+
+            </li>
+
+            <li>
+
+              <p>
+                Draw a number line.
+              </p>
+
+            </li>
+
+            <li>
+
+              <p>
+                Illustrate the two inequalities on the same number line.
+              </p>
+
+            </li>
+
+            <li>
+
+              <p>
+                Discuss and share with other groups.
+              </p>
+
+            </li>
+
+          </ol>
+
+        </p>
+
+      </activity>
+
+      <p>
+        <term>Learning Point.</term>
+      </p>
+
+      <p>
+        Part of a number line that satisfies two linear inequalities is the illustration of a given compound inequality.
+      </p>
+
+      <example>
+
+        <statement>
+
+          <p>
+            Illustrate the compound inequality <m>8 \le x \le 12</m> on a number line.
+          </p>
+
+        </statement>
+
+        <solution>
+
+          <p>
+            In <m>8 \le x \le 12, x \ge 8</m> and <m>x \le 12</m>
+          </p>
+
+          <image>
+            <shortdescription>Number line</shortdescription>
+            <latex-image>
+              \begin{tikzpicture}
+                % Draw number line
+                \draw[thick, ->] (6,0) -- (14,0);
+                
+                % Draw closed circles at x=8 and x=12
+                \filldraw (8,0) circle (3pt);
+                \filldraw (12,0) circle (3pt);
+                
+                % Draw line segment between 8 and 12
+                \draw[thick] (8,0) -- (12,0);
+                
+                % Label points
+                \node[below] at (8,0) {8};
+                \node[below] at (12,0) {12};
+                
+                % Optional: Add additional number labels
+                \foreach \x in {7,9,10,11,13} {
+                    \node[below] at (\x,0) {\x};
+                }
+                  
+              \end{tikzpicture}
+            </latex-image>
+          </image>
+
+        </solution>
+
+      </example>
+
+      <exercise>
+
+        <statement>
+
+          <p>
+            Exercise here.
+          </p>
+
+        </statement>
+
+      </exercise>
+
+    </subsection>
