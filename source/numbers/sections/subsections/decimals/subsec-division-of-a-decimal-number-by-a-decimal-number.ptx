@@ -1,0 +1,229 @@
+<subsection xml:id="subsec-Division-of-a-decimal-number-by-a-decimal-number">
+    <title>Division of a decimal number by a decimal number</title>
+    <p>
+            To divide decimal numbers you:
+            <ol marker="a)">
+                <li>
+                    <p>
+                      Express the division as a fraction .Example <m>6.3 ÷ 0.7 </m> can be written as 
+                    </p>
+                    <p>
+                        <m>\frac{63}{10} \div \frac{7}{10}</m>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Convert division into multiplication that is instead of dividing, multiply the first fraction by the reciprocal of the second fraction i.e
+                     </p>
+                     <p>
+                        <m>\frac{63}{10} \times \frac{10}{7}</m> = <m>\frac{63}{\cancel{10}} \times \frac{\cancel{10}}{7}</m>
+                     </p>
+                </li>
+                <li>
+                    <p>
+                        Simplify the fraction : <m>\frac{63}{7}</m> = <m>9</m>.
+                    </p>
+                </li>
+            </ol>
+        </p>
+        <exploration>
+            <statement>
+             <sidebyside>
+                    <p>
+                In her daily life, Cherotich often measures milk and juice in liters. Today, she has a 6.3 liter container of milk and wants to pour it into small bottles, each holding 0.7 liters.Therefore, Cherotich uses division of decimal number by a decimal number to find out how many bottles she needs.
+                Just like how we use whole numbers to count objects, Cherotich also uses division of decimals to measure and divide quantities accurately.
+                  </p>
+                  <image source="/Deci.png">
+                  </image>
+           </sidebyside>
+            </statement>
+        </exploration>  
+        <activity>
+            <statement>
+                <p>
+                
+                </p>
+                <p><m>\textbf{Instructions for teachers or team leaders}</m></p>
+                <p>
+                1.Teacher or a team leader to write down on piece of paper or print the following questions:
+                <ol marker="a)">
+                    <li>
+                        <p>
+                            12.4 ÷ 0.2 = ?
+                        </p>
+                        <p>
+                            (Find the next challenge around your classroom door.)
+                        </p>
+                    </li>
+                    <li>
+                        
+                        <p>
+                          5.6 ÷ 0.7 = ?   
+                        </p>
+                        <p>
+                            ( The next station is at the corner of the classroom )
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            12.04 ÷ 1.3 = ? 
+                        </p>
+                        <p>
+                            ( Go to assembly ground near flagpole)
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            9.9 ÷ 3.3 = ? 
+                        </p>
+                        <p>
+                            (Next station is near the school entrance )
+
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            18.75 ÷ 2.5 = ? 
+                        </p>
+                        <p>
+                            ( The final challenge is at the back of the class)
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            7.92 ÷ 1.2 = ? 
+                        </p>
+                        <p>
+                            (Return to the teacher/ team leader for the last answer check)
+                        </p>
+                    </li>
+                </ol>
+                </p>
+               
+                <p>
+                2.Hide decimal division question papers around the specified areas on each questions. 
+                </p>
+
+                <p><m>\textbf{For students}</m></p>
+
+                
+
+                 <p>
+                3. Working in groups of <m>5</m>, each group to choose a team captain responsible for reading questions and keeping the team organized.
+                </p>
+                <p>
+                4. Each group is given the first piece of paper containing questions and each paper has a problem and a clue leading to the next question.
+                </p>
+                     <p>
+
+                        <m>\textbf{ Take one piece of paper after you find it and hide the rest around that place . This applies to all questions}</m>
+                        </p>
+                <p>
+                5. Each group to start at a different station (e.g., one in class, another at the assembly ground, another near the school entrance) and solves the problem on their question papers together. Correct answers earn the group the next clue to find the next question.
+                </p>
+                <p>
+                  6. The first team to solve all questions correctly wins 🎁.
+                </p>
+                <p>
+                    7.Each group to create their own decimal division problems for other groups to solve.
+                </p>
+            </statement>
+        </activity>
+        <example>
+            <statement>
+                <p>
+                    Erick had a sugarcane whose length was <m>6.24</m> m. He cut the sugarcane into equal pieces of <m>1.04</m> m. How many pieces did he get?
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    Equal pieces of sugarcane Erick got is given by:
+                </p>
+                <p>
+                    <m>6.24 \text{ m } \div 1.04 \text{ m } = \frac{6.24}{1.04}</m>
+                </p>
+                <p>
+                    Multiply both the numerator and the denomenator by <m>100</m> to eliminate the decimals. 
+                </p>
+                <p>
+                    <md>
+                        <mrow>\frac{6.24 \times 100}{1.04 \times 100} \amp = \frac{624}{104}</mrow>
+                        <mrow> \amp </mrow>
+                        <mrow> \amp = 6 </mrow>
+                    </md>
+                </p>
+                <p>
+                  Therefore,  Erick got <m>6</m> pieces of sugarcane.
+                </p>
+            </solution>
+        </example>
+        <example>
+            <statement>
+                <p>
+                    Work out: <m>5.63 \div 1.42 = </m>
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <m>5.63 \div 1.42 = \frac{563}{100} \div \frac{142}{100}</m>
+                </p>
+                <sidebyside>
+                <tabular>
+                <row>
+                    <cell halign="left"><m>7</m></cell>
+                    <cell/>
+                    <cell halign="left"><m>1</m></cell>
+                    <cell/>
+                    
+                </row>
+                    <row>
+                        <cell><m>\frac{\cancel{563}}{\cancel{100}}</m></cell>
+                        <cell><m>\times</m></cell>
+                        <cell><m>\frac{\cancel{100}}{\cancel{142}}</m></cell>
+                        <cell><m> = \frac{19}{5}</m></cell>
+                    </row>
+                    <row>
+                        <cell><m>1</m></cell>
+                        <cell/>
+                        <cell><m>5</m></cell>
+                        <cell/>
+                    </row>
+                </tabular>
+                <tabular>
+                    <row>
+                        <cell></cell>
+                        <cell bottom="medium"><m>3.8</m></cell>
+                    </row>
+                    <row>
+                        <cell right="medium"><m>5</m></cell>
+                        <cell halign="right"><m>19</m></cell>
+                    </row>
+                    <row>
+                        <cell></cell>
+                        <cell bottom="medium" halign="right"><m>-15</m></cell>
+                    </row>
+                    <row>
+                        <cell></cell>
+                        <cell halign="right"><m>40</m></cell>
+                    </row>
+                    <row>
+                        <cell></cell>
+                        <cell bottom="medium" halign="right"><m>-\,40</m></cell>
+                    </row>
+                    <row>
+                        <cell></cell>
+                        <cell bottom="medium" halign="right"><m>00</m></cell>
+                    </row>
+                </tabular>
+                </sidebyside>
+            </solution>
+        </example>
+        <exercise>
+            <statement>
+                <p>
+                    Exercise for Division of a decimal by a decimal goes in here.
+                </p>
+            </statement>
+        </exercise>
+    
+</subsection>

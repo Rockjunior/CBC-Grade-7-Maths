@@ -1,0 +1,53 @@
+<subsection xml:id="subsec-Divisibility-test-for-2">
+        <title>Divisibility test for 2</title>
+        <p>
+            A number is divisible by <m>2</m> if the digit in the ones place value is an even number or zero.
+        </p>
+    <activity>
+        <statement>
+            <p>
+            
+            </p>
+            <p>
+                1. Working in groups of <m>10</m> members, write numbers from <m>0</m> to <m>9</m> each on a piece of paper.
+            </p>
+            <p>
+                2. Pick random digits to form <m>5</m>-digit numbers.   
+            </p>
+            <p>
+                3. Divide each number by <m>2</m>.
+            </p>
+            <p>
+                4. What do you notice about numbers divisible by <m>2</m>?
+            </p>
+            <p>
+                5. Discuss how to test if a number is divisible by <m>2</m>.
+            </p>
+        </statement>
+    </activity>
+    <example>
+        <statement>
+            <p>
+                Which of the following numbers are divisible by <m>2</m>?
+            </p>
+            <p>
+                <m>49\,397, 49\,273, 47\,164, 24\,840</m>
+            </p>
+        </statement>
+        <solution>
+            <p>
+                The number <m>47\,164</m> is divisible by <m>2</m> because the digit in the ones place value is an even number.
+            </p>
+            <p>
+                The number <m>24\,840</m> is divisible by <m>2</m> because the digit in the ones place value is zero.
+            </p>
+        </solution>
+    </example> 
+    <exercise>
+        <statement>
+            <p>
+                An exercise will be set up here for the divisibility test of <m>2</m>.
+            </p>
+        </statement>
+    </exercise>
+</subsection>

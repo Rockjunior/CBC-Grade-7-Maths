@@ -1,0 +1,63 @@
+<subsection xml:id="subsec-Multiplying-a-fraction-by-a-whole-number">
+        <title>Multiplying a fraction by a whole number</title>
+        <activity>
+            <statement>
+                <p>
+                    <alert>Work in groups</alert>
+                </p>
+                <p>
+                     Otuoma, a baker, is excited to surprise his family with three delicious cakes.
+                     He eagerly pulls out his recipe book, only to realize he needs to calculate the sugar needed. 
+                     Each cake, according to the recipe, requires a <m>\frac{1}{2}</m> kg of sugar. Otuoma wonders the total amount of sugar he will need in total?.
+                     Can you help Otuoma figure out how much sugar he needs to bake his surprise cakes?
+                </p>
+                <p>
+                    Share your calculations and the amount of sugar you determined with the rest of the class.
+                </p>
+            </statement>
+        </activity>
+        <example>
+            <statement>
+                <p>
+                    Work out: <m>\frac{8}{9} \times 5 </m>
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <ol marker="a)" cols="2">
+                        <li>
+                            <p>
+                                Multipy the numerator by <m>5.</m>
+                            </p>
+                            <p>
+                                <md>
+                                    <mrow>\frac{8}{9} \times 5  \amp = \frac{8 \times 5}{9}</mrow>
+                                    <mrow> </mrow>
+                                    <mrow> \amp = \frac{40}{9} </mrow>
+                                </md>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Convert the improper fraction into a mixed fraction.
+                            </p>
+                            <p>
+                                <md>
+                                    <mrow> \frac{40}{9} \amp = 4 \frac{4}{9} </mrow>
+                                    <mrow> </mrow>
+                                    <mrow> \frac{8}{9} \times 5 \amp = 4\frac{4}{9} </mrow>
+                                </md>
+                            </p>
+                        </li>
+                    </ol>
+                </p>
+            </solution>
+        </example>
+        <exercise>
+            <statement>
+                <p>
+                    Exercise for multiplying a fraction by a whole number goes in here.
+                </p>
+            </statement>
+        </exercise>
+    </subsection>

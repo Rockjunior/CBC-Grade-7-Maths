@@ -1,0 +1,60 @@
+<subsection xml:id="subsec-Subtracting-mixed-fractions">
+        <title>Subtracting mixed fractions</title>
+        <!-- <activity>
+            <statement>
+                <p>
+                    Activity for subtracting mixed fractions
+                </p>
+            </statement>
+        </activity> -->
+        <example>
+            <statement>
+                <p>
+                    Work out: <m>23 \frac{1}{2} - 12 \frac{1}{4} = </m>
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <ol marker="a)">
+                        <li>
+                            <p>
+                                Convert the fractions into improper fractions.
+                            </p>
+                            <sidebyside>
+                                <p>
+                                    <md>
+                                        <mrow>23 \frac{1}{2} \amp = \frac{2 \times 23 + 1}{2} </mrow>
+                                        <mrow> \amp = \frac{47}{2} </mrow>
+                                    </md>
+                                </p>
+                                <p>
+                                    <md>
+                                        <mrow> 12 \frac{1}{4} \amp = \frac{4 \times 12 + 1}{4} </mrow>
+                                        <mrow> \amp = \frac{49}{4} </mrow>
+                                    </md>
+                                </p>
+                            </sidebyside>
+                        </li>
+                        <li>
+                            <p>
+                                Subtract the improper fractions using LCM.
+                            </p>
+                            <p>
+                                <md>
+                                    <mrow>\frac{47}{2} - \frac{49}{4} \amp = \frac{94-49}{4} </mrow>
+                                    <mrow> \amp = \frac{45}{4} = 11 \frac{1}{4} </mrow>
+                                </md>
+                            </p>
+                        </li>
+                    </ol>
+                </p>
+            </solution>
+        </example>
+        <exercise>
+            <statement>
+                <p>
+                    Exercise for subtacting mixed fractions.
+                </p>
+            </statement>
+        </exercise>
+    </subsection>

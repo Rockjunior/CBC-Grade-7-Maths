@@ -1,0 +1,140 @@
+<subsection xml:id="subsec-Multiplying-decimals-by-decimals">
+        <title>Multiplying decimals by decimals</title>
+        
+            <p>
+                Ekadeli is baking a cake. The recipe says that for every 1 kg of flour, she needs 0.4 kg of sugar. But today, she is using 2.5 kg of flour. For Ekadeli to identify how much sugar she will use she will apply multiplication of decimal number by a decimal number.
+
+Therefore, Ekadeli will multiply the amount of flour she is using by the amount of sugar used per kg. i.e
+            </p>
+            <p>
+              <m> 2.5  \times 0.4  = \frac{25 }{10 } \times \frac{4 }{10 }  = \frac{100 }{100}  = 1 kg</m> 
+            </p>
+    
+        <activity>
+            <statement>
+                <p>
+                    
+                </p>
+                <p>
+                Grade <m>7</m> pupils was given a square garden by the school to plant their  vegetables and each side of the garden measured <m>8.5 m</m>.
+                </p>
+                <p>
+                    1. Draw the shape of the vegetable garden and label its sides.
+                </p>
+                <p>
+                    2. What is the area of the square garden in <m>m</m>? Remember area of a square = side <m>\times</m> side.
+                </p>
+                <p>
+                    3. How did you multiplied the decimals? Share it with your fellow learners.
+                </p>
+            </statement>
+        </activity>
+        <example>
+            <statement>
+                <p>
+                    Find the area of the rectangle below.
+                </p>
+                <image width="40%">
+                    <shortdescription>Rectangle image</shortdescription>
+                    <latex-image>
+                        \begin{tikzpicture}
+                                \draw[thick] (0,0) rectangle (4,2);
+                                \draw[&lt;-&gt;] (0,-0.3) -- (4,-0.3) node[midway, below] {4 cm};
+                                \draw[&lt;-&gt;] (-0.3,0) -- (-0.3,2) node[midway, left] {2 cm};
+                        \end{tikzpicture}
+                    </latex-image>
+                </image>
+            </statement>
+            <solution>
+                <p>
+                    <md>
+                        <mrow>\text{ Area of the rectangle } \amp = \text{Length } \times \text{ Width } </mrow>
+                        <mrow> \amp = 1.2 \text{ m } \times 0.8 \text{ m}</mrow>
+                        <mrow> \amp = (\frac{12}{10} \times \frac{8}{10})\text{m}^2 </mrow>
+                        <mrow> \amp = (\frac{96}{100})\text{m}^2 </mrow>
+                        <mrow> \amp = 0.96\text{m}^2 </mrow>
+                    </md>
+                </p>
+            </solution>
+        </example>
+        <example>
+            <statement>
+                <p>
+                    Work out: <m>9.132 \times 5.2</m>
+                </p>
+            </statement>
+            <solution>
+                <sidebyside>
+                    <tabular>
+                        <row>
+                            <cell halign="right"><m>9\,132</m></cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell bottom="medium" halign="right"><m>\times \, 52</m></cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell halign="right"><m>18\,264</m></cell>
+                            <cell><m>\to</m></cell>
+                            <cell><m>9\,132 \times 2</m></cell>
+                        </row>
+                        <row>
+                            <cell bottom="medium" halign="right"><m>+\,456\,600</m></cell>
+                            <cell><m>\to</m></cell>
+                            <cell><m> 9\,132 \times 50</m></cell>
+                        </row>
+                        <row>
+                            <cell bottom="medium" halign="right"><m>474\,864</m></cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                    </tabular>
+
+                    <p>
+                        <ol marker="a)">
+                            <li>
+                                <p>
+                                    Count the number of decimal places.
+                                </p>
+                                <p>
+                                    <m>9.132</m> has <m>3</m> decimal places.
+                                </p>
+                                <p>
+                                    <m>5.2</m> has <m>1</m> decimal place.
+                                </p>
+                                <p>
+                                    Total number of decimal places is <m>4.</m>
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    Multiply <m>9\,132</m> by <m>52.</m>
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    Write your answer in <m>4</m> decimal places.
+                                </p>
+                            </li>
+                        </ol>
+                    </p>
+                </sidebyside>
+                <p>
+                    <m>= 47.4864</m>
+                </p>
+                <p>
+                    <m>= 47.48</m>
+                </p>
+            </solution>
+        </example>
+        <exercise>
+            <statement>
+                <p>
+                    Exercise for Multiplying decimals by decimals goes in here.
+                </p>
+            </statement>
+        </exercise>
+    </subsection>

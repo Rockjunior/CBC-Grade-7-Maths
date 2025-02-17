@@ -1,0 +1,67 @@
+<subsection xml:id="subsec-Multiplying-a-fraction-by-a-mixed-number">
+        <title>Multiplying a fraction by a mixed number</title>
+        <activity>
+            <p>
+                <alert>Work in groups</alert>
+            </p>
+            <p>
+                
+            </p>
+        </activity>
+        <example>
+            <statement>
+                <p>
+                    Work out: <m>\frac{2}{3} \times 2 \frac{1}{7} </m>
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <ol marker="a)" cols="2">
+                        <li>
+                            <p>
+                                Convert <m>2 \frac{1}{7}</m> to improper fraction.
+                            </p>
+                            <p>
+                                <md>
+                                    <mrow>2 \frac{1}{7} \amp = \frac{7 \times 2 +1}{7} </mrow>
+                                    <mrow></mrow>
+                                    <mrow> \amp = \frac{15}{7} </mrow>
+                                </md>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Multiply the fractions.
+                            </p>
+                            <p>
+                                <md>
+                                    <mrow>\frac{2}{3} \times \frac{15}{7} \amp = \frac{2 \times 15}{3 \times 7}</mrow>
+                                    <mrow> </mrow>
+                                    <mrow> \amp = \frac{30}{21} </mrow>
+                                </md>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Simplify
+                            </p>
+                            <p>
+                                <md>
+                                    <mrow>\frac{30 \div 3}{21 \div 3} \amp = \frac{10}{7}</mrow>
+                                    <mrow></mrow>
+                                    <mrow>\frac{10}{7} \amp = 1 \frac{3}{7} </mrow>
+                                </md>
+                            </p>
+                        </li>
+                    </ol>
+                </p>
+            </solution>
+        </example>
+        <exercise>
+            <statement>
+                <p>
+                    Exercise for Multiplying a fraction by a mixed number goes in here
+                </p>
+            </statement>
+        </exercise>
+    </subsection>

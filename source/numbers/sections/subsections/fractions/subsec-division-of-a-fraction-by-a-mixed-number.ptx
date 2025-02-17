@@ -1,0 +1,72 @@
+<subsection xml:id="subsec-Division-of-a-fraction-by-a-mixed-number">
+        <title>Division of a fraction by a mixed number</title>
+        <activity>
+            <statement>
+                <p>
+                    <alert>Work in group</alert>
+                </p>
+                <p>
+                    
+                </p>
+            </statement>
+        </activity>
+        <example>
+            <statement>
+                <p>
+                    Work out: <m>\frac{4}{7} \div 9 \frac{1}{5} = </m>
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <ol marker="a)">
+                        <li>
+                            <p>
+                                Convert <m>9 \frac{1}{5}</m> into an improper fraction.
+                            </p>
+                            <p>
+                                <md>
+                                    <mrow>9 \frac{1}{5} \amp = \frac{(9 \times 5)+1}{5} </mrow>
+                                    <mrow></mrow>
+                                    <mrow> \amp = \frac{45 + 1}{5} </mrow>
+                                    <mrow></mrow>
+                                    <mrow> \amp = \frac{46}{5}</mrow>
+                                </md>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Find the reciprocal of <m>\frac{46}{5}</m>
+                            </p>
+                            <p>
+                                The reciprocal of <m>\frac{46}{5}</m> is <m>\frac{5}{46}</m>.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Multiply <m>\frac{4}{7}</m> by <m>\frac{5}{46}.</m>
+                            </p>
+                            <p>
+                                <m>\frac{4}{7} \times \frac{5}{46} = \frac{4 \times 5}{7 \times 46}</m>
+                            </p>
+                            <p>
+                                 <m>\qquad \qquad= \frac{20}{322}</m>
+                            </p>
+                            <p>
+                                Simplify the fraction:
+                            </p>
+                            <p>
+                                <m>\qquad \qquad= \frac{10}{161}</m>
+                            </p>
+                        </li>
+                    </ol>
+                </p>
+            </solution>
+        </example>
+        <exercise>
+            <statement>
+                <p>
+                    Exercise for Division of a fraction by a mixed number goes in here.
+                </p>
+            </statement>
+        </exercise>
+    </subsection>
