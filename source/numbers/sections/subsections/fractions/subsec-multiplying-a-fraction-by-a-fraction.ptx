@@ -1,0 +1,44 @@
+<subsection xml:id="subsec-Multiplying-a-fraction-by-a-fraction">
+        <title>Multiplying a fraction by a fraction</title>
+        <!-- <activity>
+            <statement>
+                <p>
+                    Activity for Multiplying a fraction by a fraction goes in here
+                </p>
+            </statement>
+        </activity> -->
+        <example>
+            <statement>
+                <p>
+                    Work out: <m>\frac{3}{5} \times \frac{7}{9}</m>
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    Multiply the numerators and the denominators separately.
+                </p>
+                <p>
+                    <md>
+                        <mrow>\frac{3}{5} \times \frac{7}{9} \amp = \frac{3 \times 7}{5 \times 9}</mrow>
+                        <mrow> \amp = \frac{21}{45} </mrow>
+                    </md>
+                </p>
+                <p>
+                    simplify the answer
+                </p>
+                <p>
+                    <md>
+                        <mrow>\frac{21}{45}  \amp = \frac{21 \div 3}{45 \div 3} </mrow>
+                        <mrow> \amp = \frac{7}{15} </mrow>
+                    </md>
+                </p>
+            </solution>
+        </example>
+        <exercise>
+            <statement>
+                <p>
+                    Multiplying a fraction by a fraction
+                </p>
+            </statement>
+        </exercise>
+    </subsection>

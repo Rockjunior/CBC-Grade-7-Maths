@@ -1,0 +1,79 @@
+<subsection xml:id="subsec-Subtracting-proper-fractions">
+        <title>Subtracting proper fractions</title>
+        <activity>
+            <introduction>
+                <p>
+                   <alert> Work in groups</alert>
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                       Activity
+                    </p>
+                </statement>
+            </task>
+        </activity>
+
+        <example>
+            <statement>
+                <p>
+                    Work out: <m>\frac{1}{3} - \frac{1}{5}</m>
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <ol marker="a)">
+                        <li>
+                            <p>
+                                Find the LCM of the denominators.
+                            </p>
+                            <p>
+                                LCM of the denominators is <m>15.</m>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Rewrite the fractions to have a common denominator.
+                            </p>
+                            <sidebyside>
+                                <p>
+                                    <md>
+                                        <mrow>\frac{1}{3} \amp = \frac{1 \times 5}{3 \times 5} </mrow>
+                                        <mrow> \amp = \frac{5}{15} </mrow>
+                                    </md>
+                                </p>
+                                <p>
+                                    <md>
+                                        <mrow>\frac{1}{5} \amp = \frac{1 \times 3}{5 \times 3} </mrow>
+                                        <mrow> \amp = \frac{3}{15} </mrow>
+                                    </md>
+                                </p>
+                            </sidebyside>
+                        </li>
+                        <li>
+                            <p>
+                                Subtract.
+                            </p>
+                            <p>
+                                <me>
+                                    \frac{5}{15} - \frac{3}{15} = \frac{2}{15}
+                                </me>
+                                <me>
+                                    \frac{1}{3} - \frac{1}{5} = \frac{2}{15}
+                                </me>
+                                
+                            </p>
+                        </li>
+                    </ol>
+                </p>
+            </solution>
+        </example>
+        <exercise>
+            <statement>
+                <p>
+                    Exercise for subtracting proper fractions goes here.
+                </p>
+            </statement>
+        </exercise>
+    </subsection>
