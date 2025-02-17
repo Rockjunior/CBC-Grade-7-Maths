@@ -1,0 +1,118 @@
+  <subsection xml:id="subsec-area-of-a-rectangle">
+    <title>Area of a rectangle</title>
+    <p>
+      Area of a rectangle <m>=</m> length <m>\times</m> width
+    </p>
+    <p>
+      length <m>=</m> Area <m>\div</m> width
+    </p>
+    <p>
+      width <m>=</m> Area <m>\div</m> length
+    </p>
+    <example>
+      <statement>
+        <p>
+          Find the area of a rectangle whose length is <m>12 cm</m> 
+          and width is <m>8cm</m>.
+        </p>
+      </statement>
+      <hint>
+        <p>
+          Use Area <m>= \text{length} \times \text{width}</m>
+        </p>
+      </hint>
+      <solution>
+        <p>
+          <md>
+            <mrow> \text{Area of a rectangle}=\amp \text{length}\times \text{width} </mrow>
+            <mrow>= \amp 12cm \times 8cm</mrow>
+            <mrow> =\amp 96 cm^2 </mrow>
+          </md>
+        </p>
+      </solution>
+    </example>
+    <activity>
+      <statement>
+        <p>
+          A rectangular plot is of length <m>300m</m> 
+          and width <m>100m</m>. Find its area in;
+        </p>
+        <p>
+          <ol>
+            <li>
+              <p>
+                <m>m^2</m>
+              </p>
+            </li>
+            <li>
+              <p>
+                <m>ha</m>
+              </p>
+            </li>
+          </ol>
+        </p>
+      </statement>
+      <solution>
+        <p>
+          1.Find the area in <m>m^2</m> that is
+        </p>
+        <p>
+          <md>
+            <mrow>\text{Area}= \amp \text{length}\times \text{width}</mrow>
+            <mrow> =\amp 300m \times 100m</mrow>
+            <mrow> =\amp 30000m^2</mrow>
+          </md>
+        </p>
+        <p>
+          2. Converting to <m>ha</m>
+        </p>
+        <p>
+          <md>
+            <mrow> \text{if} 1 \text{ha}=\amp 10000m^2</mrow>
+            <mrow> 30000m^2=\amp \frac{30000m^2 \times 1 ha }{10000m^2} </mrow>
+            <mrow> =\amp 3ha</mrow>
+          </md>
+        </p>
+      </solution>
+    </activity>
+    <activity>
+      <statement>
+        <p>
+          Work out the area of the figure below.
+        </p>
+        <image width="40%">
+        <latex-image>
+          \begin{tikzpicture}
+            \draw(0,0) coordinate (A)-- (0,4) coordinate (B)-- (5,4) coordinate (C)-- (5,0)coordinate (D) --(0,0)coordinate (A);
+            \node at (2.5,4.1){ 16cm};
+            \node at (5.2,2){7cm};
+            \draw(0,0) coordinate (A)-- (0,0.5) coordinate (B)-- (0.5,0.5) coordinate (C)-- (0.5,0)
+            coordinate(D)-- (0,0) coordinate (A);
+            \draw(0,3.5) coordinate (A)-- (0,4) coordinate (B)-- (0.5,4) coordinate (C)-- (0.5,3.5)
+            coordinate(D)-- (0,3.5) coordinate (A);
+            \draw(4.5,3.5) coordinate (A)-- (4.5,4) coordinate (B)-- (5,4) coordinate (C)-- (5,3.5)
+            coordinate(D)-- (4.5,3.5) coordinate (A);
+            \draw(4.5,0) coordinate (A)-- (4.5,0.5) coordinate (B)-- (5,0.5) coordinate (C)-- (5,0)
+            coordinate(D)-- (4.5,0) coordinate (A);
+          \end{tikzpicture}
+        </latex-image>
+          
+        </image>
+      </statement>
+      <solution>
+        <p>
+          <md>
+            <mrow>\text{Area} = \amp \text{Length} \times \text{Width} </mrow>
+            <mrow>= \amp16cm \times 7cm </mrow>
+            <mrow>= \amp 112 cm^2 </mrow>
+          </md>
+        </p>
+        <p>
+          The area is :<m>112 cm^2</m> 
+        </p>
+      </solution>
+    </activity>
+   
+  
+    
+  </subsection>

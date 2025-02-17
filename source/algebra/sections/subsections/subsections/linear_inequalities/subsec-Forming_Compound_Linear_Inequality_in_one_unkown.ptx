@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <subsection xml:id="subsec-Forming_Compound_Linear_Inequality_in_one_unkown">
+      <title>Forming Compound Linear Inequality in one unkown.</title>
+
+      <activity>
+
+        <p>
+          <term>Work in Groups.</term>
+        </p>
+
+        <p>
+
+          <ol>
+
+            <li>
+
+              <p>
+                Consider <m>x &gt; 1</m> and <m>x &lt; 6.</m>
+              </p>
+
+            </li>
+
+            <li>
+
+              <p>
+                Make <m>6</m> paper cut-outs and write on each cut-out numbers <m>1</m> to <m>6</m>.
+              </p>
+            
+            </li>
+                  
+            <li>
+              
+              <p>
+                Arrange the numbers on the cut-outs in an ascending order.
+              </p>
+
+            </li>
+
+            <li>
+
+              <p>
+                Shade the cutouts that satisfy <m>x &gt; 1</m>.
+              </p>
+
+            </li>
+
+            <li>
+              
+              <p>
+                Using the same cut-outs, shade the cut-outs that satisfy <m>x &lt; 6</m>.
+              </p> 
+
+            </li>
+
+              <li>
+
+              <p>
+                List down the numbers that satisfy <m>x &gt; 1</m> and x &lt; 6.
+              </p>
+
+            </li>
+
+          </ol>
+          
+        </p>
+        
+      </activity>
+
+      <p>
+        <term>Learning Point.</term>
+      </p>
+
+      <p>
+        Two simple inequalities when combbined form a compound inequality.
+      </p>
+      
+      <example>
+
+        <statement>
+
+          <p>
+            Form a compound inequality for <m>x \lt 8 \text{and} x \gt 2</m>.
+          </p>
+          
+        </statement>
+
+        <solution>
+
+          <p>
+            <m>x \gt 2</m> is the same as <m>2 \lt x</m>
+          </p>
+
+          <p>
+            Combining <m>2 \lt x</m> and <m>x \lt 8</m> gives the compound inequality as shown below.
+          </p>
+
+          <p>
+            <m>2 \lt x \lt 8</m>.
+          </p>
+
+        </solution>
+
+      </example>
+
+      <example>
+
+        <statement>
+
+          <p>
+            Form a compound inequality for <m>y \ge 3</m> and <m>y \le 12.</m>
+          </p>
+
+        </statement>
+
+        <solution>
+
+            <p>
+              <m>y \ge 3</m> is the same as <m> 3\le y</m>.
+            </p>
+
+            <p>
+              Combining 3 <m>\le</m> y and <m>y \le 12</m>.
+            </p>
+
+            <p>
+              Gives the compound inequality 3 <m>\le</m> y <m>\le</m> 12.
+            </p>
+
+        </solution>
+
+      </example>
+
+      <exercise>
+
+        <statement>
+
+          <p>
+            Exercise here.
+          </p>
+
+        </statement>
+
+      </exercise>
+
+    </subsection>
