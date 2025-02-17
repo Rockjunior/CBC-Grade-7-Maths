@@ -30,17 +30,15 @@
         <task>
             <statement>
                 <p>
-                    Click <c>START AGAIN</c> button and repeate the process with different decimal values
+                    Click <c>START AGAIN</c> button and repeate the process with different decimal values.
                 </p>
             </statement>
         </task>
         <task>
-            <statement>
-                <figure>
-                    <caption></caption>
-                    <interactive xml:id="square-root-of-decimals-activity" geogebra="rasmgh54" width="100%" aspect="9:7" reset-icon="yes" />
-                </figure>
-            </statement>
+            <figure>
+                <caption></caption>
+                <interactive xml:id="square-root-of-decimals-activity" geogebra="rasmgh54" width="100%" aspect="9:7" reset-icon="yes" />
+            </figure>
         </task>
     </activity>
     <example>
