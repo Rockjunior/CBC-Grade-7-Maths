@@ -1,4 +1,4 @@
-  <subsection xml:id="subsec-cubic-metre-as-a-unit-of-measuing-volume">
+  <subsection xml:id="subsec-cubic-metre-as-a-unit-of-measuring-volume">
     <title>Cubic metre as a unit of measuring volume</title>
     <activity>
      <sidebyside>
@@ -81,13 +81,9 @@
             <p>
               A Rectangular tank has a volume of <m>\text{12m}^3.</m>What is it's volume in cubic centimetres?
             </p>
-            <image source="/rectangular tank.png">
-              <shortdescription>(Reactangular tank)</shortdescription>
-            </image>
-          </sidebyside>
-      </statement>
-
-          <solution>
+           <p>
+            <m>{\color{magenta}\text {Solution:}}</m>
+           </p>
             <p>
               <md>
               <mrow> 1 \text{m}^3= \amp 1000000\text{cm}^3 </mrow>
@@ -96,6 +92,8 @@
               <mrow> =\amp 12,000,000\text{cm}^3 </mrow>
             </md>
             </p>
-          </solution>
+
+          </sidebyside>
+      </statement>
            </example>
   </subsection>

@@ -79,26 +79,22 @@
       <p>
         Find the volume of the figure below.
       </p>
-      <image>
+      <image width="70%">
       <latex-image>
         \begin{tikzpicture}
           Define dimensions
-          \def\length{12} % Length of the cuboid
-          \def\height{5}  % Height of the cuboid
-          \def\width{4}   % Width (depth) of the cuboid
+          \coordinate (A) at (0,0);
+          \coordinate (B) at (3,0);
+          \coordinate (C) at (3,3);
+          \coordinate (D) at (0,3);
+          \coordinate (E) at (1,1);
+          \coordinate (F) at (4,1);
+          \coordinate (G) at (4,4);
+          \coordinate (H) at (1,4);
+          % Draw the front face
+          \draw[thick] (A) -- (B) -- (C) -- (D) -- cycle;
 
-          % Define points for the cuboid
-          \coordinate (A) at (0,0);                   % Front bottom-left
-          \coordinate (B) at (\length,0);             % Front bottom-right
-          \coordinate (C) at (\length,\height);       % Front top-right
-          \coordinate (D) at (0,\height);             % Front top-left
-
-          \coordinate (E) at (\width,\width);                   % Back bottom-left
-          \coordinate (F) at (\length+\width,\width);           % Back bottom-right
-          \coordinate (G) at (\length+\width,\height+\width);   % Back top-right
-          \coordinate (H) at (\width,\height+\width);           % Back top-left
-
-          % Fill base rectangle with blue color
+          % Fill base square with blue color
           \fill[blue!30] (A) -- (B) -- (F) -- (E) -- cycle;
           % Draw the front face
           \draw[thick] (A) -- (B) -- (C) -- (D) -- cycle;
@@ -112,20 +108,36 @@
           \draw[thick] (C) -- (G);
           \draw[thick] (D) -- (H);
 
-          % Label Length (front edge)
-          \draw[&lt;-&gt;, red, thick] (A) ++(0,-1) -- ++(\length,0) 
-              node[midway, below, font=\bfseries, red] {Length = 12 cm};
+          % Label Base
+          \draw[&lt;-&gt;, red, thick] (A) ++(0,-0.3) -- ++(3,0) node[midway, below, font=\bfseries, red] {3m};
 
-          % Label Height (right edge)
-          \draw[&lt;-&gt;, blue, thick] (F) ++(1,0) -- ++(0,\height)
-          node[midway, right, font=\bfseries, blue] {Height = 5 cm};
+          % Label Height
+          \draw[&lt;-&gt;, blue, thick] (F) ++(0.3,0) -- ++(0,3) node[midway, right, font=\bfseries, blue] {3m};
 
-          % Label Width (depth)
-          \draw[&lt;-&gt;, green!70!black, thick] (B) ++(0,-1) -- ++(\width,\width)
-              node[midway, below right, font=\bfseries, green!70!black] {Width = 4 cm};
+          % Label Width
+          \draw[&lt;-&gt;, green!70!black, thick] (B) ++(0.2,0) -- ++(1,1) node[midway, below right, font=\bfseries, green!70!black] {3m};
           \end{tikzpicture}
         </latex-image>
         </image>
       </statement>
+      <hint>
+        <p>
+          Volume of a cube = <m>l \times l \times l = l^3</m>
+        </p>
+      </hint>
+      <solution>
+        <p>
+          <md>
+            <mrow> \text{Volume of a cube} = \amp \text{l} \times \text{l} \times \text{l} </mrow>
+            <mrow> =\amp \text{l} ^3</mrow>
+            <mrow> =\amp 3\text {m} \times 3\text{m} \times 3 \text{m}</mrow>
+            <mrow> =\amp 3^3\text({m}^3) </mrow>
+            <mrow> =\amp9\text{m}^3 </mrow>
+          </md>
+        </p>
+        <p>
+          <m> {\color{Magenta}\text{Volume of the cube} = 9 \text{m}^3}</m>
+        </p>
+      </solution>
     </example>
   </subsection>
