@@ -69,7 +69,7 @@
 
           </p>
 
-          <image source="/sea-saw.png" width="50%">
+          <image source="/seesaw.png" width="50%">
             <shortdescription>Mary and John on the seesaw.</shortdescription>
           </image>
 
@@ -188,7 +188,7 @@
               </p>
 
               <p>
-                <m>4 &lt; 9</m>
+                <me>4 &lt; 9</me>
               </p>
 
               <p>
@@ -212,7 +212,7 @@
               </p>
 
               <p>
-                <m>16 &gt; 11</m>
+                <me>16 &gt; 11</me>
               </p>
 
               <p>
