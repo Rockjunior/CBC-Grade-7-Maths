@@ -43,39 +43,67 @@
         <example>
             <statement>
                 <p>
-                    Work out: <m>4.75 \div 5</m>
+                    Work out: <m>3.75 \div 5</m>
                 </p>
             </statement>
             <solution>
-                <sidebyside>
+                <!-- <sidebyside>
                     <p>
                         <md>
-                            <mrow>4.75 \div 5 \amp  = \frac{475}{100} \div 5</mrow>
+                            <mrow>3.75 \div 5 \amp  = \frac{375}{100} \div 5</mrow>
                             <mrow></mrow>
-                            <mrow> \amp = \frac{475}{100} \times \frac{1}{5}</mrow>
+                            <mrow> \amp = \frac{375}{100} \times \frac{1}{5}</mrow>
                             <mrow> \amp </mrow>
-                            <mrow>\amp \qquad 95</mrow>
-                            <mrow> \amp = \frac{\cancel{475}}{\cancel{500}}</mrow>
+                            <mrow>\amp \qquad 75</mrow>
+                            <mrow> \amp = \frac{\cancel{375}}{\cancel{500}}</mrow>
                             <mrow>\amp \qquad 100</mrow>
                             <mrow> \amp </mrow>
-                            <mrow> \amp = 0.95 </mrow>
+                            <mrow> \amp = 0.75 </mrow>
                         </md>
                     </p>
                     <p>
                         <ol marker="a)">
                             <li>
                                 <p>
-                                    Make <m>4.75</m> a fraction.
+                                 Here we make <m>3.75</m> a fraction.
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    Multiply <m>\frac{475}{100}</m> by the reciprocal of the divisor.
+                                    Then we multiply <m>\frac{375}{100}</m> by the reciprocal of <m>\frac{1}{5}</m>.
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    <m>\frac{375}{500}</m> is then simplified to <m>\frac{75}{100}</m>
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    This is a result of converting <m>\frac{75}{100}</m> into a decimal.
                                 </p>
                             </li>
                         </ol>
                     </p>
-                </sidebyside>
+                </sidebyside> -->
+                <tabular>
+                    <row>
+                        <cell><m>3.75 \div 5 = \frac{375}{100} \div 5</m></cell>
+                        <cell>Here we make <m>3.75</m> a fraction.</cell>
+                    </row>
+                    <row>
+                        <cell> <m>= \frac{375}{100} \times \frac{1}{5}</m></cell>
+                        <cell>Then we multiply <m>\frac{375}{100}</m> by the reciprocal of <m>\frac{5}{1}</m></cell>
+                    </row>
+                    <row>
+                        <cell><m>= \frac{\cancel{375}}{\cancel{500}} = \frac{75}{100}</m></cell>
+                        <cell>Dividing <m>\frac{375}{500}</m> by <m>5</m>, it is then simplified to <m>\frac{75}{100}</m></cell>
+                    </row>
+                    <row>
+                        <cell><m>= 0.75</m></cell>
+                        <cell>This is a result of converting <m>\frac{75}{100}</m> into a decimal</cell>
+                    </row>
+                </tabular>
             </solution>
         </example>
         <exercise>
