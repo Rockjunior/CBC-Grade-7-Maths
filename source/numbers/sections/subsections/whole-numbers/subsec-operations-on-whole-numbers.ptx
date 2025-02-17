@@ -313,4 +313,90 @@
         </solution>
       </example>
   </subsubsection>
+<subsubsection xml:id="subsubsec-division-of-whole-numbers">
+  <title>Division of whole numbers</title>
+  <sidebyside>
+  <p> 
+    Sarah has 24 apples and wants to share them equally among <m>6</m> friends. To find out how many apples each friend gets, she divides <m>24 ÷ 6 = 4</m>. This means each friend receives <m>4</m> apples. Therefore, Sarah applies division to share the apples equally. 
+  </p>
+  <image source="/apples.png">
+    <shortdescription></shortdescription>
+  </image>
+  </sidebyside>
+  <activity>
+    <statement>
+      <p>
+        
+      </p>
+      <p>
+        1. Gather 30 books at the front of the classroom and form <m>5</m> groups.
+      </p>
+      <p>
+        2. In groups, discuss the number of books each group will get.
+      </p>
+      <p>
+        3. In turns, one student from each group to collect and place the book in their group tables untill there are no books left.
+      </p>
+      <p>
+        4. Each group to count the number of books they have. Did each group receive the same number of books? Was there a remainder?
+      </p>
+      <p>
+        5. Gather all books again and add <m>7</m> more then count them if it amounts to <m>37</m>.
+      </p>
+      <p>
+        6. In the same groups, follow the steps you used to divide <m>30</m> books to identify how many books each group will get. 
+      </p>
+      <p>
+        7. Discuss if all books were equally distributed.
+      </p>
+    </statement>
+  </activity>
+  <example>
+    <statement>
+      <p>
+        Work out the following: a) <m>6396 \div 123</m>
+      </p>
+      <p>
+                                  b) <m>2841 \div 45</m>
+      </p>
+    </statement>
+    <solution>
+      <p>
+      a).
+      </p>
+      <tabular>
+      <row>
+        <cell></cell>
+        <cell bottom="medium"><m>52</m></cell>
+      </row>
+        <row>
+          <cell right="medium"><m>123</m></cell>
+          <cell><m>6396</m></cell>
+        </row>
+        <row>
+          <cell>-</cell>
+          <cell halign="left" bottom="medium"><m>615\downarrow </m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell halign="right"><m>246</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell bottom="medium" halign="right"><m>-246</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell halign="right"><m>0</m></cell>
+        </row>
+      </tabular>
+      <p>
+        Therefore, <m>6396 \div 123 = 52</m>
+      </p>
+      <p>
+        b)
+      </p>
+    </solution>
+  </example>
+</subsubsection>
 </subsection>
