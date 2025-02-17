@@ -1,0 +1,56 @@
+<subsection xml:id="subsec-Divisibility-test-for-11">
+    <title>Divisibility test for 11</title>
+    <p>
+        A number is divisible by <m>11</m> if the difference of the sums of the alternate digits is zero or a multiple of <m>11.</m>
+    </p>
+    <activity>
+        <statement>
+            <p>
+                Activity for divisibility test for 11 goes here.
+            </p>
+        </statement>
+    </activity>
+    <example>
+        <statement>
+            <p>
+                Is <m>895\,136</m> divisible by <m>11</m>?
+            </p>
+        </statement>
+        <solution>
+            <p>
+                <ol marker="a)">
+                    <li>
+                        <p>
+                            Find the sum of the digits in the alternate places.
+                        </p>
+                        <p>
+                            <m>8+5+3=16</m>
+                        </p>
+                        <p>
+                            <m>9+1+6=16</m>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Find their difference.
+                        </p>
+                        <p>
+                            <m>16-16 = 0</m>
+                        </p>
+                    </li>
+                </ol>
+            </p>
+            <p>
+                since the differenece is <m>0</m>, then  <m>895\,136</m> is divisible by <m>11.</m>
+            </p>
+        </solution>
+    </example>
+
+    <exercise>
+        <statement>
+            <p>
+                Exercise for divisibility test for 11 goes here.
+            </p>
+        </statement>
+    </exercise>
+</subsection>

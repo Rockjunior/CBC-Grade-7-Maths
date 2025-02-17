@@ -1,0 +1,177 @@
+<subsection xml:id="subsec-Expressing-composite-numbers-as-a-product-of-prime-factors">
+    <title>Expressing composite numbers as a product of prime factors</title>
+    <introduction>
+        <p>
+        Composite numbers are numbers that has more than two factors,meaning it can be divided evenly by numbers other than <m>1</m> and itself.
+        </p>
+        <p>
+        Process of breaking a composite number is prime factorization and prime factorization expresses the number as the product of prime numbers.
+        </p>
+    </introduction>
+    <!-- factors subsubsection -->
+    <subsubsection xml:id="subsubsec-Factors-of-composite-numbers">
+        <title>Factors of composite numbers</title>
+        <p>
+            Factors are numbers that can divide a given number without leaving a remainder.
+        </p>
+        <p>
+            Factors are also called divisors.
+        </p>
+        <p>
+            Tumaini school is planning a sports day and Kamau needs to organize students into equal-sized teams. There are <m>24</m> students in his class. Kamau needs factors of <m>24</m> to divide the students into equal teams so that no one is left out.
+        </p>
+        <p>
+            Since the factors of <m>24</m> are <m>1,2,3,4,6,8,12</m> and <m>24</m>. It gives Kamau possible ways to divide the students into equally.
+        </p>
+        <example>
+            <statement>
+                <p>
+                    List all the factors of each of the following numbers.
+                </p>
+                <p>
+                    <ol marker="a)" cols="2">
+                        <li>
+                            <p>
+                                <m>36</m>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <m>96</m>
+                            </p>
+                        </li>
+                    </ol>
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <ol marker="a)">
+                        <li>
+                            <p>
+                                The factors of <m>36</m> are <m>1,2,3,4,6,9,12,18 \text{ and } 36.</m>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                The factors of <m>96</m> are <m>1,2,3,4,6,8,12,16,24,32,48 \text{ and } 96.</m>
+                            </p>
+                        </li>
+                    </ol>
+                </p>
+            </solution>
+        </example>
+        <exercise>
+            <statement>
+                <p>
+                    Exercise for Factors goes here.
+                </p>
+            </statement>
+        </exercise>
+    </subsubsection>
+
+    <!-- prime factors subsubsection -->
+    <subsubsection xml:id="subsubsec-Prime-factors">
+        <title>Prime factors</title>
+        <p>
+            A prime factor is a prime number that can divide a given number without a remainder.
+        </p>
+        <p>
+        Example in real life:
+        </p>
+        <p>
+            Okuse, an architect want to design a strong and beautiful classroom. To make sure the classroom is stable, Okuse use blocks of the strongest materials. Now, think of prime numbers as the strongest building block in mathematics such that if we want to know what the number <m>60</m> is made of we break it down into it's prime factors.
+        </p>
+        <p>
+            Start with <m>60 = 2 \times 30</m>
+        </p>
+        <p>
+            <m>30 = 2 \times 15</m>
+        </p>
+        <p>
+            <m>15 = 3 \times 5</m>
+        </p>
+        <p>
+            Therefore,  prime factors of <m>60</m> are <m>2 \times 2 \times 3 \times 5</m>
+        </p>
+        <activity>
+            <statement>
+                <p></p>
+                <p>
+                1. As a class, count the number of chairs in all the rows and measure one side of the classroom in metres.
+                </p>
+                <p>
+                2. Write down the total number of chairs in a row then the measurement of the side of a class in meters.
+                </p>
+                <p>
+                3. Use factor trees to perform prime factorization on the two numbers. i.e prime factors of <m>36 = 2^2 \times 3^2</m>
+                </p>
+                <p>
+                4. Write the prime factorization as a product of powers and share your work with fellow learners.
+                </p>
+            </statement>
+        </activity>
+        <example>
+            <statement>
+                <p>
+                    Express <m>98</m> as a product of its prime factors.
+                </p>
+            </statement>
+            <solution>
+                <!-- <table> -->
+                    <!-- <title></title> -->
+                    <tabular>
+                        <row  bottom="medium"> 
+                            <cell right="medium">2</cell>
+                            <cell right="medium">98</cell>
+                        </row>
+                        <row bottom="medium">
+                            <cell right="medium">7</cell>
+                            <cell right="medium">49</cell>
+                        </row>
+                        <row bottom="medium">
+                            <cell right="medium">7</cell>
+                            <cell right="medium">7</cell>
+                        </row>
+                        <row>
+                            <cell right="medium"></cell>
+                            <cell right="medium">1</cell>
+                        </row>
+                    </tabular>
+                <!-- </table> -->
+                <p>
+                    <m>98 = 2 \times 7 \times 7</m>
+                </p>
+            </solution>
+        </example>
+        <!-- Example 2 -->
+        <example>
+            <statement>
+                <p>
+                    Express <m>56</m> as a product of its prime factors.
+                </p>
+            </statement>
+            <solution>
+                <image width="25%">
+                    <shortdescription>Factors of 56</shortdescription>
+                    <latex-image>
+                        \begin{tikzpicture}[level distance=1.5cm,
+                            level 1/.style={sibling distance=2cm},
+                            level 2/.style={sibling distance=1cm},
+                            circled/.style={draw, circle}]
+                            \node {56}
+                                child {node[circled] {2}}
+                                child {node {28}
+                                child {node[circled] {2}}
+                                child {node {14}
+                                    child {node[circled] {2}}
+                                    child {node[circled] {7}}}};
+                    \end{tikzpicture}
+                    </latex-image>
+                </image>
+                <p>
+                    <m>2 \times 2 \times 2 \times 7</m>
+                </p>
+            </solution>
+        </example>
+    </subsubsection>
+</subsection>

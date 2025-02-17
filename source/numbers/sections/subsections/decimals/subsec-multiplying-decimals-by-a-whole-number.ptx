@@ -1,0 +1,183 @@
+<subsection xml:id="subsec-Multiplying-decimals-by-a-whole-number">
+    <title>Multiplying decimals by a whole number</title>
+    <sidebyside>
+        <p> Akinyi has a bottle of juice she prepared for her friends. She pours 0.4 liters of juice into each of the <m>5</m> glasses she had and realized all the glasses was filled without any juice remaining in the bottle. We can find out the total amount of juice Akinyi had by applying multiplication of decimals.</p>
+        <p>To find how much juice Akinyi had we multiply the amount amount of juice in each glass with the number of glasses i.e </p>
+        <p>
+            <m>0.4 \times  5 = 2</m>
+        </p>
+        <image source="/Juice.png">
+            <shortdescription></shortdescription>
+        </image>
+    </sidebyside>
+    <activity>
+        <statement>
+            <p>
+                
+            </p>
+            <p>
+                1. Measure the length and width of your classroom in cm using a meter ruler and write it down.  
+            </p>
+            <p>
+                2. Discuss the measurement of one side of your classroom and convert the measurement to <m>m</m> i.e <m>1 m = 100 cm </m>.
+            </p>
+            <p>
+                3. Multiply the length and width in <m>m</m> by the number of sides in your classroom. What do you get?
+            </p>
+            <p>
+                4. How many classrooms do you have in your school?
+            </p>
+            <p>
+                5. Suppose all the classrooms has same lengths and widths, determine the total measurement of both length and width of classrooms in your school.
+            </p>
+            <p>
+                6. How did you determine the total measurement of length and width of classrooms in the school?
+            </p>
+        </statement>
+    </activity>
+    <example>
+        <statement>
+            <p>
+                Work out:
+            </p>
+            <p>
+                <ol cols="2" marker="a)">
+                    <li>
+                        <p>
+                            <m>7.503 \times 10</m>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <m>7.503 \times 100</m>
+                        </p>
+                    </li>
+                </ol>
+            </p>
+        </statement>
+        <solution>
+            <p>
+                <ol marker="a)">
+                    <li>
+                        <p>
+                            <m>7.503 \times 10</m>
+                        </p>
+                        <sidebyside>
+                            <p>
+                                <md>
+                                    <mrow>7.503 \times 10 \amp = \frac{7503}{1000} \times 10 </mrow>
+                                    <mrow> </mrow>
+                                    <mrow> \amp = \frac{75030}{1000} = 75.03 </mrow>
+                                </md>
+                            </p>
+                            <p>
+                                When you multiply a decimal by 10, the decimal point moves <m>1</m> place to the right.
+                            </p>
+                        </sidebyside>
+                    </li>
+                    <li>
+                        <p>
+                            <m>7.503 \times 100</m>
+                        </p>
+                        <sidebyside>
+                            <p>
+                                <md>
+                                    <mrow>7.503 \times 100 \amp = \frac{7503}{1000} \times 100</mrow>
+                                    <mrow> </mrow>
+                                    <mrow> \amp = \frac{750300}{1000} = 750.3 </mrow>
+                                </md>
+                            </p>
+                            <p>
+                                When you multiply a decimal by 100, the decimal point moves <m>2</m> places to the right.
+                            </p>
+                        </sidebyside>
+                    </li>
+                </ol>
+            </p>
+        </solution>
+    </example>
+    <example>
+        <statement>
+            <p>
+                The mass of a piece of wood is <m>12.463</m> kg. What is the mass of <m>12</m> such pieces of wood?
+            </p>
+        </statement>
+        <solution>
+            <sidebyside>
+                <tabular>
+                    <row>
+                        <cell><m>12463</m></cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell bottom="medium"><m>\times \, 12</m></cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell halign="right"><m>24926</m></cell>
+                        <cell><m>\to</m></cell>
+                        <cell><m>12463 \times 2</m></cell>
+                    </row>
+                    <row>
+                        <cell bottom="medium" halign="right"><m>+\,124630</m></cell>
+                        <cell><m>\to</m></cell>
+                        <cell><m> 12463 \times 10</m></cell>
+                    </row>
+                    <row>
+                        <cell bottom="medium" halign="right"><m>149556</m></cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </tabular>
+                
+                <p>
+                    <ol marker="a)">
+                        <li>
+                            <p>
+                                Identify the number of decimal places.
+                            </p>
+                            <p>
+                                <m>12.463</m> has <m>3</m> decimal places.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Multiply <m>12463</m> by <m>12.</m>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                In the product, count <m>3</m> digits from the right towards the left and insert the decimal point.
+                            </p>
+                        </li>
+                    </ol>
+                </p>
+            </sidebyside>
+            <!-- <p>
+                <md>
+                    <mrow> \amp = 149.556</mrow>
+                    <mrow> 12.463 \times 12 \amp = 149.556</mrow>
+                </md>
+                <me>
+                \begin{align} \amp = 149.556\\ 12.463 \times 12 \amp = 149.556
+                    \end{align} 
+                </me>    
+            </p> -->
+            <p>
+                <m>\qquad \qquad \quad = 149.556</m>
+            </p>
+            <p>
+                <m>12.463 \times 12 = 149.556</m>
+            </p>
+        </solution>
+    </example>
+    <exercise>
+        <statement>
+            <p>
+                Exercise for Multiplying decimals by a whole number goes in here.
+            </p>
+        </statement>
+    </exercise>
+</subsection>

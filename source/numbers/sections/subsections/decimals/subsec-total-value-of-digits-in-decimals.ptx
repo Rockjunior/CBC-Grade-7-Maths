@@ -1,0 +1,88 @@
+<subsection xml:id="subsec-Total-value-of-digits-in-decimals">
+    <title>Total value of digits in decimals</title>
+    <activity>
+        <statement>
+            <p>
+                
+            </p>
+            <p>
+                1. Working in groups, think of a number that has <m>5</m> decimal points i.e <m>18.52847,7.24385</m> and in turns write it down.
+            </p>
+            <p>
+                2. Discuss the chosen decimal numbers with fellow group members.
+            </p>
+            <p>
+                3. Draw a place value chart and write the decimal numbers on the chart.
+            </p>
+            <p>
+                4. Identify the place value of each digit on the chart then identify the total value of each digits.
+            </p>
+            <p>
+                5. With your fellow learners, discuss how to identify the total value of digits in a decimal number.
+            </p>
+        </statement>
+    </activity>
+    <example>
+        <statement>
+            <p>
+                What is the total value of each digit in the number <m>53.85429</m>
+            </p>
+        </statement>
+        <solution>
+            <tabular bottom="medium" top="medium" right="medium" left="medium">
+                <row header="yes">
+                    <cell> Number</cell>
+                    <cell>PLace value</cell>
+                    <cell>Total value</cell>
+                </row>
+                <row>
+                    <cell halign="center"><m>5</m></cell>
+                    <cell>Tens</cell>
+                    <cell><m>5 \times 10 = 50</m></cell>
+                </row>
+                <row>
+                    <cell halign="center"><m>3</m></cell>
+                    <cell>Ones</cell>
+                    <cell><m>3 \times 1 = 3</m></cell>
+                </row>
+                <row>
+                    <cell halign="center">.</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell halign="center"><m>8</m></cell>
+                    <cell>Tenths</cell>
+                    <cell><m>8 \times 0.1 = 0.8</m></cell>
+                </row>
+                <row>
+                    <cell halign="center"><m>5</m></cell>
+                    <cell>Hundredths</cell>
+                    <cell><m>5 \times 0.01 = 0.05</m></cell>
+                </row>
+                <row>
+                    <cell halign="center"><m>4</m></cell>
+                    <cell>Thousandths</cell>
+                    <cell><m>4 \times 0.001 = 0.004</m></cell>
+                </row>
+                <row>
+                    <cell halign="center"><m>2</m></cell>
+                    <cell>Ten thousandths</cell>
+                    <cell><m>2 \times 0.0001 = 0.0002</m></cell>
+                </row>
+                <row>
+                    <cell halign="center"><m>9</m></cell>
+                    <cell>Hundred thousandths</cell>
+                    <cell><m>9 \times 0.00001 = 0.00009</m></cell>
+                </row>
+            </tabular>
+        </solution>
+    </example>
+    <exercise>
+        <statement>
+            <p>
+                Exercise for Total value of digits in decimals goes in here.
+            </p>
+        </statement>
+    </exercise>
+</subsection>
