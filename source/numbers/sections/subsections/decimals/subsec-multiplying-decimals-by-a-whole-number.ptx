@@ -1,9 +1,9 @@
 <subsection xml:id="subsec-Multiplying-decimals-by-a-whole-number">
     <title>Multiplying decimals by a whole number</title>
     <sidebyside>
-        <p> Akinyi has a bottle of juice she prepared for her friends. She pours 0.4 liters of juice into each of the <m>5</m> glasses she had and realized all the glasses was filled without any juice remaining in the bottle. We can find out the total amount of juice Akinyi had by applying multiplication of decimals.</p>
-        <p>To find how much juice Akinyi had we multiply the amount amount of juice in each glass with the number of glasses i.e </p>
-        <p>
+        <p> Akinyi has a bottle of juice she prepared for her friends. She pours 0.4 liters of juice into each of the <m>5</m> glasses she had and realized all the glasses was filled without any juice remaining in the bottle. We can find out the total amount of juice Akinyi had by applying multiplication of decimals.
+        To find how much juice Akinyi had we multiply the amount amount of juice in each glass with the number of glasses i.e
+        
             <m>0.4 \times  5 = 2</m>
         </p>
         <image source="/Juice.png">
@@ -106,12 +106,12 @@
             <sidebyside>
                 <tabular>
                     <row>
-                        <cell><m>12463</m></cell>
+                        <cell halign="right"><m>12463</m></cell>
                         <cell/>
                         <cell/>
                     </row>
                     <row>
-                        <cell bottom="medium"><m>\times \, 12</m></cell>
+                        <cell bottom="medium" halign="right"><m>\times \, 12</m></cell>
                         <cell/>
                         <cell/>
                     </row>
@@ -121,9 +121,9 @@
                         <cell><m>12463 \times 2</m></cell>
                     </row>
                     <row>
-                        <cell bottom="medium" halign="right"><m>+\,124630</m></cell>
+                        <cell bottom="medium" halign="left"><m>+\,124630</m></cell>
                         <cell><m>\to</m></cell>
-                        <cell><m> 12463 \times 10</m></cell>
+                        <cell><m> 12463 \times 1</m></cell>
                     </row>
                     <row>
                         <cell bottom="medium" halign="right"><m>149556</m></cell>
@@ -136,7 +136,7 @@
                     <ol marker="a)">
                         <li>
                             <p>
-                                Identify the number of decimal places.
+                                Identify the number of decimal places i.e
                             </p>
                             <p>
                                 <m>12.463</m> has <m>3</m> decimal places.
@@ -144,12 +144,17 @@
                         </li>
                         <li>
                             <p>
-                                Multiply <m>12463</m> by <m>12.</m>
+                               Express 12.463 as a fraction = <m>\frac{12463}{1000}</m> 
                             </p>
                         </li>
                         <li>
                             <p>
-                                In the product, count <m>3</m> digits from the right towards the left and insert the decimal point.
+                                Multiply the numerators that is <m>12463</m> by <m>12.</m>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                In the product, count <m>3</m> digits from the right towards the left and insert the decimal point. This is because the result of the product is supposed to be divided by <m>1000</m>.
                             </p>
                         </li>
                     </ol>
