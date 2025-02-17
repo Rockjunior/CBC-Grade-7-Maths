@@ -1,0 +1,221 @@
+<subsection xml:id="subsec-Greatest-Common-Divisor">
+        <title>Greatest Common Divisor</title>
+        <p>
+            GCD is the greatest number that exactly divides two or more numbers. 
+        </p>
+        <p>
+            It is also known as the Highest Common Factor (HFC).
+        </p>
+        <p>
+        Example in real life:
+        </p>
+        <p>
+        Esther and Shillah have packets of snacks and want to share them equally amoung the top mathematics performers in grade <m>7</m> without leaving leftovers. Esther have <m>36</m> crackers and Shillah has <m>54</m> cookies.
+        </p>
+        <p>
+         The largest number of top performers Shillah and Esther can gift is solved using GCD.
+        </p>
+        <p>
+        Since the factors of <m>36</m> are <m>1,2,3,4,6,9,12,18,36</m> and the factors of <m>54</m> are <m>1,2,3,6,9,18,27,54</m>. This implies that the higher number of top performers to be gifted is <m>18</m>.
+        </p>
+        <activity>
+            <statement>
+                <p></p>
+                <p>
+            1. Working in groups, count the number of girls and boys in your class.
+                </p>
+                <p>
+                    2. Write down the number of girls then the number of boys on the board.
+                </p>
+                <p>
+                    3. List all the factors of each number.
+                </p>
+                <p>
+                 4.Identify and highlight common factors.
+                </p>
+                <p>
+                5. Find the highest common divisor which is the GCD.
+                </p>
+            </statement>
+        </activity>
+        <!-- Example 1 -->
+        <example>
+            <statement>
+                <p>
+                    Find the GCD of <m>6,8 \text{ and } 12.</m>
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <ol marker="a)">
+                        <li>
+                            <p>
+                                List the divisors of <m>6,8 \text{ and } 12.</m>
+                            </p>
+                            <p>
+                                The divisors of <m>6</m> are <m>1,2,3 \text{ and } 6.</m>
+                            </p>
+                            <p>
+                                The divisors of <m>8</m> are <m>1,2,4 \text{ and } 8</m>
+                            </p>
+                            <p>
+                                The divisors of <m>12</m> are <m>1,2,3 \text{ and } 12.</m>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Identify the greatest common divisor. 
+                            </p>
+                            <p>
+                                The greatest common divisor is <m>2</m>.
+                            </p>
+                            <p>
+                                The GCD of <m>6,8 \text{ and } 12.</m> is <m>2</m>
+                            </p>
+                        </li>
+                    </ol>
+                </p>
+            </solution>
+        </example>
+        <!-- Example 2 -->
+        <example>
+            <statement>
+                <p>
+                    Find the GCD of <m>48,72 \text{ and } 108.</m>
+                </p>
+            </statement>
+            <solution>
+                    <!-- <table> -->
+                        <!-- <title></title> -->
+                        <tabular>
+                            <row header="no" bottom="medium">
+                                <cell right="medium">2</cell>
+                                <cell right="medium">48</cell>
+                                <cell right="medium">72</cell>
+                                <cell right="medium">108</cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell right="medium">2</cell>
+                                <cell right="medium">24</cell>
+                                <cell right="medium">36</cell>
+                                <cell right="medium">54</cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell right="medium">3</cell>
+                                <cell right="medium">12</cell>
+                                <cell right="medium">18</cell>
+                                <cell right="medium">27</cell>
+                            </row>
+                            <row>
+                                <cell right="medium"></cell>
+                                <cell right="medium">4</cell>
+                                <cell right="medium">6</cell>
+                                <cell right="medium">9</cell>
+                            </row>
+                        </tabular>
+                    <!-- </table> -->
+                <p>
+                    <md>
+                        <mrow>\text{GCD } \amp=2 \times 2 \times 3 </mrow>
+                        <mrow> \amp= 12 </mrow>
+                    </md>
+                    The GCD OF <m>48,72 \text{ and } 108 \text{ is } 12.</m>
+                </p>
+            </solution>
+        </example>
+        <!-- Example 3 -->
+        <example>
+            <statement>
+                <p>
+                    Three sticks of lengths <m>75</m> cm, <m>27</m> cm and <m>102</m> cm are cut into smaller pieces of the length. Find the greatest length which can be cut without leaving a remainder.
+                </p>
+            </statement>
+
+            <solution>
+                <p>
+                    Find the GCD of <m>75,27 \text{ and } 102.</m>
+                </p>
+            <sidebyside widths="25% 25% 25%"> 
+                <figure xml:id="factor-1">
+                    <caption>Divisors for 75</caption>        
+                    <image>
+                        <shortdescription>factors of 75</shortdescription>
+                        <latex-image>
+                            \begin{tikzpicture}[level distance=1.5cm,
+                                    level 1/.style={sibling distance=2cm},
+                                    level 2/.style={sibling distance=1cm},
+                                    circled/.style={draw, circle}]
+                                    \node {75}
+                                        child {node[circled] {3}}
+                                        child {node {25}
+                                        child {node[circled] {5}}
+                                        child {node {5}
+                                            child {node[circled] {5}}
+                                            child {node {1}}}};
+                            \end{tikzpicture}
+                        </latex-image>
+                    </image>
+                </figure> 
+                <figure xml:id="factor-2">
+                    <caption>Divisors for 27</caption>
+                    <image>
+                        <shortdescription>factors of 27</shortdescription>
+                        <latex-image>
+                            \begin{tikzpicture}[level distance=1.5cm,
+                                    level 1/.style={sibling distance=2cm},
+                                    level 2/.style={sibling distance=1cm},
+                                    circled/.style={draw, circle}]
+                                    \node {27}
+                                        child {node[circled] {3}}
+                                        child {node {9}
+                                        child {node[circled] {3}}
+                                        child {node {3}
+                                            child {node[circled] {3}}
+                                            child {node {1}}}};
+                            \end{tikzpicture}
+                        </latex-image>
+                    </image>
+                </figure>
+                <figure xml:id="factor-3">
+                    <caption>Divisors for 102</caption>
+                    <image>
+                        <shortdescription>factors of 102</shortdescription>
+                        <latex-image>
+                            \begin{tikzpicture}[level distance=1.5cm,
+                                    level 1/.style={sibling distance=2cm},
+                                    level 2/.style={sibling distance=1cm},
+                                    circled/.style={draw, circle}]
+                                    \node {102}
+                                        child {node[circled] {2}}
+                                        child {node {51}
+                                        child {node[circled] {3}}
+                                        child {node {17}
+                                            child {node[circled] {17}}
+                                            child {node {1}}}};
+                            \end{tikzpicture}
+                        </latex-image>
+                    </image>
+                </figure>
+            </sidebyside>  
+            <p>
+                <md>
+                    <mrow>75 \amp= 3 \times 5 \times 5 </mrow>
+                    <mrow>27 \amp= 3 \times 3 \times 3 </mrow>
+                    <mrow>102 \amp= 2 \times 3 \times 17 </mrow>
+                </md>
+            </p>
+
+            <p>
+                The greatest length which can be cut from each stick without leaving a remainder is <m>3</m> cm.
+            </p>
+            </solution>
+        </example> 
+
+        <exercise>
+            <statement>
+                <p>
+                    Exercise for GCD goes here.
+                </p>
+            </statement>
+        </exercise>
+    </subsection>

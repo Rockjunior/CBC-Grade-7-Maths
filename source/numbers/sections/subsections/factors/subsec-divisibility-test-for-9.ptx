@@ -1,0 +1,81 @@
+ <subsection xml:id="subsec-Divisibility-test-for-9">
+    <title>Divisibility test for 9</title>
+    <p>
+        A number is divisible by <m>9</m> if the sum of the digits in the number is divisible by <m>9.</m>
+    </p>
+    <activity>
+        <statement>
+            <p>
+                Activity for divisibility test for 9 goes here.
+            </p>
+        </statement>
+    </activity>
+    <example>
+        <statement>
+            <p>
+                Which of the following numbers are divisible by 9?
+            </p>
+            <p>
+                <m>14\,578</m>, <m>68\,373</m>, <m>103\,689</m>
+            </p>
+        </statement>
+        <solution>
+            <p>
+                <ol marker="a)">
+                    <li>
+                        <p>
+                            <m>14\,578</m>
+                        </p>
+                        <p>
+                            <m>1+4+5+7+8=25</m>
+                        </p>
+                        <p>
+                            <m>25 \div 9 = 2 \text{ remainder } 7</m>
+                        </p>
+                        <p>
+                            <m>14\,578</m> is not divisible by <m>9</m>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <m>68\,373</m>
+                        </p>
+                        <p>
+                            <m>6+8+3+7+3=27</m>
+                        </p>
+                        <p>
+                            <m>27 \div 9 = 3 </m>
+                        </p>
+                        <p>
+                            <m>68\,373</m> is divisible by <m>9</m>
+                        </p>
+                    </li>
+                    <li>
+                            <p>
+                            <m>103\,689</m>
+                        </p>
+                        <p>
+                            <m>1+0+3+6+8+9=27</m>
+                        </p>
+                        <p>
+                            <m>27 \div 9 = 3 </m>
+                        </p>
+                        <p>
+                            <m>103\,689</m> is divisible by <m>9</m>
+                        </p>
+                    </li>
+                </ol>
+            </p>
+            <p>
+                <m>68\,373</m> and <m>103\,689</m> are divisible <m>9</m> because the sum of the digits in each number is divisible by <m>9</m>
+            </p>
+        </solution>
+    </example>
+    <exercise>
+        <statement>
+            <p>
+                Exercise for divisibility test for 9 goes here
+            </p>
+        </statement>
+    </exercise>
+</subsection>
