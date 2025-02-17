@@ -72,23 +72,21 @@
                                 What is the square of <m>15 </m>?
                             </p>
                         </li>
-                        <li>
-                            <p>
-                                Work out: <m>132^2</m>
-                            </p>
-                        </li>
                     </ol>
                 </p>
             </statement>
             <solution>
                 <p>
-                    <ol marker="a)" cols="2">
+                    <ol marker="a)">
                         <li>
                             <p>
-                                <md>
-                                     <mrow>15^2 \amp = 15 \times 15 </mrow>
-                                     <mrow> \amp = 225 </mrow>
-                                </md>
+                                The square of a number is obtained by multiplying the number by itself.
+                            </p>
+                            <p>
+                                Now, express <m>15^2</m> as <m>15 \times 15</m>.
+                            </p>
+                            <p>
+                                Then, perform multiplication.
                             </p>
                             <tabular>
                                 <row>
@@ -101,50 +99,23 @@
                                 </row>
                                 <row halign="right">
                                     <cell>75</cell>
-                                    <cell halign="left"><m>15 \times 5</m></cell>
+                                    <cell halign="left"><m>{\color{blue}15} \times {\color{blue}5} </m></cell>
                                 </row>
                                 <row halign="right">
                                     <cell bottom="medium"><m>+ 150</m></cell> 
-                                    <cell halign="left"><m>15 \times 10</m></cell>
+                                    <cell halign="left"><m>{\color{blue}15} \times {\color{blue}10} </m></cell>
                                 </row>
                                 <row halign="right">
                                     <cell bottom="medium"><m>225</m></cell>
                                     <cell></cell>
                                 </row>
                             </tabular>
-                        </li>
-                        <li>
                             <p>
                                 <md>
-                                    <mrow>132^2 \amp = 132 \times 132</mrow>
-                                    <mrow> \amp = 17\,424</mrow>
+                                    <mrow>15^2  = 15 \times 15 \amp = 225</mrow>
+                                    <mrow> \amp = 225</mrow>
                                 </md>
                             </p>
-                            <tabular>
-                                <row>
-                                    <cell halign="right"><m>132</m></cell>
-                                    <cell></cell>
-                                </row>
-                                <row>
-                                    <cell halign="right" bottom="medium"><m>\times 132</m></cell>
-                                    <cell></cell>
-                                </row>
-                                <row>
-                                    <cell halign="right"><m>264</m></cell>
-                                    <cell halign="left"> <m>132 \times 2</m></cell>
-                                </row>
-                                <row halign="right">
-                                    <cell halign="right"><m>+ 3\,960</m></cell>
-                                    <cell halign="left"><m>132 \times 30</m></cell>
-                                </row>
-                                <row>
-                                    <cell halign="right" bottom="medium"><m>13\,200</m></cell>
-                                    <cell halign="left"><m>132 \times 100</m></cell>
-                                </row>
-                                <row>
-                                    <cell halign="right" bottom="medium"><m>17\,424</m></cell>
-                                </row>
-                            </tabular>
                         </li>
                     </ol>
                 </p>
