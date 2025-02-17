@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <subsection xml:id="subsec-Illustrating_simple_linear_inequality_on_a_number_line">
+      <title>Illustrating simple linear inequality on a number line</title>
+
+      <activity>
+
+        <p>
+          <term>Work in Groups.</term>
+        </p>
+
+        <p>
+
+          <ol>
+
+            <li>
+              
+              <p>
+                Consider <em>x &gt; 2.</em>
+              </p>
+                
+            </li>
+
+            <li>
+              
+              <p>
+                Draw a number line.
+              </p>
+
+            </li>
+
+            <li>
+              <p>
+                Identify some of the numbers that satisfy the inequality.
+              </p>
+            </li>
+
+            <li>
+
+              <p>
+                Confirm whether the numbers are to the left or right of digit 2.
+              </p>
+            
+            </li>
+
+            <li>
+              
+              <p>
+                Circle digit 2.
+              </p>
+
+            </li>
+
+            <li>
+
+              <p>
+                From the circle, draw an arrow facing the direction with numbers which satisfy the inequality.
+              </p>
+            
+            </li>
+
+            <li>
+              
+              <p>
+                Discuss and share with others.
+              </p>
+            
+            </li>
+
+          </ol>
+
+        </p>
+        
+      </activity>
+
+      <p>
+        <term>Learning Points.</term>
+      </p>
+
+      <p>
+        
+        <ol>
+
+          <li>
+
+            <p>
+              For inequalities with symbols <m>\lt</m> or <m>\gt</m>, the boundary digits are circled in the representations.
+            </p>
+
+          </li>
+
+          <li>
+
+            <p>
+              For inequalities with symbols <m>\le</m> or <m>\ge</m>, the circles are shaded.
+            </p>
+
+          </li>
+
+        </ol>
+
+      </p>
+
+      <example>
+
+          <statement>
+
+            <p>
+              Illustrate <m>x &gt; 2</m> on a number line.
+            </p>
+
+          </statement>
+
+          <solution>
+            
+            <p>
+              Circle at digit <m>2</m> and draw a line pointing towards numbers greater than <m>2</m>.
+            </p>
+
+            <p>
+              TODO add number line here
+            </p>
+
+          </solution>
+
+      </example>
+
+      <example>
+
+        <statement>
+
+            <p>
+              Illustrate <m>x \ge 8</m> on a number line
+            </p>
+
+        </statement>
+            
+        <solution>
+
+          <p>
+              Draw a circle at digit <m>8</m> and shade it then draw a line towards digits greater than <m>8</m>.
+          </p>
+
+          <p>
+           TODO add number line here
+          </p>
+
+        </solution>
+
+      </example>
+
+      <exercise>
+
+        <p>
+          Exercise here.
+        </p>
+
+      </exercise>
+
+    </subsection>

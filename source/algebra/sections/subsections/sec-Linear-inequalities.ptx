@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-Linear-inequalities" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Linear Inequalities</title>
+
+  <introduction>
+
+    <p>
+      A linear inequality is a statement that compares two linear expressions using symbols such as:
+    </p>
+
+    <p>
+      <me>\text{Less than} \rightarrow \quad (\lt)</me>
+    </p>
+    
+    <p>
+      <me>\text{Greater than} \rightarrow \, (\gt)</me>
+    </p>
+
+    <p>
+      <me>\text{Less than or equal to} \rightarrow \, (\le)</me>  
+    </p>
+
+    <p>
+      <me>\text{Greater than or equal to} \rightarrow \, (\ge)</me>
+    </p>
+
+    <p>
+    These inequalities express a range of possible values rather than just one specific solution.
+    </p>
+  </introduction>
+
+  <xi:include href="subsections/linear_inequalities/subsec-Applying_Linear_Inequality_Symbols_to_inequality_statements.ptx" />
+
+  <xi:include href="subsections/linear_inequalities/subsec-Forming_a_Simple_Linear_Inequalities_in_Real_Life_Situatuans.ptx" />
+
+  <xi:include href="subsections/linear_inequalities/subsec-Illustrating_simple_linear_inequality_on_a_number_line.ptx" />
+
+  <xi:include href="subsections/linear_inequalities/subsec-Forming_Compound_Linear_Inequality_in_one_unkown.ptx" />
+
+  <xi:include href="subsections/linear_inequalities/subsec-Illustrating_compound_inequalities_on_a_number_line.ptx" />
+
+</section>
