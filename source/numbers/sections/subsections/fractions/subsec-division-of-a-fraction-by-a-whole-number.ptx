@@ -39,7 +39,10 @@
                     <ol marker="a)">
                         <li>
                             <p>
-                                Find the reciprocal of the divisor.
+                                First, we have to find the reciprocal of the divisor.
+                            </p>
+                            <p>
+                                In this case, our divisor is <m>6</m>, which is a whole number. 
                             </p>
                             <p>
                                 The reciprocal of <m>6</m> is <m>\frac{1}{6}.</m>
