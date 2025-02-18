@@ -5,8 +5,10 @@
 
       <activity>
         
-        <title><term>Work in Groups</term></title>
-
+        <p>
+          <term>Work in Groups</term>
+        </p>
+        
         <p>
           Bag <m>A</m> contains ,<m>x</m> mangoes. Two mangoes are added to it. The total number of mangoes is ether equal to or less than the number of mangoes in bag <m>B</m>, which contains <m>30</m> mangoes.
         </p>
