@@ -72,7 +72,7 @@
       </p>
 
       <p>
-        Two simple inequalities when combbined form a compound inequality.
+        When two simple inequalities are combined, they form a compound inequality.
       </p>
       
       <example>
@@ -80,7 +80,7 @@
         <statement>
 
           <p>
-            Form a compound inequality for <m>x \lt 8 \text{and} x \gt 2</m>.
+            Form a compound inequality for <m>x \lt 8 </m> and <m>x \gt 2</m>.
           </p>
           
         </statement>
@@ -88,11 +88,11 @@
         <solution>
 
           <p>
-            <m>x \gt 2</m> is the same as <m>2 \lt x</m>
+            <m>x \gt 2</m> is equivalent to <m>2 \lt x</m>.
           </p>
 
           <p>
-            Combining <m>2 \lt x</m> and <m>x \lt 8</m> gives the compound inequality as shown below.
+            By combining <m>2 \lt x</m> and <m>x \lt 8</m>, we obtain the compound inequality.
           </p>
 
           <p>
@@ -116,15 +116,15 @@
         <solution>
 
             <p>
-              <m>y \ge 3</m> is the same as <m> 3\le y</m>.
+                <m>y \ge 3</m> can be written as <m>3 \le y</m>.
             </p>
 
             <p>
-              Combining 3 <m>\le</m> y and <m>y \le 12</m>.
+                By combining <m>3 \le y</m> and <m>y \le 12</m>, we obtain the compound inequality.
             </p>
 
             <p>
-              Gives the compound inequality 3 <m>\le</m> y <m>\le</m> 12.
+                Therefore, the compound inequality is <me>3 \le y \le 12</me>.
             </p>
 
         </solution>

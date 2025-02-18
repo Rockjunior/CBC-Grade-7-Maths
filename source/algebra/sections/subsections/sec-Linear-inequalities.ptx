@@ -30,13 +30,13 @@
 
         <li>
           <p>
-            <em><term>Greater than</term></em> <m>( \gt )</m>: Example: <m>x \gt 5x \gt 5</m> means <m>x</m> is any number greater than <m>5</m>.
+            <em><term>Greater than</term></em> <m>( \gt )</m>: Example: <m>x \gt 5</m> means <m>x</m> is any number greater than <m>5</m>, but <m>5</m> is not included.
           </p>
         </li>
 
         <li>
           <p>
-            <em><term>Less than</term></em> <m>( \lt )</m>: Example: <m>y \lt 10y \lt 10</m> means <m>y</m> is any number less than <m>10</m>.
+            <em><term>Less than</term></em> <m>( \lt )</m>: Example: <m>y \lt 10</m> means <m>y</m> is any number less than <m>10</m>, also in this case <m>10</m> is not included.
           </p>
         </li>
 
