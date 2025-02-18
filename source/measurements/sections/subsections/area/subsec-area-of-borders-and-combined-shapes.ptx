@@ -99,5 +99,33 @@
         
       </solution>
     </activity>
+
+    <p>
+      Check at the interactive activities bellow to expound more on area of given figures.
+    </p>
+
+    <activity>
+      <p>
+        Calculate the areas of the figures given their side lengths.
+      </p>
+      <figure>
+       <caption>Finding area. </caption>
+       <interactive  xml:id="geogebra-rectangle" geogebra="buhw7dpf" width="80%" aspect="9:5" reset-icon="yes" />
+    </figure>
+    </activity>
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+
     
   </subsection>
