@@ -104,6 +104,15 @@
       </p>
     </solution>
   </example>
+  <p>
+    Develop the formula for a perimeter of a rectangle in this activity. Drag th
+  </p>
+  <figure>
+  <caption>Calculating perimeter.</caption>
+  <interactive xml:id="geogebra-rectangle-h" platform="geogebra" width="100%" aspect="1:1">
+    <slate xml:id="rectangle" surface="geogebra" material="cvuafbec" aspect="1:1" />
+  </interactive>
+</figure>
   <example>
     <statement>
       <p>
@@ -144,12 +153,12 @@
     <p>Extended activity</p>
       <sidebyside>
       <p>
-        ombui made a paper cut out of right-angled triangle like the one shown on the right.
+        Ombui made a paper cut out of right-angled triangle like the one shown on the right.
         He then made three similar cut outs then joined them as shown below to form a combined
-         cut-out. work out the perimeter  of the combined cut
+         cut-out. Work out the perimeter  of the combined cut
       </p>
       <image>
-      <latex-image>
+      <latex-image label="triangle-1">
         \begin{tikzpicture}
           \draw [thick,fill=yellow](3,0) --(0,3) --(4,0.3) --(3,0);
         \end{tikzpicture}
@@ -158,7 +167,7 @@
         
       </sidebyside>
       <image width="60%">
-      <latex-image>
+      <latex-image label="triangles">
         \begin{tikzpicture}
           \draw [thick,fill=yellow](3,0) --(0,3) --(4,0.3) --(3,0);
           \draw [thick,fill=yellow](3,0) --(6,0) --(6,1) --(3,0);
@@ -174,4 +183,11 @@
       </latex-image>
       </image>
   </exploration>
+
+  <figure>
+  <caption>Perimeter of different plane figures.</caption>
+  <interactive xml:id="geogebra-triangle" platform="geogebra" width="100%" aspect="1:1">
+    <slate xml:id="triangle-t" surface="geogebra" material="fusa6qwx" aspect="1:1" />
+  </interactive>
+</figure>
 </subsection>

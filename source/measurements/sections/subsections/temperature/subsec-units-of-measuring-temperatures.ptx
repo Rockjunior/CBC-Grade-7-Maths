@@ -118,24 +118,41 @@
       <table>
         <title></title>
         <tabular halign="center" left=" medium" right="medium" bottom="medium" top="medium">
-          <row>
-            <cell>Time</cell>
-            <cell>Before heating</cell> 
-            <cell>After 1 minute</cell>
-            <cell>After 2 minutes</cell>
-            <cell>After 3 minutes</cell>
-            <cell>After 4 minutes</cell>
+          <row left="medium" header="yes">
+            <cell >Time</cell>
+            <cell>
+            <line>Before</line>
+              <line>Heating</line>
+              </cell>
+            <cell>
+            <line>After </line>
+              <line>1 minute</line></cell>
+            <cell>
+            <line>After </line>
+              <line>2 minutes</line></cell>
+            <cell>
+            <line>After </line>
+              <line>3 minutes</line></cell>
+            <cell>
+            <line>After </line>
+              <line>4 minutes</line></cell>
           </row>
-          <row>
-            <cell>Time in degrees celsius<m>(^\circ C)</m></cell>
+          <row left="medium">
+            <cell>
+            <line>Time in </line>
+              <line>degrees celsius</line>
+                <line><m>(^\circ C)</m></line></cell>
             <cell></cell>
             <cell></cell>
             <cell></cell>
             <cell></cell>
             <cell></cell>
           </row>
-          <row>
-            <cell>Time in Kelvins <m>(K)</m></cell>
+          <row left="medium">
+            <cell>
+            <line>Time in </line>
+              <line>Kelvins <m>(K) </m></line>
+                </cell>
             <cell></cell>
             <cell></cell>
             <cell></cell>
