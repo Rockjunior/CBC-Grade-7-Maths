@@ -128,8 +128,8 @@
       <solution>
         <p>
           <md>
-            <mrow> \text{Volume of a cube} = \amp \text{l} \times \text{l} \times \text{l} </mrow>
-            <mrow> =\amp \text{l} ^3</mrow>
+            <mrow> \text{Volume of a cube} = \amp {l} \times {l} \times {l} </mrow>
+            <mrow> =\amp {l} ^3</mrow>
             <mrow> =\amp 3\text {m} \times 3\text{m} \times 3 \text{m}</mrow>
             <mrow> =\amp 3^3\text({m}^3) </mrow>
             <mrow> =\amp9\text{m}^3 </mrow>
