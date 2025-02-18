@@ -37,17 +37,32 @@
         <example>
             <statement>
                 <p>
-                    Add: <m>\frac{3}{8} + \frac{5}{9}</m>
+                    Add: <m>\frac{5}{6} + \frac{2}{7}</m>
                 </p>
             </statement>
             <solution>
                 <p>
-                    <ol cols="2" marker="a)">
+                    <ol marker="a)">
                         <li>
                             <p>
-                                Find the LCM of <m>8 \text{ and }9.</m>
+                                To add two proper fractions that have different denominators, we find LCM of denominators first. 
                             </p>
-                            <tabular right="medium">
+                            <p>
+                                Now, to find the LCM of <m>6\text{ and }7</m>, list multiples of <m>6</m> and <m>7</m>.
+                            </p>
+                            <p>
+                                Multiples of <m>6</m> are <m>6,12,18,24,30,36,{\color{red}42},48,54,...</m>
+                            </p>
+                            <p>
+                                Multiples of <m>7</m> are <m>7,14,21,28,35,{\color{red}42},49,56,...</m>
+                            </p>
+                            <p>
+                                We can see that, the common multiple is <m>{\color{red}42}</m> and it is the least common multiple that we have.
+                            </p>
+                            <p>
+                                Hence, the LCM of <m>6\text{ and }7</m> is <m>{\color{red}42}</m>.
+                            </p>
+                            <!-- <tabular right="medium">
                                 <row bottom="medium">
                                     <cell>2</cell>
                                     <cell>8</cell>
@@ -84,30 +99,35 @@
                             </p>
                             <p>
                                 The LCM of <m>8 \text{ and } 9 \text{ is } 72.</m>
-                            </p>
-                        </li>
-                        <li>
+                            </p> -->
                             <p>
-                                Rewrite the fractions to have a common denominator.
+                                Rewrite the fractions as equivalent fractions using the LCM as the common denominator.
                             </p>
                             <p>
                                 <md>
-                                    <mrow>\frac{3}{8} \amp = \frac{3 \times 9}{8 \times 9} </mrow>
-                                    <mrow> \amp = \frac{27}{72} </mrow>
-                                    <mrow> \frac{5}{9} \amp = \frac{5 \times 8}{9 \times 8} </mrow>
-                                    <mrow> \amp = \frac{40}{72} </mrow>
+                                    <mrow>\frac{5}{6} \amp = \frac{5 \times 7}{6 \times 7} = \frac{35}{42}</mrow>
+                                    <mrow></mrow>
+                                    <mrow> \frac{2}{7} \amp = \frac{2 \times 6}{7 \times 6} = \frac{12}{42}</mrow>
                                 </md>
                             </p>
-                        </li>
-                        <li>
                             <p>
-                                Add the fractions.
+                                Now, since all the denominators are the same, we add the numerators and write the result as the final numerator on top of the common denominator.
                             </p>
                             <p>
                                 <md>
-                                    <mrow>\frac{27}{72} + \frac{40}{72} = \frac{67}{72} \amp </mrow>
-                                    <mrow> \text{ Therefore }</mrow>
-                                    <mrow> \frac{3}{8} + \frac{5}{9} \amp = \frac{67}{72} </mrow>
+                                    <mrow>\frac{35}{42} + \frac{12}{42} \amp = \frac{47}{42} </mrow>
+                                    <mrow></mrow>
+                                    <mrow> \amp = \frac{47}{42} </mrow>
+                                </md>
+                            </p>
+                            <p>
+                                finally convert the improper fraction to a mixed fraction.
+                            </p>
+                            <p>
+                                <md>
+                                    <mrow>\frac{47}{42} \amp = 1 \frac{5}{42}</mrow>
+                                    <mrow></mrow>
+                                    <mrow> \amp = 1 \frac{5}{42} </mrow>
                                 </md>
                             </p>
                         </li>

@@ -31,7 +31,7 @@
         <example>
             <statement>
                 <p>
-                    Work out: <m>16 \div \frac{2}{3} </m>
+                    Work out: <m>7 \div \frac{2}{3} </m>
                 </p>
             </statement>
             <solution>
@@ -50,19 +50,19 @@
                             </p>
                             <p>
                                 To find the reciprocal of a fraction, reverse the numerator and denominator.
-                                The reciprocal of <m>\frac{2}{3}</m> is <m>{\color{red}\frac{3}{2}}.</m>
+                                The reciprocal of <m>\frac{{\color{red}2}}{{\color{blue}3}}</m> is <m>\frac{{\color{blue}3}}{{\color{red}2}}.</m>
                             </p>
                         </li>
                         <li>
                             <p>
-                                Multiply <m>\frac{7}{1}</m> by the reciprocal of <m>\frac{2}{3}</m> which is <m>\frac{3}{2}</m>
+                                Multiply <m>\frac{7}{1}</m> by <m>\frac{3}{2}</m>.
                             </p>
                             <p>
                                 To multiply fractions, first multiply the numerators together. Then, multiply the denominators together.
                             </p>
                             <p>
                                 <md>
-                                    <mrow> \frac{7}{1} \times \frac{3}{2} =  \frac{7 \times 3}{1 \times 2} \amp = \frac{21}{2} </mrow>
+                                    <mrow> \frac{{\color{green}7}}{1} \times \frac{{\color{green}3}}{2} =  \frac{{\color{green}7} \times {\color{green}3}}{1 \times 2} \amp = \frac{21}{2} </mrow>
                                     <mrow> \amp </mrow>
                                     <mrow> \amp = \frac{21}{2} </mrow>
                                 </md>
@@ -75,7 +75,7 @@
         <example>
             <statement>
                 <p>
-                    Evaluate: <m>48 \div 4 \frac{1}{3} = </m>
+                    Evaluate: <m>48 \div 4 \frac{1}{3}</m>
                 </p>
             </statement>
             <solution>
@@ -87,7 +87,7 @@
                             </p>
                             <p>
                                 <md>
-                                    <mrow> 4 \frac{1}{3} \amp = \frac{(4 \times 3) + 1}{2} </mrow>
+                                    <mrow> {\color{red}4} \frac{{\color{blue}1}}{{\color{green}3}} \amp = \frac{({\color{red}4} \times {\color{green}3}) + {\color{blue}1}}{{\color{green}3}} </mrow>
                                     <mrow></mrow>
                                     <mrow> \amp = \frac{12 + 1}{3}</mrow>
                                     <mrow></mrow>
@@ -97,10 +97,10 @@
                         </li>
                         <li>
                             <p>
-                                Find the reciprocal of <m>\frac{13}{3}.</m>
+                                Find the reciprocal of <m>\frac{13}{3}</m> by interchanging the numerator and denominator.
                             </p>
                             <p>
-                                The reciprocal of <m>\frac{13}{3}</m> is <m>\frac{3}{13}</m>
+                                The reciprocal of <m>\frac{{\color{red}13}}{{\color{blue}3}}</m> is <m>\frac{{\color{blue}3}}{{\color{red}13}}</m>
                             </p>
                             <p>
                                 Convert the whole number to a fraction. <m>48 = \frac{48}{1}</m>
@@ -118,7 +118,7 @@
                             </p>
                             <p>
                                 <md>
-                                    <mrow> \frac{48}{1} \times \frac{3}{13} =  \frac{48 \times 3}{1 \times 13} \amp = \frac{144}{13} </mrow>
+                                    <mrow> \frac{{\color{blue}48}}{1} \times \frac{{\color{blue}3}}{13} =  \frac{{\color{blue}48} \times {\color{blue}3}}{1 \times 13} \amp = \frac{144}{13} </mrow>
                                     <mrow> \amp </mrow>
                                     <mrow> \amp = \frac{144}{13} </mrow>
                                     <mrow></mrow>

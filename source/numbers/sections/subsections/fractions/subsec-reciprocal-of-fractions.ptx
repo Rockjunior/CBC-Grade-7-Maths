@@ -49,10 +49,10 @@
                     To get the reciprocal of <m>\frac{11}{23}</m>, we swap the numerator and the denominator.
                 </p>
                 <p>
-                    <m>\frac{11}{23} \text{ to get } \frac{23}{11}</m>
+                    <m>\frac{{\color{red}11}}{{\color{blue}23}} \text{ to get } \frac{{\color{blue}23}}{{\color{red}11}}</m>
                 </p>
                 <p>
-                    The the reciprocal of <m>\frac{11}{23} \text{ is } \frac{23}{11}.</m>
+                    Therefore, the reciprocal of <m>\frac{{\color{red}11}}{{\color{blue}23}} \text{ is } \frac{{\color{blue}23}}{{\color{red}11}}.</m>
                 </p>
             </solution>
         </example>
@@ -70,7 +70,7 @@
                                 Convert <m>6 \frac{4}{5}</m> into an improper fraction.
                             </p>
                             <p>
-                                <m>6 \frac{4}{5} = \frac{(5 \times 6)+4}{3 \times 7} = \frac{34}{5}</m>
+                                <m>{\color{red}6} \frac{{\color{blue}4}}{{\color{green}5}} = \frac{({\color{green}5} \times {\color{red}6})+{\color{blue}4}}{{\color{green}5}} = \frac{34}{5}</m>
                             </p>
                         </li>
                         <li>
@@ -78,10 +78,10 @@
                                 Swap the numerator and the denominator.
                             </p>
                             <p>
-                                <m>\frac{34}{5} \text{ to get } \frac{5}{34}</m>
+                                <m>\frac{{\color{red}34}}{{\color{blue}5}} \text{ to get } \frac{{\color{blue}5}}{{\color{red}34}}</m>
                             </p>
                             <p>
-                                The reciprocal of <m>6 \frac{4}{5} \text{ is } \frac{5}{34}.</m>
+                                Therefore, the reciprocal of <m>6 \frac{4}{5} \text{ is } \frac{5}{34}.</m>
                             </p>
                         </li>
                     </ol>

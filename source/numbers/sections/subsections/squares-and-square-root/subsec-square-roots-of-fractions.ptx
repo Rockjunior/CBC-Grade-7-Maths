@@ -95,9 +95,11 @@
                     Take one factor from each pair, and multiply.
                 </p>
                 <p>
-                    <me>
-                        \frac{{\color{blue}5}}{{\color{blue}3} \times {\color{red}3}} = \frac{5}{9}
-                    </me>
+                    <md>
+                        <mrow> \frac{{\color{blue}5}}{{\color{blue}3} \times {\color{red}3}} \amp = \frac{5}{9}</mrow>
+                        <mrow></mrow>
+                        <mrow> \amp = \frac{5}{9} </mrow>
+                    </md>
                 </p>
             </solution>
         </example>
@@ -113,7 +115,7 @@
                 </p>
                 <p>
                     <me>
-                        28 \frac{4}{9} = \frac{(9 \times 28)+4} = \frac{256}{9}
+                        28 \frac{4}{9} = \frac{(9 \times 28)+4}{9} = \frac{256}{9}
                     </me>
                 </p>
                 <p>
