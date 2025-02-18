@@ -42,23 +42,21 @@
                                 First, we have to find the reciprocal of the divisor.
                             </p>
                             <p>
-                                In this case, our divisor is <m>6</m>, which is a whole number. 
+                                In this case, our divisor is <m>6</m>, which is a whole number and we can express <m>6</m> as <m>\frac{6}{1}.</m>
                             </p>
                             <p>
-                                The reciprocal of <m>6</m> is <m>\frac{1}{6}.</m>
+                                Then, find the reciprocal of <m>\frac{{\color{red}6}}{{\color{blue}1}}</m> by swapping the numerator and denominator to get  <m>\frac{{\color{blue}1}}{{\color{red}6}}.</m>
                             </p>
                         </li>
                         <li>
                             <p>
-                                Multiply.
+                                Multiply <m>\frac{3}{20}</m> by <m>\frac{1}{6}</m> and simplify the result.
                             </p>
                             <p>
                                 <md>
                                     <mrow>\frac{3}{20} \times \frac{1}{6} \amp = \frac{3 \times 1}{20 \times 6}</mrow>
                                     <mrow></mrow>
                                     <mrow> \amp = \frac{3}{120} </mrow>
-                                    <mrow></mrow>
-                                    <mrow> \frac{3}{120} \amp = \frac{3 \div 3}{120 \div 3} </mrow>
                                     <mrow></mrow>
                                     <mrow> \amp = \frac{1}{40}</mrow>
                                 </md>
