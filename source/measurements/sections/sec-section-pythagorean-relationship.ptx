@@ -28,15 +28,15 @@
     </li>
   </ul>
  </p>
-  <image>
+  <image width="50%">
   <latex-image>
     \begin{tikzpicture}
-      \draw [thick,fill=pink](0,0)  --(0,5) --(5,0) --(0,0);
+      \draw [thick,fill=cyan](0,0)  --(0,5) --(5,0) --(0,0);
       \draw (0,0) --(0,0.5) --(0.5,0.5) --(0.5,0) --(0,0);
-      \node at (-1,2.5){$height\, (b) $};
-      \node at (3.5,2.5){$Hypotenuse\,(c)$};
-      \node at (2.5,-0.5){$base\,(a)$};
-      \node at (-1,0.3){$Right \, angle$};
+      \node at (-1,2.5){height (b) };
+      \node at (3.9,2.5){Hypotenuse (c)};
+      \node at (2.5,-0.5){base (a)};
+      \node at (-1,0.3){Right angle};
       
     \end{tikzpicture}
   </latex-image>
