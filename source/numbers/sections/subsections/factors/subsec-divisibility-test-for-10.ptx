@@ -1,0 +1,45 @@
+<subsection xml:id="subsec-Divisibility-test-for-10">
+    <title>Divisibility test for 10</title>
+    <p>
+        A number is divisible by <m>10</m> if the digit in the place value is zero.
+    </p>
+    <activity>
+        <statement>
+            <p></p>
+            <p>
+                1. Write down all the years between <m>2000</m> and <m>2025</m>.
+            </p>
+            <p>
+                    2. Look at the last digit of every year if it is zero.
+            </p>
+            <p>
+                3. If the last digit is zero then the number is divisible by <m>10</m> and if the last digit is not zero then it is not divisible by <m>10</m>.
+            </p>
+        </statement>
+    </activity>
+    <example>
+        <statement>
+            <p>
+                Which of the following numbers are divisible by <m>10</m>?
+            </p>
+            <p>
+                <m>12\,470</m>, <m>78\,945</m>, <m>809\,130</m>, <m>1\,265\,785</m>
+            </p>
+        </statement>
+        <solution>
+            <p>
+                <m>12\,470</m> and <m>809\,130</m> are divisible by <m>10</m> because their digits in the ones place value is zero.
+            </p>
+            <p>
+                <m>78\,945</m>, <m>1\,265\,785</m> are not divisible by <m>10</m> because their digits in the ones place value is not zero.
+            </p>
+        </solution>
+    </example>
+    <exercise>
+        <statement>
+            <p>
+                Exercise for divisibility test for 10 goes here.
+            </p>
+        </statement>
+    </exercise>
+</subsection>

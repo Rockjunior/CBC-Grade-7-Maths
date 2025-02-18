@@ -9,7 +9,7 @@
     <title>Grade 7 Mathematics</title>
     <subtitle>Learner's Book</subtitle>
 
-    <!-- Include frontmatter -->
+   <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     

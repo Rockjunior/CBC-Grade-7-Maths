@@ -1,0 +1,92 @@
+<subsection xml:id="subsec-Squares-roots-of-whole-numbers">
+        <title>Squares roots of whole numbers</title>
+        <activity>
+            <p>
+                <alert>Work in groups</alert>
+            </p>   
+            <p>
+                1. Draw the following grid pattern in your exercise books or on graph paper, ensuring they match the examples shown.
+            </p> 
+            <sidebyside widths="25% 25% 25%">
+                <image>
+                    <shortdescription></shortdescription>
+                    <latex-image>
+                        \begin{tikzpicture}
+                            \foreach \x in {0,1,2,3} {
+                                \draw[thick,blue] (\x,0) -- (\x,3);
+                            }
+                            \foreach \y in {0,1,2,3} {
+                                \draw[thick,blue] (0,\y) -- (3,\y);
+                            }
+                        \end{tikzpicture}
+                    </latex-image>
+                </image>
+                <image>
+                    <shortdescription></shortdescription>
+                    <latex-image>
+                        \begin{tikzpicture}
+                            \foreach \x in {0,1,2,3,4} {
+                                \draw[thick,blue] (\x,0) -- (\x,4);
+                            }
+                            \foreach \y in {0,1,2,3,4} {
+                                \draw[thick,blue] (0,\y) -- (4,\y);
+                            }
+                        \end{tikzpicture}
+                    </latex-image>
+                </image>
+                <image>
+                    <shortdescription></shortdescription>
+                    <latex-image>
+                        \begin{tikzpicture}
+                            \foreach \x in {0,1,2,3,4,5} {
+                                \draw[thick,blue] (\x,0) -- (\x,5);
+                            }
+                            \foreach \y in {0,1,2,3,4,5} {
+                                \draw[thick,blue] (0,\y) -- (5,\y);
+                            }
+                        \end{tikzpicture}
+                    </latex-image>
+                </image>
+            </sidebyside>
+            <p>
+                2. Count all the small squares in each grid.
+            </p>
+            <p>
+                3. Count all squares along one side of each grid to identify its side length.
+            </p>
+            <p>
+                4. Analyze the relationship between the side length and the total number of squares in the grid. What pattern do you observe?
+            </p>
+        </activity>
+        <example>
+            <statement>
+                <p>
+                    Find the square root of <m>324</m>.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    Express <m>324</m> as a product of its prime factors and pair up similar factors together.
+                    <md>
+                        <mrow> 324 \amp = {\color{Green} 2} \times {\color{Green} 2} \times {\color{blue} 3} \times {\color{blue} 3} \times {\color{red} 3} \times {\color{red} 3}</mrow>
+                        <mrow> \sqrt{324} \amp = \sqrt{{\color{Green} 2} \times {\color{Green} 2} \times {\color{blue} 3} \times {\color{blue} 3} \times {\color{red} 3} \times {\color{red} 3}} </mrow>
+                    </md>
+                    select one factor from each pair and multiply the selected factors. 
+                </p>
+                <p>
+                    <md>
+                        <mrow> \amp = {\color{Green} 2} \times {\color{blue} 3} \times {\color{red} 3} </mrow>
+                        <mrow> \amp = 18 </mrow>
+                    </md>
+                </p>
+            </solution>
+
+        </example>
+        <exercise>
+            <statement>
+                <p>
+                    Exercise for squares roots of whole numbers goes here
+                </p>
+            </statement>
+        </exercise>
+    </subsection>

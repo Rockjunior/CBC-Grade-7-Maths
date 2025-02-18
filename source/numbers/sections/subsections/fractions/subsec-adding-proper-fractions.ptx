@@ -1,0 +1,125 @@
+<subsection xml:id="subsec-Adding-proper-fractions">
+        <title>Adding proper fractions</title>
+        <activity>
+            <statement>
+                <p>
+                    <alert>Work in groups</alert>
+                </p>
+                <p>
+                   1.  Make a circular paper cut-out and divide it into 8 equal parts as shown below and shaded two parts as the one colored below.
+                </p>
+                <image width="25%">
+                        <shortdescription></shortdescription>
+                        <latex-image>
+                            \begin{tikzpicture}
+                                \draw (0,0) circle (1cm);
+                                \draw (-1,0) -- (1,0);
+
+                                \fill[green] (0,0) -- (1,0) arc[start angle=360, end angle=270, radius=1cm] -- cycle;
+                                \fill[green] (0,0) -- (0,1) arc[start angle=90, end angle=135, radius=1cm] -- cycle;
+                                \node at (-0.3,0.6) {\large $a$};  
+                                \node at (0.5,-0.5) {\large $b$};  
+                                \draw (0,1) -- (0,-1);
+                                \draw (-0.71,0.71) -- (0.71,-0.71);
+                                \draw (-0.71,-0.71) -- (0.71,0.71);
+                            \end{tikzpicture}
+                        </latex-image>
+                    </image>
+
+                <p>
+                   2. What fraction of the whole circle do the colored parts <alert>a</alert> and <alert>b</alert> represent?
+                </p>
+                <p>
+                    3. Combine together the two colored parts. Which fraction of the whole circle do the combined colored parts represent?
+                </p>
+            </statement>
+        </activity>
+        <example>
+            <statement>
+                <p>
+                    Add: <m>\frac{3}{8} + \frac{5}{9}</m>
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <ol cols="2" marker="a)">
+                        <li>
+                            <p>
+                                Find the LCM of <m>8 \text{ and }9.</m>
+                            </p>
+                            <tabular right="medium">
+                                <row bottom="medium">
+                                    <cell>2</cell>
+                                    <cell>8</cell>
+                                    <cell>9</cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell>2</cell>
+                                    <cell>4</cell>
+                                    <cell>9</cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell>2</cell>
+                                    <cell>2</cell>
+                                    <cell>9</cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell>3</cell>
+                                    <cell>1</cell>
+                                    <cell>9</cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell>3</cell>
+                                    <cell>1</cell>
+                                    <cell>3</cell>
+                                </row>
+                                <row>
+                                    <cell></cell>
+                                    <cell>1</cell>
+                                    <cell>1</cell>
+                                </row>
+                            </tabular>
+                            <p>
+                                <m>2 \times 2 \times  2 \times  3 \times 3 = 72</m>
+                            </p>
+                            <p>
+                                The LCM of <m>8 \text{ and } 9 \text{ is } 72.</m>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Rewrite the fractions to have a common denominator.
+                            </p>
+                            <p>
+                                <md>
+                                    <mrow>\frac{3}{8} \amp = \frac{3 \times 9}{8 \times 9} </mrow>
+                                    <mrow> \amp = \frac{27}{72} </mrow>
+                                    <mrow> \frac{5}{9} \amp = \frac{5 \times 8}{9 \times 8} </mrow>
+                                    <mrow> \amp = \frac{40}{72} </mrow>
+                                </md>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Add the fractions.
+                            </p>
+                            <p>
+                                <md>
+                                    <mrow>\frac{27}{72} + \frac{40}{72} = \frac{67}{72} \amp </mrow>
+                                    <mrow> \text{ Therefore }</mrow>
+                                    <mrow> \frac{3}{8} + \frac{5}{9} \amp = \frac{67}{72} </mrow>
+                                </md>
+                            </p>
+                        </li>
+                    </ol>
+                </p>
+            </solution>
+        </example>
+        <exercise>
+            <statement>
+                <p>
+                    Exercise for adding proper fractions
+                </p>
+            </statement>
+        </exercise>
+    </subsection>

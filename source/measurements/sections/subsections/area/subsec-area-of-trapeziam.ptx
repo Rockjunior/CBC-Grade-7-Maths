@@ -1,0 +1,100 @@
+  <subsection xml:id="subsec-area-of-trapeziam">
+    <title>Area of trapeziam</title>
+    <p>
+      Learning point 
+    </p>
+    <p>
+      <ul>
+        <li>
+          <p>
+            The area of a trapezium <m>= \frac{1}{2} (a+b)h</m>
+          </p>
+          <p>
+            where: <m>(a+b)</m> is the sum of the parallel sides and <m>h</m> is the perpendicular 
+            height of the trapezium.
+          </p>
+        </li>
+      </ul>
+    </p>
+    <activity>
+      <statement>
+        <p>
+          Harriate's plot is in the shape of the figure below.
+        </p>
+        <image source="/Trapezium.png" width="40%">
+          <shortdescription>trapezium</shortdescription>
+        </image>
+        <p>
+          What is the area of the plot of land?
+        </p>
+      </statement>
+      <solution>
+        <p>
+          <md>
+            <mrow> \text{Area of trapezium}=\amp \frac{1}{2} (a+b)h</mrow>
+            <mrow> =\amp\frac{1}{2} (160m+200m) \times 50m</mrow>
+            <mrow> =\amp \frac{1}{2} \times 360m \times 50m </mrow>
+            <mrow> =\amp 9000m^2</mrow>
+          </md>
+        </p>
+      </solution>
+    </activity>
+    <example>
+      <statement>
+        <p>
+          Calculate the area of a trapezium whose parallel sides are <m>9cm</m> 
+          and <m>11cm</m> and the vertical height is <m>5cm</m>
+        </p>
+      </statement>
+      <solution>
+        <p>
+          <md>
+            <mrow> \text{Area of a trapezium}=\amp \frac{1}{2}(9+11)cm \times 5cm </mrow>
+            <mrow> =\amp \frac{1}{2} \times 20cm \times 5cm</mrow>
+            <mrow> =\amp 50cm^2</mrow>
+          </md>
+        </p>
+      </solution>
+    </example>
+    <example>
+      <statement>
+        <p>
+          Find the length marked <m>h</m> in the figure.
+        </p>
+        <image width="50%">
+        <latex-image>
+          \begin{tikzpicture}
+            \draw [thick,fill=white](0,0) coordinate (S)-- (2,4) coordinate (P)-- (7,4) coordinate (Q)-- (10,0) 
+            coordinate (R)-- (7,0) coordinate (T)-- (0,0) coordinate (S);
+            \node at (0,-0.5){S};
+            \node at (2,4.5){P};
+            \node at (7,4.5){Q};
+            \node at (10,-0.5){R};
+            \node at (7,-0.5){T};
+            \node at (7.5,2){h};
+            \node at (5,4.5){32m};
+            \node at (5,-0.7){48m};
+            \node at (4,2){$A=400m^2$};
+
+            \draw [dashed,fill=red] (7,4) --(7,0);
+            \draw(7,0) coordinate (A)-- (7,0.5) coordinate (B)-- (7.5,0.5) coordinate (C)-- (7.5,0) coordinate(D)-- (7,0) coordinate (A);
+          \end{tikzpicture}
+        </latex-image>
+         
+        </image>
+      </statement>
+      <solution>
+        <p>
+          <md>
+            <mrow> \frac{1}{2}(a+b)h=\amp \text{Area of a trapezium} </mrow>
+            <mrow> \frac{1}{2}(48m+32m)h=\amp 400m^2 </mrow>
+            <mrow>\frac{1}{2}(80)h= \amp 400m^2  </mrow>
+            <mrow> 40h=\amp 400m^2 </mrow>
+            <mrow> h=\amp\frac{400m^2 }{40} </mrow>
+            <mrow> h=\amp 10m</mrow>
+          </md>
+        </p>
+      </solution>
+    </example>
+    
+  </subsection>

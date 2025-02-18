@@ -3,93 +3,37 @@
 <section xml:id="sec-section-Volume-and-Capacity" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Volume and Capacity</title>
   <introduction>
+    <p>
+      <m>{\color{Magenta} \text{Need for learning volume and capacity.}}</m>
+    </p>
   <sidebyside>
     <p>
-      Need for learning volume and capacity.
+        Did you take tea in the morning? Was it packed and labelled e.g 1 litre or 500ml? Now let's explore to understand why we learn volume and capacity.
+        The Importance of Volume and Capacity in the Milk Industry. The milk industry relies heavily on volume and capacity calculations at every stage—from production and storage to packaging and distribution. 
+        Understanding these concepts ensures efficiency, accuracy, and cost-effectiveness in the industry.
     </p>
-    <p>
-      To determine the amount of liquids we consume, amount of fuel we use in cars or lamps and the amount of water and milk we use to cook, we apply the knowledge of volume and capacity.
-    </p>
-    <image source="/volume.png">
+    <image source="/milkey.png">
       <shortdescription>volume</shortdescription>
     </image>
   </sidebyside>  
   </introduction>
-  <subsection xml:id="subsec-cubic-metre-as-a-unit-of-measuing-volume">
-    <title>Cubic metre as a unit of measuing volume</title>
-    <activity>
-     <sidebyside>
-      <ul>
-        <li>
-          <p>
-           what you need: Twelve sticks of length <m>1\text{m}</m>
-          </p>
-        </li>
-        <li>
-          <p>
-            Old pieces of paper 
-          </p>
-        </li>
-        <li>
-          <p>
-            A pair of scissors.
-          </p>
-        </li>
-        <li>
-          <p>
-            A ruler
-          </p>
-        </li>
-        <li>
-          <p>
-            Pieces of string.
-          </p>
-        </li>
-          <li>
-            <p>
-              Join the twelve sticks to form a cube like the one shown on the right.
-              use the pieces of paper to cover it to make a closed cube.
-            </p>
-          </li>
-          <li>
-            <p>
-              what is the volume of the cube you have made?
-            </p>
-          </li>
-          <li>
-            <p>
-              The cube you have made is called a cubic metre. It's sides are <m>1\text{m}</m> long.
-            </p>
-            <p>
-              The volume of the cube is <m>1\text{m} \times 1\text{m} \times 1\text{m} = 1\text{m^3}</m>
-            </p>
-          </li>
-        </ul>
-      <image source="/cube.png">
-        <shortdescription>making cubes</shortdescription>
-      </image>
-     </sidebyside>
-     <p>
-      Conversion of cubic metres to cubic centimetres.
-     </p>
-     <p>
-      Measure the length, the width and the height of the cube in metres .
-      Work out it's volume in cubic metres.
-       <m>1\text{m} /times 1\text{m} /times 1\text{m} = 1\text{m^3}</m>
-     </p>
-     <p>
-      Measure the length, the width and the height of the cube in centimetres.
-      Work out it's volume in cubic centimetres.
-       <m>100\text{cm} \times 100\text{cm} \times 100\text{cm} = 1,000,000\text{cm^3}</m>
-     </p>
-     <p>
-      How many cubic centimetres is one cubic metre? <m>1,000,000\text{cm^3}</m>
-      How can you convert the volume you got in cubic metres to cubic centimetres? 
-      Since <m>1\text{m^3} = 1,000,000\text{cm^3}</m>
-     </p>
-     <p>
-      Therefore to convert volume from cubic metres to cubic centimetres, we multiply the volume by 1,000,000.
-     </p>
-    </activity>
-  </subsection>
+
+
+  <xi:include href="subsections/volume-and-capacity/subsec-cubic-metre-as-a-unit-of-measuing-volume.ptx" />
+
+  <xi:include href="subsections/volume-and-capacity/subsec-volume-of-cubes.ptx" />
+
+
+  <xi:include href="subsections/volume-and-capacity/subsec-volume-of-cuboids.ptx" /> 
+
+  <xi:include href="subsections/volume-and-capacity/subsec-volume-of-cylinders.ptx" /> 
+
+  <xi:include href="subsections/volume-and-capacity/subsec-relationship-between-cubic-centimetres-cubic-metres-and-litres.ptx" /> 
+
+  <xi:include href="subsections/volume-and-capacity/subsec-relating-volume-to-capacty.ptx" />
+
+
+
+
+
 </section>
