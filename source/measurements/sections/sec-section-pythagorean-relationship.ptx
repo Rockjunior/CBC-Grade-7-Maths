@@ -7,7 +7,7 @@
     <li>
       <p>
         A triangle that contains a right angle 
-        (an angle that measures <m>90^\circ</m>,symbolized by a small square "□") is
+        (an angle that measures <m>90^\circ</m>, symbolized by a small square "□") is
         called a right triangle.
       </p>
     </li>
@@ -21,22 +21,22 @@
     </li>
     <li>
       <p>
-        The legs of a right triangle are commonly labeled
-        "<m>a</m>" and "<m>b</m>"while the hypotenuse 
-        is labeled "<m>c.</m>
+        The legs of a right triangle are commonly labelled
+        <m>a</m> and <m>b</m> while the hypotenuse 
+        is labeled <m>c</m>.
       </p>
     </li>
   </ul>
  </p>
-  <image>
+  <image width="50%">
   <latex-image>
     \begin{tikzpicture}
-      \draw [thick,fill=pink](0,0)  --(0,5) --(5,0) --(0,0);
+      \draw [thick,fill=cyan](0,0)  --(0,5) --(5,0) --(0,0);
       \draw (0,0) --(0,0.5) --(0.5,0.5) --(0.5,0) --(0,0);
-      \node at (-1,2.5){$height\, (b) $};
-      \node at (3.5,2.5){$Hypotenuse\,(c)$};
-      \node at (2.5,-0.5){$base\,(a)$};
-      \node at (-1,0.3){$Right \, angle$};
+      \node at (-1,2.5){height (b) };
+      \node at (3.9,2.5){Hypotenuse (c)};
+      \node at (2.5,-0.5){base (a)};
+      \node at (-1,0.3){Right angle};
       
     \end{tikzpicture}
   </latex-image>
@@ -48,26 +48,43 @@
     <ul>
       <li>
         <p>
-          Pythagorean relationship is used in real life in different areas. We
-          use the pythagorean relationship in  capentry to  desighn houses,
-          furniture,fields,land sub-division,When designing buildings or rooms eg your classroom,
-           In sports like basketball, football, or soccer, and many more.
+          The Pythagorean relationship is a special rule about right-angled triangles. 
+          It helps us find the length of one side if we know the other two sides.
+        </p>
+        <p>
+          We use the Pythagorean relationship in many real-life situations, such as: 
+          <me>{\color{green} \text{Carpentry}}\text{: To design classrooms, furniture and divide land into plots.}</me>
+          <me>{\color{green}\text{ Building and Room Design}}\text{: For example, when building classrooms or arranging furniture.}</me>
+          <me>{\color{green} \text{Sports}}\text{: In games like basketball, soccer, or football, it helps measure distances, like how far a player runs or the shortest path to the goal.}</me>
         </p>
         
       </li>
       <li>
         <p>
-          About 2000 years ago, an amazing discovery was made about right
-          angled triangles. If squares of length equivalent to the sides of the
-          triangle, then the sum of the area of the two small squares is exactly the
-          same as the area of the large square. As shown in the figure below;
+          A long time ago, about 2000 years back, 
+          people discovered something amazing about right-angled triangles. They found that:
+        </p>
+        <p>
+          <m>{\color{green} \text{If you make squares on each side of a right-angled triangle, 
+          the area of the two smaller squares adds up to the area of the largest square.}}</m>
+        </p>
+        <p>
+          In other words, the two small squares together are exactly the same size as the big square.
         </p>
         <image source="/Rightangle-triangle.png" width="50%">
           <shortdescription>The ubove description for about 2000 years</shortdescription>
         </image>
         <p>
-          Where <m>a</m>, <m>b</m> and <m>c</m> represent the sides 
-          of the right-angled triangle
+          This special rule is called the Pythagorean Theorem, and we write it as: <me>a^2+b^2=c^2</me>
+        </p>
+        <p>
+          Where,
+        </p>
+        <p>
+          <m>a </m> and <m>b </m> are the shorter sides of the triangle.
+        </p>
+        <p>
+          <m>c </m> is the longest side (called the hypotenuse).
         </p>
       </li>
     
@@ -87,13 +104,13 @@
       </p>
       <sidebyside>
         <p>
-          Harriet and Henry are Grade 7 learners. During the 
-          August holiday, they visited their grandmother,who lives 
+          Cherotich and Onyango are Grade 7 learners. During the 
+          August holiday, they visited their grandmother, who lives 
           nearby a village. Their grandmother is a grocer. 
-          Harriet and Henry help there grandmother to fetch fruits from 
-          a tree for selling.Harriet used a <m>10 m</m> ladder to climb the fruit 
-          tree. The ladder had its foot <m>6 m</m> from the bottom of the tree 
-          and leaned on the tree at the height of <m>8 m</m>.
+          Cherotich and Onyango help there grandmother to fetch fruits from 
+          a tree for selling. Cherotich used a <m>10\,m</m> ladder to climb the fruit 
+          tree. The ladder had its foot <m>6\,m</m> from the bottom of the tree 
+          and leaned on the tree at the height of <m>8\,m</m>.
         </p>
     
         <image source="/Tree-harriet.png" width="40%">
@@ -101,7 +118,7 @@
         </image>
       </sidebyside>
         <p>
-          <em>Learning point</em>
+          <m>{\color{blue}\textit{Learning point}}</m>
         </p>
         <p>
           <ol>
@@ -206,7 +223,7 @@
     </solution>
   </activity>
   <p>
-    The pythagorean relationship.
+    <m>{\color{blue}\text{The pythagorean relationship.}}</m>
   </p>
   <p>
     <ul>
@@ -220,19 +237,44 @@
     </ul>
   </p>
   <sidebyside>
-    <image source="/sides.png" width="40">
-      <shortdescription>Sides</shortdescription>
+    <image  width="50%">
+    <latex-image>
+      \begin{tikzpicture}
+        % Draw the triangle
+        \fill[yellow!50] (0,0) -- (4,0) -- (0,3) -- cycle;
+        
+        % Draw the triangle outline
+        \draw[thick] (0,0) -- (4,0) -- (0,3) -- cycle;
+        
+        % Label vertices
+        \node[below left] at (0,0) {A};
+        \node[below right] at (4,0) {B};
+        \node[above left] at (0,3) {C};
+        
+        % Label sides
+        \node[below] at (2,0) { \(a\)};
+        \node[left] at (0,1.5) { \(b\)};
+        \node[above right] at (2,1.5) { \(c\)};
+        \node[above right] at (2,2.5)   {\(a^2+b^2=c^2\)};
+        
+        % Right angle symbol
+        \draw (0,0) rectangle ++(0.3,0.3);
+
+      \end{tikzpicture}
+    </latex-image>
+      
     </image>
     <p>
       <ul>
         <li>
           <p>
-            From the fugure alongside, side a is the <m>base</m>,
-            side b is the <m>height</m> and side c is the 
-            <m>hypotenuse</m>.Therfore the relationship is, <m>a^2+b^2=c^2</m>.
+            From the figure alongside, side <m>a</m> is the <m>{\color{blue}\text{base}}</m>,
+            side b is the <m>{\color{blue}\text{height}}</m> and side c is the 
+            <m>{\color{blue}\text{hypotenuse}}</m>.Therefore the relationship is, <m>a^2+b^2=c^2</m>.
           </p>
           <p>
-            The relationship can be changed depending on the question asked  on the length to calculate as shown below.
+            The relationship can be changed depending on the question 
+            asked  on the length to calculate as shown below.
           </p>
         </li>
         <li>
@@ -259,16 +301,41 @@
         Find the length of the side marked y in 
         the right-angled triangle below.
       </p>
-      <image source="/Question.png" width="40%">
-        <shortdescription>question</shortdescription>
+      <image width="50%">
+      <latex-image>
+        \begin{tikzpicture}
+          % Draw the triangle
+          \fill[white!50] (0,0) -- (4,0) -- (0,3) -- cycle;
+          
+          % Draw the triangle outline
+          \draw[very thick] (0,0) -- (4,0) -- (0,3) -- cycle;
+          
+
+          
+          % Label sides
+          \node[below] at (2,0) { \(6\,cm\)};
+          \node[left] at (0,1.5) { \(8\,cm\)};
+          \node[above right] at (2,1.5) { \(y\)};
+          
+          
+          % Right angle symbol
+          \draw (0,0) rectangle ++(0.3,0.3);  
+
+
+        \end{tikzpicture}
+      </latex-image>
+        
       </image>
     </statement>
-    
-    <solution>
+    <hint>
       <p>
         To find the length of any side of the right-angled triangle, we use the 
         pythagorean relationship which state that: <m>c^2=a^2+b^2 </m>.
       </p>
+    </hint>
+    
+    <solution>
+
       <p>
         In the above example,
       </p>
@@ -296,20 +363,91 @@
         Therefore,
       </p>
       <p>
-        side <m>y</m> is <m>10 cm</m>
+        side <m>y</m> is <m>10\,cm</m>
       </p>
     </solution>
   </example>
 
+  <example>
+    <statement>
+      <p>
+        Find the length of <m> w </m> in the figure below.
+      </p>
+      <image width="50%">
+      <latex-image>
+        \begin{tikzpicture}
+          \draw [thick,fill=blue] (0,4) --(4,4) --(4,0) --(0,4);
+          \node at (2,1){$40 \,cm$};
+          \node at (2,4.5){$w \,cm$};
+          \node at (4.5,2){$24 \,cm$};
+          \draw (3.5,3.5) --(3.5,4) --(4,4) --(4,3.5) --(3.5,3.5);
+        \end{tikzpicture}
+      </latex-image>
+        
+      </image>
+    </statement>
+    <solution>
+      <p>
+        <md>
+          <mrow> w^2=\amp (40^2-24^2)\,cm </mrow>
+          <mrow> w^2=\amp 1\,600\,cm^2 - 576\,cm^2</mrow>
+          <mrow> w^2=\amp 1\,024\,cm^2</mrow>
+          <mrow> w=\amp \sqrt{1\,024\,cm^2} </mrow>
+          <mrow> w=\amp 32\,cm </mrow>
+        </md>
+      </p>
+      <p>
+        Therefore the length of <m>w</m> is <m>32\,cm</m>
+      </p>
+    </solution>
+  </example>
+
+  <example>
+    <statement>
+      <p>
+        In the triangle find the size of line <m> PQ </m>
+      </p>
+      <image width="50%">
+      <latex-image>
+        \begin{tikzpicture}
+          \draw [thick,fill=white](0,0) coordinate (A)-- (0,5) coordinate (B)-- (5,0) coordinate (C)-- (0,0)coordinate (A);
+          \node at (0,-0.5){R};
+          \node at (0,5.5){P};
+          \node at (5,-0.5){Q};
+          \node at (-1,2.5){18cm};
+          \node at (3,2.5){};
+          \node at (2.5,-0.5){24 cm};
+          \draw(0,0) coordinate (A)-- (0,0.5) coordinate (B)-- (0.5,0.5) coordinate (C)-- (0.5,0) coordinate(D)-- (0,0) coordinate (A);
+       \end{tikzpicture}
+      </latex-image>
+      </image>
+    </statement>
+
+    <solution>
+      <p>
+        <md>
+          <mrow> PQ^2=\amp (QR^2+PR^2)\,cm </mrow>
+          <mrow> PQ^2=\amp (24^2 + 18^2)\,cm^2</mrow>
+          <mrow> PQ^2=\amp 576cm^2 + 324\,cm^2</mrow>
+          <mrow> PQ^2=\amp \sqrt{900\,cm^2} </mrow>
+          <mrow> PQ=\amp 30\,cm </mrow>
+        </md>
+  
+      </p>
+      <p>
+        Therefore the length of <m>PQ</m> is <m>30\,cm</m>
+      </p>
+    </solution>
+  </example>
   <p>
-    Application for pythagorean relationship
+    <m>{\color{green} \text{Application for pythagorean relationship}}</m>
   </p>
   <example>
     <statement>
       <p>
-        The base of a ladder is <m>5 m</m> from the base of a vertical 
+        The base of a ladder is <m>5\,m</m> from the base of a vertical 
         wall. A painter places the ladder such that it touches the top of the 
-        wall at a point <m>12 m</m> above the ground.calculate the length 
+        wall at a point <m>12\,m</m> above the ground.calculate the length 
         of the ladder (c).
       </p>
     </statement>
@@ -362,94 +500,22 @@
       </latex-image>
       
       </image>
-      <p>
-        Using the pythagorean relationship that outlines <m>a^2+b^2=c^2</m>,
-      </p>
+
       <p>
         <md>
-          <mrow> c^2=\amp(5^2+12^2)m^2 </mrow>
-          <mrow> c^2= \amp(25+144)m^2 </mrow>
-          <mrow> c^2=\amp 169 m^2 </mrow>
-          <mrow> c=\amp \sqrt{169 m^2}</mrow>
-          <mrow> c=\amp 13 m</mrow>
+          <mrow> c^2=\amp(5^2+12^2)\,m^2 </mrow>
+          <mrow> c^2= \amp(25+144)\,m^2 </mrow>
+          <mrow> c^2=\amp 169 \,m^2 </mrow>
+          <mrow> c=\amp \sqrt{169 \,m^2}</mrow>
+          <mrow> c=\amp 13 \,m</mrow>
         </md>
       </p>
       <p>
-        Therefore,the length of the ladder (c) is <m>13 m</m>
-      </p>
-    </solution>
-  </example>
-  <example>
-    <statement>
-      <p>
-        Find the length of <m> w </m> in the figure below.
-      </p>
-      <image width="50%">
-      <latex-image>
-        \begin{tikzpicture}
-          \draw [thick,fill=blue] (0,4) --(4,4) --(4,0) --(0,4);
-          \node at (2,1){$40 \,cm$};
-          \node at (2,4.5){$w \,cm$};
-          \node at (4.5,2){$24 \,cm$};
-          \draw (3.5,3.5) --(3.5,4) --(4,4) --(4,3.5) --(3.5,3.5);
-        \end{tikzpicture}
-      </latex-image>
-        
-      </image>
-    </statement>
-    <solution>
-      <p>
-        <md>
-          <mrow> w^2=\amp (40^2-24^2)cm </mrow>
-          <mrow> w^2=\amp 1 600cm^2 - 576cm^2</mrow>
-          <mrow> w^2=\amp 1 024cm^2</mrow>
-          <mrow> w=\amp \sqrt{1024cm^2} </mrow>
-          <mrow> w=\amp 32cm </mrow>
-        </md>
-      </p>
-      <p>
-        Therefore the length of <m>w</m> is <m>32cm</m>
+        Therefore,the length of the ladder (c) is <m>{\color{blue} 13\,m}</m>.
       </p>
     </solution>
   </example>
 
-  <example>
-    <statement>
-      <p>
-        In the triangle find the size of line <m> PQ </m>
-      </p>
-      <image width="40%">
-      <latex-image>
-        \begin{tikzpicture}
-          \draw [thick,fill=white](0,0) coordinate (A)-- (0,5) coordinate (B)-- (5,0) coordinate (C)-- (0,0)coordinate (A);
-          \node at (0,-0.5){R};
-          \node at (0,5.5){P};
-          \node at (5,-0.5){Q};
-          \node at (-1,2.5){18cm};
-          \node at (3,2.5){};
-          \node at (2.5,-0.5){24 cm};
-          \draw(0,0) coordinate (A)-- (0,0.5) coordinate (B)-- (0.5,0.5) coordinate (C)-- (0.5,0) coordinate(D)-- (0,0) coordinate (A);
-       \end{tikzpicture}
-      </latex-image>
-      </image>
-    </statement>
-
-    <solution>
-      <p>
-        <md>
-          <mrow> PQ^2=\amp (QR^2+PR^2)cm </mrow>
-          <mrow> PQ^2=\amp (24^2 + 18^2)cm^2</mrow>
-          <mrow> PQ^2=\amp 576cm^2 + 324cm^2</mrow>
-          <mrow> PQ^2=\amp \sqrt{900cm^2} </mrow>
-          <mrow> PQ=\amp 30cm </mrow>
-        </md>
-  
-      </p>
-      <p>
-        Therefore the length of <m>PQ</m> is <m>30cm</m>
-      </p>
-    </solution>
-  </example>
 
 
  

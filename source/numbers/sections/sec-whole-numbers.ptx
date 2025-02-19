@@ -18,7 +18,6 @@
     <xi:include href="subsections/whole-numbers/subsec-natural-numbers.ptx" />
     <xi:include href="subsections/whole-numbers/subsec-prime-numbers.ptx" />
     <xi:include href="subsections/whole-numbers/subsec-operations-on-whole-numbers.ptx" />
-    <xi:include href="subsections/whole-numbers/subsec-subtraction-of-whole-numbers.ptx" />
-    <xi:include href="subsections/whole-numbers/subsec-multiplication-of-whole-number.ptx" /> 
+    <xi:include href="subsections/whole-numbers/subsec-number-sequence.ptx" />
 </section> 
  

@@ -1,5 +1,5 @@
 <subsection xml:id="subsec-circumfrence-of-circles">
-  <title>Circumfrence of circles</title>
+  <title>Circumference of circles</title>
   <activity>
     <sidebyside>
     <ol>
@@ -10,27 +10,27 @@
       </li>
       <li>
         <p>
-          Measure the circumfrence of each circular object using a tapemeasure  as shown alongside, 
+          Measure the circumference of each circular object using a tapemeasure  as shown alongside, 
           Or a string if you don't have a tapemeasure and record your answer.
         </p>
       </li>
       <li>
         <p>
-          Use a ruler to meaaure the length of the string that is equal to the string that is equal to the circumfrence.
+          Use a ruler to measure the length of the string that is equal to the string that is equal to the circumference.
         </p>
       </li>
       <li>
         <p>
-          measure the diameter of each circular object as shown below. The distance <m>d</m> is the diameter of each object.
+          Measure the diameter of each circular object as shown below. The distance <m>d</m> is the diameter of each object.
         </p>
       </li>
     </ol>
     <image source="/circumfrence.png">
-      <shortdescription>measuring circumfrence</shortdescription>
+      <!-- <shortdescription>measuring circumfrence</shortdescription> -->
     </image>
     </sidebyside>
     <image source="/set sq.png">
-      <shortdescription>(measurind diameter)</shortdescription>
+      <!-- <shortdescription>(measuring diameter)</shortdescription> -->
     </image>
     <p>
       5.Draw and fill in the table like the one shown below.
@@ -39,11 +39,11 @@
       <title></title>
       <tabular halign="left" top="medium" bottom="medium" left="medium" right="medium">
         <row header="yes">
-          <cell>Number of Item</cell>
+          <cell>Number of Item(s)</cell>
           <cell>Object</cell>
-          <cell> Circumfrence (C)</cell>
+          <cell> Circumference (C)</cell>
           <cell>Diameter (d)</cell>
-          <cell>circumfrence <m>\div</m> diameter <m>(\frac{C}{d})</m></cell>
+          <cell>Circumference <m>\div</m> diameter <m>(\frac{C}{d})</m></cell>
           
         </row>
         <row >
@@ -86,25 +86,25 @@
       <ul>
         <li>
           <p>
-            The circumfrence is the distance round a circle.
+            The circumference is the distance round a circle.
           </p>
         </li>
         <li>
           <p>
-            When you divide the circumfrence by the diameter of any circular object, the number you get is 
+            When you divide the circumference by the diameter of any circular object, the number you get is 
             approximately <m>3.14</m> correct to two decimal places.
             <me>
-              \frac{Circumfrence}{diameter} = 3.14
+              \frac{Circumference}{diameter} = 3.14
             </me>            
           </p>
           <p>
-            Circumfrence <m>= 3.14 \times\text {diameter}</m>
+            Circumference <m>= 3.14 \times\text {diameter}</m>
           </p>
         </li>
         <li>
           <p>
             The number <m>3.14</m> is called <m>\textbf {pi}</m> and is represented by the symbol <m>\pi</m>. As a fraction, <m>\pi = \frac {22}{7}</m>.
-            Therefore, circumfrence <m> = \pi d</m>
+            Therefore, circumference <m> = \pi d</m>
           </p>
         </li>
         <li>
@@ -112,7 +112,7 @@
             Two radii are equal to the diameter. Hence <m>d = 2r</m>            
           </p>
           <p>
-            Circumfrence 
+            Circumference 
             <md>
               <mrow>= \amp  \pi \times d</mrow>
               <mrow>= \amp \pi \times 2r</mrow>
@@ -128,7 +128,7 @@
   <example>
     <statement>
       <p>
-        The diametere of a circle is <m>21\, cm</m>. Find its circumference.
+        The diameter of a circle is <m>21\, cm</m>. Find its circumference.
       </p>
     </statement>
     <solution>
@@ -153,7 +153,7 @@
   <example>
     <statement>
       <p>
-        Woerk out the circumference.
+        Work out the circumference.
       </p>
       <image width="50%">
       <latex-image>

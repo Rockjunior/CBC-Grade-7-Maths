@@ -72,8 +72,8 @@
                         <li>
                             <p><m>\left( \frac{2}{5} \right)^2</m></p>
                             <p>To square a fraction, square both the numerator (top number) and the denominator (bottom number). <m>\left( \frac{2}{5} \right)^2 = \frac{2^2}{5^2}</m></p>
-                            <p>Square the numerator: <m>2^2 = 2 \times 2 = 4</m></p>
-                            <p>Square the denominator: <m>5^2 = 5 \times 5 = 25</m></p>
+                            <p>Square the numerator: <m>2^2 = {\color{blue}2} \times {\color{blue}2} = 4</m></p>
+                            <p>Square the denominator: <m>5^2 = {\color{red}5} \times {\color{red}5} = 25</m></p>
                             <p>Combine the squared numerator and denominator to form the new fraction.</p>
                             <p><m>\left( \frac{2}{5} \right)^2 = \frac{2^2}{5^2} = \frac{4}{25}</m></p>
                         </li>

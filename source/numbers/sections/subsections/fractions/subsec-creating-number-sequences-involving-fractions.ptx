@@ -32,11 +32,13 @@
                 </p>
                 <p>
                     <md>
-                        <mrow> \text{First addition: } 1 \frac{1}{3} + {\color{blue}\frac{1}{3}} \amp = 1 \frac{2}{3} </mrow>
+                        <mrow>\text{ First term in the sequence } \amp = 1 \frac{1}{3}</mrow>
                         <mrow></mrow>
-                        <mrow> \text{Second addition: } 1 \frac{2}{3} + {\color{blue}\frac{1}{3}} \amp = 2 </mrow>
+                        <mrow> \text{Second term in the sequence: } 1 \frac{1}{3} + {\color{blue}\frac{1}{3}} \amp = 1 \frac{2}{3} </mrow>
                         <mrow></mrow>
-                        <mrow>\text{Third addition: } \quad 2 + {\color{blue}\frac{1}{3}} \amp = 2 \frac{1}{3} </mrow>
+                        <mrow> \text{Third term in the sequence: } 1 \frac{2}{3} + {\color{blue}\frac{1}{3}} \amp = 2 </mrow>
+                        <mrow></mrow>
+                        <mrow>\text{Fourth term in the sequence: } \quad 2 + {\color{blue}\frac{1}{3}} \amp = 2 \frac{1}{3} </mrow>
                         <mrow></mrow>
                     </md>
                 </p>
