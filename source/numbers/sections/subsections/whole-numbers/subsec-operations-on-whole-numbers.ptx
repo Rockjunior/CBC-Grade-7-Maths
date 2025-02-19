@@ -354,7 +354,6 @@
   <example>
     <statement>
       <p>
-
         Work out the following:
       </p>
       <p>
@@ -362,12 +361,6 @@
       </p>
       <p>
         b) <m>2841 \div 45</m>
-
-        Work out the following: a) <m>6396 \div 123</m>
-      </p>
-      <p>
-                                  b) <m>2841 \div 45</m>
-
       </p>
     </statement>
     <solution>
@@ -406,7 +399,6 @@
       <p>
         b)
       </p>
-
        <tabular>
       <row>
         <cell></cell>
@@ -446,7 +438,6 @@
     </statement>
   </exercise>
 </subsubsection>
-
 <subsubsection xml:id="subsubsec-combined-operations-of-whole-numbers">
   <title>Combined operations of whole numbers</title>
   <p>
@@ -574,7 +565,6 @@
       </p>
     </solution>
   </example>
-
   <exercise>
     <statement>
       <p>
@@ -582,6 +572,5 @@
       </p>
     </statement>
   </exercise>
-
 </subsubsection>
 </subsection>
