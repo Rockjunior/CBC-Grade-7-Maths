@@ -141,6 +141,12 @@
             </li>
           </ol>
         </p>
+        <figure>
+          <caption>Perimeter of different plane figures.</caption>
+         <interactive xml:id="geogebra-speed-geogebra" platform="geogebra" width="150%" aspect="1:1">
+           <slate xml:id="speeed-geogebra" surface="geogebra" material="u5jtcukj" aspect="1:1" />
+        </interactive>
+      </figure>
         <p>
           <em>LEARNING POINT</em>
         </p>
