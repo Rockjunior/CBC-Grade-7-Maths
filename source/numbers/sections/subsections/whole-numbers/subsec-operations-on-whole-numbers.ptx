@@ -354,6 +354,7 @@
   <example>
     <statement>
       <p>
+<<<<<<< HEAD
         Work out the following:
       </p>
       <p>
@@ -361,6 +362,12 @@
       </p>
       <p>
         b) <m>2841 \div 45</m>
+=======
+        Work out the following: a) <m>6396 \div 123</m>
+      </p>
+      <p>
+                                  b) <m>2841 \div 45</m>
+>>>>>>> 4b6d2e6 (added contents on whole numbers)
       </p>
     </statement>
     <solution>
@@ -399,6 +406,7 @@
       <p>
         b)
       </p>
+<<<<<<< HEAD
        <tabular>
       <row>
         <cell></cell>
@@ -572,5 +580,9 @@
       </p>
     </statement>
   </exercise>
+=======
+    </solution>
+  </example>
+>>>>>>> 4b6d2e6 (added contents on whole numbers)
 </subsubsection>
 </subsection>
