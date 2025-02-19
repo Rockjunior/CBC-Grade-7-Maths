@@ -150,6 +150,12 @@
       </p>
     </solution>
   </example>
+  <figure>
+  <caption>Perimeter of different plane figures.</caption>
+  <interactive xml:id="geogebra-circle-geogebra" platform="geogebra" width="150%" aspect="1:1">
+    <slate xml:id="circumference-geogebra" surface="geogebra" material="za3dvn3e" aspect="1:1" />
+  </interactive>
+</figure>
   <example>
     <statement>
       <p>
