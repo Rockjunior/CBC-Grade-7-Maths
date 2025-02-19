@@ -1,69 +1,105 @@
 <subsection xml:id="subsec-Square-roots-of-fractions">
         <title>Square roots of fractions</title>
         <activity>
-            <statement>
+            <introduction>
                 <p>
                     <alert>Work in groups</alert>
                 </p>
-                <p>
-                    1. Draw the following grids as shown below.
-                </p>
-                <sidebyside widths="25% 25% 25%"> 
-                    <image> 
-                    <shortdescription>Area = 1/4</shortdescription> 
-                        <latex-image> 
-                            \begin{tikzpicture}[scale=0.8] 
-                                \fill[green!30] (0,0) rectangle (1,1); 
-                                \draw[thick,blue] (0,0) rectangle (2,2); 
-                                \draw[thin,gray] (0,0) grid (2,2);
-                            \end{tikzpicture} 
-                        </latex-image>
-                    </image> 
-                    <image> 
-                        <shortdescription>Area = 9/16</shortdescription> 
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        Draw the following grids as shown below.
+                    </p>
+                    <sidebyside widths="25% 25% 25%"> 
+                        <image> 
+                        <shortdescription>Area = 1/4</shortdescription> 
                             <latex-image> 
                                 \begin{tikzpicture}[scale=0.8] 
-                                \fill[green!30] (0,0) rectangle (3,3);
-                                \draw[thick,blue] (0,0) rectangle (4,4); 
-                                \draw[thin,gray] (0,0) grid (4,4);
+                                    \fill[green!30] (0,0) rectangle (1,1); 
+                                    \draw[thick,blue] (0,0) rectangle (2,2); 
+                                    \draw[thin,gray] (0,0) grid (2,2);
                                 \end{tikzpicture} 
                             </latex-image>
-                    </image> 
-                    <image>
-                         <shortdescription>Area = 4/9</shortdescription> 
-                         <latex-image> \begin{tikzpicture}[scale=0.8] 
-                            \fill[green!30] (0,0) rectangle (2,2); 
-                            \draw[thick,blue] (0,0) rectangle (3,3); 
-                            \draw[thin,gray] (0,0) grid (3,3); 
-                            \end{tikzpicture} 
-                        </latex-image> 
-                    </image>
-                </sidebyside>
-                <p>
-                    2. Count and record the total number of small squares in each shaded region of the grid.
-                </p>
-                <p>
-                    3. Count and record the total number of small squares in each grid.
-                </p>
-                <p>
-                    4. Express the fraction of the shaded region by using the total number of shaded squares as the numerator and the total number of squares in the grid as the denominator.
-                </p>
-                <p>
-                    5. Identify the side length of each square grid by counting the number of small squares along one side.
-                </p>
-                <p>
-                    6. Identify the side length of the shaded region by counting the number of small squares along one side.
-                </p>
-                <p>
-                    7. Represent the number of small squares of the side length of each colored region in the each square grid as numerator and number of small squares of the side length of each square grid as the denominator of the fractions.
-                </p>
-                <p>
-                    8. Form a fraction using the side length of the shaded region as the numerator and the total side length of the grid as the denominator.
-                </p>
-                <p>
-                    9. Compare the two fractions obtained in steps 4 and 7. What relationship do you observe between them?
-                </p>
-            </statement>
+                        </image> 
+                        <image> 
+                            <shortdescription>Area = 9/16</shortdescription> 
+                                <latex-image> 
+                                    \begin{tikzpicture}[scale=0.8] 
+                                    \fill[green!30] (0,0) rectangle (3,3);
+                                    \draw[thick,blue] (0,0) rectangle (4,4); 
+                                    \draw[thin,gray] (0,0) grid (4,4);
+                                    \end{tikzpicture} 
+                                </latex-image>
+                        </image> 
+                        <image>
+                            <shortdescription>Area = 4/9</shortdescription> 
+                            <latex-image> \begin{tikzpicture}[scale=0.8] 
+                                \fill[green!30] (0,0) rectangle (2,2); 
+                                \draw[thick,blue] (0,0) rectangle (3,3); 
+                                \draw[thin,gray] (0,0) grid (3,3); 
+                                \end{tikzpicture} 
+                            </latex-image> 
+                        </image>
+                    </sidebyside>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Count and record the total number of small squares in each shaded region of the grid.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Count and record the total number of small squares in each grid.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Express the fraction of the shaded region by using the total number of shaded squares as the numerator and the total number of squares in the grid as the denominator.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Identify the side length of each square grid by counting the number of small squares along one side.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Identify the side length of the shaded region by counting the number of small squares along one side.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Represent the number of small squares of the side length of each colored region in the each square grid as numerator and number of small squares of the side length of each square grid as the denominator of the fractions.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Form a fraction using the side length of the shaded region as the numerator and the total side length of the grid as the denominator.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Compare the two fractions obtained in steps 4 and 7. What relationship do you observe between them?
+                    </p>
+                </statement>
+            </task>
         </activity>
         <p>
             To find the square root of a fraction, work out the square root of the numerator and square root of the denominator separately.

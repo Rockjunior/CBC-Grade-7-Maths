@@ -1,29 +1,29 @@
 <subsection xml:id="subsec-Division-of-a-fraction-by-a-whole-number">
         <title>Division of a fraction by a whole number</title>
         <activity>
-            <statement>
+            <introduction>
                 <p>
-                   <alert>Work in groups</alert>
+                    
                 </p>
                 <p>
                     Mr. Obiero is a meat seller in Namanga center.He always ensure food safety and hygiene when handling and selling meat.
                      He is selling <m>\frac{1}{2}</m> kg of meat to four teachers of Seku primary school.
                 </p>
-                <p>
-                    <ol marker="a)">
-                        <li>
-                            <p>  
-                               1. What fraction of the meat will each teacher receive if they share it equally?
-                            </p>
-                        </li>
-                        <li>
-                            <p>
-                               2. Share your answer with other learners in your class.
-                            </p>
-                        </li>
-                    </ol>
-                </p>
-            </statement>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        What fraction of the meat will each teacher receive if they share it equally?
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Share your answer with other learners in your class.
+                    </p>
+                </statement>
+            </task>
         </activity>
         <p>
             When dividing a fraction by a whole number, multiply the fraction by the reciprocal of the whole.

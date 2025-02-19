@@ -3,7 +3,7 @@
     <activity>
         <introduction>
             <p>
-                <alert>Work in groups</alert>
+                
             </p>
         </introduction>
         <task>
@@ -32,13 +32,11 @@
                 <p>
                     Click <c>START AGAIN</c> button and repeate the process with different decimal values
                 </p>
+                <figure>
+                    <caption></caption>
+                    <interactive xml:id="square-root-of-decimals-activity" geogebra="rasmgh54" width="100%" aspect="9:7" reset-icon="yes" />
+                </figure>
             </statement>
-        </task>
-        <task>
-            <figure>
-                <caption></caption>
-                <interactive xml:id="square-root-of-decimals-activity" geogebra="rasmgh54" width="100%" aspect="9:7" reset-icon="yes" />
-            </figure>
         </task>
     </activity>
     <example>
@@ -93,7 +91,7 @@
                             </me>
                             
                             <me>
-                                = 0.9
+                                \quad = 0.9
                             </me>
                         </p>
                     </li>

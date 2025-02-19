@@ -1,68 +1,79 @@
 <subsection xml:id="subsec-Squares-of-whole-numbers">
         <title>Squares of whole numbers</title>
-        <activity>
-            <p>
-                <alert>Work in groups</alert>
-            </p>
-            
-            <p>
-                <ol>
-                    <li>
-                        <p>
-                            Draw a grid of squares like the one shown below.
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            Start by counting all the smallest squares <m>(1 \times 1)</m> in the grid.
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            Then, identify and count all the larger squares, such as <m>2 \times 2, \,\,</m>  <m>3 \times 3</m>, and so on, until you reach the largest square that fits within the grid.
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            Write down the number of squares for each size <m> (e.g., 1 \times 1, \,\, 2 \times 2, ...) </m> in a table for better organization. Add them up to find the total number of squares in the grid.
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            Discuss your findings with a in a small group. Compare how many squares each of you found and check for any missed squares.                      
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            Think about the process you used to count the squares. Could there be a quicker way to calculate the total number of squares without counting each one individually?
-                        </p>
-                    </li>
-                </ol>
-            </p>
-            <image width="30%">
-                <shortdescription></shortdescription>
-                <latex-image>
-                    \begin{tikzpicture}
-                        \foreach \x in {0,1,2,3,4,5} {
-                            \draw[thick,blue] (\x,0) -- (\x,5);
-                        }
-                        \foreach \y in {0,1,2,3,4,5} {
-                            \draw[thick,blue] (0,\y) -- (5,\y);
-                        }
-                    \end{tikzpicture}
-                </latex-image>
-            </image>
-        </activity>
-        <definition xml:id="def-square-of-a-number">
-            <statement>
-                <p>
-                    The square of a number is a product of the number by itself.
-                </p>
-            </statement>
-        </definition>
         <p>
-            The square of a number is a product of the number by itself.
+            Whole numbers are set of numbers including <m>0</m> and positive integers. 
+            They donot contain decimals, fraction or negative integers.
+            Whole numbers are also called counting numbers. i.e <m>0,1,2,3,4,5,6,...</m>
         </p>
+        <p>
+            We find the square of a whole number, by multiplying the whole number by itself, the resulting product is the called the square number.
+            In particular, the operation of multiplying a whole number with itself can be expressed with an an exponent of 2. 
+        </p>
+        <p>
+            For example, the square of <m>3</m> can be expressed as <m>3^2</m> and <m>3^2 = 3 \times 3 = 9</m>.
+        </p>
+        <activity>
+            <introduction>
+                <p>
+                    <alert>Work in groups</alert>
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        Draw a grid of squares like the one shown below.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Start by counting all the smallest squares <m>(1 \times 1)</m> in the grid.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Then, identify and count all the larger squares, such as <m>2 \times 2, \,\,</m>  <m>3 \times 3</m>, and so on, until you reach the largest square that fits within the grid.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                         Write down the number of squares for each size <m> (e.g., 1 \times 1, \,\, 2 \times 2, ...) </m> in a table for better organization. Add them up to find the total number of squares in the grid.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Discuss your findings with a in a small group. Compare how many squares each of you found and check for any missed squares.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Think about the process you used to count the squares. Could there be a quicker way to calculate the total number of squares without counting each one individually?
+                    </p>
+                    <image width="30%">
+                        <shortdescription></shortdescription>
+                        <latex-image>
+                            \begin{tikzpicture}
+                                \foreach \x in {0,1,2,3,4,5} {
+                                    \draw[thick,blue] (\x,0) -- (\x,5);
+                                }
+                                \foreach \y in {0,1,2,3,4,5} {
+                                    \draw[thick,blue] (0,\y) -- (5,\y);
+                                }
+                            \end{tikzpicture}
+                        </latex-image>
+                    </image>
+                </statement>
+            </task>
+        </activity>
         <example>
             <statement>
                 <p>

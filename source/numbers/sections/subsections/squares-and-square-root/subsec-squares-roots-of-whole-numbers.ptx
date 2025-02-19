@@ -1,62 +1,80 @@
 <subsection xml:id="subsec-Squares-roots-of-whole-numbers">
         <title>Squares roots of whole numbers</title>
         <activity>
-            <p>
-                <alert>Work in groups</alert>
-            </p>   
-            <p>
-                1. Draw the following grid pattern in your exercise books or on graph paper, ensuring they match the examples shown.
-            </p> 
-            <sidebyside widths="25% 25% 25%">
-                <image>
-                    <shortdescription></shortdescription>
-                    <latex-image>
-                        \begin{tikzpicture}
-                            \foreach \x in {0,1,2,3} {
-                                \draw[thick,blue] (\x,0) -- (\x,3);
-                            }
-                            \foreach \y in {0,1,2,3} {
-                                \draw[thick,blue] (0,\y) -- (3,\y);
-                            }
-                        \end{tikzpicture}
-                    </latex-image>
-                </image>
-                <image>
-                    <shortdescription></shortdescription>
-                    <latex-image>
-                        \begin{tikzpicture}
-                            \foreach \x in {0,1,2,3,4} {
-                                \draw[thick,blue] (\x,0) -- (\x,4);
-                            }
-                            \foreach \y in {0,1,2,3,4} {
-                                \draw[thick,blue] (0,\y) -- (4,\y);
-                            }
-                        \end{tikzpicture}
-                    </latex-image>
-                </image>
-                <image>
-                    <shortdescription></shortdescription>
-                    <latex-image>
-                        \begin{tikzpicture}
-                            \foreach \x in {0,1,2,3,4,5} {
-                                \draw[thick,blue] (\x,0) -- (\x,5);
-                            }
-                            \foreach \y in {0,1,2,3,4,5} {
-                                \draw[thick,blue] (0,\y) -- (5,\y);
-                            }
-                        \end{tikzpicture}
-                    </latex-image>
-                </image>
-            </sidebyside>
-            <p>
-                2. Count all the small squares in each grid.
-            </p>
-            <p>
-                3. Count all squares along one side of each grid to identify its side length.
-            </p>
-            <p>
-                4. Analyze the relationship between the side length and the total number of squares in the grid. What pattern do you observe?
-            </p>
+            <introduction>
+                <p>
+                    <alert>Work in groups</alert>
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        Draw the following grid pattern in your exercise books or on graph paper, ensuring they match the examples shown.
+                    </p>
+                    <sidebyside widths="25% 25% 25%">
+                        <image>
+                            <shortdescription></shortdescription>
+                            <latex-image>
+                                \begin{tikzpicture}
+                                    \foreach \x in {0,1,2,3} {
+                                        \draw[thick,blue] (\x,0) -- (\x,3);
+                                    }
+                                    \foreach \y in {0,1,2,3} {
+                                        \draw[thick,blue] (0,\y) -- (3,\y);
+                                    }
+                                \end{tikzpicture}
+                            </latex-image>
+                        </image>
+                        <image>
+                            <shortdescription></shortdescription>
+                            <latex-image>
+                                \begin{tikzpicture}
+                                    \foreach \x in {0,1,2,3,4} {
+                                        \draw[thick,blue] (\x,0) -- (\x,4);
+                                    }
+                                    \foreach \y in {0,1,2,3,4} {
+                                        \draw[thick,blue] (0,\y) -- (4,\y);
+                                    }
+                                \end{tikzpicture}
+                            </latex-image>
+                        </image>
+                        <image>
+                            <shortdescription></shortdescription>
+                            <latex-image>
+                                \begin{tikzpicture}
+                                    \foreach \x in {0,1,2,3,4,5} {
+                                        \draw[thick,blue] (\x,0) -- (\x,5);
+                                    }
+                                    \foreach \y in {0,1,2,3,4,5} {
+                                        \draw[thick,blue] (0,\y) -- (5,\y);
+                                    }
+                                \end{tikzpicture}
+                            </latex-image>
+                        </image>
+                    </sidebyside>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Count all the small squares in each grid.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Count all squares along one side of each grid to identify its side length.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Analyze the relationship between the side length and the total number of squares in the grid. What pattern do you observe?
+                    </p>
+                </statement>
+            </task>
         </activity>
         <example>
             <statement>

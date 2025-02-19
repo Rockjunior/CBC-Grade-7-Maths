@@ -1,5 +1,11 @@
 <subsection xml:id="subsec-Squares-of-decimals">
         <title>Squares of decimals</title>
+        <p>
+            Squaring a decimal number means multiplying it by itself.
+            To do this, multiply the number by itself, then count the total decimal places
+            in the original numbers and apply the same number of decimal places in the final product.
+            Alternatively, you can convert the decimal into a fraction, square the fraction, and then simplify if needed.
+        </p>
         <activity>
             <introduction>
                 <p>
@@ -32,13 +38,11 @@
                     <p>
                         Click <c>START AGAIN</c> button and repeate the process with different decimal values
                     </p>
+                    <figure>
+                        <caption></caption>
+                        <interactive xml:id="square-of-decimals-activity" geogebra="rasmgh54" width="100%" aspect="9:7" reset-icon="yes" />
+                    </figure>
                 </statement>
-            </task>
-            <task>
-                <figure>
-                    <caption></caption>
-                    <interactive xml:id="square-of-decimals-activity" geogebra="rasmgh54" width="100%" aspect="9:7" reset-icon="yes" />
-                </figure>
             </task>
         </activity>
         <p>
