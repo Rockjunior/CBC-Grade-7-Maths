@@ -9,7 +9,7 @@
             <task>
                 <statement>
                     <p>
-                         Create a new fraction by clicking the <c>New Fraction</c> Button.
+                        Create a new fraction by clicking the <c>New Fraction</c> Button.
                     </p>
                 </statement>
             </task>
@@ -39,15 +39,24 @@
                     <p>
                         Click <c>Check</c> button.
                     </p>
-                    <figure>
+                    <!-- <figure>
+                        <caption>something</caption>
+                        <interactive xml:id="subtraction-of-proper-activity" platform="geogebra" width="150%" aspect="1:1">
+                        <slate xml:id="murunga" surface="geogebra" material="cnftwd3q" aspect="1:1"/>
+                        </interactive>
+                    </figure> -->
+                    <!-- <figure>
                         <caption></caption>
                         <interactive xml:id="subtraction-of-proper-activity" geogebra="cnftwd3q" width="100%" aspect="15:8" reset-icon="yes" />
+                    </figure> -->
+                    <figure>
+                        <caption></caption>
+                        <interactive xml:id="subtraction-of-proper-activity" geogebra="cnftwd3q" width="100%" aspect="7:5" reset-icon="yes" material-width="1100px"/>
                     </figure>
                 </statement>
             </task>
         </activity>
         <example>
-
             <statement>
                 <p>
                     Work out: <m>\frac{3}{4} - \frac{1}{5}</m>
