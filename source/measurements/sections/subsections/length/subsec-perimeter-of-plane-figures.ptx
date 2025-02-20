@@ -166,6 +166,10 @@
       </image>
         
       </sidebyside>
+      <p>
+        We can as well make different shapes and find their perimeters. Explore on the folowing shapes and count the number of sides they have in the video below.
+        <url href="https://www.youtube.com/watch?v=WTeqUejf3D0" />
+      </p>
       <image width="60%">
       <latex-image label="triangles">
         \begin{tikzpicture}
@@ -186,8 +190,8 @@
 
   <figure>
   <caption>Perimeter of different plane figures.</caption>
-  <interactive xml:id="geogebra-triangle" platform="geogebra" width="100%" aspect="1:1">
-    <slate xml:id="triangle-t" surface="geogebra" material="fusa6qwx" aspect="1:1" />
+  <interactive xml:id="geogebra-triangle" platform="geogebra" width="110%" aspect="1:1">
+    <slate xml:id="triangle-t" surface="geogebra" material="gqt4ejbe" aspect="1:1" />
   </interactive>
 </figure>
 </subsection>
