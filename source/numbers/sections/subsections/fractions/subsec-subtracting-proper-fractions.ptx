@@ -41,12 +41,13 @@
                     </p>
                     <figure>
                         <caption></caption>
-                        <interactive xml:id="subtraction-of-proper-activity" geogebra="cnftwd3q" width="100%" fullscreen="yes" aspect="15:9" reset-icon="yes" />
+                        <interactive xml:id="subtraction-of-proper-activity" geogebra="cnftwd3q" width="100%" aspect="15:8" reset-icon="yes" />
                     </figure>
                 </statement>
             </task>
         </activity>
         <example>
+
             <statement>
                 <p>
                     Work out: <m>\frac{3}{4} - \frac{1}{5}</m>
