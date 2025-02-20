@@ -16,11 +16,11 @@
 
   <xi:include href="subsections/data-handling/subsec-bar-graphs-of-data.ptx" />
 
-  <xi:include href="subsec-pie-charts-of-data.ptx" />
+  <xi:include href="subsections/data-handling/subsec-pie-charts-of-data.ptx" />
 
-  <xi:include href="subsec-interpretation-of-pie-charts.ptx" />
+  <xi:include href="subsections/data-handling/subsec-interpretation-of-pie-charts.ptx" />
 
-  <xi:include href="subsec-line-graphs-of-data.ptx" />
+  <xi:include href="subsections/data-handling/subsec-line-graphs-of-data.ptx" />
 
 
 
