@@ -1,14 +1,28 @@
 <subsection xml:id="subsec-Division-of-a-fraction-by-a-mixed-number">
         <title>Division of a fraction by a mixed number</title>
         <activity>
-            <statement>
-                <p>
-                    <alert>Work in group</alert>
-                </p>
+            <introduction>
                 <p>
                     
                 </p>
-            </statement>
+                <p>
+                    Amina is a baker in Umoja Market. She has <m>7 \frac{1}{2}</m> kilograms of flour to bake muffins.
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        How many muffins can she bake if each muffin requires <m>1 \frac{1}{4}</m> kilograms of flour?
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Share your work with other learners in your class.
+                    </p>
+                </statement>
+            </task>
         </activity>
         <example>
             <statement>

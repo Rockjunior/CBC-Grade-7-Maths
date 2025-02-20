@@ -1,21 +1,32 @@
 <subsection xml:id="subsec-Creating-number-sequences-involving-fractions">
         <title>Creating number sequences involving fractions</title>
         <activity>
-            <p>
-                <alert>Work in groups</alert>
-            </p>
-            <p>
-                1. Starting at <m>\frac{3}{5}</m>, create an increasing sequence consisting of 5 terms.
-            </p>
-            <p>
-                2. Write down each term in your sequence as a fraction and explain how you determined the next term.
-            </p>
-            <p>
-                3. Compare your sequence with those of other groups. What similarities or differences do you notice?
-            </p>
-            <p>
-                4. Identify any patterns in the sequences and describe them in words.
-            </p>
+            <introduction>
+                <p>
+                    <alert>Work in groups</alert>
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        Starting at <m>\frac{3}{5}</m>, create an increasing sequence consisting of 5 terms.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Write down each term in your sequence as a fraction and explain how you determined the next term.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Compare your sequence with those of other groups. What similarities or differences do you notice?
+                    </p>
+                </statement>
+            </task>
         </activity>
         <example>
             <statement>
