@@ -55,6 +55,12 @@
         </li>
       </ul>
     </p>
+         <figure>
+      <caption>Perimeter of different plane figures.</caption>
+      <interactive xml:id="geogebra-rhombus" platform="geogebra" width="150%" aspect="1:1">
+        <slate xml:id="rhombus-figures" surface="geogebra" material="wpuwtbwp" aspect="1:1" />
+      </interactive>
+    </figure>
     <activity>
       <statement>
         <p>

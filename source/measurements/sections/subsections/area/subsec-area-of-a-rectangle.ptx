@@ -96,22 +96,21 @@
         squares, and composite shapes in this activity
       </p>
       <figure>
-        <caption>Finding area of figures</caption>
-        <interactive xml:id="area-figures"  geogebra="jnubwvem" width="100%" aspect="7:5" reset-icon="yes" ></interactive>
-      </figure>
-
-      <p>
+      <caption>Perimeter of different plane figures.</caption>
+      <interactive xml:id="geogebra-reas" platform="geogebra" width="150%" aspect="1:1">
+        <slate xml:id="areas-figures" surface="geogebra" material="jnubwvem" aspect="1:1" />
+      </interactive>
+    </figure>
+              <p>
         Calculate the areas of the figures given their side lengths.
       </p>
-      <figure>
-       <caption>Finding area. </caption>
-       <interactive  xml:id="geogebra-rectangle" geogebra="buhw7dpf" width="80%" aspect="7:5" reset-icon="yes" ></interactive>
-     </figure>
-
+     <figure>
+      <caption>Perimeter of different plane figures.</caption>
+      <interactive xml:id="geogebra-rectangle" platform="geogebra" width="150%" aspect="1:1">
+        <slate xml:id="rectangle-figures" surface="geogebra" material="buhw7dpf" aspect="1:1" />
+      </interactive>
+    </figure>
     </activity>
-    
-
-
     <example>
       <statement>
         <p>

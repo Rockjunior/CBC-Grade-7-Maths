@@ -46,9 +46,11 @@
         a rectangle and a parallelogram.  Use the polygons to complete the investigation below.
       </p>
       <figure>
-        <caption>The area of Parallelogram.</caption>
-        <interactive xml:id="area-Parallelogram"  geogebra="rmqbmkqa" width="100%" aspect="7:5" reset-icon="yes" ></interactive>
-      </figure>
+      <caption>Perimeter of different plane figures.</caption>
+      <interactive xml:id="geogebra-parallelogram" platform="geogebra" width="150%" aspect="1:1">
+        <slate xml:id="parallelogram-figures" surface="geogebra" material="rmqbmkqa" aspect="1:1" />
+      </interactive>
+    </figure>
       <p>
         <ol>
           <li>
