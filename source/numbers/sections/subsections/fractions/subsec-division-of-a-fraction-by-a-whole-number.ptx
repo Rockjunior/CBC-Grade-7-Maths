@@ -5,23 +5,54 @@
                 <p>
                     
                 </p>
-                <p>
-                    Mr. Obiero is a meat seller in Namanga center.He always ensure food safety and hygiene when handling and selling meat.
-                     He is selling <m>\frac{1}{2}</m> kg of meat to four teachers of Seku primary school.
-                </p>
             </introduction>
             <task>
                 <statement>
                     <p>
-                        What fraction of the meat will each teacher receive if they share it equally?
+                        Use the blue slider labeled <c>Numerator</c> to set the top number of the fraction.
                     </p>
                 </statement>
             </task>
             <task>
                 <statement>
                     <p>
-                        Share your answer with other learners in your class.
+                        Use the blue slider labeled <c>Denominator</c> to set the top number of the fraction.
                     </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Use the red slider labeled <c>Divisor</c> to select the whole number by which the fraction will be divided.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Click the <c>Calculate</c> button to see the visualization result of the fraction division.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Observe how dividing a fraction by a whole number affects the fraction.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Click the <c>Reset</c> button to clear the settings and start a new calculation.
+                    </p>
+                    <p>
+                        Try different numerators, denominators, and divisors to explore different cases.
+                    </p>
+                     <figure>
+                        <caption></caption>
+                        <interactive xml:id="division-of-a-fraction-by-a-whole-number-activity" geogebra="FZUSpVhQ" width="100%"  aspect="4:3" reset-icon="yes"/>
+                    </figure>
                 </statement>
             </task>
         </activity>

@@ -1,16 +1,60 @@
 <subsection xml:id="subsec-Division-of-a-whole-number-by-a-fraction">
         <title>Division of a whole number by a fraction</title>
         <p>
-            When dividing a whole number by a fraction, you are finding how many groups of the fraction you can fit in the whole. 
+            When dividing a whole number by a fraction, we are finding how many groups of the fraction can fit in the whole number. 
+            To make this easier, instead of dividing, we multiply the whole number by the reciprocal of the fraction.
+            For example, if we divide <m>4</m> by <m>\frac{1}{2}</m>, 
+            we multiply <m>4</m> by <m>\frac{2}{1}</m> (the reciprocal of <m>\frac{1}{2}</m>), which is <m>4 \times \frac{2}{1} = 8</m>. 
         </p>
         <activity>
             <introduction>
                 <p>
                     
                 </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        Drag the <c>Whole Number</c> slider to select the whole number being divided.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Drag the <c>Denominator</c> slider to set the denominator of the fraction divisor. 
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Discuss your observaation with learners in class.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Repeat the process using a different whole number and a new denominator for the fraction.
+                    </p>
+                    <figure>
+                        <caption></caption>
+                        <interactive xml:id="division-of-a-fraction-by-a-whole-activity" geogebra="bs588zhK" width="100%"  aspect="4:3" reset-icon="yes"/>
+                    </figure>
+                </statement>
+            </task>
+        </activity>
+        <!-- <activity>
+            <introduction>
                 <p>
-                    Mr. Obiero is a meat seller in Namanga center.He always ensure food safety and hygiene when handling and selling meat.
-                    He is selling <m>\frac{1}{2}</m> kg of meat to four teachers of Seku primary school.
+                    
+                </p>
+                <p>
+                    Mr. Obiero is a meat seller in Namanga center who always ensures food safety and 
+                    hygiene when handling and selling meat. Four teachers from Seku Primary School
+                     contributed money together to buy <m>\frac{1}{2}</m> kg of meat from him.
+                    Mr. Obiero now needs to divide the meat equally so that each teacher receives a fair share.
                 </p>
             </introduction>
             <task>
@@ -27,7 +71,7 @@
                     </p>
                 </statement>
             </task>
-        </activity>
+        </activity> -->
         <example>
             <statement>
                 <p>
