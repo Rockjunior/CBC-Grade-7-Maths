@@ -20,12 +20,12 @@
                         <row header="yes">
                             <cell>Fraction</cell>
                             <cell>Square of the fraction</cell>
-                            <cell>Answer</cell>
+                            <cell>Squared fraction</cell>
                         </row>
                         <row>
                             <cell><m>\left( \frac{2}{3}\right)^2</m></cell>
-                            <cell><m>\frac{2 \times 2}{3 \times 3}</m></cell>
-                            <cell><m>\frac{4}{9}</m></cell>
+                            <cell halign="center"><m>\frac{2^2}{3^2} = \frac{2 \times 2}{3 \times 3}</m></cell>
+                            <cell halign="center"><m>\frac{4}{9}</m></cell>
                         </row>
                         <row>
                             <cell><m>\left( \frac{7}{15}\right)^2</m></cell>
@@ -91,8 +91,8 @@
                         <li>
                             <p><m>\left( \frac{2}{5} \right)^2</m></p>
                             <p>To square a fraction, square both the numerator (top number) and the denominator (bottom number). <m>\left( \frac{2}{5} \right)^2 = \frac{2^2}{5^2}</m></p>
-                            <p>Square the numerator: <m>2^2 = {\color{blue}2} \times {\color{blue}2} = 4</m></p>
-                            <p>Square the denominator: <m>5^2 = {\color{red}5} \times {\color{red}5} = 25</m></p>
+                            <p>Square the numerator: <m>2^2 = 2 \times 2 = 4</m></p>
+                            <p>Square the denominator: <m>5^2 = 5 \times 5 = 25</m></p>
                             <p>Combine the squared numerator and denominator to form the new fraction.</p>
                             <p><m>\left( \frac{2}{5} \right)^2 = \frac{2^2}{5^2} = \frac{4}{25}</m></p>
                         </li>
@@ -120,10 +120,10 @@
                     <m>\left(2 \frac{2}{7}\right)^2</m>
                 </p>
                 <p>
-                    Convert the mixed fraction to an improper fraction.
+                    Convert the mixed fraction to an improper fraction. 
                 </p>
                 <p>
-                    <me>2\frac{2}{7} = \frac{16}{7}</me>
+                    <me>2\frac{2}{7} = \frac{(7 \times 2) + 2}{7}= \frac{16}{7}</me>
                 </p>
                 <p>
                     Find the square of the improper fraction by squaring both the numerator and denominator.

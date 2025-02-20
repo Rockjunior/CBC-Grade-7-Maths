@@ -1,5 +1,13 @@
 <subsection xml:id="subsec-Square-roots-of-decimals">
     <title>Square roots of decimals</title>
+    <p>
+        Finding the square root of a decimal number involves similar method of finding the square root of whole numbers,
+        but with careful attention to the placement of the decimal point. 
+    </p>
+    <p>
+        We can express the given decimal number as a fraction and then find the square roots of 
+        the numerator and denominator separately. We then simplify the resulting fraction and convert it back into a decimal number.    
+    </p>
     <activity>
         <introduction>
             <p>
