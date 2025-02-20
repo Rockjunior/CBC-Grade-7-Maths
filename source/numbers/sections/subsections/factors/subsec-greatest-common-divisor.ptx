@@ -10,14 +10,20 @@
         Example in real life:
         </p>
         <p>
-        Esther and Shillah have packets of snacks and want to share them equally amoung the top mathematics performers in grade <m>7</m> without leaving leftovers. Esther have <m>36</m> crackers and Shillah has <m>54</m> cookies.
+            Esther and Shillah have packets of snacks and want to share them equally amoung the top mathematics performers in grade <m>7</m> without leaving leftovers. Esther have <m>36</m> crackers and Shillah has <m>54</m> cookies.
         </p>
         <p>
-         The largest number of top performers Shillah and Esther can gift is solved using GCD.
+            The largest number of top performers Shillah and Esther can gift is solved using GCD.
         </p>
         <p>
-        Since the factors of <m>36</m> are <m>1,2,3,4,6,9,12,18,36</m> and the factors of <m>54</m> are <m>1,2,3,6,9,18,27,54</m>. This implies that the higher number of top performers to be gifted is <m>18</m>.
+            Since the factors of <m>36</m> are <m>1,2,3,4,6,9,12,18,36</m> and the factors of <m>54</m> are <m>1,2,3,6,9,18,27,54</m>. This implies that the higher number of top performers to be gifted is <m>18</m>.
         </p>
+            <figure>
+                   <caption>GCD.</caption>
+                <interactive xml:id="geogebra-gcd-geogebra" platform="geogebra" width="150%" aspect="1:1">
+                   <slate xml:id="gcd-geogebra" surface="geogebra" material="jfhzucec" aspect="1:1" />
+                </interactive>
+            </figure>
         <activity>
             <statement>
                 <p></p>

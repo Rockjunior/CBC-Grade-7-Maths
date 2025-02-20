@@ -3,7 +3,8 @@
   <subsubsection xml:id="subsubsec-addition">
     <title>Addition</title>
     <p>
-        We use place value of digits to add numbers. Some additions have regrouping and others do not.
+       Addition is a mathematical operation that involves combining two or more numbers to find their total.
+        We use place value of digits to add numbers that is, while adding you allign the digits according to their place values.
     </p>
     <activity>
       <statement>
@@ -11,14 +12,17 @@
           
         </p>
         <p>
-            1.(a) Individually, write and work out an addition word question.
+           1. In groups of <m>5</m>,  think of an addition word question and write it down on a blank paper. 
+              For example: 
+              Sera had <m>56 </m> guests at her birthday party in the morning and <m>42</m> more guests in the afternoon.
+              How many guests attended her birthday party in total?
         </p>
-        <p>
-            (b) Write the word question on a blank card.
-        </p>
-        <p>
-            2. Exchange the cards and work out each other's question.
-        </p>
+          <p>
+            2. Work out the problem as a group and discuss how to add <m>3,4, \text{or} 5</m> - digit numbers i.e <m>2543 + 678</m>
+          </p>
+          <p>
+            3. Exchange the written word questions with other groups and work out each other's question.
+          </p>
       </statement>
     </activity>
       <example>
@@ -446,6 +450,12 @@
   <p>
     Division <m>\rightarrow</m> multiplication <m>\rightarrow</m> addition <m>\rightarrow</m> subtraction.
   </p>
+       <figure>
+            <caption>combined operations of whole numbers.</caption>
+                <interactive xml:id="geogebra-operations-wholenumbers" platform="geogebra" width="130%" aspect="1:1">
+                    <slate xml:id="operations-on-whole-numbers" surface="geogebra" material="dzhsjdn4" aspect="1:1" />
+                </interactive>
+        </figure>
   <activity>
     <statement>
       <p>
@@ -565,6 +575,12 @@
       </p>
     </solution>
   </example>
+  <figure>
+            <caption>combined operations of whole numbers.</caption>
+                <interactive xml:id="geogebra-combined-wholenumbers" platform="geogebra" width="130%" aspect="1:1">
+                    <slate xml:id="operations-combined-numbers" surface="geogebra" material="kustgbua" aspect="1:1" />
+                </interactive>
+        </figure>
   <exercise>
     <statement>
       <p>
