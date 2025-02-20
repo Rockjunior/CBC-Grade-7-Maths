@@ -10,11 +10,18 @@
             <shortdescription></shortdescription>
         </image>
     </sidebyside>
+        <figure>
+            <caption>Multiplication of decimals by whole numbers.</caption>
+                <interactive xml:id="geogebra-multiplication-decimals" platform="geogebra" width="130%" aspect="1:1">
+                    <slate xml:id="decimals-by-whole-numbers" surface="geogebra" material="cbdbq4cp" aspect="1:1" />
+                </interactive>
+        </figure>
     <activity>
         <statement>
             <p>
                 
             </p>
+                    
             <p>
                 1. Measure the length and width of your classroom in cm using a meter ruler and write it down.  
             </p>
