@@ -29,10 +29,10 @@
     <example>
       <statement>
         <p>
-          Work out the area of the figure bellow
+          Work out the area of the figure bellow.
         </p>
         <image width="50%">
-        <latex-image>
+        <latex-image label="borders">
           \begin{tikzpicture}
             \draw[very thick,fill=white] (0,0) --(5,0) --(8,0) --(5,3) --(0,3);
             \draw [very thick,fill=white]   (0,3) arc[start angle=90,end angle=270,radius=1.5cm] ;
