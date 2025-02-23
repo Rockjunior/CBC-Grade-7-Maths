@@ -108,23 +108,23 @@
         <example>
             <statement>
                 <p>
-                    Find the square root of <m>324</m>.
+                    Find the square root of <m>256</m>.
                 </p>
             </statement>
             <solution>
                 <p>
-                    Express <m>324</m> as a product of its prime factors and pair up similar factors together.
+                    Express <m>256</m> as a product of its prime factors and pair up similar factors together.
                     <md>
-                        <mrow> 324 \amp = {\color{Green} 2} \times {\color{Green} 2} \times {\color{blue} 3} \times {\color{blue} 3} \times {\color{red} 3} \times {\color{red} 3}</mrow>
+                        <mrow> 256 \amp = {\color{Green} 2} \times {\color{Green} 2} \times {\color{blue} 2} \times {\color{blue} 2} \times {\color{red} 2} \times {\color{red} 2} \times 2 \times 2</mrow>
                         <mrow></mrow>
-                        <mrow> \sqrt{324} \amp = \sqrt{{\color{Green} 2} \times {\color{Green} 2} \times {\color{blue} 3} \times {\color{blue} 3} \times {\color{red} 3} \times {\color{red} 3}} </mrow>
+                        <mrow> \sqrt{324} \amp = \sqrt{{\color{Green} 2} \times {\color{Green} 2} \times {\color{blue} 2} \times {\color{blue} 2} \times {\color{red} 2} \times {\color{red} 2} \times 2 \times 2} </mrow>
                     </md>
                     select one factor from each pair and multiply the selected factors. 
                 </p>
                 <p>
                     <md>
-                        <mrow> \amp = {\color{Green} 2} \times {\color{blue} 3} \times {\color{red} 3} </mrow>
-                        <mrow> \amp = 18 </mrow>
+                        <mrow> \amp = {\color{Green} 2} \times {\color{blue} 2} \times {\color{red} 2}  \times 2</mrow>
+                        <mrow> \amp = 16 </mrow>
                     </md>
                 </p>
             </solution>

@@ -85,7 +85,7 @@
                 <ol cols="2" marker="a)">
                     <li>
                         <p>
-                            What is the square of <m>15 </m>?
+                            What is the square of <m>17 </m>?
                         </p>
                     </li>
                 </ol>
@@ -96,37 +96,37 @@
                 The square of a number is obtained by multiplying the number by itself.
             </p>
             <p>
-                Now, express <m>15^2</m> as <m>15 \times 15</m>.
+                Now, express <m>17^2</m> as <m>17 \times 17</m>.
             </p>
             <p>
                 Then, perform multiplication.
             </p>
             <tabular>
                 <row>
-                    <cell halign="right"><m>15</m></cell>
+                    <cell halign="right"><m>17</m></cell>
                     <cell></cell>
                 </row>
                 <row halign="right">
-                    <cell bottom="medium"><m>\times \, 15</m></cell>
+                    <cell bottom="medium"><m>\times \, 17</m></cell>
                     <cell></cell>
                 </row>
-                <row halign="right">
-                    <cell>75</cell>
-                    <cell halign="left"><m>{\color{blue}15} \times {\color{blue}5} </m></cell>
+                <row halign="left">
+                    <cell halign="right"><m>119</m></cell>
+                    <cell halign="left"><m>{\color{blue}17} \times {\color{blue}7} </m></cell>
                 </row>
                 <row halign="right">
-                    <cell bottom="medium"><m>+ 150</m></cell> 
-                    <cell halign="left"><m>{\color{blue}15} \times {\color{blue}10} </m></cell>
+                    <cell bottom="medium" halign="left"><m>+ 17\,\,\,\,</m></cell> 
+                    <cell halign="left"><m>{\color{blue}17} \times {\color{blue}1} </m></cell>
                 </row>
                 <row halign="right">
-                    <cell bottom="medium"><m>225</m></cell>
+                    <cell bottom="medium"><m>289</m></cell>
                     <cell></cell>
                 </row>
             </tabular>
             <p>
                 <md>
-                    <mrow>15^2  = 15 \times 15 \amp = 225</mrow>
-                    <mrow> \amp = 225</mrow>
+                    <mrow>17^2  = 17 \times 17 \amp = 289</mrow>
+                    <mrow> \amp = 289</mrow>
                 </md>
             </p>
         </solution>
@@ -134,42 +134,42 @@
     <example>
         <statement>
             <p>
-                The length of a square flowerbed is <m>43</m> m. What is the area of the flowerbed?
+                The length of a square floor tile is <m>22</m> cm. What is the area of the tile?
             </p>
         </statement>
         <solution>
                 <p>
                     <md>
-                        <mrow> \text{Area of the square flowerbed} \amp = \text{ Length of the flowerbed } \times \text{Length of the flowerbed}  </mrow>
-                        <mrow> \amp = 43 \text{ m } \times 43 \text{ m } </mrow>
-                        <mrow> \amp = 1\,849 \text{m}^2 </mrow>
+                        <mrow> \text{Area of the square floor time} \amp = \text{ Length of the tile } \times \text{Length of the tile}  </mrow>
+                        <mrow> \amp = 22 \text{ cm } \times 22 \text{ cm } </mrow>
+                        <mrow> \amp = 484 \text{ cm}^2 </mrow>
                     </md>
                     
                 </p>
                 <tabular>
                     <row>
-                        <cell halign="right"><m>43</m></cell>
+                        <cell halign="right"><m>22</m></cell>
                         <cell></cell>
                     </row>
                     <row halign="right">
-                        <cell halign="right" bottom="medium"><m>\times 43</m></cell>
+                        <cell halign="right" bottom="medium"><m>\times 22</m></cell>
                         <cell></cell>
                     </row>
                     <row>
-                        <cell halign="right"><m>129</m></cell>
-                        <cell halign="left"><m>{\color{blue}43} \times {\color{blue}3}</m></cell>
+                        <cell halign="right"><m>44</m></cell>
+                        <cell halign="left"><m>{\color{blue}22} \times {\color{blue}2}</m></cell>
                     </row>
                     <row>
-                        <cell bottom="medium" halign="right"><m>+ 1720</m></cell>
-                        <cell><m>{\color{blue}43} \times {\color{blue}40}</m></cell>
+                        <cell bottom="medium" halign="left"><m>+ 44\,\,\,\,</m></cell>
+                        <cell><m>{\color{blue}22} \times {\color{blue}2}</m></cell>
                     </row>
                     <row>
-                        <cell halign="right" bottom="medium"><m>1849</m></cell>
+                        <cell halign="right" bottom="medium"><m>484</m></cell>
                         <cell></cell>
                     </row>
                 </tabular>
                 <p>
-                    The area of the flowerbed is <m>1\,849 \text{ m}^2.</m>
+                    The area of the floor tile is <m>484 \text{ cm}^2.</m>
                 </p>
         </solution>
     </example>

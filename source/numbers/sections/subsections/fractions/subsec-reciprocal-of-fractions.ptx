@@ -91,25 +91,25 @@
     <example>
         <statement>
             <p>
-                What is the reciprocal of <m>\frac{11}{23}</m>?
+                What is the reciprocal of <m>\frac{17}{39}</m>?
             </p>
         </statement>
         <solution>
             <p>
-                To get the reciprocal of <m>\frac{11}{23}</m>, we swap the numerator and the denominator.
+                To get the reciprocal of <m>\frac{17}{39}</m>, we swap the numerator and the denominator.
             </p>
             <p>
-                <m>\frac{{\color{red}11}}{{\color{blue}23}} \text{ to get } \frac{{\color{blue}23}}{{\color{red}11}}</m>
+                <m>\frac{{\color{red}17}}{{\color{blue}39}} \text{ to get } \frac{{\color{blue}39}}{{\color{red}17}}</m>
             </p>
             <p>
-                Therefore, the reciprocal of <m>\frac{{\color{red}11}}{{\color{blue}23}} \text{ is } \frac{{\color{blue}23}}{{\color{red}11}}.</m>
+                Therefore, the reciprocal of <m>\frac{{\color{red}17}}{{\color{blue}39}} \text{ is } \frac{{\color{blue}39}}{{\color{red}17}}.</m>
             </p>
         </solution>
     </example>
     <example>
         <statement>
             <p>
-                What is the reciprocal of <m>6 \frac{4}{5}</m>?
+                What is the reciprocal of <m>3 \frac{2}{7}</m>?
             </p>
         </statement>
         <solution>
@@ -117,10 +117,10 @@
                 <ol marker="a)">
                     <li>
                         <p>
-                            Convert <m>6 \frac{4}{5}</m> into an improper fraction.
+                            Convert <m>3 \frac{2}{7}</m> into an improper fraction.
                         </p>
                         <p>
-                            <m>{\color{red}6} \frac{{\color{blue}4}}{{\color{green}5}} = \frac{({\color{green}5} \times {\color{red}6})+{\color{blue}4}}{{\color{green}5}} = \frac{34}{5}</m>
+                            <m>{\color{red}3} \frac{{\color{blue}2}}{{\color{green}7}} = \frac{({\color{green}7} \times {\color{red}3})+{\color{blue}2}}{{\color{green}7}} = \frac{23}{7}</m>
                         </p>
                     </li>
                     <li>
@@ -128,10 +128,10 @@
                             Swap the numerator and the denominator.
                         </p>
                         <p>
-                            <m>\frac{{\color{red}34}}{{\color{blue}5}} \text{ to get } \frac{{\color{blue}5}}{{\color{red}34}}</m>
+                            <m>\frac{{\color{red}23}}{{\color{blue}7}} \text{ to get } \frac{{\color{blue}7}}{{\color{red}23}}</m>
                         </p>
                         <p>
-                            Therefore, the reciprocal of <m>6 \frac{4}{5} \text{ is } \frac{5}{34}.</m>
+                            Therefore, the reciprocal of <m>3 \frac{2}{7} \text{ is } \frac{7}{23}.</m>
                         </p>
                     </li>
                 </ol>
