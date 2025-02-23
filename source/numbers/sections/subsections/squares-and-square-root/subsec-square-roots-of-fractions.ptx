@@ -130,16 +130,16 @@
     <example>
         <statement>
             <p>
-                Find the square root of <m>\frac{25}{81}</m>.
+                Find the square root of <m>\frac{36}{400}</m>.
             </p>
         </statement>
         <solution>
             <p>
-                To find the square root of <m>\frac{25}{81}</m>, take the square root of numerator and denominator separately.
+                To find the square root of <m>\frac{36}{400}</m>, take the square root of numerator and denominator separately.
             </p>
             <p>
                 <me>
-                    \sqrt{\frac{25}{81}} = \frac{\sqrt{25}}{\sqrt{81}}
+                    \sqrt{\frac{36}{400}} = \frac{\sqrt{36}}{\sqrt{400}}
                 </me>
             </p>
             <p>
@@ -147,7 +147,7 @@
             </p>
             <p>
                 <me>
-                    \frac{\sqrt{25}}{\sqrt{81}} = \frac{\sqrt{{\color{blue}5} \times {\color{blue}5}}}{\sqrt{{\color{blue}3} \times {\color{blue}3} \times {\color{red}3} \times {\color{red}3}}}
+                    \frac{\sqrt{36}}{\sqrt{400}} = \frac{\sqrt{{\color{blue}2} \times {\color{blue}2} \times {\color{red} 3} \times {\color{red}3}}}{\sqrt{{\color{blue}2} \times {\color{blue}2} \times {\color{red}2} \times {\color{red}2} \times 5 \times 5}}
                 </me>
             </p>
             <p>
@@ -155,9 +155,9 @@
             </p>
             <p>
                 <md>
-                    <mrow> \frac{{\color{blue}5}}{{\color{blue}3} \times {\color{red}3}} \amp = \frac{5}{9}</mrow>
+                    <mrow> \frac{{\color{blue}2}}{{\color{blue}2} \times {\color{red}2} \times 5} \amp = \frac{6}{20}</mrow>
                     <mrow></mrow>
-                    <mrow> \amp = \frac{5}{9} </mrow>
+                    <mrow> \amp = \frac{6}{20} </mrow>
                 </md>
             </p>
         </solution>
