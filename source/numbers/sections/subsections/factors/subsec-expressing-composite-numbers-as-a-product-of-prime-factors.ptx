@@ -26,6 +26,12 @@
             Since the factors of <m>24</m> are <m>1,2,3,4,6,8,12</m> and <m>24</m>. 
             It gives Kamau possible ways to divide the students into equally.
         </p>
+         <figure>
+               <caption>factors of composite numbers.</caption>
+               <interactive xml:id="geogebra-composie-factors" platform="geogebra" width="150%" aspect="1:1">
+                  <slate xml:id="Numbers-geogebra" surface="geogebra" material="jekdsat7" aspect="1:1" />
+                </interactive>
+            </figure>
         <example>
             <statement>
                 <p>

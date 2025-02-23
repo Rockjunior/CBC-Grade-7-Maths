@@ -56,6 +56,16 @@
       </ul>
     </p>
     <activity>
+      <figure>
+        <caption>Perimeter of different plane figures.</caption>
+        <interactive xml:id="geogebra-rhombus" platform="geogebra" width="150%" aspect="1:1">
+        <slate xml:id="rhombus-figures" surface="geogebra" material="wpuwtbwp" aspect="1:1" />
+        </interactive>
+     </figure>
+    </activity>
+
+
+    <example>
       <statement>
         <p>
           Calculate the area of the figure given it's 
@@ -77,36 +87,43 @@
           </md>
         </p>
       </solution>
-    </activity>
+
+    </example>
+   
     <example>
       <statement>
         <p>
-          Calculate the area of each rhombus
+          Calculate the area of each rhombus.
         </p>
         <sidebyside>
            
           <image width="40%">
-          <latex-image>
+          <latex-image label="Rhombus-1">
             \begin{tikzpicture}
-              \draw [thick,fill=yellow](0,0) coordinate (A)-- (4,4) coordinate (B)-- (8,4) coordinate (C)--(4,0) coordinate (D)-- (0,0) coordinate (A);
+              \draw [thick,fill=yellow](0,0) coordinate (A)-- (4,4) coordinate (B)-- (8,4) coordinate (C)--(4,0) 
+              coordinate (D)-- (0,0) coordinate (A);
               \node at (4,5){(a)};
               \node at (4.5,2){4m};
               \node at (2,-0.7){5m};
               \draw [dashed,fill=black] (4,4) --(4,0);
-              \draw(3.5,0) coordinate (A)-- (3.5,0.5) coordinate (B)-- (4,0.5) coordinate (C)--  (4,0) coordinate(D)-- (3.5,0) coordinate (A);
+              \draw(3.5,0) coordinate (A)-- (3.5,0.5) coordinate (B)-- (4,0.5) coordinate (C)--  (4,0) 
+              coordinate(D)-- (3.5,0) coordinate (A);
             \end{tikzpicture}
           </latex-image>
             
           </image>
+
           <image width="40%">
-            <latex-image>
+            <latex-image label="Rhombus-2">
               \begin{tikzpicture}
-                \draw [thick,fill=white](0,0) coordinate (A)-- (4,4) coordinate (B)-- (8,4) coordinate (C)--(4,0) coordinate (D)-- (0,0) coordinate (A);
+                \draw [thick,fill=white](0,0) coordinate (A)-- (4,4) coordinate (B)-- (8,4) 
+                coordinate (C)--(4,0) coordinate (D)-- (0,0) coordinate (A);
                 \node at (4,5){(b)};
                 \node at (6,4.3){9cm};
                 \node at (4.5,2){7cm};
                 \draw [dashed,fill=black] (4,0) --(4,4);
-                \draw(4,3.5) coordinate (A)-- (4,4) coordinate (B)-- (4.5,4) coordinate (C)--  (4.5,3.5) coordinate(D)-- (4,3.5) coordinate (A);
+                \draw(4,3.5) coordinate (A)-- (4,4) coordinate (B)-- (4.5,4) coordinate (C)-- 
+                 (4.5,3.5) coordinate(D)-- (4,3.5) coordinate (A);
               \end{tikzpicture}
             </latex-image>
           </image>
