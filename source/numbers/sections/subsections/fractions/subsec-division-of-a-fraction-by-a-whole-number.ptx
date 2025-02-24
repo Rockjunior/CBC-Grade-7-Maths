@@ -62,7 +62,7 @@
         <example>
             <statement>
                 <p>
-                    Work out: <m>\frac{3}{20} \div 6  </m>
+                    Work out: <m>\frac{4}{15} \div 10 </m>
                 </p>
             </statement>
             <solution>
@@ -73,23 +73,23 @@
                                 First, we have to find the reciprocal of the divisor.
                             </p>
                             <p>
-                                In this case, our divisor is <m>6</m>, which is a whole number and we can express <m>6</m> as <m>\frac{6}{1}.</m>
+                                In this case, our divisor is <m>10</m>, which is a whole number and we can express <m>10</m> as <m>\frac{10}{1}.</m>
                             </p>
                             <p>
-                                Then, find the reciprocal of <m>\frac{{\color{red}6}}{{\color{blue}1}}</m> by swapping the numerator and denominator to get  <m>\frac{{\color{blue}1}}{{\color{red}6}}.</m>
+                                Then, find the reciprocal of <m>\frac{{\color{red}10}}{{\color{blue}1}}</m> by swapping the numerator and denominator to get  <m>\frac{{\color{blue}1}}{{\color{red}10}}.</m>
                             </p>
                         </li>
                         <li>
                             <p>
-                                Multiply <m>\frac{3}{20}</m> by <m>\frac{1}{6}</m> and simplify the result.
+                                Multiply <m>\frac{4}{15}</m> by <m>\frac{1}{10}</m> and simplify the result.
                             </p>
                             <p>
                                 <md>
-                                    <mrow>\frac{3}{20} \times \frac{1}{6} \amp = \frac{3 \times 1}{20 \times 6}</mrow>
+                                    <mrow>\frac{4}{15} \times \frac{1}{10} \amp = \frac{4 \times 1}{15 \times 10}</mrow>
                                     <mrow></mrow>
-                                    <mrow> \amp = \frac{3}{120} </mrow>
+                                    <mrow> \amp = \frac{4}{150} </mrow>
                                     <mrow></mrow>
-                                    <mrow> \amp = \frac{1}{40}</mrow>
+                                    <mrow> \amp = \frac{2}{75}</mrow>
                                 </md>
                             </p>
                         </li>
