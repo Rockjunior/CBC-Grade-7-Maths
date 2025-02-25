@@ -23,11 +23,9 @@
     </p>
   </introduction>
 
-  <p>
-    <term>Formation of Algebraic Expression from  real  life  situations</term>
-  </p>
-
-  <p>
+  <subsection xml:id="subsec-Formation-of-Algebraic-Expression-from-real-life-situations">
+    <title>Formation of Algebraic Expression from  real  life  situations</title>
+    <p>
     In algebra, we use letters to form algebraic expressions.
   </p>
 
@@ -112,4 +110,5 @@
       </p>
     </solution>
   </example>
+  </subsection>
 </section>
