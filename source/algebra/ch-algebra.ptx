@@ -22,11 +22,8 @@
   <p>
    Watch this! <video xml:id="yt-list-vars" youtube="H4g0GZsgq0I" width="60%" margins="5% 35%"/>
   </p>
-
-  </introduction>
-</chapter>
-
-<!-- include sections -->
+  
+  <!-- include sections -->
 <xi:include href="sections/sec-Algebraic-expressions.ptx" />
 
 <!-- include sections -->
@@ -34,3 +31,6 @@
 
 <!-- include sections -->
 <xi:include href="sections/sec-Linear-inequalities.ptx" />
+
+  </introduction>
+</chapter>
