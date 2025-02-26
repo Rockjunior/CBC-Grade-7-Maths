@@ -5,110 +5,135 @@
 
   <introduction>
     <p>
-      We often use math to solve problems in our daily lives.
-      For example:
+      In everyday life, we often deal with numbers in different situations. For example:
     </p>
 
-    <p>
-      - How much will it cost to buy a certain number of books?
-    </p>
+    <ul>
+      <li>Calculating the total cost when buying multiple items.</li>
+      <li>Keeping track of the number of students in a class.</li>
+      <li>Measuring distances and quantities.</li>
+    </ul>
 
     <p>
-      - Measuring the total water needed to fill multiple containers.
-    </p>
-
-    <p>
-      To describe and solve these problems, we can use algebraic expressions.
-      These expressions combine numbers, letters, and operations to represent real-life situations.
+      Sometimes, we do not know the exact numbers, so we use letters or symbols to represent them.
+      Algebraic expressions help us describe such situations using numbers, letters (variables), and mathematical operations.
     </p>
   </introduction>
 
   <subsection xml:id="subsec-Formation-of-Algebraic-Expression-from-real-life-situations">
-    <title>Formation of Algebraic Expression from  real  life  situations</title>
-    <p>
-    In algebra, we use letters to form algebraic expressions.
-  </p>
-
-  <p>
-    <term>Why letters?</term>
-  </p>
-
-  <p>
-    Watch this! <video youtube="Tm98lnrlbMA" width="60%" margins="5% 35%"/>
-  </p>
-
-  <activity>
-    <title> <term>Work in groups</term> </title>
+    <title>Formation of Algebraic Expressions from Real-Life Situations</title>
 
     <p>
+      Algebraic expressions are used to represent real-world situations mathematically. 
+      In algebra, we use letters (variables) to represent unknown values, making it easier to describe changing quantities.
+    </p>
+
+    <p>
+      <term>Why do we use letters?</term>
+    </p>
+
+    <p>
+      Watch this! <video youtube="Tm98lnrlbMA" width="60%" margins="5% 35%"/>
+    </p>
+
+    <activity>
+      <title>Exploring Algebraic Expressions</title>
+
+      <p>
+        Work in pairs or small groups and complete the following tasks:
+      </p>
+
       <ol>
         <li>
           <p>
-            Identify and form four groups of objects according to their similarities.
+            Think of a real-life situation where numbers change, such as a person buying or selling items.
           </p>
         </li>
 
         <li>
           <p>
-            To each group add or subtract a number of items.
+            Use a letter to represent an unknown quantity in your situation.
           </p>
         </li>
 
         <li>
           <p>
-            Form and write expressions to represent the new number of items in each group.
+            Form a mathematical expression using addition or subtraction.
           </p>
         </li>
 
         <li>
           <p>
-            Discuss and share with other groups.
+            Share your expression with the class and explain its meaning.
           </p>
         </li>
       </ol>
+    </activity>
+
+    <p>
+      <term>Key Learning Point:</term> 
+      Algebraic expressions help us describe real-life situations mathematically.
+      The letters (variables) represent unknown values that can change depending on the situation.
     </p>
-  </activity>
 
-  <example>
-    <statement>
-      <p>
-        In a classroom of <m>30</m> learners there are <m>n</m> boys.
-        Form an expression for the number of girls.
-      </p>
-    </statement>
+  </subsection>
 
-    <solution>
-      <p>
-        If the number of boys is <m>n</m>
-      </p>
+  <subsection xml:id="subsec-Examples-of-Algebraic-Expressions">
+    <title>Examples of Algebraic Expressions</title>
 
-      <p>
-        To get the number of girls we need to subtract the number of boys from the total number of learners
-      </p>
+    <example>
+      <statement>
+        <p>
+          A football team has a total of <m>11</m> players, which includes goalkeepers and outfield players. 
+          If the number of goalkeepers is <m>g</m>, form an algebraic expression to represent the number of outfield players.
+        </p>
+      </statement>
 
-      <p>
-        Therefore:
-      </p>
+      <solution>
+        <p>
+          The total number of players in a football team is <m>11</m>.  
+        </p>
 
-      <p>
-        The number of girls is; <m>30 - n</m>
-      </p>
-    </solution>
-  </example>
+        <p>
+          The number of goalkeepers is represented by <m>g</m>.
+        </p>
 
-  <example>
-    <statement>
-      <p>
-        There are <m>x</m> mangoes and <m>y</m> oranges a farm.
-        Form an expression for the total number of mango and orange trees in the farm.
-      </p>
-    </statement>
+        <p>
+          The number of outfield players can be determined by subtracting the goalkeepers from the total number of players.
+        </p>
 
-    <solution>
-      <p>
-        The total number of mango and orange trees are <m>x + y.</m>
-      </p>
-    </solution>
-  </example>
+        <p>
+          Thus, the algebraic expression for outfield players is: <m>11 - g</m>.
+        </p>
+      </solution>
+    </example>
+
+    <example>
+      <statement>
+        <p>
+          A school library contains <m>b</m> books on mathematics and <m>s</m> books on science.  
+          Write an algebraic expression for the total number of books in the library.
+        </p>
+      </statement>
+
+      <solution>
+        <p>
+          The number of mathematics books is <m>b</m>, and the number of science books is <m>s</m>.
+        </p>
+
+        <p>
+          To find the total number of books, we add the two amounts together.
+        </p>
+
+        <p>
+          Thus, the algebraic expression for the total books in the library is: <m>b + s</m>.
+        </p>
+
+        <p>
+          <term>Note:</term> Since this expression has two different variables (<m>b</m> and <m>s</m>), it is called an algebraic expression with two unknowns.
+        </p>
+      </solution>
+    </example>
+
   </subsection>
 </section>
