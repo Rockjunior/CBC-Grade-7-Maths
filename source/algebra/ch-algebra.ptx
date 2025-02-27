@@ -24,13 +24,13 @@
   </p>
   
   <!-- include sections -->
-<xi:include href="sections/sec-Algebraic-expressions.ptx" />
+  <xi:include href="sections/sec-Algebraic-expressions.ptx" />
 
-<!-- include sections -->
-<xi:include href="sections/sec-Linear-equations.ptx" />
+  <!-- include sections -->
+  <xi:include href="sections/sec-Linear-equations.ptx" />
 
-<!-- include sections -->
-<xi:include href="sections/sec-Linear-inequalities.ptx" />
+  <!-- include sections -->
+  <xi:include href="sections/sec-Linear-inequalities.ptx" />
 
   </introduction>
 </chapter>

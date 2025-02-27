@@ -9,9 +9,27 @@
     </p>
 
     <ul>
-      <li>Calculating the total cost when buying multiple items.</li>
-      <li>Keeping track of the number of students in a class.</li>
-      <li>Measuring distances and quantities.</li>
+      <li>
+        <p>
+          Calculating the total cost when buying multiple items.
+        </p>
+      </li>
+    </ul>
+
+    <ul>
+      <li>
+        <p>
+          Keeping track of the number of students in a class.
+        </p>
+      </li>
+    </ul>
+
+    <ul>
+      <li>
+        <p>
+          Measuring distances and quantities.
+        </p>
+      </li>
     </ul>
 
     <p>
