@@ -2,3 +2,5 @@
 pretext == 2.13.5
 # This file was automatically generated with PreTeXt 2.13.2.
 pretext == 2.13.2
+# This file was automatically generated with PreTeXt 2.14.0.
+pretext == 2.14.0
