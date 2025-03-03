@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-Algebraic-expressions" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Algebraic Expressions</title>
+  
+  <p>
+    Algebra helps us understand and solve problems in everyday life. It is used in different fields such as science, engineering, and business. 
+    For example, computer programming and architecture rely on algebraic concepts to calculate and create designs.
+  </p>
+  
+  <p>
+    <term>What is an Algebraic Expression?</term>
+  </p>
+  
+  <p>
+    An algebraic expression is a combination of numbers, letters (variables), and mathematical operations such as addition, subtraction, multiplication, and division.
+  </p>
+
+  <p>
+    <term>Why letters?</term>
+  </p>
+  <video youtube="Tm98lnrlbMA"/>
+  
+  <example>
+    <statement>
+      <p>Examples of algebraic expressions:</p>
+        <p>
+          <ul>
+
+            <li>
+              <p>
+                <m>2x + 3</m>
+              </p>
+            </li>
+
+            <li>
+              <p>
+                <m>4m - p</m>
+              </p>
+            </li>
+
+            <li>
+              <p>
+                <m>2(y + 3)</m>
+              </p>
+            </li>
+
+          </ul>
+        </p>
+        
+    </statement>
+    <solution>
+      <p>In these examples:</p>
+      <p>
+        <ul>
+
+          <li>
+            <p>
+              <m>x, m, p, y</m> are variables (unknown values).
+            </p>
+          </li>
+
+          <li>
+            <p>
+              <m>2, 4, 3</m> are constants (fixed numbers).
+            </p>
+          </li>
+
+          <li>
+            <p>
+              <m>+, -, ×</m> are operations.
+            </p>
+          </li>
+        </ul>
+      </p>
+
+    </solution>
+  </example>
+  
+  <activity>
+    <title> <term>Work in Groups</term> </title>
+    <p>
+      <ol>
+        <li>Look at different bottle tops and note their similarities and differences.</li>
+        <li>Group them based on colors, sizes, or labels.</li>
+        <li>Form an algebraic expression to represent the total number of bottle tops without counting.</li>
+        <li>Discuss and share your expressions with others.</li>
+      </ol>
+    </p>
+  </activity>
+  
+  <p>
+    <term>Writing Algebraic Expressions</term>
+  </p>
+  
+  <example>
+    <statement>
+      <p>Jane is a trader who sells school uniforms. One day, she bought:</p>
+      <p>
+        <ul>
+
+          <li>
+            <p>
+              <m>x</m> sweaters
+            </p>
+          </li>
+
+          <li>
+            <p>
+              <m>y</m> pairs of shorts
+            </p>
+          </li>
+
+          <li>
+            <p>
+              <m>2p</m> pairs of socks
+            </p>
+          </li>
+
+        </ul>
+      </p>
+
+      <p>She also sold <m>p</m> pairs of socks the same day.</p>
+    </statement>
+    <solution>
+      <p>Expression for total items by the end of the day:</p>
+      <p>
+        <m>x + y + 2p - p</m>
+      </p>
+    </solution>
+  </example>
+  
+  <example>
+    <statement>
+      <p>A meeting started with <m>50</m> people. During the break:</p>
+        <p>
+          <ul>
+
+            <li>
+              <p>
+                <m>r</m> people left.
+              </p>
+            </li>
+
+            <li>
+              <p>
+                During lunch, <m>s</m> more people left.
+              </p>
+            </li>
+
+            <li>
+              <p>
+                Later, <m>t</m> people joined.
+              </p>
+            </li>
+
+          </ul>
+        </p>
+
+    </statement>
+    <solution>
+      <p>Expression for the number of people left after all changes:</p>
+      <p>
+        <m>50 - r - s + t</m>
+      </p>
+    </solution>
+  </example>
+  
+  <exercise>
+    <title>Exercise 1: Forming Algebraic Expressions</title>
+    <p>Convert the following into algebraic expressions:</p>
+    <ol>
+      <li>How many centimeters are there in <m>x</m> meters?</li>
+      <li>What is the cost of <m>y</m> exercise books if one costs <m>sh 40</m>?</li>
+      <li>A number is five times bigger than <m>n</m>. Write it down.</li>
+      <li>Sam is <m>10</m> years older than Ali. What is the sum of their ages?</li>
+    </ol>
+  </exercise>
+  
+  <exercise>
+    <title>Exercise 2: Real-Life Algebra</title>
+    <p>Write algebraic expressions for the following scenarios:</p>
+    <ol>
+      <li>A farmer has <m>z</m> cows. Each cow produces <m>25</m> liters of milk per day. The family drinks <m>8</m> liters and sells the rest.</li>
+      <li>A matatu charges <m>sh m</m> for a trip. A bus charges <m>40</m> shillings less. A passenger pays <m>500</m> shillings. Find the balance she gets.</li>
+      <li>A company has <m>b</m> cleaners and <m>c</m> security guards. Cleaners earn <m>sh 850</m>, security guards earn <m>sh 900</m>, and each is given an extra <m>sh 150</m> for lunch. Find the total daily expenditure.</li>
+      <li>A bag has a mass of <m>n</m> kg when empty and <m>15</m> kg when full. Find the mass of the clothes inside.</li>
+      <li>A school had <m>r</m> computers and received a donation of <m>6</m> more. Find the total number of computers.</li>
+    </ol>
+  </exercise>
+  
+  <p>
+    <term>Reflection</term>
+  </p>
+  <p>Think of a real-life problem that can be written as an algebraic expression.</p>
+</section>
