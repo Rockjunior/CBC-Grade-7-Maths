@@ -43,7 +43,7 @@
         <example>
             <statement>
                 <p>
-                    Work out: <m>3.75 \div 5</m>
+                    Work out: <m>3.75 \div 8</m>
                 </p>
             </statement>
             <solution>
@@ -88,20 +88,21 @@
                 </sidebyside> -->
                 <tabular>
                     <row>
-                        <cell><m>3.75 \div 5 = \frac{375}{100} \div 5</m></cell>
+                        <cell><m>3.75 \div 8 = \frac{375}{100} \div 8</m></cell>
                         <cell>Here we make <m>3.75</m> a fraction.</cell>
                     </row>
                     <row>
-                        <cell> <m>= \frac{375}{100} \times \frac{1}{5}</m></cell>
-                        <cell>Then we multiply <m>\frac{375}{100}</m> by the reciprocal of <m>\frac{5}{1}</m></cell>
+                        <cell> <m>= \frac{375}{100} \times \frac{1}{8}</m></cell>
+                        <cell>Then we multiply <m>\frac{375}{100}</m> by the reciprocal of <m>\frac{8}{1}</m></cell>
                     </row>
                     <row>
-                        <cell><m>= \frac{\cancel{375}}{\cancel{500}} = \frac{75}{100}</m></cell>
-                        <cell>Dividing <m>\frac{375}{500}</m> by <m>5</m>, it is then simplified to <m>\frac{75}{100}</m></cell>
+                        <cell><m>= \frac{\cancel{375}}{\cancel{800}} = \frac{15}{32}</m></cell>
+                        <cell>Dividing <m>\frac{375}{800}</m> by <m>25</m>, it is then simplified to <m>\frac{15}{32}</m></cell>
                     </row>
                     <row>
-                        <cell><m>= 0.75</m></cell>
-                        <cell>This is a result of converting <m>\frac{75}{100}</m> into a decimal</cell>
+                        <cell><m>= 0.46875</m></cell>
+                        <cell>This is a result of converting <m>\frac{15}{32}</m> into a decimal</cell>
+                        <cell> Writing <m> 0.46875</m> into <m>2</m> decimal places gives <m>0.47</m> </cell>
                     </row>
                 </tabular>
             </solution>
