@@ -39,8 +39,8 @@ Therefore, Ekadeli will multiply the amount of flour she is using by the amount 
                     <latex-image>
                         \begin{tikzpicture}
                                 \draw[thick] (0,0) rectangle (4,2);
-                                \draw[&lt;-&gt;] (0,-0.3) -- (4,-0.3) node[midway, below] {4 cm};
-                                \draw[&lt;-&gt;] (-0.3,0) -- (-0.3,2) node[midway, left] {2 cm};
+                                \draw[&lt;-&gt;] (0,-0.3) -- (4,-0.3) node[midway, below] {4.2 cm};
+                                \draw[&lt;-&gt;] (-0.3,0) -- (-0.3,2) node[midway, left] {2.8 cm};
                         \end{tikzpicture}
                     </latex-image>
                 </image>
@@ -49,10 +49,10 @@ Therefore, Ekadeli will multiply the amount of flour she is using by the amount 
                 <p>
                     <md>
                         <mrow>\text{ Area of the rectangle } \amp = \text{Length } \times \text{ Width } </mrow>
-                        <mrow> \amp = 1.2 \text{ m } \times 0.8 \text{ m}</mrow>
-                        <mrow> \amp = (\frac{12}{10} \times \frac{8}{10})\text{m}^2 </mrow>
-                        <mrow> \amp = (\frac{96}{100})\text{m}^2 </mrow>
-                        <mrow> \amp = 0.96\text{m}^2 </mrow>
+                        <mrow> \amp = 4.2 \text{ m } \times 2.8 \text{ m}</mrow>
+                        <mrow> \amp = (\frac{42}{10} \times \frac{28}{10})\text{m}^2 </mrow>
+                        <mrow> \amp = (\frac{1176}{100})\text{m}^2 </mrow>
+                        <mrow> \amp = 11.76\text{m}^2 </mrow>
                     </md>
                 </p>
             </solution>
@@ -60,34 +60,34 @@ Therefore, Ekadeli will multiply the amount of flour she is using by the amount 
         <example>
             <statement>
                 <p>
-                    Work out: <m>9.132 \times 5.2</m>
+                    Work out: <m>7.215 \times 6.4</m>
                 </p>
             </statement>
             <solution>
                 <sidebyside>
                     <tabular>
                         <row>
-                            <cell halign="right"><m>9\,132</m></cell>
+                            <cell halign="right"><m>7\,215</m></cell>
                             <cell/>
                             <cell/>
                         </row>
                         <row>
-                            <cell bottom="medium" halign="right"><m>\times \, 52</m></cell>
+                            <cell bottom="medium" halign="right"><m>\times \, 64</m></cell>
                             <cell/>
                             <cell/>
                         </row>
                         <row>
-                            <cell halign="right"><m>18\,264</m></cell>
+                            <cell halign="right"><m>28\,860</m></cell>
                             <cell><m>\to</m></cell>
-                            <cell><m>9\,132 \times 2</m></cell>
+                            <cell><m>7\,215 \times 4</m></cell>
                         </row>
                         <row>
-                            <cell bottom="medium" halign="right"><m>+\,456\,600</m></cell>
+                            <cell bottom="medium" halign="right"><m>+\,43\,290</m></cell>
                             <cell><m>\to</m></cell>
-                            <cell><m> 9\,132 \times 50</m></cell>
+                            <cell><m> 7\,215 \times 6</m></cell>
                         </row>
                         <row>
-                            <cell bottom="medium" halign="right"><m>474\,864</m></cell>
+                            <cell bottom="medium" halign="right"><m>461\,760</m></cell>
                             <cell/>
                             <cell/>
                         </row>
@@ -100,10 +100,10 @@ Therefore, Ekadeli will multiply the amount of flour she is using by the amount 
                                     Count the number of decimal places.
                                 </p>
                                 <p>
-                                    <m>9.132</m> has <m>3</m> decimal places.
+                                    <m>7.215</m> has <m>3</m> decimal places.
                                 </p>
                                 <p>
-                                    <m>5.2</m> has <m>1</m> decimal place.
+                                    <m>6.4</m> has <m>1</m> decimal place.
                                 </p>
                                 <p>
                                     Total number of decimal places is <m>4.</m>
@@ -111,7 +111,7 @@ Therefore, Ekadeli will multiply the amount of flour she is using by the amount 
                             </li>
                             <li>
                                 <p>
-                                    Multiply <m>9\,132</m> by <m>52.</m>
+                                    Multiply <m>7\,215</m> by <m>64.</m>
                                 </p>
                             </li>
                             <li>
@@ -123,10 +123,10 @@ Therefore, Ekadeli will multiply the amount of flour she is using by the amount 
                     </p>
                 </sidebyside>
                 <p>
-                    <m>= 47.4864</m>
+                    <m>= 46.1760</m>
                 </p>
                 <p>
-                    <m>= 47.48</m>
+                    <m>= 46.176</m>
                 </p>
             </solution>
         </example>
