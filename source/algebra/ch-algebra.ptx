@@ -4,7 +4,6 @@
   <title>Algebra</title>
 
   <introduction>
-<<<<<<< HEAD
 
     <p> 
       <term>Introduction to Algebra</term>
@@ -111,7 +110,6 @@
     </p>
       
       <video xml:id="yt-list-vars" youtube="H4g0GZsgq0I" width="60%" margins="5% 35%"/>
-=======
   
     <p> <em>Introduction </em></p>
       <p>
@@ -131,28 +129,14 @@
         <caption>Watch this.</caption>
         <video youtube="H4g0GZsgq0I"/>
       </figure>
->>>>>>> d618ee640be9b832df4d8895fdc82ab9d20055db
-
   </introduction>
 
-  <!-- include sections -->
-<<<<<<< HEAD
-  <xi:include href="sections/subsections/sec-Algebraic-expressions.ptx" />
+    <!-- include sections -->
+    <xi:include href="sections/subsections/sec-Algebraic-expressions.ptx" />
 
     <!-- include sections -->
     <xi:include href="sections/subsections/sec-Linear-equations.ptx" />
 
-<!-- include sections -->
-  <xi:include href="sections/subsections/sec-Linear-inequalities.ptx" />
-=======
-  <xi:include href="Sections/sec-Algebraic-Expressions.ptx" />
-
-  <!-- include sections -->
-  <xi:include href="Sections/sec-Linear-Equations.ptx" />
-
-  <!-- include sections -->
-  <xi:include href="Sections/sec-Linear-Inequalities.ptx" />
-
-
->>>>>>> d618ee640be9b832df4d8895fdc82ab9d20055db
+    <!-- include sections -->
+    <xi:include href="sections/subsections/sec-Linear-inequalities.ptx" />
 </chapter>
