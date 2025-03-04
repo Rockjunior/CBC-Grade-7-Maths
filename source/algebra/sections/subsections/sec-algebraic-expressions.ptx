@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-algebraic-expressions" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Algebraic Expressions</title>
+  <introduction>
+    <p>
+      <term>What is an Algebraic Expression?</term>
+    </p>
+    <p>
+      An algebraic expression is a combination of numbers, letters (variables), and mathematical operations such as addition, subtraction, multiplication, and division.
+    </p>
+    <p>
+      Algebra helps us understand and solve problems in everyday life. It is used in different fields such as science, engineering, business, and even in daily activities like budgeting and shopping. 
+    </p>
+    <p>
+      <term>Why use letters?</term>
+    </p>
+    <p>
+      Watch this!
+    </p>
+    <video youtube="Tm98lnrlbMA"/>
+
+  </introduction>
+  
+
+
+
+
+  <xi:include href="subsections/algebraic_expressions/subsec-Formation_of_Algebraic_Expression_from_Real_Life_Situations.ptx" />
+
+  <xi:include href="subsections/algebraic_expressions/subsec-Formation_of_Algebraic_Expressions_from_Simple_Algebraic_Statements_involving_Addition_and_Substraction.ptx" /> 
+        
+  <xi:include href="subsections/algebraic_expressions/subsec-Formation_of_Algebraic_Expressions_from_Simple_Algebraic_Statements_involving_Multiplication_and_Division.ptx" />
+
+  <xi:include href="subsections/algebraic_expressions/subsec-Simplication_of_Algebraic_Expression_in_Real_Life_Situations.ptx" />
+</section>
