@@ -129,15 +129,23 @@
         <caption>Watch this.</caption>
         <video youtube="H4g0GZsgq0I"/>
       </figure>
+<<<<<<< HEAD
 
   </introduction>
 
   <!-- include sections -->
   <xi:include href="sections/subsections/sec-Algebraic-expressions.ptx" />
+=======
+  </introduction>
+
+    <!-- include sections -->
+    <xi:include href="sections/subsections/sec-Algebraic-expressions.ptx" />
+>>>>>>> e0010ea90e888ecfbb44dbcdfc721e691d92c274
 
     <!-- include sections -->
     <xi:include href="sections/subsections/sec-Linear-equations.ptx" />
 
+<<<<<<< HEAD
 <!-- include sections -->
   <xi:include href="sections/subsections/sec-Linear-inequalities.ptx" />
 
@@ -150,4 +158,8 @@
   <xi:include href="Sections/sec-Linear-Inequalities.ptx" />
 
 
+=======
+    <!-- include sections -->
+    <xi:include href="sections/subsections/sec-Linear-inequalities.ptx" />
+>>>>>>> e0010ea90e888ecfbb44dbcdfc721e691d92c274
 </chapter>
