@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <chapter xml:id="ch-algebra" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>:Algebra</title>
+  <title>: Algebra</title>
 
   <introduction>
 
@@ -19,7 +19,7 @@
       <me>x + 3 = 8</me>
     </p>
     <p>
-      The letter x is a variable.
+      The letter <m>x</m> is a variable.
     </p>
 
     <p>
