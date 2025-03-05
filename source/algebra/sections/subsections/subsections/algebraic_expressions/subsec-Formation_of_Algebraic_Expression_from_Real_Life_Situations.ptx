@@ -12,7 +12,7 @@
 
    <activity>
     <p>
-        <em><term>Activity 1: Group Activity:</term></em>
+        <em><term> Group Activity:</term></em>
     </p>
 
     <p>
@@ -36,41 +36,32 @@
     <example>
         <statement>
             <p>
-                An exercise book costs <m>Ksh 30</m>, and a pen costs <m>Ksh 15</m>. Jeff buys <m>a</m> books and <m>b</m> pens, write an algebraic expression for the total cost.
+                An exercise book costs <m>ksh  30</m>, and a pen costs <m>ksh  15</m>. Jeff buys <m>p</m> books and <m>b</m> pens, write an algebraic expression for the total cost.
             </p>
         </statement>
 
         <solution>
             <p>
+                The cost of one book = ksh 30
+            </p>
+            <p>
+                The cost of one pen = ksh 15
+            </p>
+            <p>
+                Jeff buys <m>p</m> books, the total cost of books: <me>= 30 \times p</me>
+            </p>
+            <p>
                 <me>
-                    The cost of one book = Ksh 30
+                    = 30p
                 </me>
+            </p>
+            <p>
+                and <m>b</m> pens, the total cost of pens: <me>= 15 \times b</me>
                 
             </p>
             <p>
                 <me>
-                    The cost of one pen = Ksh 15
-                </me>
-                
-            </p>
-            <p>
-                <me>
-                    Jeff buys x books, the total cost of books = 30 \times x
-                </me>
-            </p>
-            <p>
-                <me>
-                    = 30x
-                </me>
-            </p>
-            <p>
-                <me>
-                    and y pens, the total cost of pens = 15 \times y
-                </me>
-            </p>
-            <p>
-                <me>
-                    = 15y
+                    = 15b
                 </me>
             </p>
             <p>
@@ -78,7 +69,7 @@
             </p>
             <p>
                 <me>
-                    = 30x + 15y
+                    = 30p + 15b
                 </me>
             </p>
         </solution>
@@ -87,38 +78,33 @@
     <example>
         <statement>
         <p>
-            A boda boda rider charges <m>Ksh 50</m> for the first <m>2 km</m> and <m>Ksh 20</m> for each extra kilometre. If Joy travels <m>k</m> extra kilometres, form an expression for the total fare for the whole journey.
+            A boda boda rider charges <m> ksh 50 </m> for the first <m> 2 km </m> and <m> ksh 20 </m> for each extra kilometre. If Joy travels <m> k </m> extra kilometres, form an expression for the total fare for the whole journey.
         </p>
         </statement>
       <solution>
         <p>
-            <me>
-                The fixed charge for the first 2 km is Ksh 50
-            </me>
+            The fixed charge for the first <m> 2 km </m> = <m> ksh 50</m>
+        </p>
+        <p>
+            Each extra kilometer costs <m> ksh 20 </m>
+        </p>
+        <p>
+            Joy travels <m> k </m> extra kilometers, the extra charge;
         </p>
         <p>
             <me>
-                Each extra kilometer costs Ksh 20
+                20  \times  k = 20 k
             </me>
         </p>
         <p>
-            <me>
-                Joy travels k extra kilometers, the extra charge;
-            </me>
+            The total fare Joy paid is:
+        </p>
+        <p>
+            <m> fixed charge for the first 2 km + Extra kilometres charges </m>
         </p>
         <p>
             <me>
-                20 \times k = 20k
-            </me>
-        </p>
-        <p>
-            <me>
-                The total fare Joy paid
-            </me>
-        </p>
-        <p>
-            <me>
-                = 50 + 20k
+                = 50 + 20 k
             </me>
         </p>
       </solution>
@@ -130,27 +116,27 @@
                 <ol>
                     <li>
                         <p>
-                            A farmer has <m>c</m>cows. The number of goats on his farm is twice the number of cows. Form an algebraic expression for the number of goats.
+                            A farmer has <m> t </m>cows. The number of goats on his farm is twice the number of cows. Form an algebraic expression for the number of goats.
                         </p>
                     </li>
                     <li>
                         <p>
-                            Precious Academy buys <m>5</m> textbooks at <m>b</m>shillings each and <m>3</m> exercise books at <m>50</m> shillings each. Form an expression for the total cost of the books.
+                            Precious Academy buys <m> 5 </m> textbooks at <m> b </m>shillings each and <m> 3 </m> exercise books at <m> 50 </m> shillings each. Form an expression for the total cost of the books.
                         </p>
                     </li>
                     <li>
                         <p>
-                            The school bus fuels <m>t</m> litres of diesel before leaving for a school trip. The trip consumes 12 litres of the fuel. Form an expression for the amount of fuel left after the trip.
+                            The school bus fuels <m> t </m> litres of diesel before leaving for a school trip. The trip consumes 12 litres of the fuel. Form an expression for the amount of fuel left after the trip.
                         </p>
                     </li>
                     <li>
                         <p>
-                            Mama Mwangi's shop sells <m>2 kg</m> of sugar at <m>y</m> shillings per kg and a loaf of bread for <m>60</m> shillings. What is the expression for the total amount you can pay for both items from the shop.
+                            Mama Mwangi's shop sells <m> 2 kg </m> of sugar at <m> y </m> shillings per kg and a loaf of bread for <m> 60 </m> shillings. What is the expression for the total amount you can pay for both items from the shop.
                         </p>
                     </li>
                     <li>
                         <p>
-                            In grade 7, each student contributes <m>Ksh 20</m> for a class maths project. If there are <m>n</m> students, form an algebraic expression for the total amount collected from the class.
+                            In grade 7, each student contributes <m> ksh 20 </m> for a class maths project. If there are <m> n </m> students, form an algebraic expression for the total amount collected from the class.
                         </p>
                     </li>
                 </ol>
