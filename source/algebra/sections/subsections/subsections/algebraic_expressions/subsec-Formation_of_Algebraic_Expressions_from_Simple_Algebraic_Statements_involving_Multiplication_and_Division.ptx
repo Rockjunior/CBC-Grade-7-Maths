@@ -2,7 +2,22 @@
 
 <subsection xml:id="subsec-Formation_of_Algebraic_Expressions_from_Simple_Algebraic_Statements_involving_Multiplication_and_Division">
     <title>Formation of Algebraic Expressions from Simple Algebraic Statements involving Multiplication and Division</title>
-    <p>
-        
-    </p>
+        <example>
+            <statement>
+                <p>
+                    A carpenter cuts a wooden plank of length <m> L </m> meters into <m> 5 </m> equal pieces. Write an algebraic expression for the length of each piece.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    Total length = <m> L </m> meters.
+                </p>
+                <p>
+                    The plank is cut into <m> 5 </m> equal pieces, therefore the length of each piece
+                </p>
+                <p>
+                    <me> = L ÷ 5 or L/5 meters </me>
+                </p>
+            </solution>
+        </example>
 </subsection>
