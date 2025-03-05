@@ -1,9 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <subsection xml:id="subsec-Formation_of_Algebraic_Expressions_from_Simple_Algebraic_Statements_involving_Addition_and_Substraction">
-    <title>Formation of Algebraic Expressions from_Simple Algebraic Statements involving Addition and Substraction</title>
-    <p>
-        
-    </p>
-    
+    <title>Formation of Algebraic Expressions from Simple Algebraic Statements involving Addition and Substraction</title>
+    <activity>
+        <p>
+            <em><term>Activity 2: Group Activity:</term></em>
+        </p>
+        <p>
+            Georg has some pencils. He buys <m>4</m> more pencils from a shop. Later, he gives <m>2</m> pencils to his friend.
+        </p>
+        <p>
+            <ol>
+                <li>
+                    <p>
+                        Use a letter to represent the number of pencils Brian originally had.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Write an algebraic expression for the total number of pencils Georg has after buying <m>4</m> more.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Write an algebraic expression for the number of pencils Georg has after giving away <m>2</m>.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Discuss and compare your answers with other groups.
+                    </p>
+                </li>
+            </ol>
+        </p>
+
+    </activity>
+
+    <example>
+        <statement>
+            <p>
+                Steph is 3 years younger than her sister. If her sister is w years old, form an algebraic expression for Steph's age.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                <me>
+                    Let the age of Steph's sister be w years.
+                </me>
+            </p>
+            <p>
+                <me>
+                    Since Steph is 3 years younger, we subtract 3 from her sister's age.
+                </me>
+            </p>
+            <p>
+                <me>
+                    The algebraic expression for Steph's age is:
+                </me>
+            </p>
+            <p>
+                <me>
+                    y - 3
+                </me>
+            </p>
+            <p>
+                Steph's age is <m>(y-3) years</m>
+            </p>
+        </solution>
+    </example>
+
+    <exercise>
+        <statement>
+            <p>
+                <ol>
+                    <li>
+                        <p>
+                            
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            
+                        </p>
+                    </li>
+                </ol>
+            </p>
+
+        </statement>
+    </exercise>
+
 </subsection>
