@@ -5,18 +5,23 @@
         <example>
             <statement>
                 <p>
-                    A carpenter cuts a wooden plank of length <m> L </m> meters into <m> 5 </m> equal pieces. Write an algebraic expression for the length of each piece.
+                    A carpenter cuts a wooden plank of length <m> L </m> metres into <m> 5 </m> equal pieces. Write an algebraic expression for the length of each piece.
                 </p>
             </statement>
             <solution>
                 <p>
-                    Total length = <m> L </m> meters.
+                    Total length = <m> L </m> metres.
                 </p>
                 <p>
                     The plank is cut into <m> 5 </m> equal pieces, therefore the length of each piece
                 </p>
                 <p>
-                    <me> = L ÷ 5 or L/5 meters </me>
+                    <me>
+                        = \frac {Length of the plank}{Number of pieces}
+                    </me>
+                </p>
+                <p>
+                    <me> = L ÷ 5 = \frac {L}{5} metres </me>
                 </p>
             </solution>
         </example>
@@ -47,7 +52,7 @@
                     <me> 12 \times t </me>
                 </p>
                 <p>
-                    <me> = 12 t </me> litres
+                    <me> = 12 t litres</me> 
                 </p>
             </solution>
         </example>

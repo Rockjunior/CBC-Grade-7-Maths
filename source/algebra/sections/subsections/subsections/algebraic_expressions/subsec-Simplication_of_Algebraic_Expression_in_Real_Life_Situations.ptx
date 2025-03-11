@@ -60,10 +60,10 @@
                 The cyclist had travelled <m> d </m> km
             </p>
             <p>
-                Therefore he had <m> d - 8</m> left
+                Therefore he had <m> (d - 8)</m> left
             </p>
             <p>
-                His friend has <me> 3(d - 8) </me> km left
+                His friend has <m> 3(d - 8) </m> km left
             </p>
             <p>
                 <me>
@@ -132,11 +132,15 @@
                 <me>
                     4200 x + 3800 (x - y)
                 </me>
+            </p>
+            <p>
                 <me>
                     4200 x + 3800 x - 3800 y
                 </me>
+            </p>
+            <p>
                 <me>
-                    8000 x - 3800y
+                    = 8000 x - 3800y
                 </me>
             </p>
         </solution>
@@ -166,10 +170,10 @@
                     </li>
                     <li>
                         <p>
-                            A shopkeeper had <m> m </m> kilograms of sugar. He sold <m> frac{1}{3} </m> of it in the morning and <m> 5 </m> kg in the afternoon. 
+                            A shopkeeper had <m> m </m> kilograms of sugar. He sold <m> \frac{1}{3} </m> of it in the morning and <m> 5 </m> kg in the afternoon. 
                         </p>
                         <p>
-                            <ol marker="a">
+                            <ol marker="a)">
                                 <li>
                                     <p>
                                         Write an algebraic expression for the remaining amount of sugar.
@@ -196,7 +200,7 @@
                             Form an algebraic expression for the cost of:
                         </p>
                         <p>
-                            <ol marker="a">
+                            <ol marker="a)">
                                 <li>
                                     <p>
                                         A mathematical set
