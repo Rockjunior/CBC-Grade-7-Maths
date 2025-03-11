@@ -2,6 +2,7 @@
 
 <section xml:id="sec-algebraic-expressions" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Algebraic Expressions</title>
+
   <introduction>
     <p>
       <term>What is an Algebraic Expression?</term>
@@ -20,14 +21,10 @@
 
   </introduction>
   
-
-
-
-
   <xi:include href="subsections/algebraic_expressions/subsec-Formation_of_Algebraic_Expression_from_Real_Life_Situations.ptx" />
 
   <xi:include href="subsections/algebraic_expressions/subsec-Formation_of_Algebraic_Expressions_from_Simple_Algebraic_Statements_involving_Addition_and_Substraction.ptx" /> 
-        
+
   <xi:include href="subsections/algebraic_expressions/subsec-Formation_of_Algebraic_Expressions_from_Simple_Algebraic_Statements_involving_Multiplication_and_Division.ptx" />
 
   <xi:include href="subsections/algebraic_expressions/subsec-Simplication_of_Algebraic_Expression_in_Real_Life_Situations.ptx" />

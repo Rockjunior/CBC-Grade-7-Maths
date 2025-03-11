@@ -88,7 +88,13 @@
                         </li>
                         <li>
                             <p>
-                                
+                                The diagram below represents a stack of <m> 6 </m> books, with each book having a thickness of <m> b </m> cm.
+                            </p>
+                            <p>
+                                [Image of the stack of books with distance d for one book]
+                            </p>
+                            <p>
+                                Form an algebraic expression for the total thickness of the stack.
                             </p>
                         </li>
                         <li>
