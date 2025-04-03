@@ -186,44 +186,123 @@
            
     </solution> 
     </example>
-    <exercise>
+    <example>
         <statement>
             <p>
-                The below pictograph shows the data on the number of vehicles parked in a parking lot throughout the week.
+                The pictograph below shows the number of books borrowed from a school library over five days
             </p>
             <table>
                 <title></title>
                 <tabular left="medium" right="medium" top="medium" bottom="medium">
                     <row halign="left" header="yes">
                         <cell>Days of the week</cell>
-                        <cell>Number of vehicles  🚗 = 5 vehicles</cell>
+                        <cell>Number of books borrowed 📙 = 5 vehicles</cell>
                     </row>
                     <row>
-                        <cell></cell>
-                        <cell></cell>
+                        <cell>Monday</cell>
+                        <cell>📙📙📙📙📙</cell>
                     </row>
                     <row>
-                        <cell></cell>
-                        <cell></cell>
+                        <cell>Tueday</cell>
+                        <cell>📙📙📙📙</cell>
                     </row>
                     <row>
-                        <cell></cell>
-                        <cell></cell>
+                        <cell>Wednesday</cell>
+                        <cell>📙📙📙📙📙📙</cell>
                     </row>
                     <row>
-                        <cell></cell>
-                        <cell></cell>
+                        <cell>Thursday</cell>
+                        <cell>📙📙📙</cell>
                     </row>
                     <row>
-                        <cell></cell>
-                        <cell></cell>
-                    </row>
-                    <row>
-                        <cell></cell>
-                        <cell></cell>
+                        <cell>Friday</cell>
+                        <cell>📙📙📙📙📙📙📙</cell>
                     </row>
                 </tabular>
             </table>
+            <p>
+                Answer the following questions:
+            </p>
+            <p>
+                (a) How many books were borrowed on Monday?
+            </p>
+            <p>
+                (b) On which day were the most books borrowed?
+            </p>
+            <p>
+                (c) How many books were borrowed in total during the week?
+            </p>
+            <p>
+                (d) How many more books were borrowed on Friday compared to Thursday?
+            </p>
         </statement>
-    </exercise>
+        <solution>
+            <p>
+                (a) <m>5\times 10=50</m>  Therefore, 50 books were borrowed on Monday
+            </p>
+            <p>
+                (b) Friday
+            </p>
+            <p>
+                (c) Total Books Borrowed:
+            </p>
+            <p>
+            <ul>
+                <li>
+                    <p>
+                        Monday: 50 books
+                    </p>
+                </li>
+                 <li>
+                    <p>
+                        Tuesday: 40 books
+                    </p>
+                </li>
+                 <li>
+                    <p>
+                        Wednesday: 60 books
+                    </p>
+                </li>
+                 <li>
+                    <p>
+                        Thursday: 30 books
+                    </p>
+                </li>
+                 <li>
+                    <p>
+                       Friday: 70 books
+                    </p>
+                </li>
+            </ul>
+            </p>
+            <p>
+                Total = <m>50+40+60+30+70 = 250</m>
+            </p>
+            <p>
+                Therefore, <m>250</m> books were borrowed throughout the week.
+            </p>
+            <p>
+                (d) More Books Borrowed on Friday than Thursday:
+            </p>
+            <p>
+                <ul>
+                    <li>
+                        <p>
+                            Friday: 70 books
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Thursday: 30 books
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Difference = <m>70 - 30 = 40</m>books
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </solution>
+    </example>
     </subsection>
