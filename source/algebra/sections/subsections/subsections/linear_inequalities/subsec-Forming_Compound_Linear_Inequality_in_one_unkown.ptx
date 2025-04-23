@@ -68,11 +68,13 @@
       </activity>
 
       <p>
-        <term>Learning Point.</term>
+        <md>
+          <mrow> \amp {\color{blue} \text{Learning Point.}} </mrow>
+        </md>
       </p>
 
       <p>
-        When two simple inequalities are combined, they form a compound inequality.
+        <m>{\color{green} \text{When two simple inequalities are combined, they form a compound inequality.}}</m>
       </p>
       
       <example>
