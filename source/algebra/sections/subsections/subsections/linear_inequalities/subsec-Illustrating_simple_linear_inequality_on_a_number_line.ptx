@@ -47,15 +47,27 @@
         <shortdescription>Number Line Illustrastion.</shortdescription>
         <latex-image>
           \begin{tikzpicture}
-             % Draw number line
-              \draw[thick, ->] (-5,0) -- (5,0);
-              
-              % Draw tick marks and labels
-              \foreach \x in {-4,-3,-2,-1,0,1,2,3,4} {
-                  \draw[thick] (\x,0.1) -- (\x,-0.1);
-                  \node[below] at (\x,0) {\x};
-              }
+            % Draw number line starting at 0
+            \draw[&lt;-&gt;](0,0) -- (8.5,0);
 
+            % Draw ticks and labels for numbers from 0 to 8
+            \foreach \x in {0,1,...,8} {
+                \draw (\x,0.1) -- (\x,-0.1);
+                \node[below] at (\x,-0.1) {\x}; 
+            }
+
+            % Draw curved arrows for jumps
+            \draw[red,-&gt;] (5,0.1) to[bend right=60] (4,0.1);
+            \draw[red,-&gt;] (4,0.2) to[bend right=60] (3,0.1);
+            \draw[red,-&gt;] (3,0.2) to[bend right=60] (2,0.1);
+
+            % Start label
+            \draw[] (5,0) -- (5,0.5);
+            \node[above] at (5,0.55) {\textbf{start}};
+
+            % Stop label
+            \draw[] (2,0) -- (2,0.5);
+            \node[above] at (2,0.55) {\textbf{stop}};
           \end{tikzpicture}
         </latex-image>
       </image>
@@ -131,7 +143,9 @@
       </activity>
 
       <p>
-        <term>Learning Points.</term>
+        <md>
+          <mrow> \amp {\color{blue} \text{Learning Points.}} </mrow>
+        </md>
       </p>
 
       <p>
@@ -141,7 +155,7 @@
           <li>
 
             <p>
-              For inequalities with symbols <m>\lt</m> or <m>\gt</m>, the boundary digits are circled in the representations.
+              <m>{\color{green} \text{For inequalities with symbols} (\lt) \text{or} (\gt), \text{the boundary digits are circled in the representations.}}</m>
             </p>
 
           </li>
@@ -149,7 +163,7 @@
           <li>
 
             <p>
-              For inequalities with symbols <m>\le</m> or <m>\ge</m>, the circles are shaded.
+              <m>{\color{green} \text{For inequalities with symbols (\le) \text{or} (\ge), the circles are shaded.}}</m>
             </p>
 
           </li>
@@ -159,19 +173,19 @@
       </p>
 
       <p>
-        We can illustrate inequalities on a number line by understanding the inequality symbols.
+        <m>{\color{green} \text{We can illustrate inequalities on a number line by understanding the inequality symbols.}}</m>
       </p>
 
       <p>
-        An <term>open point</term> is used to represent a number that is not included in the inequality.
+        <m>{\color{green} \text{An "open point" is used to represent a number that is not included in the inequality.}}</m>
       </p>
 
       <p>
-        Take a look at the illustration below;
+        <m>{\color{green} \text{Take a look at the illustration below;}}</m>
       </p>
 
       <p>
-        Illustrate <me> x &gt; 6 </me> on a number line.        
+        <m>{\color{green} \text{Illustrate on a number line.} (x &gt; 6)}</m>
       </p>
 
       <image>
@@ -200,19 +214,19 @@
       </image>
 
       <p>
-        An <term>open point</term> has been used since <m>6</m> in not part of the solution of the inequality.
+        <m>{\color{green} \text{An "open point" has been used since} 6 \text{in not part of the solution of the inequality.}}</m>
       </p>
 
       <p>
-        A <term>closed point</term> is used to represent a number that is included in the inequality.
+        <m>{\color{green} \text{A "closed point" is used to represent a number that is included in the inequality.}}</m>
       </p>
 
       <p>
-        Take a look at the illustration below;
+        <m>{\color{green} \text{Take a look at the illustration below;}}</m>
       </p>
 
       <p>
-        <me>x \ge 4</me>        
+        <me>{\color{green} (x \ge 4)}</me>        
       </p>
 
       <image>
@@ -241,7 +255,7 @@
       </image>
 
       <p>
-        A closed point has been used since <m>4</m> is part of the solution of the inequality.
+        <m>{\color{green} \text{A closed point has been used since} (4) \text{is part of the solution of the inequality.}}</m>
       </p>
 
       <example>
