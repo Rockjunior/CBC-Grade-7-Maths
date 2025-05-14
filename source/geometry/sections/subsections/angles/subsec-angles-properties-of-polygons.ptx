@@ -12,8 +12,28 @@
         <p>
             Examples of polygons include: triangle, quadrilateral, pentagon, hexagon, heptagon, octagon e.t.c. 
         </p>
+
+        <activity>
+            <statement>
+            <p>
+                Explore the connection between the name and number of sides of a polygon in this activity.
+            </p>
+
+            <figure>
+                    <caption>Angle properties of polygons(Created with GeoGebra®,[Geogebra Content Team])</caption>
+                    <interactive xml:id="geogebra-Angle-properties-of-polygons" platform="geogebra" width="95%" aspect="4:3">
+                    <slate xml:id="geogebra-angle-properties-of-polygons" surface="geogebra" material="dkq2mrpr" aspect="4:3">
+                    enableShiftDragZoom(true);
+                    showResetIcon(false);
+                    </slate>
+                    </interactive>
+            </figure>
+
+            </statement>
+        </activity>
+
         <p>
-            In order to explore the different properties of polygons in a fun and interactive way, we will be using <term>GeoGebra.</term>
+            In order to explore the different properties of polygons in a fun and interactive way, you will be using <term>GeoGebra.</term>
         </p>
         <p>
             <term>GeoGebra</term> is a free Mathematical tool for interactive geometry, algebra, statistics.

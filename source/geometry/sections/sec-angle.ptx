@@ -21,7 +21,7 @@
                     </p>
 
                     <image width="50%">
-                        <shortdescription>angles</shortdescription>
+                        <shortdescription>angles(Created with GeoGebra®,[Geogebra Content Team])</shortdescription>
                         <latex-image>
                             \begin{tikzpicture}
                                 \draw[blue](0:0cm) node[left]{$O$} -- (0:1cm) node[right]{$A$};

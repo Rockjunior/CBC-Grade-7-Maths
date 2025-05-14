@@ -177,11 +177,13 @@
       </activity>
 
       <p>
-        <term>Learning Point.</term>
+        <md>
+          <mrow> \amp {\color{blue} \text{Learning Point.}} </mrow>
+        </md>
       </p>
 
       <p>
-        To represent a compound inequality on a number line, illustrate the regions that satisfy each inequality and highlight the overlapping section.
+        <m>{\color{green} \text{To represent a compound inequality on a number line, illustrate the regions that satisfy each inequality and highlight the overlapping section.}}</m>
       </p>
 
       <example>

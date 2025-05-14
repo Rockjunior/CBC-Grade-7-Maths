@@ -132,7 +132,7 @@
         <example>
             <statement>
                 <p>
-                    Erick had a sugarcane whose length was <m>6.24</m> m. He cut the sugarcane into equal pieces of <m>1.04</m> m. How many pieces did he get?
+                    Erick had a sugarcane whose length was <m>6.84</m> m. He cut the sugarcane into equal pieces of <m>2.28 </m> m. How many pieces did he get?
                 </p>
             </statement>
             <solution>
@@ -140,48 +140,52 @@
                     Equal pieces of sugarcane Erick got is given by:
                 </p>
                 <p>
-                    <m>6.24 \text{ m } \div 1.04 \text{ m } = \frac{6.24}{1.04}</m>
+                    <m>6.84 \text{ m } \div 2.28 \text{ m } = \frac{6.84}{2.28}</m>
                 </p>
                 <p>
                     Multiply both the numerator and the denomenator by <m>100</m> to eliminate the decimals. 
                 </p>
                 <p>
                     <md>
-                        <mrow>\frac{6.24 \times 100}{1.04 \times 100} \amp = \frac{624}{104}</mrow>
+                        <mrow>\frac{6.84 \times 100}{2.28 \times 100} \amp = \frac{684}{228}</mrow>
                         <mrow> \amp </mrow>
-                        <mrow> \amp = 6 </mrow>
+                        <mrow> \amp = 3 </mrow>
                     </md>
                 </p>
                 <p>
-                  Therefore,  Erick got <m>6</m> pieces of sugarcane.
+                  Therefore,  Erick got <m>3</m> pieces of sugarcane.
                 </p>
             </solution>
         </example>
         <example>
             <statement>
                 <p>
-                    Work out: <m>5.63 \div 1.42 = </m>
+                    Work out: <m>9.45 \div 2.25 = </m>
                 </p>
             </statement>
             <solution>
                 <p>
-                    <m>5.63 \div 1.42 = \frac{563}{100} \div \frac{142}{100}</m>
+                 First, we express <m>9.45 \div 2.25 </m> as a fraction: = <m> \frac{945}{100} \div \frac{225}{100} </m>
                 </p>
-                <sidebyside>
+                <p>
+                   Then multiply <m> \frac{945}{100}</m> by  <m> \frac{100}{225} </m> which is the reciprocal of <m> \frac{225}{100} </m>, to get: 
+                </p>
+                
                 <tabular>
                 <row>
-                    <cell halign="left"><m>7</m></cell>
+                    <cell halign="left"><m>21</m></cell>
                     <cell/>
                     <cell halign="left"><m>1</m></cell>
                     <cell/>
                     
                 </row>
                     <row>
-                        <cell><m>\frac{\cancel{563}}{\cancel{100}}</m></cell>
+                        <cell><m>\frac{\cancel{945}}{\cancel{100}}</m></cell>
                         <cell><m>\times</m></cell>
-                        <cell><m>\frac{\cancel{100}}{\cancel{142}}</m></cell>
-                        <cell><m> = \frac{19}{5}</m></cell>
+                        <cell><m>\frac{\cancel{100}}{\cancel{225}}</m></cell>
+                        <cell><m> = \frac{21}{5}</m></cell>
                     </row>
+                    
                     <row>
                         <cell><m>1</m></cell>
                         <cell/>
@@ -189,33 +193,43 @@
                         <cell/>
                     </row>
                 </tabular>
+            
                 <tabular>
                     <row>
                         <cell></cell>
-                        <cell bottom="medium"><m>3.8</m></cell>
+                        <cell bottom="medium"><m>4.2</m></cell>
                     </row>
                     <row>
                         <cell right="medium"><m>5</m></cell>
-                        <cell halign="right"><m>19</m></cell>
+                        <cell halign="right"><m>21</m></cell>
                     </row>
                     <row>
                         <cell></cell>
-                        <cell bottom="medium" halign="right"><m>-15</m></cell>
+                        <cell bottom="medium" halign="right"><m>-20</m></cell>
                     </row>
                     <row>
                         <cell></cell>
-                        <cell halign="right"><m>40</m></cell>
+                        <cell halign="right"><m>10</m></cell>
                     </row>
                     <row>
                         <cell></cell>
-                        <cell bottom="medium" halign="right"><m>-\,40</m></cell>
+                        <cell bottom="medium" halign="right"><m>-\,10</m></cell>
                     </row>
                     <row>
                         <cell></cell>
                         <cell bottom="medium" halign="right"><m>00</m></cell>
                     </row>
                 </tabular>
-                </sidebyside>
+                <p>
+                    From the above, <m> 45</m> is the common factor hence <m> \frac{945}{225} \div \frac{45}{45}</m> gives <m>\frac{21}{5}</m>
+                </p>
+                <p>
+                    Dividing <m>\frac{21}{5}</m> we get <m>4.2</m>.
+                </p>
+                <p>
+                    Therefore, <m>9.45 \div 2.25 = 4.2 </m>
+                </p>
+                
             </solution>
         </example>
         <exercise>
