@@ -1,9 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <subsection xml:id="subsec-Formation_of_Algebraic_Expressions_from_Simple_Algebraic_Statements_involving_Addition_and_Substraction">
-    <title>Formation of Algebraic Expressions from_Simple Algebraic Statements involving Addition and Substraction</title>
-    <p>
-        
-    </p>
-    
+    <title>Formation of Algebraic Expressions from Simple Algebraic Statements involving Addition and Substraction</title>
+    <activity>
+        <p>
+            <em><term>Group Activity:</term></em>
+        </p>
+        <p>
+            Georg has some pencils. He buys <m>4</m> more pencils from a shop. Later, he gives <m>2</m> pencils to his friend.
+        </p>
+        <p>
+            <ol>
+                <li>
+                    <p>
+                        Use a letter to represent the number of pencils Brian originally had.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Write an algebraic expression for the total number of pencils Georg has after buying <m>4</m> more.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Write an algebraic expression for the number of pencils Georg has after giving away <m>2</m>.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Discuss and compare your answers with other groups.
+                    </p>
+                </li>
+            </ol>
+        </p>
+
+    </activity>
+
+    <example>
+        <statement>
+            <p>
+                Steph is 3 years younger than her sister. If her sister is <m> w </m> years old, form an algebraic expression for Steph's age.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                Let the age of Steph's sister be <m> w </m> years.
+            </p>
+            <p>
+                Since Steph is <m> 3 </m> years younger, we subtract <m> 3 </m> from her sister's age.
+            </p>
+            <p>
+                The algebraic expression for Steph's age is:
+            </p>
+            <p>
+                <me>
+                    (y - 3)
+                </me>
+            </p>
+            <p>
+                Steph's age is <m>(y-3) </m> years
+            </p>
+        </solution>
+    </example>
+
+    <exercise>
+        <statement>
+            <p>
+                <ol>
+                    <li>
+                        <p>
+                            Moraa is <m> 6 </m> years younger than his brother Eric. If Moraa's age is <m> m </m> years, write an expression for Moraa's age
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            A farmer has <m> b </m> bags of beans. After selling <m> 10 </m> bags, write an algebraic expression for the number of bags remaining.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Maria had <m> m </m> shillings in her purse. After buying a notebook for <m>180</m> shillings, write an expression for the amount of money left after buying the notebook.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            A table is <m> L </m> cm long. A wooden bench is <m> 30 cm </m> shorter than the table. Write an expression for the length of the wooden bench.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Ken and Sam are playing. The Sam is <m> 130 cm </m> tall, while Ken is <m> h cm </m> shorter. Write an expression to represent Sam's height.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            A fisherman from Oriwo banks rows his boat  <m> d </m> kilometers from the shore in the morning. In the afternoon, he rows <m> 55 </m> kilometers further into the lake. Write an algebraic expression for the total distance he has travelled for a day if he rows the boat only twice a day.
+                        </p>
+                    </li>
+                </ol>
+            </p>
+            <p>
+                [Image of a fisherman with the d distance representation for the question]
+            </p>
+
+        </statement>
+    </exercise>
+
 </subsection>
