@@ -7,11 +7,11 @@
   <bibinfo>
 
     <author>
-      <personname>MURUNGA DANIEL</personname>
-      <institution>INNODEMS</institution>
-      <email>ADD YOUR EMAIL</email>
+      <personname>INNODEMS</personname>
+      <!-- <institution>INNODEMS</institution> -->
+      <email> contact@innodems.org</email>
     </author>
-    <author>
+    <!-- <author>
       <personname>CHEROTICH SHEILA</personname>
       <institution>INNODEMS</institution>
       <email>ADD YOUR EMAIL</email>
@@ -55,7 +55,7 @@
       <personname>EKADELI PURITY</personname>
       <institution>INNODEMS</institution>
       <email>ekadelipure@gmail.com</email>
-    </author>
+    </author> -->
     <date>
       <today />
     </date>
