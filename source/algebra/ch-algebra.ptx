@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-algebra" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Algebra</title>
+
+  <introduction>
+
+    <p> 
+      <term>Introduction to Algebra</term>
+    </p>
+
+    <p> 
+      Algebra is a branch of mathematics that uses letters and symbols to represent numbers and operations. Instead of writing only numbers, we use variables like <m>x</m>, <m>y</m>, or <m>z</m> to stand for unknown values.
+    </p>
+    <p>
+      For example:
+    </p>
+    <p>
+      <me>x + 3 = 8</me>
+    </p>
+    <p>
+      The letter <m>x</m> is a variable.
+    </p>
+
+    <p>
+      <term>Why Learn Algebra?</term>
+    </p>
+
+    <p>
+      The goal is to find out what number the letter (variable) represents by solving a problem or equation.
+    </p>
+    <p>
+      Algebra helps us understand and solve problems in everyday life. It is used in different fields such as science, engineering, business, and even in daily activities like budgeting and shopping.
+    </p>
+    <p>
+      Algebra is a powerful tool that can helps us solve problems in a smart and logical way.
+    </p>
+    <video youtube="H4g0GZsgq0I"/>
+
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sections/subsections/sec-algebraic-expressions.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/subsections/sec-Linear-equations.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/subsections/sec-Linear-inequalities.ptx" />
+
+</chapter>

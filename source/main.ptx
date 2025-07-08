@@ -9,15 +9,29 @@
     <title>Grade 7 Mathematics</title>
     <subtitle>Learner's Book</subtitle>
 
-    <!-- Include frontmatter -->
+   <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
+    
+   
+    
+    <xi:include href="numbers/ch-numbers.ptx" />
+
+    <!-- Include chapters-->
+    <xi:include href="algebra/ch-algebra.ptx" />
+
     <!-- Include chapters -->
-   <xi:include href="./Data-Handling/ch-chapter-FIVE.ptx" />
+    <xi:include href="measurements/ch-chapter-Measurements.ptx" />
+    
+    <!-- Include chapters -->
+    <xi:include href="geometry/ch-geometry.ptx" />
+
+    <!-- Include chapters -->
+    <xi:include href="Data-Handling/ch-chapter-FIVE.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
 
   </book>
 </pretext>
-<!--Always Save this file.-->
+<!--Save this file.-->
