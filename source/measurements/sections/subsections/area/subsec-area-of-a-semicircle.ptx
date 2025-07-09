@@ -10,7 +10,10 @@
     <p>
       <m>\text{Area of semicircle}=\frac{1}{2} \times \pi r^2</m>.
     </p>
-    <activity>
+
+
+
+    <example>
       <statement>
         <p>
           Find the area of the semicircle given below.
@@ -18,9 +21,11 @@
         <image width="40%">
         <latex-image>
           \begin{tikzpicture}
-          \draw[very thick,fill=white](0,0)  arc[start angle=0,end angle=180,radius=5cm];
+          \draw[very thick,fill=magenta](0,0)  arc[start angle=0,end angle=180,radius=5cm];
           \draw [thick,fill=black](0,0) --(-10,0);
-          \node at (-5,0.5){$28cm$};
+          \filldraw[black] (-5,0) circle (3pt);
+
+          \node at (-5,0.5){\Huge $28cm$};
           
           \end{tikzpicture}
         </latex-image>
@@ -47,6 +52,8 @@
           
         </p>
       </solution>
-    </activity>
+
+    </example>
+
     
   </subsection>

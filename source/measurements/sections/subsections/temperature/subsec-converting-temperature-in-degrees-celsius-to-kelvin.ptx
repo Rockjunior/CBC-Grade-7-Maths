@@ -20,6 +20,9 @@
           <mrow> 47^\circ C = \amp 320 K  </mrow>
           </md>
         </p>
+        <p>
+          The temperature in Kelvin is <m>{\color{magenta}320\text{K}}</m>
+        </p>
       </solution>
     </example>
     <example>
@@ -55,14 +58,17 @@
         <mrow> = \amp 311.5K </mrow>
       </md>
     </p>
+    <p>
+      The temperature Daven was<m>{\color{magenta}311.5\text{K}}</m>
+    </p>
   </solution>
 </example>
 <p>
-<m>{\color{magenta}Converting temperature in Kelvin to degrees Celsius.}</m>
+<m>{\color{magenta}\text{Converting temperature in Kelvin to degrees Celsius.}}</m>
 </p>
-    <activity label="matching-dates">
-  <title>Matching Problem, Dates</title>
-  <idx>matching US dates</idx>
+    <activity label="matching-temperatures">
+  <title>Matching Problem, Temperature</title>
+  <!-- <idx>Matching Problem, Temperature in kelvins </idx> -->
   <statement>
     <p>
       A group of grade 7 West recorded the daily temperatures for a week in Kelvin. Study and complete the table below.
@@ -104,7 +110,7 @@
   </matches>
 </activity>
 <p>
-  <m>{\color{magenta}To convert temperature from Kelvin to Degrees celsius, subtract 273 from the temperaturein Kelvin. }</m>
+  <m>{\color{magenta}\text{To convert temperature from Kelvin to Degrees celsius, subtract 273 from the temperature in Kelvin.} }</m>
 </p>
 <example>
   <statement>
@@ -120,12 +126,15 @@
         <mrow> 472K = \amp 199 ^\circ C </mrow>
       </md>
     </p>
+    <p>
+      The temperature in degrees celsius is <m>{\color{magenta}199 ^\circ C}</m>
+    </p>
   </solution>
 </example>
 <example>
   <statement>
     <p>
-      The temperature of Tana River town was 292K on Saturday .What was the temperature in degrees Celsius?
+      The temperature of Tana River town was <m>292\text{K}</m> on Saturday .What was the temperature in degrees Celsius?
     </p>
   </statement>
   <solution>
@@ -136,22 +145,35 @@
         <mrow> 292K = \amp 19 ^\circ C </mrow>
       </md>
     </p>
+    <p>The temperature of Tana River was <m>{\color{magenta}19 ^\circ C}</m></p>
   </solution>
 </example>
 <p>
   <m>{\color{magenta}\text {Temperature in degrees Celsius and Kelvin.}}</m>
 </p>
-<activity>
+<exploration>
   <statement>
     <p>
-          When the temperature rises, it’s like the sun giving the Earth a big, warm hug! ☀️🔥</p>
-    <p>When the temperature falls, it’s like the Earth wrapping itself in a cold, cozy blanket of air. ❄️🧊</p>
-    <p>On a hot day, the ground feels like a heated pan, but on a cold day, it feels like stepping on ice! </p>
-    <p>If the temperature rises too much, ice cream melts into a puddle. If it drops too much, water turns into ice! 🍦🧊</p>
-    <p>In the summer, it’s like the sun turns up the heat in nature’s oven. In the winter, it dials the temperature way down! 🔥❄️</p>
-    <p>Think of the temperature like a roller coaster—it goes up when it’s hot and down when it’s cold! 🎢🌡️</p>
+      <me>\mathbf{\text{Now let us play with colours.}}</me></p>
+    <p><me> \text{When the } {\color{blue}\text{ temperature rises}}, \text{it’s} {\color{blue}\text{like the sun}} \text{ giving the Earth a big,} {\color{blue}\text{warm } \text{ hug!} ☀️}</me>🔥</p>
+    <p><me> \text{When the }{\color{purple}\text{temperature falls}}, \text{ it’s like the Earth wrapping } {\color{purple}\text{ itself in a cold}}, \text{cozy blanket of air.} ❄️</me>🧊</p>
+    <p><me> \text{On a } {\color{blue}\text{hot day}}, \text{the}  {\color{blue}\text{ground} \text{feels like a heated pan}}, \text{but on a}  {\color{purple}\text{cold day}}, \text{it feels like } {\color{purple}\text{stepping on ice! }}</me></p>
+    <p><me> \text{If the } {\color{blue}\text{temperature rises}} \text{too much},  {\color{blue}\text{ice cream melts }}\text{into a puddle. }\text{ If it } {\color{purple}\text{drops too much}},  {\color{purple}\text{water turns into ice!}}</me> 🍦🧊</p>
+    <p><me> \text{In the} {\color{blue}\text{ summer}}, \text{it’s like the } {\color{blue}\text{sun turns up the heat in nature’s oven}}. \text{In the} {\color{purple}\text{ winter}}, \text{it dials the } {\color{purple}\text{temperature way down! }}</me>🔥❄️</p>
+    <p><me> \text{Think of the temperature like a roller coaster}— {\color{blue}\text{it goes up when it’s hot }} \text{and } {\color{purple}\text{down when it’s cold! }}🎢</me></p>
+      <p>
+        <m>\mathbf{\text{Which colour represents temperature rise or fall in temperatures?}}</m> <m>{\color{blue}\text{Blue}}</m> or <m> {\color{purple}\text{purple}}</m>. Click on the correct response.
+      </p>
   </statement>
-</activity>
+    <areas>
+    <p>
+      Which colour represents temperature rise? <area correct="yes"><m>{\color{blue}\text{Blue}}</m> </area> or <area correct="no"> <m>{\color{purple}\text{purple}}</m></area>
+    </p>
+    <p>
+      Thus colour  <area correct="no"><m>{\color{blue}\text{Blue}}</m> </area>  <area correct="yes"> <m>{\color{purple}\text{purple}}</m> </area>also represents all statements indicating falling of temperature or rather very low temperatures.
+    </p>
+    </areas>
+</exploration>
 <example>
   <statement>
     <p>
@@ -166,6 +188,7 @@
         <mrow> \text{Temperature increase}=\amp 72 ^\circ C. </mrow>
       </md>
     </p>
+    <p>The rise in the temperature of milk was <m>{\color{magenta}72 ^\circ C}</m></p>
   </solution>
 </example>
 <example>
@@ -178,10 +201,11 @@
     <p>
       <md>
         <mrow> \text {Highest temperature reading} =\amp 27 ^\circ C. </mrow>
-        <mrow>\text{Lowest reading temperature} =\amp 6 ^\circ C.</mrow>
+        <mrow>\text{Lowest temperature reading } =\amp 6 ^\circ C.</mrow>
         <mrow> \text{Temperature difference}=\amp 21 ^\circ C. </mrow>
       </md>
     </p>
+    <p>The highest temperature reading of the thermometer was <m>{\color{magenta}21 ^\circ C}</m> ahead of the lowest temperature reading.</p>
   </solution>
 </example>
   </subsection>

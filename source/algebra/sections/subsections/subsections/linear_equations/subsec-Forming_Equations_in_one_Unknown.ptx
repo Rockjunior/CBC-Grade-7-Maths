@@ -31,11 +31,13 @@
         </activity>
 
         <p>
-          <term>Learning Point.</term>
+          <me>
+            {\color{blue} \text{Learning Point.}}
+          </me>          
         </p>
 
         <p>
-          Equating the masses on both sides leads to the formation of an equation.
+          <me>{\color{green} \text{Equating the masses on both sides leads to the formation of an equation.}}</me>
         </p>
 
         <example>

@@ -6,6 +6,12 @@
       metres per second<m>(m/s)</m> and also metres per second<m>(m/s)</m> to 
       kilometre per hour<m>(km/h)</m>.
     </p>
+    <figure>
+  <caption>Perimeter of different plane figures.</caption>
+  <interactive xml:id="geogebra-kmph-geogebra" platform="geogebra" width="150%" aspect="1:1">
+    <slate xml:id="msps-geogebra" surface="geogebra" material="rpsmqdrp" aspect="1:1" />
+  </interactive>
+</figure>
     </introduction>
     
 

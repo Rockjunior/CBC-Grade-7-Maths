@@ -10,23 +10,20 @@
         <p>
             For example, in <m>2.45</m>, the total value is: each digit multiplied by its place value as below
         </p>
-        <p>
-          <md>
-    <mrow>
-        2.45 \amp= (2 \times 1) + (4 \times 0.1) + (5 \times 0.01) \\ 
-        </mrow>
-       <mrow> \amp= 2 + 0.4 + 0.05
-    </mrow>
-</md>
-  </p>
-  <p>
+    <p>
+    <md>
+       <mrow> 2.45 \amp= (2 \times 1) + (4 \times 0.1) + (5 \times 0.01)  </mrow>
+       <mrow> \amp= 2 + 0.4 + 0.05 </mrow>
+    </md>
+    </p>
+    <p>
     <m>\textbf{Explore}</m>
     </p>
     <sidebyside>
     <p>
     In a school race , Tula run 2.45 km—that is 2 full kilometers, 400 meters (4 tenths of a km), and 50 meters (5 hundredths of a km). 
     We use total value of digits in a decimal to identify the distance Talu ran that could not form a whole number.
-  </p>
+    </p>
   <image  width="40%" source="/ran.png">
     <shortdescription></shortdescription>
   </image>
@@ -56,25 +53,25 @@
         <example>
             <statement>
                 <p>
-                    What is the total value of each digit in the number <m>53.85429</m>
+                    What is the total value of each digit in the number <m>35.58942</m>
                 </p>
             </statement>
             <solution>
                 <tabular bottom="medium" top="medium" right="medium" left="medium">
-                    <row header="yes">
+                    <row header="yes" valign="top">
                         <cell> Number</cell>
                         <cell>PLace value</cell>
                         <cell>Total value</cell>
                     </row>
                     <row>
-                        <cell halign="center"><m>5</m></cell>
+                        <cell halign="center"><m>3</m></cell>
                         <cell>Tens</cell>
-                        <cell><m>5 \times 10 = 50</m></cell>
+                        <cell><m>3 \times 10 = 30</m></cell>
                     </row>
                     <row>
-                        <cell halign="center"><m>3</m></cell>
+                        <cell halign="center"><m>5</m></cell>
                         <cell>Ones</cell>
-                        <cell><m>3 \times 1 = 3</m></cell>
+                        <cell><m>5 \times 1 = 5</m></cell>
                     </row>
                     <row>
                         <cell halign="center">.</cell>
@@ -82,29 +79,29 @@
                         <cell/>
                     </row>
                     <row>
-                        <cell halign="center"><m>8</m></cell>
-                        <cell>Tenths</cell>
-                        <cell><m>8 \times 0.1 = 0.8</m></cell>
-                    </row>
-                    <row>
                         <cell halign="center"><m>5</m></cell>
+                        <cell>Tenths</cell>
+                        <cell><m>5 \times 0.1 = 0.5</m></cell>
+                    </row>
+                    <row>
+                        <cell halign="center"><m>8</m></cell>
                         <cell>Hundredths</cell>
-                        <cell><m>5 \times 0.01 = 0.05</m></cell>
-                    </row>
-                    <row>
-                        <cell halign="center"><m>4</m></cell>
-                        <cell>Thousandths</cell>
-                        <cell><m>4 \times 0.001 = 0.004</m></cell>
-                    </row>
-                    <row>
-                        <cell halign="center"><m>2</m></cell>
-                        <cell>Ten thousandths</cell>
-                        <cell><m>2 \times 0.0001 = 0.0002</m></cell>
+                        <cell><m>8 \times 0.01 = 0.08</m></cell>
                     </row>
                     <row>
                         <cell halign="center"><m>9</m></cell>
+                        <cell>Thousandths</cell>
+                        <cell><m>9 \times 0.001 = 0.009</m></cell>
+                    </row>
+                    <row>
+                        <cell halign="center"><m>4</m></cell>
+                        <cell>Ten thousandths</cell>
+                        <cell><m>4 \times 0.0001 = 0.0004</m></cell>
+                    </row>
+                    <row>
+                        <cell halign="center"><m>2</m></cell>
                         <cell>Hundred thousandths</cell>
-                        <cell><m>9 \times 0.00001 = 0.00009</m></cell>
+                        <cell><m>2 \times 0.00001 = 0.00002</m></cell>
                     </row>
                 </tabular>
             </solution>

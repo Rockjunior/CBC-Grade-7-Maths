@@ -19,33 +19,31 @@
         <example>
             <statement>
                 <p>
-                    Work out: <m>\frac{8}{9} \times 5 </m>
+                    Work out: <m>\frac{5}{7} \times 4 </m>
                 </p>
             </statement>
             <solution>
                 <p>
-                    <ol marker="a)" cols="2">
+                    <ol marker="a)">
                         <li>
                             <p>
-                                Multipy the numerator by <m>5.</m>
+                                To multiply a proper fraction by a whole number, multiply the numerator of the fraction by the whole number and retain the same denominator.
                             </p>
                             <p>
                                 <md>
-                                    <mrow>\frac{8}{9} \times 5  \amp = \frac{8 \times 5}{9}</mrow>
+                                    <mrow>\frac{5}{7} \times 4  \amp = \frac{5 \times 4}{7}</mrow>
                                     <mrow> </mrow>
-                                    <mrow> \amp = \frac{40}{9} </mrow>
+                                    <mrow> \amp = \frac{20}{7} </mrow>
                                 </md>
                             </p>
-                        </li>
-                        <li>
                             <p>
-                                Convert the improper fraction into a mixed fraction.
+                                We now, convert resulting the improper fraction <m>\frac{20}{7}</m> into a mixed fraction.
                             </p>
                             <p>
                                 <md>
-                                    <mrow> \frac{40}{9} \amp = 4 \frac{4}{9} </mrow>
+                                    <mrow> \frac{20}{7} \amp = 2 \frac{6}{7} </mrow>
                                     <mrow> </mrow>
-                                    <mrow> \frac{8}{9} \times 5 \amp = 4\frac{4}{9} </mrow>
+                                    <mrow>  \amp = 2 \frac{6}{7} </mrow>
                                 </md>
                             </p>
                         </li>

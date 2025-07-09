@@ -10,11 +10,16 @@
             <shortdescription></shortdescription>
         </image>
     </sidebyside>
+            <figure>
+                 <caption></caption>
+                    <interactive xml:id="decimals-multiplication-numbers" geogebra="cbdbq4cp" width="100%" aspect="9:7" reset-icon="yes" material-width="800 px"/>
+            </figure>
     <activity>
         <statement>
             <p>
                 
             </p>
+                    
             <p>
                 1. Measure the length and width of your classroom in cm using a meter ruler and write it down.  
             </p>
@@ -44,12 +49,12 @@
                 <ol cols="2" marker="a)">
                     <li>
                         <p>
-                            <m>7.503 \times 10</m>
+                            <m> 8.653 \times 10</m>
                         </p>
                     </li>
                     <li>
                         <p>
-                            <m>7.503 \times 100</m>
+                            <m>8.653 \times 100</m>
                         </p>
                     </li>
                 </ol>
@@ -60,35 +65,35 @@
                 <ol marker="a)">
                     <li>
                         <p>
-                            <m>7.503 \times 10</m>
+                            <m>8.653 \times 10</m>
                         </p>
                         <sidebyside>
                             <p>
                                 <md>
-                                    <mrow>7.503 \times 10 \amp = \frac{7503}{1000} \times 10 </mrow>
+                                    <mrow>8.653 \times 10 \amp = \frac{8653}{1000} \times 10 </mrow>
                                     <mrow> </mrow>
-                                    <mrow> \amp = \frac{75030}{1000} = 75.03 </mrow>
+                                    <mrow> \amp = \frac{86530}{1000} = 86.53 </mrow>
                                 </md>
                             </p>
                             <p>
-                                When you multiply a decimal by 10, the decimal point moves <m>1</m> place to the right.
+                                When you multiply a decimal by 10, the decimal point moves <m>1</m> place to the right from its original position.
                             </p>
                         </sidebyside>
                     </li>
                     <li>
                         <p>
-                            <m>7.503 \times 100</m>
+                            <m>8.653 \times 100</m>
                         </p>
                         <sidebyside>
                             <p>
                                 <md>
-                                    <mrow>7.503 \times 100 \amp = \frac{7503}{1000} \times 100</mrow>
+                                    <mrow>8.653 \times 100 \amp = \frac{8653}{1000} \times 100</mrow>
                                     <mrow> </mrow>
-                                    <mrow> \amp = \frac{750300}{1000} = 750.3 </mrow>
+                                    <mrow> \amp = \frac{865300}{1000} = 865.3 </mrow>
                                 </md>
                             </p>
                             <p>
-                                When you multiply a decimal by 100, the decimal point moves <m>2</m> places to the right.
+                                When you multiply a decimal by 100, the decimal point moves <m>2</m> places to the right from its original position.
                             </p>
                         </sidebyside>
                     </li>
@@ -99,34 +104,34 @@
     <example>
         <statement>
             <p>
-                The mass of a piece of wood is <m>12.463</m> kg. What is the mass of <m>12</m> such pieces of wood?
+                The mass of a piece of wood is <m> 19.342 </m> kg. What is the mass of <m> 21 </m> such pieces of wood?
             </p>
         </statement>
         <solution>
             <sidebyside>
                 <tabular>
                     <row>
-                        <cell halign="right"><m>12463</m></cell>
+                        <cell halign="right"><m> 19342 </m></cell>
                         <cell/>
                         <cell/>
                     </row>
                     <row>
-                        <cell bottom="medium" halign="right"><m>\times \, 12</m></cell>
+                        <cell bottom="medium" halign="right"><m>\times \, 21 </m></cell>
                         <cell/>
                         <cell/>
                     </row>
                     <row>
-                        <cell halign="right"><m>24926</m></cell>
+                        <cell halign="right"><m>19342</m></cell>
                         <cell><m>\to</m></cell>
-                        <cell><m>12463 \times 2</m></cell>
+                        <cell><m>19342 \times 1</m></cell>
                     </row>
                     <row>
-                        <cell bottom="medium" halign="left"><m>+\,124630</m></cell>
+                        <cell bottom="medium" halign="left"><m>+\,386840</m></cell>
                         <cell><m>\to</m></cell>
-                        <cell><m> 12463 \times 1</m></cell>
+                        <cell><m> 19342 \times 2</m></cell>
                     </row>
                     <row>
-                        <cell bottom="medium" halign="right"><m>149556</m></cell>
+                        <cell bottom="medium" halign="right"><m>406182</m></cell>
                         <cell/>
                         <cell/>
                     </row>
@@ -139,17 +144,17 @@
                                 Identify the number of decimal places i.e
                             </p>
                             <p>
-                                <m>12.463</m> has <m>3</m> decimal places.
+                                <m>19.342</m> has <m>3</m> decimal places.
                             </p>
                         </li>
                         <li>
                             <p>
-                               Express 12.463 as a fraction = <m>\frac{12463}{1000}</m> 
+                               Express 19.342 as a fraction = <m>\frac{19342}{1000}</m> 
                             </p>
                         </li>
                         <li>
                             <p>
-                                Multiply the numerators that is <m>12463</m> by <m>12.</m>
+                                Multiply the numerators that is <m>19342</m> by <m>21.</m>
                             </p>
                         </li>
                         <li>
@@ -171,10 +176,10 @@
                 </me>    
             </p> -->
             <p>
-                <m>\qquad \qquad \quad = 149.556</m>
+                <m>\qquad \qquad \quad = 406.182</m>
             </p>
             <p>
-                <m>12.463 \times 12 = 149.556</m>
+                <m>19.342 \times 21 = 406.182</m>
             </p>
         </solution>
     </example>

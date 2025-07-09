@@ -63,6 +63,16 @@
     </p>
   </statement>
   </exploration>
+  <p>
+    In the figure provided below adjust the height and radius of the cylinder by dragging the blue circle.
+
+  </p>
+  <figure>
+  <caption>Volume of a cylinder.</caption>
+  <interactive xml:id="geogebra-cylinder" platform="geogebra" width="100%" aspect="1:1">
+   <slate xml:id="cylinder" surface="geogebra" material="cbd7sfrv" aspect="1:1" />
+  </interactive>
+</figure>
   <example>
   <statement>
     <sidebyside>
