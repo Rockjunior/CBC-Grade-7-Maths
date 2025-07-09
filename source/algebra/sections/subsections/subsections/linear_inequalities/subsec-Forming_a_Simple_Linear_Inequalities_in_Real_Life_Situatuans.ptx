@@ -76,16 +76,24 @@
             Total oranges Jane had was atleast <m>12.</m>
           </p>
 
-          <p>
-            Therefore, <m>x - 5 = 12</m> or <m>x - 5 \lt 12.</m>
+          <p>Therefore,
+            <md>
+              <mrow> x - 5 = \amp 12</mrow>
+            </md>
+            or
+            <md>
+              <mrow> x - 5 \lt \amp 12.</mrow>
+            </md>
           </p>
 
           <p>
-            The equations above can be written in an algebaric form as;
+            The equations above can be combined so that it can be written in an algebaric form as;
           </p>
 
           <p>
-            <m>x - 5 \le 12.</m>
+            <md>
+              <mrow>x - 5 \le \amp 12. </mrow>
+            </md>
           </p>
 
         </solution>

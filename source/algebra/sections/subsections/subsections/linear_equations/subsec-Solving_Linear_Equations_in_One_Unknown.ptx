@@ -50,7 +50,9 @@
         </activity>
 
         <p>
-          <term>Learning Points.</term>
+          <me>
+            {\color{blue} \text{Learning Point.}}
+          </me>          
         </p>
           
         <p>
@@ -58,25 +60,25 @@
 
           <li>
             <p>
-              Subtracting a number from both sides of the equation.
+              <me>{\color{green} \text{Subtracting a number from both sides of the equation.}}</me>
             </p>
           </li>
 
           <li>
             <p>
-              Adding a number to both sides of the equation.
+              <me>{\color{green} \text{Adding a number to both sides of the equation.}}</me>
             </p>
           </li>
 
           <li>
             <p>
-              Dividing both sides of the equation by a number.
+              <me>{\color{green} \text{Dividing both sides of the equation by a number.}}</me>
             </p>
           </li>
 
           <li>
             <p>
-              Multiplying both sides of the equation by a number.
+              <me>{\color{green} \text{Multiplying both sides of the equation by a number.}}</me>
             </p>
           </li>
 
@@ -149,7 +151,7 @@
 
           <solution>
             <p>
-              Add <m>3</m> to both sides,
+              Add <m>3</m> to both sides so that we elimina,
             </p>
 
             <p>
@@ -189,6 +191,14 @@
 
             <p>
               <me>\frac{1}{4}h \times 4 = 3 \times 4 </me>
+            </p>
+
+            <p>
+              The <m>4</m> on the left side of the equation cancels out and we are left with <me>h = 12</me>
+            </p>
+
+            <p>
+              
             </p>
 
             <p>

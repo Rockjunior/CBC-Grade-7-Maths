@@ -4,7 +4,7 @@
   <activity>
     <statement>
         <p>
-        Converting units of length.
+        <m>{\color{magenta}text bf{Converting units of length.}}</m>
       </p>
       <sidebyside>
       <p>
@@ -25,10 +25,16 @@
       </sidebyside>
       
         <p>
-            Conversion of length.
+           <m>\text bf{ Conversion of length}.</m>
         </p>
         <p>
-            <m> {\color{Magenta} \text {To perfom the operations involving length, measurements must be of the same units. }}</m>
+           <ul>
+            <li>
+              <p>
+                 <m> {\color{Magenta} \text {To perfom the operations involving length, measurements must be of the same units. }}</m>
+              </p>
+            </li>
+           </ul>
         </p>
        <sidebyside>
              <p>
@@ -141,9 +147,24 @@
           <m>{\color{Magenta} \text{ Km } \xrightarrow[] {\times 10} \text{ Hm } \xrightarrow[] {\times 10} \text{ Dm } \xrightarrow[]{\times 10} \text{ m } \xrightarrow[]{\times 10} \text{ dm } \xrightarrow[]{\times 10}\text{ cm }}</m>
         </p>
         <p>
-          b. We divide a unit by <m>10</m> to convert it to the next in descending order.
+          b. We divide a unit by <m>10</m> to convert it to the next in ascending order.
           <m>{\color{Magenta} \text{ Km } \xleftarrow[]{\div10} \text{ Hm } \xleftarrow[]{\div10} \text{ Dm } \xleftarrow[]{\div 10}\text{ m } \xleftarrow[]{\div 10}\text{ dm } \xleftarrow[]{\div 10}\text{ cm }}</m>
         </p>
+
+        <p>
+          Interact with the exrcise below.
+          <m>{\color{blue}\text{Drag the blue box across to your right and back}}</m> and observe conversion of different units of measuring length from <m>{\color{blue}\text{Km to mm.}}</m>>
+          You can also click on the dropown arow written <dblbrackets><m>mathbf{metres}</m></dblbrackets> and change the units as you prefer.
+          The <m>\mathbf{\text {randomizing tab} can also help you generate a new number.}</m>
+         <m> {\color{magenta}\text{Enjoy as you play around with the mathematical figures!}}</m>
+        </p>
+  <figure>
+  <caption>Converting various units of measuring length.</caption>
+  <interactive xml:id="geogebra-length" platform="geogebra" width="100%" aspect="1:1">
+    <slate xml:id="length" surface="geogebra" material="dry7qeja" aspect="1:1" />
+  </interactive>
+</figure>
+
     </statement>
 </activity>
 <example>
@@ -175,7 +196,7 @@
   <statement>
     <p>
       The path from the gate to the office in 
-      Myra school is <m>40 \, m \, 450\, cm</m>. What is the distance 
+      Myra school is <m>40 \text{m}  450 \text{cm}</m>. What is the distance 
       in centimetres?
     </p>
   </statement>

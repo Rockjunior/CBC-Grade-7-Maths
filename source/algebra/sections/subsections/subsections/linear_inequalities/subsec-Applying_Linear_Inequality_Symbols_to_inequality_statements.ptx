@@ -126,15 +126,21 @@
       </activity>
 
       <p>
-        <term>Learning Point.</term>
+        <md>
+          <mrow> \amp {\color{blue} \text{Learning Point.}} </mrow>
+        </md>
       </p>
 
       <p>
-        The inequality sign for greater than or equal to is (<m>\ge</m>).
+        <md>
+          <mrow>{\color{green} \text{The inequality sign for greater than or equal to is} \ge.} \amp </mrow>
+        </md>
       </p>
 
       <p>
-        Inequality sign for less than or equal to is (<m>\le</m>).
+        <md>
+          <mrow>{\color{green} \text{Inequality sign for less than or equal to is} (\le).} \amp </mrow>
+        </md>
       </p>
 
       <example>

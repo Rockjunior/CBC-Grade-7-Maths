@@ -6,83 +6,109 @@
     
     <subsubsection xml:id="subsubsec-Square-metres">
       <title>Square metres<m>(m^2)</m></title>
-  
-      <p>
-        Check the illustration below explaining more about Area(<m>m^2</m>).
-      </p>
-      <sidebyside>
-        <image width="20%">
-        <latex-image>
-          \begin{tikzpicture}
-            \draw(0,0) coordinate (A)-- (0,4) coordinate (B)-- (4,4) coordinate (C)-- (4,0)coordinate (D) --(0,0)coordinate (A);
-            \node at (4.5,2){ 1m};
-            \node at (2,-0.5){1m};
-            \draw(0,0) coordinate (A)-- (0,0.5) coordinate (B)-- (0.5,0.5) coordinate (C)-- (0.5,0)
-            coordinate(D)-- (0,0) coordinate (A);
-            \draw(0,3.5) coordinate (A)-- (0,4) coordinate (B)-- (0.5,4) coordinate (C)-- (0.5,3.5)
-            coordinate(D)-- (0,3.5) coordinate (A);
-            \draw(3.5,3.5) coordinate (A)-- (3.5,4) coordinate (B)-- (4,4) coordinate (C)-- (4,3.5)
-            coordinate(D)-- (3.5,3.5) coordinate (A);
-            \draw(3.5,0) coordinate (A)-- (3.5,0.5) coordinate (B)-- (4,0.5) coordinate (C)-- (4,0)
-            coordinate(D)-- (3.5,0) coordinate (A);
-          \end{tikzpicture}
-        </latex-image>
-          
-        </image>
+
+
+      <exploration>
         <p>
-          <ul>
-            <li>
-              <p>
-                This is a square.
-              </p>
-            </li>
-            <li>
-              <p>
-                Its side measures <m>1m</m> by <m>1m</m>
-                as shown on the left.
-
-              </p>
-            </li>
-            <li>
-              <p>
-                Area of the square is  <md>
-                 <mrow> A=\amp1m \times 1m </mrow>
-                 <mrow> =\amp 1m^2 </mrow>
-                </md>
-
-              </p>
-            </li>
-          </ul>
+         Check the illustration below explaining more about Area (<m>m^2</m>).
         </p>
-      
-      </sidebyside>
+        <sidebyside>
+          <image width="50%">
+          <latex-image>
+            \begin{tikzpicture}
+              \draw[very thick,fill=cyan](0,0) coordinate (A)-- (0,4) coordinate (B)-- (4,4) coordinate (C)-- (4,0)coordinate (D) --(0,0)coordinate (A);
+              \node at (4.5,2){ 1m};
+              \node at (2,-0.5){1m};
+              \draw(0,0) coordinate (A)-- (0,0.5) coordinate (B)-- (0.5,0.5) coordinate (C)-- (0.5,0)
+              coordinate(D)-- (0,0) coordinate (A);
+              \draw(0,3.5) coordinate (A)-- (0,4) coordinate (B)-- (0.5,4) coordinate (C)-- (0.5,3.5)
+              coordinate(D)-- (0,3.5) coordinate (A);
+              \draw(3.5,3.5) coordinate (A)-- (3.5,4) coordinate (B)-- (4,4) coordinate (C)-- (4,3.5)
+              coordinate(D)-- (3.5,3.5) coordinate (A);
+              \draw(3.5,0) coordinate (A)-- (3.5,0.5) coordinate (B)-- (4,0.5) coordinate (C)-- (4,0)
+              coordinate(D)-- (3.5,0) coordinate (A);
+            \end{tikzpicture}
+          </latex-image>
+            
+          </image>
+          <p>
+            <ul>
+              <li>
+                <p>
+                  This is a square.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Its side measures <m>1\,m</m> by <m>1\,m</m>
+                  as shown on the left.
+
+                </p>
+              </li>
+              <li>
+                <p>
+                  Area of the square is  <md>
+                  <mrow> A=\amp 1\,m \times 1\,m </mrow>
+                  <mrow> =\amp 1\,m^2 </mrow>
+                  </md>
+
+                </p>
+              </li>
+            </ul>
+          </p>
+        
+        </sidebyside>
+
+      </exploration>
+
+
+  
+
       <activity>
         <p>
-          Fill in the table below
+          Work in pairs.
         </p>
-        <tabular halign="center"  top="medium" left="medium" bottom="medium" right="medium">
-          <row header="yes" bottom="medium">
-            <cell>Lenght of square</cell>
-            <cell>area</cell>
-          </row>
-          <row>
-            <cell><m>1m</m></cell>
-            <cell></cell>
-          </row>
-          <row>
-            <cell><m>10m</m></cell>
-            <cell></cell>
-          </row>
-          <row>
-            <cell><m>25m</m></cell>
-            <cell></cell>
-          </row>
-        </tabular>
+        <p>
+          <ol>
+            <li>
+              <p>
+                Fill in the table below
+              </p>
+              <tabular halign="left"  top="medium" left="medium" bottom="medium" right="medium">
+                <row header="yes" bottom="medium">
+                  <cell>Lenght of square</cell>
+                  <cell>area</cell>
+                </row>
+                <row>
+                  <cell><m>1\,m</m></cell>
+                  <cell></cell>
+                </row>
+                <row>
+                  <cell><m>10\,m</m></cell>
+                  <cell></cell>
+                </row>
+                <row>
+                  <cell><m>25\,m</m></cell>
+                  <cell></cell>
+                </row>
+              </tabular>
+
+            </li>
+            <li>
+              <p>
+                Share your work with learners in your class.
+              </p>
+            </li>
+          </ol>
+        </p>
+
+        
       </activity>
+
       <example>
         <statement>
           <p>
-            Fill in the table below
+            Fill in the table below.
           </p>
           <tabular halign="center"  top="medium" left="medium" bottom="medium" right="medium">
             <row header="yes" bottom="medium">
@@ -90,22 +116,22 @@
               <cell>area</cell>
             </row>
             <row>
-              <cell><m>1m</m></cell>
+              <cell><m>1\,m</m></cell>
               <cell></cell>
             </row>
             <row>
-              <cell><m>10m</m></cell>
+              <cell><m>10\,m</m></cell>
               <cell></cell>
             </row>
             <row>
-              <cell><m>25m</m></cell>
+              <cell><m>25\,m</m></cell>
               <cell></cell>
             </row>
           </tabular>
         </statement>
         <hint>
           <p>
-            Use the rule that outlines <me>A= 1m\times 1m</me>
+            Use the rule that outlines <me>A= 1\,m\times 1\,m</me>
           </p>
         </hint>
         
@@ -119,16 +145,16 @@
                 <cell>area</cell>
               </row>
               <row>
-                <cell><m>1m</m></cell>
-                <cell><m>1m \times 1m= 1m^2</m></cell>
+                <cell><m>1\,m</m></cell>
+                <cell><m>1\,m \times 1\,m= 1\,m^2</m></cell>
               </row>
               <row>
-                <cell><m>10m</m></cell>
-                <cell><m>10m \times 10m = 100m^2</m></cell>
+                <cell><m>10\,m</m></cell>
+                <cell><m>10\,m \times 10\,m = 100\,m^2</m></cell>
               </row>
               <row>
-                <cell><m>25m</m></cell>
-                <cell><m>25m \times 25m=625m^2</m></cell>
+                <cell><m>25\,m</m></cell>
+                <cell><m>25\,m \times 25\,m=625\,m^2</m></cell>
               </row>
             </tabular>
         </solution>
@@ -138,7 +164,7 @@
       
     </subsubsection>
 
-         <subsubsection xml:id="subsubsec-Acres">
+      <subsubsection xml:id="subsubsec-Acres">
       <title>Acres</title>
       <p>
         <ul>
@@ -151,57 +177,55 @@
             <p>
               Another unit of measurering area is <m>are</m>.
             </p>
-          </li>
-          <li>
             <p>
-              Therefore;🎸
+              Therefore;
+            </p>
+            <p>
+              <m>4\,046.86\,m^2=1 \,\text{are}</m>
             </p>
           </li>
-          <li>
-            <p>
-              <m>4046.86m^2=1 \text{are}</m>
-            </p>
-          </li>
+
         </ul>
       </p>
 
       
     </subsubsection>
 
-        <subsubsection xml:id="subsubsec-Hectares">
+      <subsubsection xml:id="subsubsec-Hectares">
       <title>Hectares</title>
       <p>
         A hectare is a unit of measuring large areas.
       </p>
       <p>
-        One hectare is equal to <m>10000 m^2</m>
+        One hectare is equal to <m>10\,000\, m^2</m>
       </p>
       <p>
         Therefore,
       </p>
       <p>
-        <m>1 \text{hectare}(ha) = 10000m^2</m>
+        <m>1 \,\text{hectare}(ha) = 10\,000\,m^2</m>
       </p>
       <p>
-        <m>1 \text{hectare}(ha) = 2.47 \text{acre}</m>
+        <m>1 \,\text{hectare}(ha) = 2.47 \,\text{acre}</m>
       </p>
+
       <example>
       <statement>
         <p>
-          Convert <m>25 \text{ha}</m> into <m>\text{ares}</m>
+          Convert <m>25 \,\text{ha}</m> into <m>\text{ares}</m>
         </p>
       </statement>
       <hint>
         <p>
-          Use <m>1 hectare(ha) = 2.47 acre</m>
+          Use <m>1\,hectare(ha) = 2.47\,acre</m>
         </p>
       </hint>
       <solution>
         <p>
           <md>
-            <mrow>  1ha=\amp 2.47 \text{acre} </mrow>
-            <mrow> 25 ha=\amp (2.47 \times 25) \text{acres}</mrow>
-            <mrow> =\amp 61.75 acres</mrow>
+            <mrow>  1\,ha=\amp 2.47 \,\text{acre} </mrow>
+            <mrow> 25 \,ha=\amp (2.47 \times 25)\, \text{acres}</mrow>
+            <mrow> =\amp 61.75 \,acres</mrow>
           </md>
         </p>
       </solution>
@@ -209,12 +233,12 @@
       <example>
         <statement>
           <p>
-            find the area of the figure below in hectares.
+            Find the area of the figure below in hectares.
           </p>
-          <image width="30%">
+          <image width="50%">
           <latex-image>
             \begin{tikzpicture}
-              \draw(0,0) coordinate (A)-- (0,4) coordinate (B)-- (4,4) coordinate (C)-- (4,0)coordinate (D) --(0,0)coordinate (A);
+              \draw [very thick,fill=green](0,0) coordinate (A)-- (0,4) coordinate (B)-- (4,4) coordinate (C)-- (4,0)coordinate (D) --(0,0)coordinate (A);
               \node at (4.5,2){600 m};
               \node at (2,-0.5){600 m};
               \draw(0,0) coordinate (A)-- (0,0.5) coordinate (B)-- (0.5,0.5) coordinate (C)-- (0.5,0)
@@ -232,25 +256,23 @@
 
         </statement>
         <solution>
-          <p>
-            Find the area of a square.
-          </p>
+
           <p>
             Area of a square <md>
             <mrow> =\amp \text{side} \times \text{side}  </mrow>
             <mrow> =\amp 600m \times 600m</mrow>
-            <mrow> =\amp 360000m^2</mrow>
+            <mrow> =\amp 360\,000m^2</mrow>
             </md>
 
           </p>
           <p>
-            Convert <m>360000 m^2</m> to hectares.
+            Convert <m>360\,000 m^2</m> to hectares.
           </p>
           <p>
             <md>
-              <mrow> 10 000m^2=\amp 1 ha</mrow>
-              <mrow> 360000 m^2=\amp (360000 \div 10000) \text{hectares} </mrow>
-              <mrow> =\amp 36 \text{hectares}</mrow>
+              <mrow> 10 \,000m^2=\amp 1 ha</mrow>
+              <mrow> 360\,000 m^2=\amp (360\,000 \div 10\,000) \text{hectares} </mrow>
+              <mrow> =\amp 36\, \text{hectares}</mrow>
             </md>
 
           </p>

@@ -5,7 +5,7 @@
         <title>  Even numbers</title>
         
      <p>
-      Even numbers are numbers that are divisible by <m>2</m>.The digits in the ones place value are <m>0,2,4,6,8,10,12</m> or <m>14</m>.
+      Even numbers are numbers that are divisible by <m>2</m>.The digits in the ones place value are <m>0,2,4,6 </m> or <m> 8 </m>.
      </p>
      <activity>
       <statement>
@@ -56,7 +56,8 @@
 <subsubsection xml:id="subsec-Odd-numbers">
   <title>Odd numbers</title>
   <p>
-     Odd numbers are numbers that cannot be divided by two without leaving a remainder. The digit in the ones place value of an odd number is <m>1,3,5,7</m> or <m>9</m>.
+     Odd numbers are numbers that cannot be divided by two without leaving a remainder. 
+     The digit in the ones place value of an odd number is <m>1,3,5,7</m> or <m>9</m>.
   </p>
     <activity>
       <statement>
@@ -64,19 +65,27 @@
           
         </p>
         <p>
-          1.Make number cards similar to the ones shown below
+          1. Outside the classroom, learners to stand in a circle and be assigned a number starting from <m>1 </m> to the last person.
         </p>
         <p>
-          2.Which numbers are divisible by two?
+          2. The student assigned number <m> 1</m> to stay standing and the student with number <m> 2</m> will sit down first. 
         </p>
         <p>
-          3.Which numbers are not divisible by two?
+           3. After number <m> 2</m> sits, skip the next student at number <m> 3</m> and ask the student with number <m> 4 </m> to sit down.
+              Fellow learners to shout out the next number to sit down.
         </p>
         <p>
-          4.Which digit is in the ones place value of the numbers that are not divisible by two?
+          4. Continue with this pattern where each student who sits down will skip the next student and have the student after them sit down.
+             So after number <m>4</m> sits, number <m>6</m> will sit, then number <m>8</m>, and so on.
         </p>
         <p>
-          5.What do we call numbers that are not divisible by <m>2</m>?
+            5. Once all even-numbered students have sat down, the students still standing will shout out their numbers one by one.
+        </p>
+        <p>
+            6. What are the last digits of the numbers the standing students shouted out?
+        </p>
+        <p>
+            7. What do we call numbers that are not divisible by <m>2</m>?
         </p>
 
       </statement>
