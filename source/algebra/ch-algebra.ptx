@@ -35,7 +35,12 @@
     <p>
       Algebra is a powerful tool that can helps us solve problems in a smart and logical way.
     </p>
+
+     
+      <video xml:id="yt-list-vars" youtube="H4g0GZsgq0I" width="60%" margins="5% 35%"/>
+
     <video youtube="H4g0GZsgq0I"/>
+
 
   </introduction>
 
