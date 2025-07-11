@@ -32,12 +32,12 @@
 
         <p>
           <me>
-            {\color{blue} \text{Learning Point.}}
+            {\text{Key Takeaway.}}
           </me>          
         </p>
 
         <p>
-          <me>{\color{green} \text{Equating the masses on both sides leads to the formation of an equation.}}</me>
+          <me>{\text{Equating the masses on both sides leads to the formation of an equation.}}</me>
         </p>
 
         <example>
