@@ -51,7 +51,7 @@
 
         <p>
           <me>
-            {\color{blue} \text{Learning Point.}}
+            {\text{Key Takeaway.}}
           </me>          
         </p>
           
@@ -60,25 +60,25 @@
 
           <li>
             <p>
-              <me>{\color{green} \text{Subtracting a number from both sides of the equation.}}</me>
+              {\text{Subtracting a number from both sides of the equation.}}
             </p>
           </li>
 
           <li>
             <p>
-              <me>{\color{green} \text{Adding a number to both sides of the equation.}}</me>
+              {\text{Adding a number to both sides of the equation.}}
             </p>
           </li>
 
           <li>
             <p>
-              <me>{\color{green} \text{Dividing both sides of the equation by a number.}}</me>
+              {\text{Dividing both sides of the equation by a number.}}
             </p>
           </li>
 
           <li>
             <p>
-              <me>{\color{green} \text{Multiplying both sides of the equation by a number.}}</me>
+              {\text{Multiplying both sides of the equation by a number.}}
             </p>
           </li>
 
