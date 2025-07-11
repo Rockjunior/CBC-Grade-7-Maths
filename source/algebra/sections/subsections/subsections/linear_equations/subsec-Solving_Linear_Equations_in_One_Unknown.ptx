@@ -51,7 +51,7 @@
 
         <p>
           <me>
-            {\text{Key Takeaway.}}
+              \text{Key Takeaway.}            
           </me>          
         </p>
           
@@ -60,25 +60,33 @@
 
           <li>
             <p>
-              {\text{Subtracting a number from both sides of the equation.}}
+              <me>
+                \text{Subtracting a number from both sides of the equation.}
+              </me>              
             </p>
           </li>
 
           <li>
             <p>
-              {\text{Adding a number to both sides of the equation.}}
+              <me>
+                \text{Adding a number to both sides of the equation.}
+              </me>              
             </p>
           </li>
 
           <li>
             <p>
-              {\text{Dividing both sides of the equation by a number.}}
+              <me>
+                \text{Dividing both sides of the equation by a number.}
+              </me>              
             </p>
           </li>
 
           <li>
             <p>
-              {\text{Multiplying both sides of the equation by a number.}}
+              <me>
+                \text{Multiplying both sides of the equation by a number.}
+              </me>              
             </p>
           </li>
 

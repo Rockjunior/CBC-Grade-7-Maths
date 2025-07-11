@@ -127,19 +127,19 @@
 
       <p>
         <me>
-          {\text{Key Takeaway.}}
+          \text{Key Takeaway.}
         </me>        
       </p>
 
       <p>
         <md>
-          <mrow>{\text{The inequality sign for greater than or equal to is} \ge.} \amp </mrow>
+          <mrow>\text{The inequality sign for greater than or equal to is} \ge. \amp </mrow>
         </md>
       </p>
 
       <p>
         <md>
-          <mrow>{\text{Inequality sign for less than or equal to is} (\le).} \amp </mrow>
+          <mrow>\text{Inequality sign for less than or equal to is} (\le). \amp </mrow>
         </md>
       </p>
 
