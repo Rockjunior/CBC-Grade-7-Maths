@@ -51,7 +51,9 @@
       </activity>
 
       <p>
-        <term>Learning Point.</term>
+        <me>
+          \text{Key Takeaway.}
+        </me>        
       </p>
 
       <p>
@@ -163,12 +165,12 @@
 
       <p>
         <me>
-          {\text{Key Takeaway.}}
+          \text{Key Takeaway.}
         </me>        
       </p>
 
       <p>
-        <m>{\text{To represent a compound inequality on a number line, illustrate the regions that satisfy each inequality and highlight the overlapping section.}}</m>
+        To represent a compound inequality on a number line, illustrate the regions that satisfy each inequality and highlight the overlapping section.
       </p>
 
       <example>
