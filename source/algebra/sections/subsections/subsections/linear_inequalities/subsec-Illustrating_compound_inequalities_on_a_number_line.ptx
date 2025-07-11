@@ -11,27 +11,21 @@
           <ol>
 
           <li>
-
             <p>
               Consider <me>5&lt;x&lt;12.</me>
             </p>
-
           </li>
 
           <li>
-
             <p>
               Write down the two simple inequalities from the compound inequality.
             </p>
-
           </li>
 
           <li>
-
             <p>
               Draw a number line.
             </p>
-
           </li>
 
           <li>
@@ -139,37 +133,28 @@
             </li>
 
             <li>
-
               <p>
                 Write down the two simple inequalities from the compound inequality.
               </p>
-
             </li>
 
             <li>
-
               <p>
                 Draw a number line.
               </p>
-
             </li>
 
             <li>
-
               <p>
                 Illustrate the two inequalities on the same number line.
               </p>
-
             </li>
 
             <li>
-
               <p>
                 Discuss and share with other groups.
               </p>
-
             </li>
-
           </ol>
 
         </p>
@@ -177,31 +162,26 @@
       </activity>
 
       <p>
-        <md>
-          <mrow> \amp {\color{blue} \text{Learning Point.}} </mrow>
-        </md>
+        <me>
+          {\text{Key Takeaway.}}
+        </me>        
       </p>
 
       <p>
-        <m>{\color{green} \text{To represent a compound inequality on a number line, illustrate the regions that satisfy each inequality and highlight the overlapping section.}}</m>
+        <m>{\text{To represent a compound inequality on a number line, illustrate the regions that satisfy each inequality and highlight the overlapping section.}}</m>
       </p>
 
       <example>
-
         <statement>
-
           <p>
             Illustrate the compound inequality <m>8 \le x \le 12</m> on a number line.
           </p>
-
         </statement>
 
         <solution>
-
           <p>
             The compound inequality <m>8 \le x \le 12</m> can be split into two simple inequalities: <m>x \ge 8</m> and <m>x \le 12</m>, draw closed points and then shade the region between them..
           </p>
-
           <image>
             <shortdescription>Number line</shortdescription>
             <latex-image>
@@ -228,24 +208,17 @@
                 }
                 
               \end{tikzpicture}
-
             </latex-image>
           </image>
-
         </solution>
 
       </example>
-
       <exercise>
-
         <statement>
-
           <p>
             Exercise here.
           </p>
-
         </statement>
-
       </exercise>
 
     </subsection>
