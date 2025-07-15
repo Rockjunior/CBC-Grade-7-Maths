@@ -8,54 +8,9 @@
 
     <author>
       <personname>INNODEMS</personname>
-      <!-- <institution>INNODEMS</institution> -->
-      <email> contact@innodems.org</email>
+      <institution></institution>
+      <email></email>
     </author>
-    <!-- <author>
-      <personname>CHEROTICH SHEILA</personname>
-      <institution>INNODEMS</institution>
-      <email>ADD YOUR EMAIL</email>
-    </author>
-    <author>
-      <personname>MARAGIA RODGERS</personname>
-      <institution>INNODEMS</institution>
-      <email>maragiarodgers254@gmail.com</email>
-    </author>
-    <author>
-      <personname>ONYIMBO MICHAEL</personname>
-      <institution>INNODEMS</institution>
-      <email>onyimbomichael02@gmail.com</email>
-    </author>
-    <author>
-      <personname>ONYANGO HENRY</personname>
-      <institution>INNODEMS</institution>
-      <email>henryonyango506@gmail.com</email>
-    </author>
-    <author>
-      <personname>MORAA HARRIET</personname>
-      <institution>INNODEMS</institution>
-      <email>ADD YOUR EMAIL</email>
-    </author>
-    <author>
-      <personname>MORARA ERIC</personname>
-      <institution>INNODEMS</institution>
-      <email>ADD YOUR EMAIL</email>
-    </author>
-    <author>
-      <personname>OCHIENG` ISDORA</personname>
-      <institution>INNODEMS</institution>
-      <email>isdorakinyi01@gmail.com</email>
-    </author>
-    <author>
-      <personname>BAYA JOSEPH</personname>
-      <institution>INNODEMS</institution>
-      <email>josephbaya9648@gmail.com</email>
-    </author>
-    <author>
-      <personname>EKADELI PURITY</personname>
-      <institution>INNODEMS</institution>
-      <email>ekadelipure@gmail.com</email>
-    </author> -->
     <date>
       <today />
     </date>
@@ -65,9 +20,9 @@
     </website>
 
     <copyright>
-      <year>2020-2024</year>
-      <holder>MARAGIA RODGERS</holder>
-      <minilicense>ONYIMBO MICHAEL</minilicense>
+      <year>2020- <today/></year>
+      <holder>INNODEMS</holder>
+      <minilicense> </minilicense>
       <shortlicense> This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <url href="http://creativecommons.org/licenses/by-sa/4.0/" visual="creativecommons.org/licenses/by-sa/4.0"> CreativeCommons.org</url>
       </shortlicense>
     </copyright>

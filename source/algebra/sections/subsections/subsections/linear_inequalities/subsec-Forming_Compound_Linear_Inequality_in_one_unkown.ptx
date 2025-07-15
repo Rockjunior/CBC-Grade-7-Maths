@@ -68,13 +68,13 @@
       </activity>
 
       <p>
-        <md>
-          <mrow> \amp {\color{blue} \text{Learning Point.}} </mrow>
-        </md>
+        <me>
+          \text{Key Takeaway.}
+        </me>        
       </p>
 
       <p>
-        <m>{\color{green} \text{When two simple inequalities are combined, they form a compound inequality.}}</m>
+        <m>\text{When two simple inequalities are combined, they form a compound inequality.}</m>
       </p>
       
       <example>

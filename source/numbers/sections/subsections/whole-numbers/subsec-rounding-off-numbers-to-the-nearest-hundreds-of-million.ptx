@@ -239,13 +239,9 @@
               <m>87\, 148\, 729</m> rounded off to the nearest ten million is <m>90\,000\,000</m>.
             </p>
       </solution>
-         </example>
-         <exercise>
-          <statement>
-            <p>
-              find it on stack
-            </p>
-          </statement>
-         </exercise>
+      </example>
+      <exercise>
+           <stack source="questions/top/Grade-7/Numbers/1-1-Whole-Numbers/Rounding-off-numbers-to-the-nearest-hundreds-of-million.xml"/>
+      </exercise>
 
     </subsection>

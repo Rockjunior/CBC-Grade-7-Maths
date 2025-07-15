@@ -143,49 +143,31 @@
       </activity>
 
       <p>
-        <md>
-          <mrow> \amp {\color{blue} \text{Learning Points.}} </mrow>
-        </md>
+        <me>
+          \text{Key Takeaway.}
+        </me>
+      </p>
+      <p>
+        <m>\text{For inequalities with symbols} (\lt) \text{or} (\gt), \text{the boundary digits are circled in the representations.}</m>
       </p>
 
       <p>
-        
-        <ol>
-
-          <li>
-
-            <p>
-              <m>{\color{green} \text{For inequalities with symbols} (\lt) \text{or} (\gt), \text{the boundary digits are circled in the representations.}}</m>
-            </p>
-
-          </li>
-
-          <li>
-
-            <p>
-              <m>{\color{green} \text{For inequalities with symbols (\le) \text{or} (\ge), the circles are shaded.}}</m>
-            </p>
-
-          </li>
-
-        </ol>
-
+        <m>\text{For inequalities with symbols (\le) \text{or} (\ge), the circles are shaded.}</m>
+      </p>
+      <p>
+        <m>\text{We can illustrate inequalities on a number line by understanding the inequality symbols.}</m>
       </p>
 
       <p>
-        <m>{\color{green} \text{We can illustrate inequalities on a number line by understanding the inequality symbols.}}</m>
+        <m>\text{An "open point" is used to represent a number that is not included in the inequality.}</m>
       </p>
 
       <p>
-        <m>{\color{green} \text{An "open point" is used to represent a number that is not included in the inequality.}}</m>
+        <m>\text{Take a look at the illustration below;}</m>
       </p>
 
       <p>
-        <m>{\color{green} \text{Take a look at the illustration below;}}</m>
-      </p>
-
-      <p>
-        <m>{\color{green} \text{Illustrate on a number line.} (x &gt; 6)}</m>
+        <m>\text{Illustrate on a number line.} (x &gt; 6)</m>
       </p>
 
       <image>
@@ -210,23 +192,22 @@
             
           \end{tikzpicture}
         </latex-image>
-        
       </image>
 
       <p>
-        <m>{\color{green} \text{An "open point" has been used since} 6 \text{in not part of the solution of the inequality.}}</m>
+        <m>\text{An "open point" has been used since} 6 \text{in not part of the solution of the inequality.}</m>
       </p>
 
       <p>
-        <m>{\color{green} \text{A "closed point" is used to represent a number that is included in the inequality.}}</m>
+        <m>\text{A "closed point" is used to represent a number that is included in the inequality.}</m>
       </p>
 
       <p>
-        <m>{\color{green} \text{Take a look at the illustration below;}}</m>
+        <m>\text{Take a look at the illustration below;}</m>
       </p>
 
       <p>
-        <me>{\color{green} (x \ge 4)}</me>        
+        <me>(x \ge 4)</me>        
       </p>
 
       <image>
@@ -255,7 +236,7 @@
       </image>
 
       <p>
-        <m>{\color{green} \text{A closed point has been used since} (4) \text{is part of the solution of the inequality.}}</m>
+        <m>\text{A closed point has been used since} (4) \text{is part of the solution of the inequality.}</m>
       </p>
 
       <example>
