@@ -97,8 +97,6 @@
             </solution>
           </example>
        <exercise>
-        <p>
-          find it on webwork
-        </p>
-       </exercise>
+           <stack source="questions/top/Grade-7/Numbers/1-1-Whole-Numbers/Finding-total-value-of-digits-in-a-number-.xml"/>
+      </exercise>
       </subsection>
