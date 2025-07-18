@@ -26,5 +26,12 @@
                     </li>
                 </ul>
             </p>
+
+            <exercise>
+                <stack source="top/Grade-7/Geometry/4-1-Angles/Finding-the-size-of-interior-angles-of-a-polygon-with-n-sides.xml" />
+            </exercise>
+            <exercise>
+                <stack source="top/Grade-7/Geometry/4-1-Angles/Finding-the-Number-of-Sides-and-the-Size-of-the-Interior-Angle-of-a-Regular-Polygon.xml" />
+            </exercise>
             
 </subsection>
