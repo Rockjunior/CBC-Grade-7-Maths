@@ -330,11 +330,9 @@
       </example>
 
       <exercise>
-
-        <p>
-          Exercise here.
-        </p>
-
-      </exercise>
+        <stack source = "questions/top/Grade-7/Algebra/2-3-Linear-Inequalities/Formulating-an-inequality-from-the-given-number-line-.xml" />
+        <stack source = "questions/top/Grade-7/Algebra/2-3-Linear-Inequalities/Illustrating-simple-inequalities-on-a-number-line-.xml" />
+        <stack source = "questions/top/Grade-7/Algebra/2-3-Linear-Inequalities/Representing-the-number-line-using-an-inequality-symbol-.xml" />
+        </exercise>
 
     </subsection>
