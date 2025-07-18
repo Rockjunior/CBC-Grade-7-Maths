@@ -174,10 +174,9 @@
         </solution>
     </example>
     <exercise>
-        <statement>
-            <p>
-                Exercise on squares of whole numbers goes in here.
-            </p>
-        </statement>
+        <stack source="questions/top/Grade-7/Numbers/1-5-Squares-and-Square-roots/Finding-the-square-of-a-given-whole-number.xml"/>
+    </exercise>
+    <exercise>
+        <stack source="questions/top/Grade-7/Numbers/1-5-Squares-and-Square-roots/Finding-the-area-of-a-given-square-figure.xml"/>
     </exercise>
 </subsection>

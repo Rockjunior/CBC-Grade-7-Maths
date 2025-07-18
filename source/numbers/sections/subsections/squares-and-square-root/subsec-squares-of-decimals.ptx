@@ -44,8 +44,12 @@
                     </p>
                     <figure>
                         <caption></caption>
-                        <interactive xml:id="square-of-decimals-activity" geogebra="rasmgh54" width="100%" aspect="9:7" reset-icon="yes" />
+                        <interactive xml:id="square-of-decimals-activity" geogebra="rasmgh54" width="95%" aspect="9:7" reset-icon="yes" />
                     </figure>
+                    <!-- <figure xml:id="fig-conversion-of-mass">
+                        <caption>Conversion of Mass</caption>
+                        <interactive xml:id="geogebra-conversion-of-mass" geogebra="q5vqhas4" width="85%" aspect="8:5" reset-icon="yes"  shift-drag-zoom="no"/>
+                    </figure> -->
                 </statement>
             </task>
         </activity>
@@ -137,10 +141,6 @@
             </solution>
         </example>
         <exercise>
-            <statement>
-                <p>
-                    Exercise for squares of decimals goes here
-                </p>
-            </statement>
+            <stack source="questions/top/Grade-7/Numbers/1-5-Squares-and-Square-roots/Finding-the-square-of-a-given-decimal-number.xml"/>
         </exercise>
     </subsection>

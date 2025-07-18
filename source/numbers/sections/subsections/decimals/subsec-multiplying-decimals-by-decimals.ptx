@@ -131,10 +131,6 @@ Therefore, Ekadeli will multiply the amount of flour she is using by the amount 
             </solution>
         </example>
         <exercise>
-            <statement>
-                <p>
-                    Exercise for Multiplying decimals by decimals goes in here.
-                </p>
-            </statement>
+            <stack source="questions/top/Grade-7/Numbers/1-4-Decimals/Finding-the-product-of-two-given-decimal-numbers.xml" />
         </exercise>
     </subsection>

@@ -130,11 +130,8 @@
             </solution>
 
         </example>
+        
         <exercise>
-            <statement>
-                <p>
-                    Exercise for squares roots of whole numbers goes here
-                </p>
-            </statement>
+            <stack source="questions/top/Grade-7/Numbers/1-5-Squares-and-Square-roots/Finding-squares-and-square-roots-of-numbers-.xml"/>
         </exercise>
     </subsection>

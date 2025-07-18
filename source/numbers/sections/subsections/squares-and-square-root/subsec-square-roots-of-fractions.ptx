@@ -200,10 +200,6 @@
         </solution>
     </example>
     <exercise>
-        <statement>
-            <p>
-                Exercise for square roots of fraction goes here
-            </p>
-        </statement>
+        <stack source="questions/top/Grade-7/Numbers/1-5-Squares-and-Square-roots/Finding-the-square-root-of-a-given-fraction.xml"/>
     </exercise>
 </subsection>

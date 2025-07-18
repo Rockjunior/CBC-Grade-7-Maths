@@ -10,10 +10,10 @@
             <shortdescription></shortdescription>
         </image>
     </sidebyside>
-            <figure>
-                 <caption></caption>
-                    <interactive xml:id="decimals-multiplication-numbers" geogebra="cbdbq4cp" width="100%" aspect="9:7" reset-icon="yes" material-width="800 px"/>
-            </figure>
+    <figure>
+            <caption></caption>
+            <interactive xml:id="decimals-multiplication-numbers" geogebra="cbdbq4cp" width="95%" aspect="9:7" reset-icon="yes"/>
+    </figure>
     <activity>
         <statement>
             <p>
@@ -184,10 +184,6 @@
         </solution>
     </example>
     <exercise>
-        <statement>
-            <p>
-                Exercise for Multiplying decimals by a whole number goes in here.
-            </p>
-        </statement>
+        <stack source="questions/top/Grade-7/Numbers/1-4-Decimals/Finding-the-total-cost-of-Apples-in-a-grocery-store-.xml" />
     </exercise>
 </subsection>
