@@ -167,4 +167,10 @@
         </solution>
 
     </example>
+    <exercise>
+        <stack source="top/Grade-7/Geometry/4-1-Angles/Finding-the-value-of-angles-marked-with-letters-in-a-parallelogram-.xml" />
+    </exercise>
+    <exercise>
+        <stack source="top/Grade-7/Geometry/4-1-Angles/Finding-angles-in-a-parallelogram-.xml" />
+    </exercise>
 </subsection>
