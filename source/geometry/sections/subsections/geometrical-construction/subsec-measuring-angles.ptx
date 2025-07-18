@@ -98,4 +98,8 @@
                         <interactive xml:id="geogebra-measuring-angles" geogebra="kaeuyeqb" width="100%" aspect="9:5" reset-icon="yes" />
                     </figure>
                 </exercise>
+
+               <exercise>
+                    <stack source="questions/top/Grade-7/Geometry/4-2-Geometrical-constructions/Measuring-angles-using-a-protractor.xml" />
+                </exercise>
         </subsection>
