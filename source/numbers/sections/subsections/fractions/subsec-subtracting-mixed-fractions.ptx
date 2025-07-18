@@ -106,10 +106,6 @@
             </solution>
         </example>
         <exercise>
-            <statement>
-                <p>
-                    Exercise for subtacting mixed fractions.
-                </p>
-            </statement>
+            <stack source ="questions/top/Grade-7/Numbers/1-3-Fractions/Finding-mass-by-subtracting-mixed-fractions.xml"/>
         </exercise>
     </subsection>

@@ -96,11 +96,7 @@
         </solution>
       </example>
       <exercise>
-        <statement>
-          <p>
-            
-          </p>
-        </statement>
+        <stack source ="questions/top/Grade-7/Numbers/1-1-Whole-Numbers/Finding-the-sum-of-given-numbers-.xml"/>
       </exercise>
   </subsubsection>  
   <subsubsection xml:id="subsubsec-subtraction-of-whole-numbers">
@@ -188,13 +184,7 @@
          
         </solution>
       </example>
-      <exercise>
-        <statement>
-          <p>
-            
-          </p>
-        </statement>
-      </exercise>
+      
   </subsubsection>
   <subsubsection xml:id="subsubsec-multiplication-of-whole-number">
     <title>Multiplication of whole number</title>
@@ -434,13 +424,7 @@
     </p>
     </solution>
   </example>
-  <exercise>
-    <statement>
-      <p>
-        
-      </p>
-    </statement>
-  </exercise>
+  
 </subsubsection>
 <subsubsection xml:id="subsubsec-combined-operations-of-whole-numbers">
   <title>Combined operations of whole numbers</title>
@@ -582,11 +566,7 @@
                 </interactive>
         </figure>
   <exercise>
-    <statement>
-      <p>
-        
-      </p>
-    </statement>
+   <stack source = "questions/top/Grade-7/Numbers/1-1-Whole-Numbers/Calculating-account-balances-after-transactions-are-made-.xml"/>
   </exercise>
 </subsubsection>
 </subsection>

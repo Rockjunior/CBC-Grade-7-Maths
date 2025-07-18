@@ -123,10 +123,6 @@
     </example>
 
     <exercise>
-        <statement>
-            <p>
-                Exercise for divisibility test for 11 goes here.
-            </p>
-        </statement>
+        <stack source="questions/top/Grade-7/Numbers/1-2-Factors/Identifying-numbers-divisible-by-11-from-a-given-list-.xml"/>
     </exercise>
 </subsection>

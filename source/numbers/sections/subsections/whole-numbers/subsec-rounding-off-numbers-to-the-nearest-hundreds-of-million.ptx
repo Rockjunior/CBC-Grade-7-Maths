@@ -243,5 +243,8 @@
       <exercise>
            <stack source="questions/top/Grade-7/Numbers/1-1-Whole-Numbers/Rounding-off-numbers-to-the-nearest-hundreds-of-million.xml"/>
       </exercise>
+      <exercise>
+           <stack source="questions/top/Grade-7/Numbers/1-1-Whole-Numbers/Rounding-off-distance-to-the-nearest-hundred-thousand-kilometers-.xml"/>
+      </exercise>
 
     </subsection>
