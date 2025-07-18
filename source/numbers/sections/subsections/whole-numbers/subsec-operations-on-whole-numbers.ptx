@@ -563,12 +563,17 @@
       </p>
     </solution>
   </example>
+  <!-- <figure>
+      <caption>combined operations of whole numbers.</caption>
+          <interactive xml:id="geogebra-combined-wholenumbers" platform="geogebra" width="130%" aspect="1:1">
+              <slate xml:id="operations-combined-numbers" surface="geogebra" material="kustgbua" aspect="1:1" />
+          </interactive>
+  </figure>  -->
   <figure>
-            <caption>combined operations of whole numbers.</caption>
-                <interactive xml:id="geogebra-combined-wholenumbers" platform="geogebra" width="130%" aspect="1:1">
-                    <slate xml:id="operations-combined-numbers" surface="geogebra" material="kustgbua" aspect="1:1" />
-                </interactive>
-        </figure>
+      <caption>combined operations of whole numbers.</caption>
+      <interactive xml:id="geogebra-combined-whole-numbers" geogebra="kustgbua" width="95%"  aspect="4:3" reset-icon="yes"/>
+  </figure>
+
   <exercise>
    <stack source = "questions/top/Grade-7/Numbers/1-1-Whole-Numbers/Calculating-account-balances-after-transactions-are-made-.xml"/>
   </exercise>
