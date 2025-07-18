@@ -107,10 +107,6 @@
             </solution>
         </example>
         <exercise>
-            <statement>
-                <p>
-                    Exercise for subtracting proper fractions goes here.
-                </p>
-            </statement>
+            <stack source="questions/top/Grade-7/Numbers/1-3-Fractions/Finding-the-distance-covered-between-two-places-in-Kilometers.xml"/>
         </exercise>
     </subsection>

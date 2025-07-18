@@ -68,10 +68,6 @@
             </solution>
         </example>
         <exercise>
-            <statement>
-                <p>
-                    Exercises for divisibility test of <m>5</m> will go here.
-                </p>
-            </statement>
+            <stack source="questions/top/Grade-7/Numbers/1-2-Factors/Identifying-numbers-divisible-by-5-from-a-given-list.xml" />
         </exercise>
     </subsection>

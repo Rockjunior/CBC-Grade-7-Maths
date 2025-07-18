@@ -111,10 +111,6 @@
         </solution>
     </example>
     <exercise>
-        <statement>
-            <p>
-                An exercise on divisiblity test of 3 will be added here
-            </p>
-        </statement>
+       <stack source ="questions/top/Grade-7/Numbers/1-2-Factors/Identifying-numbers-which-are-divisible-by-3-from-a-given-list.xml"/>
     </exercise>
 </subsection>
