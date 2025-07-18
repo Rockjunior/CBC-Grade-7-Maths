@@ -221,12 +221,8 @@
         </example>
 
         <exercise>
-
-          <statement>
-            <p>
-              Exercise Here.
-            </p>
-          </statement>
-
+          <stack source = "questions/top/Grade-7/Algebra/2-2-Linear-Equations/Solving-Linear-Equations-Finding-the-Value-of-a-given-variable.xml" />
+          <stack source = "questions/top/Grade-7/Algebra/2-2-Linear-Equations/Solving-linear-Equations-involving-Addition-and-Substraction.xml" />
+          <stack source = "questions/top/Grade-7/Algebra/2-2-Linear-Equations/Solving-linear-equations-involving-addition-and-subtraction.xml" />
         </exercise>
     </subsection>
