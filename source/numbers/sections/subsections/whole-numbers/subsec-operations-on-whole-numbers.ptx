@@ -96,7 +96,7 @@
         </solution>
       </example>
       <exercise>
-        <stack source =questions/top/Grade-7/Numbers/1-1-Whole-Numbers/Finding-the-sum-of-given-numbers-.xml/>
+        <stack source ="questions/top/Grade-7/Numbers/1-1-Whole-Numbers/Finding-the-sum-of-given-numbers-.xml"/>
       </exercise>
   </subsubsection>  
   <subsubsection xml:id="subsubsec-subtraction-of-whole-numbers">
@@ -566,7 +566,7 @@
                 </interactive>
         </figure>
   <exercise>
-   <stack source =questions/top/Grade-7/Numbers/1-1-Whole-Numbers/Calculating-account-balances-after-transactions-are-made-.xml/>
+   <stack source = "questions/top/Grade-7/Numbers/1-1-Whole-Numbers/Calculating-account-balances-after-transactions-are-made-.xml"/>
   </exercise>
 </subsubsection>
 </subsection>
