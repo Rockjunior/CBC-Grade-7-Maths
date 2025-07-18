@@ -84,11 +84,8 @@
         </example>
 
         <exercise>
-          <statement>
-            <p>
-              Exercise Here.
-            </p>
-          </statement>
+          <stack source = "questions/top/Grade-7/Algebra/2-2-Linear-Equations/Formation-of-linear-equation-from-a-given-infomation-.xml" />
+          <stack source = "questions/top/Grade-7/Algebra/2-2-Linear-Equations/Forming-linear-equations-involving-addition.xml" />
         </exercise>
       
     </subsection>
