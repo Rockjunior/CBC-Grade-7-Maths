@@ -33,7 +33,7 @@
                             <caption>A square garden</caption>
                             <image width="15%">
                                 <shortdescription>A square with side length a</shortdescription>
-                                <latex-image>
+                                <latex-image label="square-garden">
                                     \begin{tikzpicture}
                                     \draw[thick,blue] (0,0) -- (3,0) -- (3,3) -- (0,3) -- cycle;
                                         \node[below] at (1.5,0) {$a$};

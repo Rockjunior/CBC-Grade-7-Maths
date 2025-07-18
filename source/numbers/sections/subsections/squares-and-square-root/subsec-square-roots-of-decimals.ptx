@@ -42,7 +42,7 @@
                 </p>
                 <figure>
                     <caption></caption>
-                    <interactive xml:id="square-root-of-decimals-activity" geogebra="rasmgh54" width="100%" aspect="9:7" reset-icon="yes" />
+                    <interactive xml:id="square-root-of-decimals-activity" geogebra="rasmgh54" width="95%" aspect="9:7" reset-icon="yes" />
                 </figure>
             </statement>
         </task>
@@ -108,10 +108,6 @@
         </solution>
     </example>
     <exercise>
-        <statement>
-            <p>
-                Exercise to be included in here.
-            </p>
-        </statement>
+        <stack source="questions/top/Grade-7/Numbers/1-5-Squares-and-Square-roots/Finding-the-square-root-of-a-given-decimal-number-.xml"/>
     </exercise>
 </subsection>

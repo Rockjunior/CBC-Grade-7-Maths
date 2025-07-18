@@ -239,10 +239,6 @@
             </solution>
         </example>
         <exercise>
-            <statement>
-                <p>
-                    Exercise for place value of digits in decimals goes in here.
-                </p>
-            </statement>
+            <stack source="questions/top/Grade-7/Numbers/1-4-Decimals/Finding-place-value-of-each-digit-in-a-given-decimal-number.xml"/>
         </exercise>
 </subsection>

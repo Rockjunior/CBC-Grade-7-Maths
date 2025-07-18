@@ -147,11 +147,10 @@
             </solution>
         </example>
         <exercise>
-            <statement>
-                <p>
-                    Exercise for squares of fractions goes in here.
-                </p>
-            </statement>
+            <stack source="questions/top/Grade-7/Numbers/1-5-Squares-and-Square-roots/Finding-the-square-a-given-fraction.xml"/>
+        </exercise>
+        <exercise>
+            <stack source="questions/top/Grade-7/Numbers/1-5-Squares-and-Square-roots/Calculating-the-area-of-a-given-square-tile-with-fractional-side-length.xml"/>
         </exercise>
     
     </subsection>
