@@ -51,7 +51,7 @@
                     </figure> -->
                     <figure>
                         <caption></caption>
-                        <interactive xml:id="subtraction-of-proper-activity" geogebra="cnftwd3q" width="100%" aspect="7:5" reset-icon="yes" material-width="1100px"/>
+                        <interactive xml:id="subtraction-of-proper-activity" geogebra="cnftwd3q" width="96%" aspect="4:3" reset-icon="yes"/>
                     </figure>
                 </statement>
             </task>
