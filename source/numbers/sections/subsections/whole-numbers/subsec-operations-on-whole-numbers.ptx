@@ -434,12 +434,16 @@
   <p>
     Division <m>\rightarrow</m> multiplication <m>\rightarrow</m> addition <m>\rightarrow</m> subtraction.
   </p>
-       <figure>
+       <!-- <figure>
             <caption>combined operations of whole numbers.</caption>
                 <interactive xml:id="geogebra-operations-wholenumbers" platform="geogebra" width="130%" aspect="1:1">
                     <slate xml:id="operations-on-whole-numbers" surface="geogebra" material="dzhsjdn4" aspect="1:1" />
                 </interactive>
-        </figure>
+        </figure> -->
+        <figure>
+          <caption>combined operations of whole numbers.</caption>
+          <interactive xml:id="geogebra-operations-wholenumbers" geogebra="dzhsjdn4" width="95%"  aspect="4:3" reset-icon="yes"/>
+      </figure>
   <activity>
     <statement>
       <p>
