@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<subsection xml:id="subsec-Formation_of_Algebraic_Expressions_from_Simple_Algebraic_Statements_involving_Multiplication_and_Division">
+    <title>Formation of Algebraic Expressions from Simple Algebraic Statements involving Multiplication and Division</title>
+        <example>
+            <statement>
+                <p>
+                    A carpenter cuts a wooden plank of length <m> L </m> metres into <m> 5 </m> equal pieces. Write an algebraic expression for the length of each piece.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    Total length = <m> L </m> metres.
+                </p>
+                <p>
+                    The plank is cut into <m> 5 </m> equal pieces, therefore the length of each piece
+                </p>
+                <p>
+                    <me>
+                        = \frac {Length of the plank}{Number of pieces}
+                    </me>
+                </p>
+                <p>
+                    <me> = L ÷ 5 = \frac {L}{5} metres </me>
+                </p>
+            </solution>
+        </example>
+
+        <example>
+            <statement>
+                <p>
+                    Mama Steve is a farmer. She has <m> t </m> cows. Each cow produces <m> 12 </m> litres of milk per day.
+                </p>
+                <p>
+                    Form an algebraic expression for the total amount of milk produced by all the cows in one day.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    Each cow produces <m> 12 </m> litres of milk per day.
+                </p>
+                <p>
+                    Number of cows = <m> t </m> cows
+                </p>
+                <p>
+                    Therefore:
+                </p>
+                <p>
+                    The total amount of milk produced is:
+                </p>
+                <p>
+                    <me> 12 \times t </me>
+                </p>
+                <p>
+                    <me> = 12 t litres</me> 
+                </p>
+            </solution>
+        </example>
+
+        <exercise>
+            <statement>
+                <p>
+                    <ol>
+                        <li>
+                            <p>
+                                A trader sold <m> n </m> bags of maize in a given day, each weighing <m> 90 </m> kg. Form an algebraic expression for the total weight of maize sold on that day.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                A bakery bakes <m> x </m> loaves of bread per day. Each loaf sells for <m> p </m> shillings. Form an algebraic expression for the total income from the loaves sold in two day, if the bakery sells all the bread baked everyday.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Cate a tailor has a given number of pieces of a fabric. Each piece is <m> 4 </m> meters long. By choosing any letter to represent the number of pieces of the fabric, form an algebraic expression for the total length of  the fabric.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <m> Tony wa maji </m> has <m> k </m> litres of water in his tank. He needs to distribute the water to <m> y </m> households in the neighbourhood. What is the expression that represents the amount of water that each household will receives?
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                A construction worker mixes <m> r </m> wheelbarrows of sand with <m> 5 </m> wheelbarrows of cement to make concrete. Write an algebraic expression for the total number of wheelbarrows for the mixture.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                A well has <m> v </m> litere of water. If a pump extracts <m> q </m> litres of water per minute from the well, write an expression for the amount of water left after <m> t </m> minutes of pumping.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                The diagram below represents a stack of <m> 6 </m> books, with each book having a thickness of <m> b </m> cm.
+                            </p>
+                            <p>
+                                [Image of the stack of books with distance d for one book]
+                            </p>
+                            <p>
+                                Form an algebraic expression for the total thickness of the stack.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                The school buys <m> t </m> bundles of chalk, with each bundle containing 100 sticks of chalk. Form an algebraic expression for the total number of chalk sticks each teacher receives if the school has <m> g </m> number of teachers.
+                            </p>
+                        </li>
+                    </ol>
+                </p>
+            </statement>
+        </exercise>
+</subsection>
