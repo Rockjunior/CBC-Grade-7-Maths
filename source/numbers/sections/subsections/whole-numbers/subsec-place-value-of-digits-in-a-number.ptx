@@ -1,149 +1,160 @@
 <subsection xml:id="subsec-Place-Value-of-digits-in-a-number">
         <title>Place Value of digits in a number</title>
-        <activity>
-          <statement>
-            <p>
-              
-            </p>
-            <p>
-               Pembe flour milling factory in Nairobi produced 85 147 000 kg of maize flour in the year 2023. In the year 2024, the factory produced 120 568 720 kg of maize flour.
-            </p>
-                
-            <p> 
-                1. Fill in the place values for the number of kilograms produced for the two years.
-            </p>
-              <table>
-              <title></title>
-              <tabular top="minor" left="minor" right="minor" bottom="minor">
-                  <row header="yes">
-                      <cell>Numbers</cell>
-                      <cell>Hundreds of millions</cell>
-                      <cell>Tens of millions</cell>
-                      <cell>millions</cell>
-                      <cell>Hundreds of thousands</cell>
-                      <cell>Tens of thousands</cell>
-                      <cell>thousands</cell>
-                      <cell>Hundreds</cell>
-                      <cell>Tens</cell>
-                      <cell>Ones</cell>
-                  </row>
-                  <row>
-                      <cell><m>85 147 000</m></cell>
-                      <cell></cell>
-                      <cell></cell>
-                      <cell></cell>
-                      <cell></cell>
-                      <cell></cell>
-                      <cell></cell>
-                      <cell></cell>
-                      <cell></cell>
-                      <cell></cell>
-                    
-                  </row>
-                  <row>
-                      <cell><m>120 588 720</m></cell>
-                      <cell></cell>
-                      <cell></cell>
-                      <cell></cell>
-                      <cell></cell>
-                      <cell></cell>
-                      <cell></cell>
-                      <cell></cell>
-                      <cell></cell>
-                      <cell></cell>
-                  </row>
-      
-              </tabular>
-          </table>
-          <p>
-            2. Share your work with other learner's in class.
-         </p>
-          </statement>
-        </activity>
-         <p><m>\textbf{Online acitivity}</m></p>
-          <p>
-           Click the link below to find more activities on place value of numbers.
-
-          </p>
-          <p>
-          <url href="https://www.iknowit.com/lessons/c-place-value-up-to-thousands.html"></url>
-       </p>
-       <p>
-        
-       </p>
-          
-        <example>
-          <statement>
-            <p>
-              In 2008, a county government allocated sh 501 560 320 towards the construction of a dam. Give the place value of digit 1 .  
-            </p>
-          </statement>
-            <solution>
-                <p>
-                  To identify the place value of digit 1,use a place value chart as shown below. 
-                </p>
-                
-                  <tabular top="minor" left="minor" right="minor" bottom="minor">
-                  <row header="yes">
-                      <cell>Numbers</cell>
-                      <cell>Hundreds of millions</cell>
-                      <cell>Tens of millions</cell>
-                      <cell>millions</cell>
-                      <cell>Hundreds of thousands</cell>
-                      <cell>Tens of thousands</cell>
-                      <cell>thousands</cell>
-                      <cell>Hundreds</cell>
-                      <cell>Tens</cell>
-                      <cell>Ones</cell>
-                  </row>
-                  <row>
-                      <cell><m>501 560 320</m></cell>
-                      <cell>5</cell>
-                      <cell>0</cell>
-                      <cell>1</cell>
-                      <cell>5</cell>
-                      <cell>6</cell>
-                      <cell>0</cell>
-                      <cell>3</cell>
-                      <cell>2</cell>
-                      <cell>0</cell>
-                  </row>
-                   </tabular>
             
-                <p> 
-                  Therefore,
-                </p>
-                <p> 
-                  The place value of digit 0 is ones.
-                </p>
-                <p> 
-                  The place value of digit 2 is Tens.
-                  </p>
-                <p> 
-                  The place value of digit 3 is Hundreds.
-                  </p>
-                <p> 
-                  The place value of digit 0 is Thousands.
-                </p>
-                <p> 
-                  The place value of digit 6 is Tens of thousands.
-                  </p>
-                <p> 
-                  The place value of digit 5 is Hundreds of thousands.
-                  </p>
-                <p>
-                  The place value of digit 1 is Millions.
-                </p>
-                <p>
-                  The place value of digit 0 is Tens of millions.
-                </p>
-                <p> 
-                  The place value of digit 5 is Hundreds of millions.
-                </p>
-            </solution>
-      </example>
+          <p> Have you ever wondered what the digits in big numbers really mean? When you see a number like <em>85 147 000</em>, each digit is important and its value depends on where it is in the number.
+          </p>
+          <p> This is what we call <em> place value</em>. Each place tells us how much a digit is worth. Let’s explore this together!
+          </p>
 
-      <exercise>
-           <stack source="questions/top/Grade-7/Numbers/1-1-Whole-Numbers/Finding-the-place-value-of-digits-in-a-given-number-.xml"/>
-      </exercise>
+            <activity>
+              <statement>
+                <p>Here's a real-world example.</p> 
+                <p>Pembe Flour Milling Factory in Nairobi produced:</p>
+                <p><em>85 147 000 kg</em> of maize flour in 2023,  and another <em>120 568 720 kg</em> of maize flour in 2024. </p>
+                <p> </p>
+
+                <p>That’s a lot of flour! But let’s slow down and look at the numbers more closely.</p>
+
+                  <p><em>1. Can you figure out the place value of each digit in these two numbers?</em> Use the table below to help you. Fill in the correct digit under each place value.</p>
+                 
+                  
+                    <p><strong>Table 1.1.1: Place Value Table</strong></p>
+                    <p>Note: Some entries have been filled in already to guide you.</p>
+
+                    <table>
+                      <title>Place Value Table (for 85 147 000 and 120 568 720)</title>
+                      <tabular top="minor" left="minor" right="minor" bottom="minor">
+                        <row header="yes">
+                          <cell>Place</cell>
+                          <cell> 85 147 000</cell>
+                          <cell> 120 568 720</cell>
+                        </row>
+                        <row>
+                          <cell>Hundreds of millions</cell>
+                          <cell></cell>
+                          <cell>1 </cell>
+                        </row>
+                        <row>
+                          <cell>Tens of millions</cell>
+                          <cell>8 </cell>
+                          <cell> </cell>
+                        </row>
+                        <row>
+                          <cell>Millions</cell>
+                          <cell> </cell>
+                          <cell>0</cell>
+                        </row>
+                        <row>
+                          <cell>Hundreds of thousands</cell>
+                          <cell>1</cell>
+                          <cell> </cell>
+                        </row>
+                        <row>
+                          <cell>Tens of thousands</cell>
+                          <cell> </cell>
+                          <cell> </cell>
+                        </row>
+                        <row>
+                          <cell>Thousands</cell>
+                          <cell> </cell>
+                          <cell>8</cell>
+                        </row>
+                        <row>
+                          <cell>Hundreds</cell>
+                          <cell> </cell>
+                          <cell> </cell>
+                        </row>
+                        <row>
+                          <cell>Tens</cell>
+                          <cell> </cell>
+                          <cell>2</cell>
+                        </row>
+                        <row>
+                          <cell>Ones</cell>
+                          <cell>0</cell>
+                          <cell> </cell>
+                        </row>
+                      </tabular>
+                    </table>
+
+
+
+
+                  <p><em>2. Now compare your answers with a friend. Did you get the same digits in each place?</em></p>
+              </statement>
+            </activity>
+
+   
+       <p> </p>
+          
+              <example>
+                <statement>
+                  <p>
+                    In 2008, a county government allocated sh 501 560 320 towards the construction of a dam. Give the place value of digit 1.
+                  </p>
+                </statement>
+                <solution>
+                  <p>Place value chart for 501 560 320:</p>
+                  <tabular top="minor" left="minor" right="minor" bottom="minor">
+                    <row header="yes">
+                      <cell>Place</cell>
+                      <cell>Digit</cell>
+                    </row>
+                    <row>
+                      <cell>Hundreds of millions</cell>
+                      <cell>5</cell>
+                    </row>
+                    <row>
+                      <cell>Tens of millions</cell>
+                      <cell>0</cell>
+                    </row>
+                    <row>
+                      <cell>Millions</cell>
+                      <cell>1</cell>
+                    </row>
+                    <row>
+                      <cell>Hundreds of thousands</cell>
+                      <cell>5</cell>
+                    </row>
+                    <row>
+                      <cell>Tens of thousands</cell>
+                      <cell>6</cell>
+                    </row>
+                    <row>
+                      <cell>Thousands</cell>
+                      <cell>0</cell>
+                    </row>
+                    <row>
+                      <cell>Hundreds</cell>
+                      <cell>3</cell>
+                    </row>
+                    <row>
+                      <cell>Tens</cell>
+                      <cell>2</cell>
+                    </row>
+                    <row>
+                      <cell>Ones</cell>
+                      <cell>0</cell>
+                    </row>
+                  </tabular>
+                  <p>The digit 1 is in the Millions place.</p>
+                </solution>
+              </example>
+
+
+                     <exercise>
+                      <statement>
+                        <p>
+                          Now let us practice with the following question.
+                        </p>
+                      </statement>
+
+                      <question>
+                      <stack source="questions/top/Grade-7/Numbers/1-1-Whole-Numbers/Finding-the-place-value-of-digits-in-a-given-number-.xml"/>
+                      </question>
+
+
+                    </exercise>
+
+
     </subsection>
