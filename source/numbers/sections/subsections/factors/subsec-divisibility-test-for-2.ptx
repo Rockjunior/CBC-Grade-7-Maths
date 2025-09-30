@@ -135,10 +135,6 @@
         </solution>
     </example> 
     <exercise>
-        <statement>
-            <p>
-                An exercise will be set up here for the divisibility test of <m>2</m>.
-            </p>
-        </statement>
+        <stack source="questions/top/Grade-7/Numbers/1-2-Factors/Identifying-numbers-divisible-by-2-from-a-given-list.xml" />
     </exercise>
 </subsection>

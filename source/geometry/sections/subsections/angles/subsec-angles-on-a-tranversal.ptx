@@ -339,7 +339,15 @@
             </p>
 
             </activity>
+            <exercise>
+                <stack source="top/Grade-7/Geometry/4-1-Angles/Identifying-and-finding-the-value-of-corresponding-angles,-co-interior-angles,-vertically-opposite-angles-and-alternate-angle.xml" />   
+            </exercise>
+            <exercise>
+                <stack source="top/Grade-7/Geometry/4-1-Angles/Finding-angles-in-a-transverse-.xml" />
+            </exercise>
+
     
         </subsubsection>
+        
 
     </subsection>

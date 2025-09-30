@@ -96,11 +96,7 @@
         </solution>
       </example>
       <exercise>
-        <statement>
-          <p>
-            
-          </p>
-        </statement>
+        <stack source ="questions/top/Grade-7/Numbers/1-1-Whole-Numbers/Finding-the-sum-of-given-numbers-.xml"/>
       </exercise>
   </subsubsection>  
   <subsubsection xml:id="subsubsec-subtraction-of-whole-numbers">
@@ -188,13 +184,7 @@
          
         </solution>
       </example>
-      <exercise>
-        <statement>
-          <p>
-            
-          </p>
-        </statement>
-      </exercise>
+      
   </subsubsection>
   <subsubsection xml:id="subsubsec-multiplication-of-whole-number">
     <title>Multiplication of whole number</title>
@@ -434,13 +424,7 @@
     </p>
     </solution>
   </example>
-  <exercise>
-    <statement>
-      <p>
-        
-      </p>
-    </statement>
-  </exercise>
+  
 </subsubsection>
 <subsubsection xml:id="subsubsec-combined-operations-of-whole-numbers">
   <title>Combined operations of whole numbers</title>
@@ -450,12 +434,16 @@
   <p>
     Division <m>\rightarrow</m> multiplication <m>\rightarrow</m> addition <m>\rightarrow</m> subtraction.
   </p>
-       <figure>
+       <!-- <figure>
             <caption>combined operations of whole numbers.</caption>
                 <interactive xml:id="geogebra-operations-wholenumbers" platform="geogebra" width="130%" aspect="1:1">
                     <slate xml:id="operations-on-whole-numbers" surface="geogebra" material="dzhsjdn4" aspect="1:1" />
                 </interactive>
-        </figure>
+        </figure> -->
+        <figure>
+          <caption>combined operations of whole numbers.</caption>
+          <interactive xml:id="geogebra-operations-wholenumbers" geogebra="dzhsjdn4" width="95%"  aspect="4:3" reset-icon="yes"/>
+      </figure>
   <activity>
     <statement>
       <p>
@@ -575,18 +563,19 @@
       </p>
     </solution>
   </example>
+  <!-- <figure>
+      <caption>combined operations of whole numbers.</caption>
+          <interactive xml:id="geogebra-combined-wholenumbers" platform="geogebra" width="130%" aspect="1:1">
+              <slate xml:id="operations-combined-numbers" surface="geogebra" material="kustgbua" aspect="1:1" />
+          </interactive>
+  </figure>  -->
   <figure>
-            <caption>combined operations of whole numbers.</caption>
-                <interactive xml:id="geogebra-combined-wholenumbers" platform="geogebra" width="130%" aspect="1:1">
-                    <slate xml:id="operations-combined-numbers" surface="geogebra" material="kustgbua" aspect="1:1" />
-                </interactive>
-        </figure>
+      <caption>combined operations of whole numbers.</caption>
+      <interactive xml:id="geogebra-combined-whole-numbers" geogebra="kustgbua" width="95%"  aspect="4:3" reset-icon="yes"/>
+  </figure>
+
   <exercise>
-    <statement>
-      <p>
-        
-      </p>
-    </statement>
+   <stack source = "questions/top/Grade-7/Numbers/1-1-Whole-Numbers/Calculating-account-balances-after-transactions-are-made-.xml"/>
   </exercise>
 </subsubsection>
 </subsection>

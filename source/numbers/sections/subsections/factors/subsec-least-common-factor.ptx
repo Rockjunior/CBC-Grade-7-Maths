@@ -93,7 +93,7 @@
                 </p>
                 <figure>
                     <caption></caption>
-                    <interactive xml:id="least-common-multiple-activity" geogebra="z6pjjhkh" width="100%" aspect="7:5" reset-icon="yes" material-width="900px"/>
+                    <interactive xml:id="least-common-multiple-activity" geogebra="z6pjjhkh" width="95%" aspect="5:3" reset-icon="yes"/>
                 </figure>
             </statement>
         </task>

@@ -112,10 +112,6 @@
         </solution>
     </example>
     <exercise>
-        <statement>
-            <p>
-                Exercise for divisibility test for 6 goes here
-            </p>
-        </statement>
+        <stack source ="questionstop/Grade-7/Numbers/1-2-Factors/Identyfying-numbers-that-are-divisible-by-6-in-a-given-number.xml" />
     </exercise>
 </subsection>

@@ -233,11 +233,7 @@
             </solution>
         </example>
         <exercise>
-            <statement>
-                <p>
-                    Exercise for Division of a decimal by a decimal goes in here.
-                </p>
-            </statement>
+            <stack source="questions/top/Grade-7/Numbers/1-4-Decimals/Division-of-a-decimal-number-by-a-decimal-number.xml"/>
         </exercise>
     
 </subsection>

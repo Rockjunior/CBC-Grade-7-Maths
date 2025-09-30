@@ -234,7 +234,7 @@
                     </p>
                     <figure>
                         <caption></caption>
-                        <interactive xml:id="prime-factors-activity" geogebra="mbysxpbv" width="100%" aspect="13:9" reset-icon="yes" material-width="900px"/>
+                        <interactive xml:id="prime-factors-activity" geogebra="mbysxpbv" width="95%" aspect="13:9" reset-icon="yes" />
                     </figure>
                 </statement>
             </task>
