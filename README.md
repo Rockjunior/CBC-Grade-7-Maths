@@ -1,4 +1,4 @@
-# CBC Grade 10 Mathematics Project
+# CBC Grade 7 Mathematics digital textbook Project
 
 This repository contains the source files for the CBC Grade 7 Mathematics book, developed using [PreTeXt](https://pretextbook.org) and will incoorporate [STACK](https://stack-assessment.org/) exercises for student's personalised learning. PreTeXt is a powerful tool for creating high-quality educational materials, including textbooks, in multiple formats.
 
