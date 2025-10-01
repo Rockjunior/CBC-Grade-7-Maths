@@ -42,14 +42,14 @@ For questions or feedback, please contact the project maintainer at [contact@inn
 # Enablers of the project
 
 This project was initially supported by a grant from the US Embassy in Nairobi. The initial support enalbed hiring of 10 interns who were trained in authoring the textbook in PreTeXt by [Prof Oscar Levin](https://math.oscarlevin.com/) and trained in STACK authoring by the INNODEMS team. Other enablers of this project are:
-1. **INNODEMS**  
+1. **INNODEMS**
    [INNODEMS](https://innodems.org/) is the organization that supports the interns and coordinates the development of the textbook project locally in Kenya. 
 
-2. **IDEMS** 
- [IDEMS](https://www.idems.international/) has provided expartise in the integration of PreTeXt and STACK and will provide the technical support for the piloting phase of the textbooks.
+2. **IDEMS**  
+     [IDEMS](https://www.idems.international/) has provided expartise in the integration of PreTeXt and STACK and will provide the technical support for the piloting phase of the textbooks.
 
-3. **SAMI**
-    [SAMI](https://samicharity.co.uk/home) is a UK NGO that leads the fundraising drive to support the development and piloting of the ktextbooks.  
+4. **SAMI**  
+        [SAMI](https://samicharity.co.uk/home) is a UK NGO that leads the fundraising drive to support the development and piloting of the ktextbooks.  
 
 ## Support the project
     You can support the textbook project through contributing to the development of the books or by donating to INNODEMS to help keep the vision of the ptoject alive.
